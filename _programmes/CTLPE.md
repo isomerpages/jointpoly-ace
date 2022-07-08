@@ -3,7 +3,6 @@ title: CTLPE
 permalink: /CTLPE/
 description: A.	Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 ---
-
 **Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)**
 
 ![CTLPE banner](/images/127315465_ML.jpg)
@@ -22,6 +21,4 @@ It focuses on the following areas:
 CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous and asynchronous and face-to-face lessons.
 
 **When is the programme conducted?**
-
 The duration is 100 hours over a span of 1 year. There are 2 runs per year. One in April and another in October.
-When is the p
