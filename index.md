@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Welcome to JP-AcE! "
 sections:
   - hero:
       title: Joint Polytechnic Academy of Educators
@@ -23,9 +23,9 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Who we are
+      subtitle: Mission vision values
+      description: An academy for educators from polytechnics and industry
+      button: Find out more
       url: /faq/
 ---
