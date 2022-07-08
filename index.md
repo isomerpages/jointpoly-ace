@@ -7,7 +7,7 @@ permalink: /
 notification: "Welcome to JP-AcE! "
 sections:
   - hero:
-      title: Joint Polytechnic Academy of Educators
+      title: Joint Polytechnic Academy for Educators
       subtitle: JP-AcE
       background: /images/51228513_M.jpg
       button: Contact Us
