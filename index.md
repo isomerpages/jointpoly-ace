@@ -11,11 +11,11 @@ sections:
       subtitle: JP-AcE
       background: /images/Landing images/51168384_ML.jpg
       button: Contact Us
-      url: /contact-us/
+      url: /contactus/
       key_highlights:
         - title: Who we are
-          description: Our mission, vision and people
-          url: ""
+          description: ""
+          url: /aboutjpace/
         - title: Programmes and Events
           description: Check out what's on!
           url: ""
