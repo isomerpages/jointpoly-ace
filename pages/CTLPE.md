@@ -5,6 +5,8 @@ description: A.	Certificate in Teaching and Learning for Polytechnic Educators (
 ---
 **Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)**
 
+![CTLPE banner](/images/127315465_ML.jpg)
+
 **What is the programme about?**
 CTLPE is a joint certification programme for the professional development of new lecturers by equipping them with foundational skills in teaching and learning. 
 It focuses on the following areas:
