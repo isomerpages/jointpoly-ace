@@ -9,19 +9,19 @@ sections:
   - hero:
       title: Joint Polytechnic Academy of Educators
       subtitle: JP-AcE
-      background: /images/hero-banner.png
+      background: /images/51228513_M.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Who we are
+          description: Our mission, vision and people
+          url: ""
+        - title: Programmes and Events
+          description: Check out what's on!
+          url: ""
+        - title: Contact Us
+          description: Reach out to JP-AcE
+          url: ""
   - infobar:
       title: Who we are
       subtitle: Mission vision values
@@ -29,4 +29,3 @@ sections:
       button: Find out more
       url: /faq/
 ---
-
