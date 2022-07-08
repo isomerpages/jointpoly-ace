@@ -2,4 +2,5 @@ collections:
   programmes-and-events:
     output: true
     order:
+      - School Leadership Move In Programme (SLMP).md
       - CTLPE.md
