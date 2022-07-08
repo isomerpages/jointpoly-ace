@@ -3,11 +3,14 @@ links:
   - title: Who we are
     url: /permalink
     sublinks:
-      - title: Our people
-        url: /permalink
       - title: About JP-AcE
         url: /permalink
-  - title: Example Page
-    url: /example-page/
+      - title: Our people
+        url: /permalink
+  - title: Programmes and Events
+    url: /permalink
+    sublinks:
+      - title: CTLPE
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
