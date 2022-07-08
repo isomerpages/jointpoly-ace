@@ -1,13 +1,11 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Who we are
+    url: /permalink
+    sublinks:
+      - title: Our people
+        url: /permalink
   - title: Example Page
     url: /example-page/
+  - title: Contact Us
+    url: /contact-us/
