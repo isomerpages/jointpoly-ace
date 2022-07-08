@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Welcome to JP-AcE! "
+notification: ""
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators
