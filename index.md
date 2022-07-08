@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators
       subtitle: JP-AcE
-      background: /images/51228513_M.jpg
+      background: /images/129640335_ML.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
