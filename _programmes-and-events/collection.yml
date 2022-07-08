@@ -1,5 +1,5 @@
 collections:
-  programmes:
+  programmes-and-events:
     output: true
     order:
       - CTLPE.md
