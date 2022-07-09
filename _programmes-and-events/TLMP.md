@@ -17,7 +17,7 @@ TLMP provides the T&L mentors an opportunity to deepen learning through cross-po
 
 **How is the programme conducted?**
 
-TLMP is conducted face-to-face with provisions for hybrid mode of learning.
+TLMP is conducted mainly face-to-face with provision made for hybrid mode of learning.
 
 **When is the programme conducted?**
 
