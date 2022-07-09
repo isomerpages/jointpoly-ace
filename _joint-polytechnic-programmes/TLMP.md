@@ -30,3 +30,12 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 Please contact [Tina](mailto: tina_soo@np.edu.sg) and/or [Joey](mailto: joey_tong@nyp.edu.sg) and/or your polytechnic programme representative(s).
 
+Polytechnic Representatives for TLMP:
+
+* Nanyang Polytechnic: 
+* Ngee Ann Polytechnic:
+* Republic Polytechnic:
+* Singapore Polytechnic:
+* Temasek Polytechnic:
+
+
