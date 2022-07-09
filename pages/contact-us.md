@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: ""
       - email: rajnish_gupta@sp.edu.sg
-      - other: Academy Head  (SP Representative)
+      - other: Academy Head (SP Representative)
     title: "Mr. Rajnish Gupta "
   - content:
       - phone: ""
