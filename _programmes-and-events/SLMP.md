@@ -17,7 +17,7 @@ SLMP is a professional development programme for new and potential School Leader
 
 **How is the programme conducted?**
 
-SLMP is conducted through face-to-face sessions (including provisions of hybrid)
+SLMP is conducted mainly through face-to-face sessions (including provisions of hybrid).
 
 **When is the programme conducted?**
 
