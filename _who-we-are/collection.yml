@@ -2,5 +2,5 @@ collections:
   who-we-are:
     output: true
     order:
-      - About JPACE.md
+      - About the Academy.md
       - Our People.md
