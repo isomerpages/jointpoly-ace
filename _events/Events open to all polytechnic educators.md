@@ -10,10 +10,23 @@ The following events are open to all polytechnic educators. Interested polytechn
 
 ![](/images/Landing%20images/50081324_ML.jpg)
 
+  
 
-<iframe src="https://docs.google.com/document/d/1QlwLhVDBiv7BWPQDFsZgyFofx3qQe-HjAeR_cJzSl_g/edit?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="600px" width="900px"></iframe>
+       
+Event: **NYP Education Symposium 2022**
+
+Organiser: Nanyang Polytechnic
+
+Date: 21-22 Sep 2022
+
+Mode: Online via Zoom
+
+Person-in-charge:
+
+Click here to find out more.
 
 
+    
 **Keen to share your polytechnic  event on this page?**
 
 Interested parties please contact either [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@nyp.edu.sg) for a discussion.
