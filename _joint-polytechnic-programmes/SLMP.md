@@ -28,7 +28,3 @@ The duration is 200 hours over a span of 1 year. The first run is conducted betw
 **Have a question related to SLMP?**
 
 Please contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) and/or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) and/or your polytechnic programme representative(s).
-
-
-
-
