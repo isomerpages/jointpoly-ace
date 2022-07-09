@@ -14,7 +14,7 @@ sections:
       url: /jpprogrammes/
       key_highlights:
         - title: Who we are
-          description: Our academy our people
+          description: Our people
           url: /about/
         - title: Events
           description: Check out what's on!
