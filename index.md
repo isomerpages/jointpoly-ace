@@ -35,8 +35,7 @@ sections:
           url: /contact-us/
   - infobar:
       title: Who we are
-      description: Find out more about the academy and the team behind it.
+      description: Check out the academy and the team behind it.
       button: Find out more
       url: /about/
 ---
-
