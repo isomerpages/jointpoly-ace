@@ -2,6 +2,6 @@ collections:
   programmes-and-events:
     output: true
     order:
-      - TLMP.md
       - CTLPE.md
       - SLMP.md
+      - TLMP.md
