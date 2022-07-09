@@ -1,5 +1,5 @@
 collections:
-  programmes-and-events:
+  joint-polytechnic-programmes:
     output: true
     order:
       - CTLPE.md
