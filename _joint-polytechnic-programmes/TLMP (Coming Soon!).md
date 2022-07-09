@@ -4,7 +4,6 @@ permalink: /TLMP/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
 ---
-
 **T&L Mentor Move-In Programme (TLMP)**
 
 ![](/images/52174100_ML.jpg)
@@ -29,14 +28,12 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 **Have a question related to TLMP?**
 
-Please contact [Tina](mailto: tina_soo@np.edu.sg) and/or [Joey](mailto: joey_tong@nyp.edu.sg) and/or your polytechnic programme representative(s).
+Please contact either [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
 
-Polytechnic Representatives for TLMP:
+Polytechnic Coordinators for TLMP:
 
 * Nanyang Polytechnic: 
 * Ngee Ann Polytechnic:
 * Republic Polytechnic:
 * Singapore Polytechnic:
 * Temasek Polytechnic:
-
-
