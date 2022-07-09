@@ -7,7 +7,7 @@ locations:
   - address:
       - Singapore Polytechnic
       - "500 Dover Road, T111 "
-      - Singapore 1396151
+      - Singapore 139651
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
