@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: JP-AcE
+agency_name: Joint Polytechnic Academy for Educators (JP-AcE)
 locations:
   - address:
       - Singapore Polytechnic
