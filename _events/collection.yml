@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Polytechnic events open to all polytechnic educators.md
       - MoU Signing Ceremony.md
       - Launch Ceremony of the Academy.md
