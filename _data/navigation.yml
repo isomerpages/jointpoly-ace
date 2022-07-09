@@ -1,10 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
   - title: Who we are
-    url: /permalink
+    url: /about/
     sublinks:
       - title: About JP-AcE
-        url: /jpace/
+        url: /about/
       - title: Our people
         url: /ourpeople/
   - title: Joint Polytechnic Programmes
