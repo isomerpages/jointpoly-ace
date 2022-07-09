@@ -4,7 +4,6 @@ permalink: /CLMP/
 description: Course Leadership Move in Programme
 image: ""
 ---
-
 **Course Leadership Move-In Programme (CLMP)**
 
 ![](/images/53753385_ML.jpg)
@@ -33,9 +32,9 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 
 **Have a question related to CLMP?**
 
-Please contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) and/or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) and/or your polytechnic programme representative(s).
+Please contact either [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s).
 
-Polytechnic Representatives for CLMP:
+Polytechnic Coordinators for CLMP:
 
 * Nanyang Polytechnic: 
 * Ngee Ann Polytechnic:
