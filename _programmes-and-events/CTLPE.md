@@ -25,8 +25,6 @@ CTLPE is conducted in hybrid manner. There are online sessions conducted via MS 
 
 The duration is 100 hours over a span of 1 year. There are 2 runs per year. One in April and another in October.
 
-Have a question related to CTLPE?
+**Have a question related to CTLPE?**
 
 Contact [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or [Joey](mailto: joey_tong@nyp.edu.sg).
-
-
