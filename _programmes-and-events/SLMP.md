@@ -4,8 +4,6 @@ permalink: /SLMP/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 ---
-
-
 **School Leadership Move-In Programme (SLMP)**
 
 ![](/images/93870290_ML.jpg)
@@ -24,3 +22,11 @@ CTLPE is conducted through face-to-face sessions (including provisions of hybrid
 **When is the programme conducted?**
 
 The duration is 200 hours over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
+
+**Have a question related to SLMP?**
+
+Contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg).
+
+
+
+
