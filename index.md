@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Joint Polytechnic Academy for Educators
-      subtitle: JP-AcE
+      title: Joint Polytechnic Academy for Educators (JP-AcE)
+      subtitle: A centralised academy for all polytechnic educators
       background: /images/Landing images/51168384_ML.jpg
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
