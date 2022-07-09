@@ -18,5 +18,7 @@ links:
         url: /TLMP/
       - title: CLMP
         url: /CLMP/
+  - title: Events
+    collection: events
   - title: Contact Us
     url: /contact-us/
