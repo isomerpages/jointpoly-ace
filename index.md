@@ -10,18 +10,18 @@ sections:
       title: Joint Polytechnic Academy for Educators
       subtitle: JP-AcE
       background: /images/Landing images/51168384_ML.jpg
-      button: Contact Us
-      url: /contactus/
+      button: Joint Polytechnic Programmes
+      url: /jpprogrammes/
       key_highlights:
         - title: Who we are
           description: ""
-          url: /whoweare/
-        - title: Programmes and Events
+          url: /about/
+        - title: Events
           description: Check out what's on!
-          url: ""
+          url: /events/
         - title: Contact Us
           description: Reach out to JP-AcE
-          url: ""
+          url: /contact-us/
   - infobar:
       title: Who we are
       subtitle: Mission vision values
