@@ -24,8 +24,7 @@ sections:
           url: /contact-us/
   - infobar:
       title: Who we are
-      subtitle: Mission vision values
-      description: An academy for educators from polytechnics and industry
+      description: Find out more about the academy and the team behind it.
       button: Find out more
-      url: /faq/
+      url: /about/
 ---
