@@ -23,6 +23,8 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 The duration is 200 hours over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
 
+**Click here to find out more about SLMP.**
+
 **Have a question related to SLMP?**
 
 Please contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) and/or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg).
