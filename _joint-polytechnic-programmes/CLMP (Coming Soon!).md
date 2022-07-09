@@ -32,7 +32,7 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 
 **Have a question related to CLMP?**
 
-Please contact either [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s).
+Please contact either Programme Head [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s).
 
 Polytechnic Coordinators for CLMP:
 
