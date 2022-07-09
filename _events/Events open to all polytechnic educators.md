@@ -18,7 +18,9 @@ Mode: 100% online via Zoom
 
 Programme and registration details will be made available closer to the date.
 
-
+```
+<iframe src="https://docs.google.com/document/d/1QlwLhVDBiv7BWPQDFsZgyFofx3qQe-HjAeR_cJzSl_g/edit?usp=sharing" style="border:0px #ffffff none;" name="myiFrame" scrolling="yes" frameborder="1" marginheight="0px" marginwidth="0px" height="1000px" width="1000px" allowfullscreen></iframe>
+```
 
 **Keen to share your polytechnic  event on this page?**
 
