@@ -26,4 +26,4 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 **Have a question related to TLMP?**
 
-Contact [Tina](mailto: tina_soo@np.edu.sg) or [Joey](mailto: joey_tong@nyp.edu.sg).
+Please contact [Tina](mailto: tina_soo@np.edu.sg) and/or [Joey](mailto: joey_tong@nyp.edu.sg).
