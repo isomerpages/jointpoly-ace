@@ -14,6 +14,8 @@ image: ""
 
 **MoU Signing Ceremony**
 
+Reference: https://www.ssg-wsg.gov.sg/news-and-announcements/institutions-join-forces-to-uplift-the-training-and-adult-education-sector.html
+
 Date: 5 July 2022
 
 Guest-of-honour:
