@@ -12,9 +12,4 @@ The four joint polytechnic programmes are:
 * T&L Mentor Move-In Programme (TLMP)
 * Course Leadership Move-In Programme (CLMP)
 
-Please click on menu bar on the left to find out more about each programme.
-
-
-
-
-
+Please click on menu bar to find out more about each programme.
