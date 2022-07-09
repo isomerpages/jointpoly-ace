@@ -43,7 +43,7 @@ sections:
       url: /about/
   - infobar:
       title: Joint Polytechnic Programmes
-      description: T&L capability development opportunities
+      description: T&L capability development opportunities for polytechnic educators
       button: Find out more
       url: /jpprogrammes/
 ---
