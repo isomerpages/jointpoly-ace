@@ -10,7 +10,7 @@ image: /images/93870290_ML.jpg
 
 **What is the programme about?**
 \
-SLMP is a professional development programme for new and potential School Leaders (ADs and DDs) to build important T&L leadership capabilities in 3 key aspects:
+SLMP is a professional development programme for new and potential School Leaders (ADs and DDs) across five polytechnics to build important T&L leadership capabilities in 3 key aspects:
 * Driving Education Change
 * Driving T&L Quality
 * Shaping T&L Culture
@@ -26,7 +26,3 @@ The duration is 200 hours over a span of 1 year. The first run is conducted betw
 **Have a question related to SLMP?**
 
 Contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg).
-
-
-
-
