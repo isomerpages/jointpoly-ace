@@ -17,4 +17,4 @@ The JP-AcE is led by a team of representatives from the five polytechnics. The a
 
 The JP-AcE team coordinates Joint Polytechnic programmes and works closely with all five polytechnics' Education Development Units (EDUs) to implement the programmes to enhance T&L capabilities of polytechnic educators. 
 
-The JP-AcE team also collaborates with all polytechnics, IAL and SSG and drive efforts to strengthen the T&L capabilities of adult educators in Singapore.
+The JP-AcE team also collaborates with all polytechnics, IAL and SSG to drive efforts to strengthen the T&L capabilities of adult educators in Singapore.
