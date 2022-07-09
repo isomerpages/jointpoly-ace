@@ -30,4 +30,4 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 
 **Have a question related to CLMP?**
 
-Contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg).
+Please contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) and/or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg).
