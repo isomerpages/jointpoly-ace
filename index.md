@@ -27,8 +27,11 @@ sections:
         - title: Who we are
           description: About the academy and team
           url: /about/
+        - title: Programmes for Adult Educators
+          description: Learning opportunities for AEs
+          url: /ial/
         - title: Events
-          description: Check out what's on!
+          description: Latest happenings
           url: /launch/
         - title: Contact Us
           description: Reach out to JP-AcE
