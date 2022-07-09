@@ -9,6 +9,7 @@ image: ""
 ![](/images/52174100_ML.jpg)
 
 **What is the programme about?**
+
 TLMP provides the T&L mentors an opportunity to deepen learning through cross-poly learning experiences. The TLMP will build a community of reflective T&L champions to grow T&L excellence in the polytechnic sector. The programme focuses on improving T&L leadership in the areas of:
 * Discovering professional identity
 * Developing T&L expertise
