@@ -35,15 +35,9 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 Please contact [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) and/or [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) and/or your polytechnic programme representative(s).
 
 Polytechnic Representatives for CLMP:
-Nanyang Polytechnic: 
-Ngee Ann Polytechnic:
-Republic Polytechnic:
-Singapore Polytechnic:
-Temasek Polytechnic:
 
-
-
-
-
-
-
+* Nanyang Polytechnic: 
+* Ngee Ann Polytechnic:
+* Republic Polytechnic:
+* Singapore Polytechnic:
+* Temasek Polytechnic:
