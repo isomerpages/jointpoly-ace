@@ -1,4 +1,5 @@
 collections:
   programmes-for-adult-educators:
     output: true
-    order: []
+    order:
+      - Collaboration with IAL.md
