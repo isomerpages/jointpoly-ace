@@ -28,7 +28,7 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 **Have a question related to TLMP?**
 
-Please contact either Programme Head [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
+Please contact either Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
 
 Polytechnic Coordinators for TLMP:
 
