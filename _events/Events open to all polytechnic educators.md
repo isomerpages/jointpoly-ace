@@ -19,8 +19,10 @@ Event 1
 Event 2
 
 Event 3
-         
+ 
+ 
+    
     
 **Keen to share your polytechnic  event on this page?**
 
-Interested parties can contact either [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@nyp.edu.sg) for a discussion.
+Please contact either [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@nyp.edu.sg) for a discussion.
