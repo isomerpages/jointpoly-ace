@@ -14,5 +14,9 @@ links:
         url: /CTLPE/
       - title: SLMP
         url: /SLMP/
+      - title: TLMP
+        url: /TLMP/
+      - title: CLMP
+        url: /CLMP/
   - title: Contact Us
     url: /contact-us/
