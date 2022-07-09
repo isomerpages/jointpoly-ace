@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Who we are
           description: ""
-          url: /aboutjpace/
+          url: /whoweare/
         - title: Programmes and Events
           description: Check out what's on!
           url: ""
