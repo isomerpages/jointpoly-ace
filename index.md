@@ -41,4 +41,9 @@ sections:
       description: Check out the academy and the team behind it.
       button: Find out more
       url: /about/
+  - infobar:
+      title: Joint Polytechnic Programmes
+      description: T&L capability development opportunities
+      button: Find out more
+      url: /jpprogrammes/
 ---
