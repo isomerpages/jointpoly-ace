@@ -16,7 +16,8 @@ Date: 21-22 Sep 2022
 
 Mode: 100% online via Zoom
 
-Registration details will be available closer to the date.
+Programme and registration details will be made available closer to the date.
+
 
 
 **Keen to share your polytechnic  event on this page?**
