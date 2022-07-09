@@ -12,9 +12,6 @@ locations:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
     maps_link: https://www.sp.edu.sg/map
     title: JP-AcE Office
 contacts:
