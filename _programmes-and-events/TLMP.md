@@ -23,6 +23,6 @@ TLMP is conducted face-to-face with provisions for hybrid mode of learning.
 
 The duration is 160 hours over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
-**Have a question related to CTLPE?**
+**Have a question related to TLMP?**
 
 Contact [Tina](mailto: tina_soo@np.edu.sg) or [Joey](mailto: joey_tong@nyp.edu.sg).
