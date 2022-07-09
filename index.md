@@ -18,7 +18,7 @@ sections:
           url: /about/
         - title: Events
           description: Check out what's on!
-          url: /events/
+          url: /launch/
         - title: Contact Us
           description: Reach out to JP-AcE
           url: /contact-us/
