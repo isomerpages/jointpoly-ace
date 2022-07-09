@@ -22,7 +22,8 @@ Minister for Education, Mr Chan Chun Sing
 This landmark agreement between IAL, SkillsFuture Singapore and Singapore's five polytechnics, namely, Nanyang Polytechnic, Ngee Ann Polytechnic, Republic Polytechnic, Singapore Polytechnic and Temasek Polytechnic, is the first time these parties have come together to collaborate in the CET space. The intent is to synergise IAL's expertise in adult learning with the polytechnics’ institutional capabilities in education and industry outreach. Specifically, a community of practice (COP) will facilitate exchanges and sharing of best practices between teaching staff, adult educators (AE), and adjunct educators of polytechnics. In addition, the agreement will involve the curation, development, and delivery of industry-relevant TAE programmes, as well as short-term two-way attachments between IAL and the polytechnics, amongst other collaborative initiatives.  
 
 ![](/images/mou.jpg)
- 
+Photo credits to SSG
+
 **Ms Jeanne Liew, Principal and CEO, Nanyang Polytechnic**, said, “This collaboration will help enhance the Teaching & Learning expertise of adult educators in the Training and Adult Education (TAE) sector in Singapore. The polytechnics play a significant role in training Singapore’s workforce to meet the current and emerging demands of the workplace. With this partnership, educators will now have an additional avenue to share best practices with the TAE community and adapt these learnings in their curriculum delivery to better prepare learners for the workplace of the future.”  
 
   
