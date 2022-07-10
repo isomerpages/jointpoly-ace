@@ -37,13 +37,13 @@ sections:
           description: Reach out to JP-AcE
           url: /contact-us/
   - infobar:
-      title: Who we are
-      description: Check out the academy and the team behind it.
+      title: CTLPE
+      description: Certificate for Teaching and Learning for Polytechnic Educators
       button: Find out more
-      url: /about/
+      url: /ctlpe/
   - infobar:
-      title: Joint Polytechnic Programmes
-      description: T&L capability development opportunities for polytechnic educators
+      title: TLMP
+      description: T&L Mentor Move-In Programme
       button: Find out more
-      url: /jpprogrammes/
+      url: /tlmp/
 ---
