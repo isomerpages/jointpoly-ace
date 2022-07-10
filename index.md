@@ -42,7 +42,7 @@ sections:
       description: "Certificate for Teaching and Learning for Polytechnic Educators "
       button: Find out more
       url: /ctlpe/
-      image: /images/127315465_ML.jpg
+      image: /images/127315465_ML2.jpg
       alt: ctlpe
   - infopic:
       title: SLMP
