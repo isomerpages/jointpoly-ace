@@ -58,7 +58,8 @@ sections:
   - infopic:
       title: TLMP
       subtitle: For polytechnic T&L mentors
-      description: T&L Mentor Move-In Programme
+      description: Become a reflective T&L champion through the T&L Mentor Move-In
+        Programme.
       button: Find out more
       url: /tlmp/
       image: /images/70290420_ML.jpg
