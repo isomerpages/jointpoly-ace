@@ -62,7 +62,7 @@ sections:
         Programme.
       button: Find out more
       url: /tlmp/
-      image: /images/70290420_ML.jpg
+      image: /images/70290420_MLsuccess.jpg
       alt: tlmp
   - infopic:
       title: CLMP
