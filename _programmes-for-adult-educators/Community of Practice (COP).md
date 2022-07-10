@@ -17,6 +17,7 @@ COP topics, including learning journeys, can be jointly discussed based on needs
 
 **Have a question related to COP?**
 
-Please contact [Joey](mailto: joey_tong@nyp.edu.sg) for a discussion.
+Please contact [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+
 
 
