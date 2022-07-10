@@ -49,8 +49,8 @@ sections:
   - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
-      description: School Leadership Move-In Programme SLMP is a professional
-        development programme is for new and potential School Leaders.
+      description: Build important T&L leadership capabilities through the School
+        Leadership Move-In Programme.
       button: Find out more
       url: /slmp/
       image: /images/44638187_ML.jpg
