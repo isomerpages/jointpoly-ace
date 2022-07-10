@@ -4,8 +4,9 @@ permalink: /partnership/
 description: Discover possible areas for collaboration and programmatic /
   project-based partnership
 ---
-
 **Programmatic or Project-based Partnership**
+
+![](/images/54123485_ML.jpg)
 
 Polytechnics and SUSS-IAL are offering possible areas of joint collaboration for programmatic or project-based partnership.
 
@@ -18,8 +19,3 @@ Participating adult educators can also co-curate Continuing Professional Develop
 **Have a question related to programmatic or project based partnership?**
 
 Please contact [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
-
-
-
-
-
