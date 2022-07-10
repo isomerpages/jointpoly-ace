@@ -6,6 +6,8 @@ description: Discover learning opportunities that are organised by polytechnics
 ---
 **Events open to all polytechnic educators**
 
+![](/images/117303261_ML.jpg)
+
 This page is dedicated to share with you polytechnic events that are open to all polytechnic educators across the five polytechnics. 
 
 Interested polytechnic educators can register and attend any session(s) to learn together as a community to strengthen T&L capability.
