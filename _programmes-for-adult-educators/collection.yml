@@ -2,5 +2,5 @@ collections:
   programmes-for-adult-educators:
     output: true
     order:
-      - Community of Practice (COP).md
       - Partnership of Polytechnics and IAL.md
+      - Community of Practice (COP).md
