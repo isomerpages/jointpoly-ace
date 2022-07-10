@@ -4,10 +4,9 @@ permalink: /SLMP/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 ---
-
 **School Leadership Move-In Programme (SLMP)**
 
-![](/images/93870290_ML.jpg)
+![](/images/44638187_ML.jpg)
 
 **What is the programme about?**
 \
