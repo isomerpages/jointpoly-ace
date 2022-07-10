@@ -67,7 +67,8 @@ sections:
   - infopic:
       title: CLMP
       subtitle: For polytechnic Course leaders
-      description: Course Leadership Move-In Programme
+      description: Learn effective course management and leadership through the Course
+        Leadership Move-In Programme.
       button: Find out more
       url: /clmp/
       image: /images/53753385_ML.jpg
