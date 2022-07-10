@@ -29,7 +29,7 @@ The duration is 100 hours over a span of 1 year. There are 2 runs per year. One 
 
 **Have a question related to CTLPE?**
 
-Please contact either Programme Heads [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
+Please contact Programme Heads [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
 
 
 Polytechnic Coordinators for CTLPE:
