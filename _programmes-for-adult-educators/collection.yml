@@ -2,5 +2,6 @@ collections:
   programmes-for-adult-educators:
     output: true
     order:
+      - Programmatic or Project based Partnership.md
       - Partnership of Polytechnics and IAL.md
       - Community of Practice (COP).md
