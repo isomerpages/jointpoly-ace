@@ -45,8 +45,7 @@ sections:
   - infobar:
       title: SLMP
       subtitle: For Polytechnic School leaders
-      description: School Leadership Move-In Programme (For new and potential
-        Polytechnic School Leaders)
+      description: "School Leadership Move-In Programme "
       button: Find out more
       url: /slmp/
   - infobar:
