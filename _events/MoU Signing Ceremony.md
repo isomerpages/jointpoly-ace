@@ -39,7 +39,7 @@ Photo credits to SSG
  
       
    
-**Mr Yeo Li Pheow, Principal and CEO, Republic Polytechnic**, said, *“This partnership will foster a strong culture of professional collaboration and pedagogical excellence across the institutes of higher learning, and further enhance the standing and quality of training and adult education in Singapore. It will play an important role in the co-construction of knowledge amongst the educators as they learn from each other, with each other and through each other. The establishment of a community of practice will be an enabler for educators to share pedagogical knowledge and collectively advance the lifelong learning cause.” * 
+**Mr Yeo Li Pheow, Principal and CEO, Republic Polytechnic**, said, *“This partnership will foster a strong culture of professional collaboration and pedagogical excellence across the institutes of higher learning, and further enhance the standing and quality of training and adult education in Singapore. It will play an important role in the co-construction of knowledge amongst the educators as they learn from each other, with each other and through each other. The establishment of a community of practice will be an enabler for educators to share pedagogical knowledge and collectively advance the lifelong learning cause.”* 
  
      
    
