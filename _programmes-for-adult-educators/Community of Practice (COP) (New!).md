@@ -3,8 +3,9 @@ title: Community of Practice (COP) (New!)
 permalink: /cop/
 description: Find out how you can learn together as a community
 ---
-
 **Community of Practice (COP)**
+
+![](/images/52333688_ML.jpg)
 
 **Target Audience:** 
 
@@ -19,6 +20,3 @@ COP topics, including learning journeys, can be jointly discussed based on needs
 **Have a question related to COP?**
 
 Please contact [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
-
-
-
