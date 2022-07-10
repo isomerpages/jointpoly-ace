@@ -5,8 +5,6 @@ description: The JP-AcE collaborates with IAL to design and organise learning
   opportunities to enhance T&L capabilities of adult educators.
 image: ""
 ---
-   
-
 **1.Community of Practice (COP)**
 
 a)The target audience are the teaching staff, Adult Educators (AEs) and Adjunct AEs from Polytechnics and SUSS-IAL.
@@ -34,6 +32,14 @@ b)Secondment of SUSS-IAL staff to the Joint-Polytechnic VA or Polytechnic staff 
 c)Polytechnic staff undertaking Continuing Education and Training (CET) teaching at SUSS-IAL as part of the programmatic or project-based partnership arrangement will be paid accordingly based on the prevailing Adjunct AE’s rate in SUSS-IAL, with headcount resourced through the current CET mechanism.
 
 **4.Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.**
+
+
+**Have a question on learning opportunities related to IAL?**
+
+Please contact [Joey](mailto: joey_tong@nyp.edu.sg) for a discussion.
+
+
+
 
 
 
