@@ -12,8 +12,6 @@ This page is dedicated to share with you polytechnic events that are open to all
 
 Interested polytechnic educators can register and attend any session(s) to learn together as a community to strengthen T&L capability.
 
-![](/images/Landing%20images/50081324_ML.jpg)
-
   
 
 Event 1
