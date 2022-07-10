@@ -8,17 +8,6 @@ links:
       - title: Our people
         url: /ourpeople/
   - title: Joint Polytechnic Programmes
-    url: /jpprogrammes/
-    sublinks:
-      - title: CTLPE
-        url: /CTLPE/
-      - title: SLMP (New!)
-        url: /SLMP/
-      - title: TLMP (Coming Soon!)
-        url: /TLMP/
-      - title: CLMP (Coming Soon!)
-        url: /CLMP/
-  - title: Joint Polytechnic Programmes
     collection: joint-polytechnic-programmes
   - title: Programmes for Adult Educators
     collection: programmes-for-adult-educators
