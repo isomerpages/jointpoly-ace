@@ -14,7 +14,3 @@ The JP-AcE is led by a team of representatives from the five polytechnics. The a
 * Singapore Polytechnic representative: [Rajnish Gupta/ Academy Head](mailto: rajnish_gupta@sp.edu.sg)
 * Temasek Polytechnic representative: [Keng Wan Ling/ Education Staff Developer](mailto: keng_wan_ling@tp.edu.sg)
 
-
-The JP-AcE team coordinates Joint Polytechnic programmes and works closely with the Education Development Units (EDUs) across five polytechnics to implement the programmes that enhance T&L capabilities of polytechnic educators. 
-
-The JP-AcE team also collaborates with all polytechnics, IAL and SSG to drive efforts in strengthening T&L capabilities of adult educators in Singapore.
