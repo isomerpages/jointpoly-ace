@@ -50,7 +50,7 @@ sections:
       description: "School Leadership Move-In Programme "
       button: Find out more
       url: /slmp/
-      image: /images/93870290_ML.jpg
+      image: /images/44638187_ML.jpg
       alt: slmp
   - infopic:
       title: TLMP
