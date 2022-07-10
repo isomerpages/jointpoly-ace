@@ -30,7 +30,7 @@ In addition, the agreement will involve the curation, development, and delivery 
 ![](/images/mou.jpg)
 Photo credits to SSG
 
-     
+![](/images/Corporate%20NYP%20Logo_Horizontal_RGB.png)
 > **Ms Jeanne Liew, Principal and CEO, Nanyang Polytechnic**, said, “This collaboration will help enhance the Teaching & Learning expertise of adult educators in the Training and Adult Education (TAE) sector in Singapore. The polytechnics play a significant role in training Singapore’s workforce to meet the current and emerging demands of the workplace. With this partnership, educators will now have an additional avenue to share best practices with the TAE community and adapt these learnings in their curriculum delivery to better prepare learners for the workplace of the future.”  
 
       
