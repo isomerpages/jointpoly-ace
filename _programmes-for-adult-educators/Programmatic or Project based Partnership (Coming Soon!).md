@@ -18,4 +18,4 @@ Participating adult educators can also co-curate Continuing Professional Develop
 
 **Have a question related to programmatic or project based partnership?**
 
-Please contact [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+Please contact Programme Heads [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
