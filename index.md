@@ -38,12 +38,27 @@ sections:
           url: /contact-us/
   - infobar:
       title: CTLPE
-      description: Certificate for Teaching and Learning for Polytechnic Educators
+      description: "Certificate for Teaching and Learning for Polytechnic Educators "
       button: Find out more
       url: /ctlpe/
+      subtitle: For new polytechnic lecturers
+  - infobar:
+      title: SLMP
+      subtitle: For Polytechnic School leaders
+      description: School Leadership Move-In Programme (For new and potential
+        Polytechnic School Leaders)
+      button: Find out more
+      url: /slmp/
   - infobar:
       title: TLMP
       description: T&L Mentor Move-In Programme
       button: Find out more
       url: /tlmp/
+      subtitle: For polytechnic T&L mentors
+  - infobar:
+      title: CLMP
+      subtitle: For polytechnic Course leaders
+      description: Course Leadership Move-In Programme
+      button: Find out more
+      url: /clmp/
 ---
