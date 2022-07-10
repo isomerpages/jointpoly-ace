@@ -5,7 +5,9 @@ description: The JP-AcE collaborates with IAL to design and organise learning
   opportunities to enhance T&L capabilities of adult educators.
 image: ""
 ---
+The JP-AcE represents the 5 polytechnics to collaborate with IAL.
 
+Click on the menu to find out more about each initiative.
 
 **1.Community of Practice (COP)**
 
@@ -39,9 +41,3 @@ c)Polytechnic staff undertaking Continuing Education and Training (CET) teaching
 **Have a question on learning opportunities related to IAL?**
 
 Please contact [Joey](mailto: joey_tong@nyp.edu.sg) for a discussion.
-
-
-
-
-
-
