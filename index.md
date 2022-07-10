@@ -42,22 +42,25 @@ sections:
       button: Find out more
       url: /ctlpe/
       subtitle: For new polytechnic lecturers
-  - infobar:
+  - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
       description: "School Leadership Move-In Programme "
       button: Find out more
       url: /slmp/
+      image: /images/93870290_ML.jpg
   - infobar:
       title: TLMP
       description: T&L Mentor Move-In Programme
       button: Find out more
       url: /tlmp/
       subtitle: For polytechnic T&L mentors
-  - infobar:
+  - infopic:
       title: CLMP
       subtitle: For polytechnic Course leaders
       description: Course Leadership Move-In Programme
       button: Find out more
       url: /clmp/
+      image: /images/53753385_ML.jpg
+      alt: Image alt text
 ---
