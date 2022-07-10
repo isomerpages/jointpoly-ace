@@ -16,4 +16,7 @@ The JP-AcE organises the following learning opportunities:
 
 **Have a question related to attachments, secondments and staff exchange?**
 
-Please contact [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+Please contact Programme Heads [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+
+
+
