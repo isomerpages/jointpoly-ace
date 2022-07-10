@@ -2,6 +2,7 @@ collections:
   programmes-for-adult-educators:
     output: true
     order:
+      - Attachments, Secondments and Staff Exchange.md
       - Partnership of Polytechnics and IAL.md
       - Community of Practice (COP).md
       - Programmatic or Project based Partnership.md
