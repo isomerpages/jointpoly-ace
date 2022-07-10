@@ -14,11 +14,11 @@ Interested polytechnic educators can register and attend any session(s) to learn
 
   
 
-Event 1
+* Event 1
 
-Event 2
+* Event 2
 
-Event 3
+* Event 3
  
  
     
