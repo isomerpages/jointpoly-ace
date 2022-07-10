@@ -36,12 +36,14 @@ sections:
         - title: Contact Us
           description: Reach out to JP-AcE
           url: /contact-us/
-  - infobar:
+  - infopic:
       title: CTLPE
+      subtitle: For new polytechnic lecturers
       description: "Certificate for Teaching and Learning for Polytechnic Educators "
       button: Find out more
       url: /ctlpe/
-      subtitle: For new polytechnic lecturers
+      image: /images/127315465_ML.jpg
+      alt: ctlpe
   - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
@@ -49,12 +51,15 @@ sections:
       button: Find out more
       url: /slmp/
       image: /images/93870290_ML.jpg
-  - infobar:
+      alt: slmp
+  - infopic:
       title: TLMP
+      subtitle: For polytechnic T&L mentors
       description: T&L Mentor Move-In Programme
       button: Find out more
       url: /tlmp/
-      subtitle: For polytechnic T&L mentors
+      image: /images/52174100_ML.jpg
+      alt: tlmp
   - infopic:
       title: CLMP
       subtitle: For polytechnic Course leaders
@@ -62,5 +67,5 @@ sections:
       button: Find out more
       url: /clmp/
       image: /images/53753385_ML.jpg
-      alt: Image alt text
+      alt: clmp
 ---
