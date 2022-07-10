@@ -58,7 +58,7 @@ sections:
       description: T&L Mentor Move-In Programme
       button: Find out more
       url: /tlmp/
-      image: /images/52174100_ML.jpg
+      image: /images/70290420_ML.jpg
       alt: tlmp
   - infopic:
       title: CLMP
