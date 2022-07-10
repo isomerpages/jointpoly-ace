@@ -39,7 +39,9 @@ sections:
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
-      description: "Certificate for Teaching and Learning for Polytechnic Educators "
+      description: Certificate for Teaching and Learning for Polytechnic Educators is
+        a joint polytechnic certification programme for new polytechnic
+        lecturers.
       button: Find out more
       url: /ctlpe/
       image: /images/127315465_ML2.jpg
