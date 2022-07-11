@@ -30,7 +30,6 @@ In addition, the agreement will involve the curation, development, and delivery 
 ![](/images/mou.jpg)
 Photo credits to SSG
 
-![](/images/Quote%20Instagram%20Post%20(500%20×%20500%20px).gif)
 
 ![](/images/Quote%20Instagram%20Post.jpg)
 
