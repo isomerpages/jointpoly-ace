@@ -30,9 +30,6 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Events
-          description: Latest happenings
-          url: /launch/
         - title: MoU Signing Ceremony
           description: ""
           url: /mou/
