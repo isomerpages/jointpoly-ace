@@ -24,18 +24,18 @@ sections:
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
+        - title: About JP-AcE
+          description: ""
+          url: /about/
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Programmes for Adult Educators
-          description: Learning opportunities for AEs
-          url: /ial/
         - title: Events
           description: Latest happenings
           url: /launch/
-        - title: Contact Us
-          description: Reach out to JP-AcE
-          url: /contact-us/
+        - title: MoU Signing Ceremony
+          description: ""
+          url: /mou/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
