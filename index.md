@@ -24,9 +24,9 @@ sections:
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
-        - title: Who we are
-          description: About the academy and team
-          url: /about/
+        - title: Our People
+          description: ""
+          url: /ourpeople/
         - title: Programmes for Adult Educators
           description: Learning opportunities for AEs
           url: /ial/
