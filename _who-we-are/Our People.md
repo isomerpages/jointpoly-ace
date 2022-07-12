@@ -4,7 +4,7 @@ permalink: /ourpeople/
 description: Check out our team!
 image: ""
 ---
-JP-AcE reports to five polytechnics’ PCEOs through the co-chairs of the Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee. 
+JP-AcE reports to five polytechnics’ PCEOs through the co-chairs of the Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee. The organisation structure is depicted as below:
 
 ![](/images/jpace%20infrastructure.png)
 
