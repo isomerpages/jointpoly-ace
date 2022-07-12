@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - SSG Events.md
       - MoU Signing Ceremony.md
       - Launch Ceremony.md
       - Other Events.md
