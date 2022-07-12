@@ -15,6 +15,8 @@ SLMP is a professional development programme for new and potential School Leader
 * Driving T&L Quality
 * Shaping T&L Culture
 
+![](/images/Learning%20Journey%20to%20TP_10%20June%202022.jpg)
+
 **How is the programme conducted?**
 
 SLMP is conducted mainly through face-to-face sessions (including provisions of hybrid).
