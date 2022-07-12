@@ -21,6 +21,8 @@ SLMP is a professional development programme for new and potential School Leader
 
 SLMP is conducted mainly through face-to-face sessions (including provisions of hybrid).
 
+![](/images/slmp.jpg)
+
 **When is the programme conducted?**
 
 The duration is 200 hours over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
