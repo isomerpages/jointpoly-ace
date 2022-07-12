@@ -17,9 +17,15 @@ It focuses on the following areas:
 * Formative and Summative Assessment
 * Reflective Professional Practice for Effective Learning and Teaching
 
+![](/images/ctlpe%20intake%207%20pic%201.png)
+
+![](/images/ctlpe%20intake%207%20pic%205.png)
+
 **How is the programme conducted?**
 
 CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous and asynchronous and face-to-face lessons.
+
+![](/images/ctlpe%20intake%207%20pic%203.jpg)
 
 **When is the programme conducted?**
 
