@@ -30,7 +30,7 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: MoU Signing Ceremony
+        - title: Announcements
           description: ""
           url: /mou/
   - infopic:
