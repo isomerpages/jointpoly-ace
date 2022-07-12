@@ -7,10 +7,8 @@ links:
         url: /about/
       - title: Our people
         url: /ourpeople/
-  - title: Joint Polytechnic Programmes
+  - title: Programmes
     collection: joint-polytechnic-programmes
-  - title: Programmes for Adult Educators
-    collection: programmes-for-adult-educators
   - title: Events
     collection: events
   - title: Contact Us
