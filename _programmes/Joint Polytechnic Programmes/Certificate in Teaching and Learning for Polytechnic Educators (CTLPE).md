@@ -32,10 +32,14 @@ CTLPE is conducted in hybrid manner. There are online sessions conducted via MS 
 
 The duration is 100 hours over a span of 1 year. There are 2 runs per year. One in April and another in October.
 ***
+
 **Click here to find out more about CTLPE.**
 
+
 ***
+
 **Have a question related to CTLPE?**
+
 Please contact Programme Heads [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for CTLPE:
 
 * Nanyang Polytechnic: [Hsiao Yia Fang](mailto: hsiao_yia_fang@nyp.edu.sg) , [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
