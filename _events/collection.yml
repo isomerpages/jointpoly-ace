@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - MoU Signing Ceremony.md
+      - Latest News.md
       - Academy Events.md
       - Polytechnic Events.md
       - Partner Events.md
