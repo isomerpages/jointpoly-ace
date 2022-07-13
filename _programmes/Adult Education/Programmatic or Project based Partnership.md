@@ -5,9 +5,7 @@ description: Discover possible areas for collaboration and programmatic /
   project-based partnership
 third_nav_title: Adult Education
 ---
-
-
-**Programmatic or Project-based Partnership**
+# Programmatic or Project-based Partnership
 
 ![](/images/54123485_ML.jpg)
 
@@ -19,6 +17,6 @@ Professional development can be through co-curation, co-development and co-deliv
 
 Participating adult educators can also co-curate Continuing Professional Development programmes (e.g. bite size, micro-learning credentialling, e-learning modules) to uplift AEs’ skillsets in both Polytechnics and SUSS-IAL.  
 
-**Have a question related to programmatic or project based partnership?**
+#### Have a question related to programmatic or project based partnership?
 
 Please contact Programme Heads [Joey](mailto: joey_tong@nyp.edu.sg) or [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
