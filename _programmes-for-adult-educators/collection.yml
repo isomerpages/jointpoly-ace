@@ -2,5 +2,4 @@ collections:
   programmes-for-adult-educators:
     output: true
     order:
-      - Programmatic or Project based Partnership.md
       - Attachments, Secondments and Staff Exchange.md
