@@ -5,7 +5,6 @@ description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 third_nav_title: Joint Polytechnic Programmes
 ---
-
 **School Leadership Move-In Programme (SLMP)**
 
 ![](/images/44638187_ML.jpg)
@@ -30,6 +29,8 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 The duration is 200 hours over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
 
 **Click here to find out more about SLMP.**
+
+***
 
 **Have a question related to SLMP?**
 
