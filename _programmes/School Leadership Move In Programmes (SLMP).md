@@ -4,7 +4,6 @@ permalink: /SLMP/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 ---
-
 **School Leadership Move-In Programme (SLMP)**
 
 ![](/images/44638187_ML.jpg)
@@ -32,11 +31,9 @@ The duration is 200 hours over a span of 1 year. The first run is conducted betw
 
 **Have a question related to SLMP?**
 
-Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s).
+Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for SLMP:
 
-Polytechnic Coordinators for SLMP:
-
-* Nanyang Polytechnic: 
+* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
 * Ngee Ann Polytechnic:
 * Republic Polytechnic:
 * Singapore Polytechnic:
