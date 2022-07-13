@@ -4,7 +4,6 @@ permalink: /TLMP/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
 ---
-
 **T&L Mentor Move-In Programme (TLMP)**
 
 ![](/images/70290420_MLsuccess.jpg)
@@ -33,7 +32,7 @@ Please contact Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailt
 
 Polytechnic Coordinators for TLMP:
 
-* Nanyang Polytechnic: 
+* Nanyang Polytechnic: [Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
 * Ngee Ann Polytechnic:
 * Republic Polytechnic:
 * Singapore Polytechnic:
