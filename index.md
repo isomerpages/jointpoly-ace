@@ -30,7 +30,7 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Announcements
+        - title: Latest News
           description: ""
           url: /mou/
   - infopic:
