@@ -4,7 +4,6 @@ permalink: /CLMP/
 description: Course Leadership Move in Programme (CLMP)
 image: ""
 ---
-
 **Course Leadership Move-In Programme (CLMP)**
 
 ![](/images/53753385_ML.jpg)
@@ -37,7 +36,7 @@ Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Be
 
 Polytechnic Coordinators for CLMP:
 
-* Nanyang Polytechnic: 
+* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
 * Ngee Ann Polytechnic:
 * Republic Polytechnic:
 * Singapore Polytechnic:
