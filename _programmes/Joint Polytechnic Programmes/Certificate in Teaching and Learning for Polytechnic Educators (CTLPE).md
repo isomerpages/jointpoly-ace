@@ -4,9 +4,7 @@ permalink: /CTLPE/
 description: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 third_nav_title: Joint Polytechnic Programmes
 ---
-**Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)**
-
-(#Certificate-in-the-Teaching-and-Learning-for-Polytechnic-Educators-(CTLPE))
+# Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
 ![](/images/127315465_ML2.jpg)
 
