@@ -18,7 +18,7 @@ The COP will facilitates collegial sharing or exchange of best or state-of-the-a
 
 COP topics, including learning journeys, can be jointly discussed based on needs and resources available, and included in a yearly work-plan.
 
-## Click here to find out more about COP!
+## Click here to find out more!
 
 #### Have a question related to COP?
 
