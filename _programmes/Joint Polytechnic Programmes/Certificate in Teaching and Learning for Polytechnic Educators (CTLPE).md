@@ -21,7 +21,7 @@ It focuses on the following areas:
 ![](/images/ctlpe%20intake%207%20pic%201.png)
 
 ![](/images/ctlpe%20intake%207%20pic%205.png)
-
+\
 **How is the programme conducted?**
 \
 CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous and asynchronous and face-to-face lessons.
