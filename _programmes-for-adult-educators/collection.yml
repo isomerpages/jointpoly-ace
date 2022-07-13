@@ -2,7 +2,6 @@ collections:
   programmes-for-adult-educators:
     output: true
     order:
-      - Partnership between Polytechnics and IAL SUSS.md
       - Community of Practice (COP).md
       - Programmatic or Project based Partnership.md
       - Attachments, Secondments and Staff Exchange.md
