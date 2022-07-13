@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Adult Education/.keep
-      - Partnership between Polytechnics and IAL SUSS.md
       - Joint Polytechnic Programmes/.keep
       - Joint Polytechnic Programmes/Joint Polytechnic Programmes for
         Polytechnic Educators.md
