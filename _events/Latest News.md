@@ -10,10 +10,11 @@ description: "The Training and Adult Education (TAE) sector is set to be given a
   SkillsFuture Singapore to collaborate in the CET space. "
 image: ""
 ---
+# Latest News
 
-**Institutions join forces to uplift the training and adult education sector**
+#### Institutions join forces to uplift the training and adult education sector
 
-**MoU Signing Ceremony**
+#### MoU Signing Ceremony
 
 Reference: [https://www.ssg-wsg.gov.sg/news-and-announcements/institutions-join-forces-to-uplift-the-training-and-adult-education-sector.html](https://www.ssg-wsg.gov.sg/news-and-announcements/institutions-join-forces-to-uplift-the-training-and-adult-education-sector.html)
 
@@ -43,4 +44,4 @@ Photo credits to SSG
 ![](/images/Quote%20Instagram%20Post%20(5).jpg)
 
    
-Read more about the MOUs signing to raise the quality of CET: [go.gov.sg/ssg-20220705-news](http://go.gov.sg/ssg-20220705-news?fbclid=IwAR2WNCe7gY33o3H2JydFIHlHXnT4yLlEO-bm_CH_7cxYG481tI45MNrl21Y)
+#### Read more about the MOUs signing to raise the quality of CET: [go.gov.sg/ssg-20220705-news](http://go.gov.sg/ssg-20220705-news?fbclid=IwAR2WNCe7gY33o3H2JydFIHlHXnT4yLlEO-bm_CH_7cxYG481tI45MNrl21Y)
