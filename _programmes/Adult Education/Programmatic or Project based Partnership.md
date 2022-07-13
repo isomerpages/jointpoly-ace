@@ -15,7 +15,10 @@ There are opportunities for co-curation, co-development and co-delivery of progr
 
 Professional development can be through co-curation, co-development and co-delivery of a full module(s) or part of a full WSQ programme or Programme(s) designed and aligned to the SSG’s Skills Framework for the TAE Sector and/or corporate trainers in enterprises with contextualised needs.
 
-Participating adult educators can also co-curate Continuing Professional Development programmes (e.g. bite size, micro-learning credentialling, e-learning modules) to uplift AEs’ skillsets in both Polytechnics and SUSS-IAL.  
+Participating adult educators can also co-curate Continuing Professional Development programmes (e.g. bite size, micro-learning credentialling, e-learning modules) to uplift AEs’ skillsets in both Polytechnics and SUSS-IAL. 
+
+## Find out more!
+
 
 #### Have a question related to programmatic or project based partnership?
 
