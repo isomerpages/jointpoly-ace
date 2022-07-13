@@ -4,9 +4,6 @@ permalink: /openpolyevents/
 description: Discover learning opportunities that are organised by polytechnics
   and open to all polytechnic educators!
 ---
-
-
-
 **Events open to all polytechnic educators**
 
 ![](/images/117303261_ML.jpg)
@@ -16,15 +13,8 @@ This page is dedicated to share with you polytechnic events that are open to all
 Interested polytechnic educators can register and attend any session(s) to learn together as a community to strengthen T&L capability.
 
   
-
-* Event 1
-
-* Event 2
-
-* Event 3
- 
- 
-    
+**Click here to check out what's on at other polytechnics.**
+     
     
 **Keen to share your polytechnic  event on this page?**
 
