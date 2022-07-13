@@ -46,8 +46,8 @@ sections:
   - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
-      description: Build important T&L leadership capabilities through the School
-        Leadership Move-In Programme.
+      description: Build important T&L leadership capabilities through the <b>School
+        Leadership Move-In Programme</b>.
       button: Find out more
       url: /slmp/
       image: /images/44638187_ML.jpg
@@ -55,8 +55,8 @@ sections:
   - infopic:
       title: TLMP
       subtitle: For polytechnic T&L mentors
-      description: Become a reflective T&L champion through the T&L Mentor Move-In
-        Programme.
+      description: Become a reflective T&L champion through the <b>T&L Mentor Move-In
+        Programme</b>.
       button: Find out more
       url: /tlmp/
       image: /images/70290420_MLsuccess.jpg
@@ -64,8 +64,8 @@ sections:
   - infopic:
       title: CLMP
       subtitle: For polytechnic Course leaders
-      description: Learn effective course management and leadership through the Course
-        Leadership Move-In Programme.
+      description: Learn effective course management and leadership through the <b>Course
+        Leadership Move-In Programme</b>.
       button: Find out more
       url: /clmp/
       image: /images/53753385_ML.jpg
