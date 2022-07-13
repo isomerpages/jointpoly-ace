@@ -36,4 +36,8 @@ Polytechnic Coordinators for TLMP:
 * Ngee Ann Polytechnic: [Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
 * Republic Polytechnic: [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg) , [Urvi Maniar](mailto: urvi_maniar@rp.edu.sg)
 * Singapore Polytechnic: [Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg), [Kwa Lay Ping](mailto: kwa_lay_ping@sp.edu.sg)
-* Temasek Polytechnic:
+* Temasek Polytechnic: [Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg) , [Teresa Abelanes](mailto: maria_abelanes@tp.edu.sg)
+
+
+
+
