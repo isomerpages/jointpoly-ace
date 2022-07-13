@@ -5,7 +5,8 @@ description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 third_nav_title: Joint Polytechnic Programmes
 ---
-**School Leadership Move-In Programme (SLMP)**
+# School Leadership Move-In Programme (SLMP)
+
 
 ![](/images/44638187_ML.jpg)
 
