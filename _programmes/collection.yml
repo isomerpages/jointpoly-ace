@@ -2,6 +2,8 @@ collections:
   programmes:
     output: true
     order:
+      - Joint Polytechnic Programmes/Course Leadership Move In Programme
+        (CLMP).md
       - Joint Polytechnic Programmes/T&L Mentor Move In Programme (TLMP).md
       - Joint Polytechnic Programmes/School Leadership Move In Programmes
         (SLMP).md
