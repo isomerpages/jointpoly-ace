@@ -32,6 +32,7 @@ In addition, the agreement will involve the curation, development, and delivery 
 ![](/images/mou.jpg)
 Photo credits to SSG
 
+#### Hear from the Polytechnic PCEOs
 
 ![](/images/Quote%20Instagram%20Post.jpg)
 
