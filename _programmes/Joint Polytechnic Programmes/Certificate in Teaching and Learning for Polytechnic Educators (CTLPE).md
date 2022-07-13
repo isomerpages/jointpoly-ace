@@ -8,7 +8,7 @@ third_nav_title: Joint Polytechnic Programmes
 
 ![](/images/127315465_ML2.jpg)
 
-###**What is the programme about?**###
+**What is the programme about?**
 \
 CTLPE is a joint polytechnic certification programme for the professional development of new polytechnic lecturers by equipping them with foundational skills in teaching and learning. 
 It focuses on the following areas:
@@ -23,7 +23,7 @@ It focuses on the following areas:
 ![](/images/ctlpe%20intake%207%20pic%205.png)
 
 **How is the programme conducted?**
-
+\
 CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous and asynchronous and face-to-face lessons.
 
 ![](/images/ctlpe%20intake%207%20pic%203.jpg)
