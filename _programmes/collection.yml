@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Joint Polytechnic Programmes/.keep
       - Joint Polytechnic Programmes for Polytechnic Educators.md
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
       - School Leadership Move In Programmes (SLMP).md
