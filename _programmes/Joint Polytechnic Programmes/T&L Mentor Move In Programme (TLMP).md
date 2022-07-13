@@ -5,7 +5,6 @@ description: T&L Mentor Move-In Programme (TLMP)
 image: ""
 third_nav_title: Joint Polytechnic Programmes
 ---
-
 **T&L Mentor Move-In Programme (TLMP)**
 
 ![](/images/70290420_MLsuccess.jpg)
@@ -27,6 +26,8 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 The duration is 160 hours over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
 **Click here to find out more about TLMP.**
+
+***
 
 **Have a question related to TLMP?**
 
