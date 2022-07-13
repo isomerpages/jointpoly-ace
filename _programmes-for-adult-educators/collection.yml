@@ -1,5 +1,4 @@
 collections:
   programmes-for-adult-educators:
     output: true
-    order:
-      - Attachments, Secondments and Staff Exchange.md
+    order: []
