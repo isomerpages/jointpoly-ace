@@ -17,7 +17,7 @@ Professional development can be through co-curation, co-development and co-deliv
 
 Participating adult educators can also co-curate Continuing Professional Development programmes (e.g. bite size, micro-learning credentialling, e-learning modules) to uplift AEs’ skillsets in both Polytechnics and SUSS-IAL. 
 
-## Find out more!
+## Click here to find out more!
 
 
 #### Have a question related to programmatic or project based partnership?
