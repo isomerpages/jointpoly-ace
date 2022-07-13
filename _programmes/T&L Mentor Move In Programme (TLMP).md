@@ -28,16 +28,10 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 **Have a question related to TLMP?**
 
-Please contact Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s).
-
-Polytechnic Coordinators for TLMP:
+Please contact Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for TLMP:
 
 * Nanyang Polytechnic: [Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
 * Republic Polytechnic: [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg) , [Urvi Maniar](mailto: urvi_maniar@rp.edu.sg)
 * Singapore Polytechnic: [Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg), [Kwa Lay Ping](mailto: kwa_lay_ping@sp.edu.sg)
 * Temasek Polytechnic: [Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg) , [Teresa Abelanes](mailto: maria_abelanes@tp.edu.sg)
-
-
-
-
