@@ -1,13 +1,15 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: Who we are
+    url: /about/
+    sublinks:
+      - title: About JP-AcE
+        url: /about/
+      - title: Our people
+        url: /ourpeople/
+  - title: Programmes
+    collection: programmes
+  - title: Events
+    collection: events
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/

@@ -1,0 +1,19 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Joint Polytechnic Programmes/.keep
+      - Joint Polytechnic Programmes/Joint Polytechnic Programmes for
+        Polytechnic Educators.md
+      - Joint Polytechnic Programmes/Certificate in Teaching and Learning for
+        Polytechnic Educators (CTLPE).md
+      - Joint Polytechnic Programmes/School Leadership Move In Programmes
+        (SLMP).md
+      - Joint Polytechnic Programmes/T&L Mentor Move In Programme (TLMP).md
+      - Joint Polytechnic Programmes/Course Leadership Move In Programme
+        (CLMP).md
+      - Adult Education/.keep
+      - Adult Education/Partnership between Polytechnics and IAL SUSS.md
+      - Adult Education/Community of Practice (COP).md
+      - Adult Education/Programmatic or Project based Partnership.md
+      - Adult Education/Attachments, Secondments and Staff Exchange.md

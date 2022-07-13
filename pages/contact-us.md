@@ -2,31 +2,42 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Joint Polytechnic Academy for Educators (JP-AcE)
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - Singapore Polytechnic
+      - "500 Dover Road, T111 "
+      - Singapore 139651
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.sp.edu.sg/map
+    title: JP-AcE Office
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: rajnish_gupta@sp.edu.sg
+      - other: Academy Head (SP Representative)
+    title: "Mr. Rajnish Gupta "
+  - content:
+      - phone: ""
+      - email: joey_tong@nyp.edu.sg
+      - other: Education Staff Developer (NYP Representative)
+    title: Ms. Joey Tong
+  - content:
+      - phone: ""
+      - email: tina_soo@np.edu.sg
+      - other: Education Staff Developer (NP Representative)
+    title: Ms. Tina Soo
+  - content:
+      - phone: ""
+      - email: lim_bee_hwee@rp.edu.sg
+      - other: Education Staff Developer (RP Representative)
+    title: Ms. Lim Bee Hwee
+  - content:
+      - phone: ""
+      - email: keng_wan_ling@tp.edu.sg
+      - other: Education Staff Developer (TP Representative)
+    title: Ms. Keng Wan Ling
 ---
