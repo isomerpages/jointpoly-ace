@@ -12,8 +12,8 @@ The JP-AcE is led by a team of representatives from the five polytechnics. The a
 
 ![](/images/team4.png)
 
+* [Rajnish Gupta/ Academy Head](mailto: rajnish_gupta@sp.edu.sg)
 * [Joey Tong/ Education Staff Developer](mailto: joey_tong@nyp.edu.sg)
 * [Keng Wan Ling/ Education Staff Developer](mailto: keng_wan_ling@tp.edu.sg)
 * [Lim Bee Hwee/ Education Staff Developer](mailto: lim_bee_hwee@rp.edu.sg)
-* [Rajnish Gupta/ Academy Head](mailto: rajnish_gupta@sp.edu.sg)
 * [Tina Soo/ Education Staff Developer](mailto: tina_soo@np.edu.sg)
