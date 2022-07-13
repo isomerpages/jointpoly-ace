@@ -37,8 +37,8 @@ sections:
       title: CTLPE
       subtitle: For new polytechnic lecturers
       description: Equip yourself with foundational skills in teaching and learning
-        through the <strong>Certificate for Teaching and Learning for Polytechnic
-  Educators</strong>.
+        through the Certificate for Teaching and Learning for Polytechnic
+  Educators.
       button: Find out more
       url: /ctlpe/
       image: /images/127315465_ML2.jpg
