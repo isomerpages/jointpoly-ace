@@ -10,7 +10,7 @@ JP-AcE reports to five polytechnics’ PCEOs through the co-chairs of the Joint 
 
 The JP-AcE is led by a team of representatives from the five polytechnics. The academy team comprises of an Academy Head and four Education Staff Developers (ESDs) - one from each polytechnic, plus a Programme Administrative Executive (PAE).
 
-![](/images/team2.jpg)
+![](/images/team4.png)
 
 * [Joey Tong/ Education Staff Developer](mailto: joey_tong@nyp.edu.sg)
 * [Keng Wan Ling/ Education Staff Developer](mailto: keng_wan_ling@tp.edu.sg)
