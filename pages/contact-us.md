@@ -18,26 +18,26 @@ contacts:
   - content:
       - phone: ""
       - email: rajnish_gupta@sp.edu.sg
-      - other: Academy Head (SP Representative)
+      - other: "Academy Head "
     title: "Mr. Rajnish Gupta "
   - content:
       - phone: ""
       - email: joey_tong@nyp.edu.sg
-      - other: Education Staff Developer (NYP Representative)
+      - other: "Education Staff Developer "
     title: Ms. Joey Tong
   - content:
       - phone: ""
       - email: tina_soo@np.edu.sg
-      - other: Education Staff Developer (NP Representative)
+      - other: "Education Staff Developer "
     title: Ms. Tina Soo
   - content:
       - phone: ""
       - email: lim_bee_hwee@rp.edu.sg
-      - other: Education Staff Developer (RP Representative)
+      - other: "Education Staff Developer "
     title: Ms. Lim Bee Hwee
   - content:
       - phone: ""
       - email: keng_wan_ling@tp.edu.sg
-      - other: Education Staff Developer (TP Representative)
+      - other: "Education Staff Developer "
     title: Ms. Keng Wan Ling
 ---
