@@ -46,8 +46,8 @@ sections:
   - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
-      description: Build important T&L leadership capabilities through the <b>School
-        Leadership Move-In Programme</b>.
+      description: Build important T&L leadership capabilities through the <strong>School
+        Leadership Move-In Programme</strong>.
       button: Find out more
       url: /slmp/
       image: /images/44638187_ML.jpg
