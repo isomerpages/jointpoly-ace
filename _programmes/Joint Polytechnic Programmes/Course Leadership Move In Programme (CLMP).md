@@ -5,7 +5,6 @@ description: Course Leadership Move in Programme (CLMP)
 image: ""
 third_nav_title: Joint Polytechnic Programmes
 ---
-
 **Course Leadership Move-In Programme (CLMP)**
 
 ![](/images/53753385_ML.jpg)
@@ -31,6 +30,8 @@ CLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 The duration is 100 hours over a span of 7 months. The first run will commence in March 2023. The second run is expected to commence in 2024.
 
 **Click here to find out more about CLMP.**
+
+***
 
 **Have a question related to CLMP?**
 
