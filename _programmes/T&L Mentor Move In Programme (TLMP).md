@@ -33,7 +33,7 @@ Please contact Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailt
 Polytechnic Coordinators for TLMP:
 
 * Nanyang Polytechnic: [Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
-* Ngee Ann Polytechnic:
+* Ngee Ann Polytechnic: [Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
 * Republic Polytechnic:
 * Singapore Polytechnic:
 * Temasek Polytechnic:
