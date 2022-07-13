@@ -37,7 +37,7 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 
 Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for CLMP:
 
-* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
+* Nanyang Polytechnic: [Lye Pek Ling](mailto: lye_pek_ling@nyp.edu.sg)
 * Ngee Ann Polytechnic:
 * Republic Polytechnic:
 * Singapore Polytechnic:
