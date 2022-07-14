@@ -16,6 +16,9 @@ TLMP provides the T&L mentors across five polytechnics an opportunity to deepen 
 * Developing T&L expertise
 * Driving coaching for T&L quality and innovation
 
+The organising team comprises of representatives from each polytechnic.
+![](/images/tlmp2.jpg)
+
 
 #### How is the programme conducted?
 
