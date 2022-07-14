@@ -19,7 +19,7 @@ notification: ""
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
-      subtitle: "A centralised academy for educators "
+      subtitle: "A centralised academy for educators. "
       background: /images/bluelights.jpg
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
@@ -30,15 +30,15 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Announcements
+        - title: Latest News
           description: ""
           url: /mou/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
       description: Equip yourself with foundational skills in teaching and learning
-        through the Certificate for Teaching and Learning for Polytechnic
-        Educators.
+        through the <strong>Certificate for Teaching and Learning for
+        Polytechnic Educators</strong>.
       button: Find out more
       url: /ctlpe/
       image: /images/127315465_ML2.jpg
@@ -46,8 +46,8 @@ sections:
   - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
-      description: Build important T&L leadership capabilities through the School
-        Leadership Move-In Programme.
+      description: Build important T&L leadership capabilities through the
+        <strong>School Leadership Move-In Programme</strong>.
       button: Find out more
       url: /slmp/
       image: /images/44638187_ML.jpg
@@ -55,8 +55,8 @@ sections:
   - infopic:
       title: TLMP
       subtitle: For polytechnic T&L mentors
-      description: Become a reflective T&L champion through the T&L Mentor Move-In
-        Programme.
+      description: Become a reflective T&L champion through the <strong>T&L Mentor
+        Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
       image: /images/70290420_MLsuccess.jpg
@@ -64,8 +64,8 @@ sections:
   - infopic:
       title: CLMP
       subtitle: For polytechnic Course leaders
-      description: Learn effective course management and leadership through the Course
-        Leadership Move-In Programme.
+      description: Learn effective course management and leadership through the
+        <strong>Course Leadership Move-In Programme</strong>.
       button: Find out more
       url: /clmp/
       image: /images/53753385_ML.jpg

@@ -4,10 +4,9 @@ permalink: /launch/
 description: Launch ceremony of JP-AcE will be on 16 September 2022. Find out more!
 image: ""
 ---
+# Academy Events
 
-
-
-**JP-AcE Launch Ceremony**
+### JP-AcE Launch Ceremony
 
 Date: 16 September 2022
 

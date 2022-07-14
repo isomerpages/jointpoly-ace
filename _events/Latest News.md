@@ -1,5 +1,5 @@
 ---
-title: MoU Signing Ceremony
+title: Latest News
 permalink: /mou/
 description: "The Training and Adult Education (TAE) sector is set to be given a
   boost, as institutions unite to elevate the quality of Continuing Education
@@ -10,9 +10,11 @@ description: "The Training and Adult Education (TAE) sector is set to be given a
   SkillsFuture Singapore to collaborate in the CET space. "
 image: ""
 ---
-**Institutions join forces to uplift the training and adult education sector**
+# Latest News
 
-**MoU Signing Ceremony**
+#### Institutions join forces to uplift the training and adult education sector
+
+#### MoU Signing Ceremony
 
 Reference: [https://www.ssg-wsg.gov.sg/news-and-announcements/institutions-join-forces-to-uplift-the-training-and-adult-education-sector.html](https://www.ssg-wsg.gov.sg/news-and-announcements/institutions-join-forces-to-uplift-the-training-and-adult-education-sector.html)
 
@@ -30,6 +32,7 @@ In addition, the agreement will involve the curation, development, and delivery 
 ![](/images/mou.jpg)
 Photo credits to SSG
 
+#### Hear from the Polytechnic PCEOs
 
 ![](/images/Quote%20Instagram%20Post.jpg)
 
@@ -42,4 +45,4 @@ Photo credits to SSG
 ![](/images/Quote%20Instagram%20Post%20(5).jpg)
 
    
-Read more about the MOUs signing to raise the quality of CET: [go.gov.sg/ssg-20220705-news](http://go.gov.sg/ssg-20220705-news?fbclid=IwAR2WNCe7gY33o3H2JydFIHlHXnT4yLlEO-bm_CH_7cxYG481tI45MNrl21Y)
+#### Read more about the MOUs signing to raise the quality of CET: [go.gov.sg/ssg-20220705-news](http://go.gov.sg/ssg-20220705-news?fbclid=IwAR2WNCe7gY33o3H2JydFIHlHXnT4yLlEO-bm_CH_7cxYG481tI45MNrl21Y)
