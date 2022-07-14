@@ -41,4 +41,4 @@ Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Be
 * Ngee Ann Polytechnic: Phillip Lau ,  Peggy Leong , Choy Weng Keong
 * Republic Polytechnic: Kiu Cheong Mau
 * Singapore Polytechnic: Au-Yeong Yuk Chin
-* Temasek Polytechnic: Loh Gin Hin
+* Temasek Polytechnic: [Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
