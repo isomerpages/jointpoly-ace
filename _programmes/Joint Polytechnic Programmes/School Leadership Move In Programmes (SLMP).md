@@ -40,5 +40,5 @@ Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Be
 * Nanyang Polytechnic: [Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
 * Ngee Ann Polytechnic: Phillip Lau ,  Peggy Leong , Choy Weng Keong
 * Republic Polytechnic: Kiu Cheong Mau
-* Singapore Polytechnic: Au-Yeong Yuk Chin
+* Singapore Polytechnic: [Au-Yeong Yuk Chin](mailto: Aw_Yeong_Yuk_Chin@sp.edu.sg)
 * Temasek Polytechnic: [Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
