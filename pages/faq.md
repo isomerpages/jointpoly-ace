@@ -10,12 +10,10 @@ Enrolment for the four Joint Polytechnic Programmes are currently through respec
 
 #### 2. I am a polytechnic staff and I have a question regarding Joint Polytechnic programmes. Is there someone whom I can contact if I have an enquiry? 
 
-You may contact any JP-AcE colleagues, your Programme Head or your respective Polytechnic Coordinators if you need urgent assistance with regards to the joint polytechnic programmes. The contacts can be found on each programme page on this website.
+You may contact any JP-AcE colleagues, your Programme Head or your respective Polytechnic Coordinators if you need urgent assistance with regards to the Joint Polytechnic Programmes. The contacts can be found on each programme page on this website.
 
 
 
 #### 3. I am an adult educator from private sector. Is there any learning opportunities available on JP-AcE that might be suitable for me?
 
 Thank you for visiting the site. JP-AcE drives efforts in T&L capability development for adult educators. More details in this area will be made available at later date. Adult educators who are interested to upskill Teaching and Learning capabilities may check out Programmes>Adult Education for more information regularly.
-
-
