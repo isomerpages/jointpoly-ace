@@ -15,4 +15,10 @@ Adult educators can look forward to learning from the following initiatives:
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
-More details of these initiative will be made available at later date. Do visit this website regularly for updates.
+More details of these initiative will be made available at later date. Do visit this website reg
+ularly for updates.
+
+Programme Heads: [Joey](mailto: joey_tong@nyp.edu.sg), Wan Ling
+
+
+
