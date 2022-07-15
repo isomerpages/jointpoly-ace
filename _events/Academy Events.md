@@ -6,7 +6,8 @@ image: ""
 ---
 # Academy Events
 
-### JP-AcE Launch Ceremony (Keep the date!)
+### Upcoming Event 
+#### JP-AcE Launch Ceremony 
 
 Date: 18 November 2022
 
