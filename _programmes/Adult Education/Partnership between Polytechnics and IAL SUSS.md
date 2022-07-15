@@ -18,7 +18,7 @@ Adult educators can look forward to learning from the following initiatives:
 More details of these initiative will be made available at later date. Do visit this website reg
 ularly for updates.
 
-Programme Heads: [Joey](mailto: joey_tong@nyp.edu.sg), Wan Ling
+Programme Heads: [Joey](mailto: joey_tong@nyp.edu.sg), [Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
 
 
 
