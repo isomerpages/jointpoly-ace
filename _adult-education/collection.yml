@@ -2,4 +2,5 @@ collections:
   adult-education:
     output: true
     order:
+      - Programmatic or Project based Partnership.md
       - Community of Practice (COP).md
