@@ -5,7 +5,6 @@ description: Find out what joint polytechnic programmes the academy offers!
 image: ""
 third_nav_title: Joint Polytechnic Programmes
 ---
-
 The JP-AcE offers four joint polytechnic programmes to enhance T&L capabilties of polytechnic educators across the five polytechnics.
 
 The four joint polytechnic programmes are:
@@ -14,6 +13,6 @@ The four joint polytechnic programmes are:
 * T&L Mentor Move-In Programme (TLMP)
 * Course Leadership Move-In Programme (CLMP)
 
-Enrolments for the joint polytechnic programmes are by respective polytechnic's nomination.
+Enrolments for the joint polytechnic programmes are through respective polytechnic's nomination.
 
-Please click on menu bar to find out more about each programme.
+Please click on menu to find out more about each programme.
