@@ -16,4 +16,6 @@ You may contact any JP-AcE colleagues, your Programme Head or your respective Po
 
 #### 3. I am an adult educator from private sector. Is there any learning opportunities available on JP-AcE that might be suitable for me?
 
-Thank you for visiting the site. JP-AcE drives T&L capability development for adult educators. Adult educators who are interested to upskill Teaching and Learning capabilities may explore the website under Programmes>Adult Education for more information.
+Thank you for visiting the site. JP-AcE drives efforts in T&L capability development for adult educators. More details in this area will be made available at later date. Adult educators who are interested to upskill Teaching and Learning capabilities may check out Programmes>Adult Education for more information regularly.
+
+
