@@ -1,0 +1,4 @@
+collections:
+  adult-education:
+    output: true
+    order: []
