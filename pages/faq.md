@@ -18,6 +18,7 @@ You may contact any JP-AcE colleagues, your Programme Head or your respective Po
 
 Thank you for visiting the site. JP-AcE drives T&L capability development for adult educators. Adult educators who are interested to upskill Teaching and Learning capabilities may explore the website under Programmes>Adult Education for more information.
 
+```
 <div class="accordion js-accordion">
   <div class="accordion__item js-accordion-item">
     <div class="accordion-header js-accordion-header">Panel 1</div> 
@@ -177,4 +178,4 @@ Thank you for visiting the site. JP-AcE drives T&L capability development for ad
     </div><!-- end of accordion body -->
   </div><!-- end of accordion item -->
 </div><!-- end of accordion -->
-   
+```
