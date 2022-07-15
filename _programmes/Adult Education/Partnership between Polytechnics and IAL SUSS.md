@@ -8,10 +8,13 @@ third_nav_title: Adult Education
 ---
 The JP-AcE represents the 5 polytechnics to collaborate with IAL, SUSS.
 
-Adult educators can learn from the following initiatives:
+Adult educators can look forward to learning from the following initiatives:
 
 * Community of Practice (COP)
 * Programmatic or Project-based Partnership
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
+
+More details of these initiative will be made available at later date. Do visit us regularly for updates.
+
 
