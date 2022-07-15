@@ -1,4 +1,5 @@
 collections:
   adult-education:
     output: true
-    order: []
+    order:
+      - Community of Practice (COP).md
