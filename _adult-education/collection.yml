@@ -2,5 +2,6 @@ collections:
   adult-education:
     output: true
     order:
+      - Attachments, Secondments and Staff Exchange.md
       - Programmatic or Project based Partnership.md
       - Community of Practice (COP).md
