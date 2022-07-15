@@ -8,10 +8,12 @@ image: ""
 
 ### JP-AcE Launch Ceremony
 
-Date: 16 September 2022
+Date: 18 November 2022
 
 Time: TBC
 
-Venue: Singapore Polytechnic T111 (Block T1, Level 1, Room 1). 
+Venue: TBC
 
-Find out how to get here.
+More details will be shared closer to the date. Please check back this website again for updates.
+
+
