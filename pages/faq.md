@@ -10,7 +10,7 @@ Enrolment for the four Joint Polytechnic Programmes are currently through respec
 
 #### 2. I am a polytechnic staff and I have a question regarding Joint Polytechnic programmes. Is there someone whom I can contact if I have an enquiry? 
 
-You may contact any JP-AcE colleagues, your Programme Head or your respective Polytechnic Coordinators if you need urgent assistance with regards to the Joint Polytechnic Programmes. The contacts can be found on each programme page on this website.
+You may contact any JP-AcE colleagues, your Programme Head or your respective Polytechnic Coordinators if you need urgent assistance with regards to the Joint Polytechnic Programmes. The point-of-contacts can be found on each programme page on this website.
 
 
 
