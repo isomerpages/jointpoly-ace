@@ -3,8 +3,8 @@ title: Programmatic or Project based Partnership
 permalink: /partnership/
 description: Discover possible areas for collaboration and programmatic /
   project-based partnership
-third_nav_title: Adult Education
 ---
+
 # Programmatic or Project-based Partnership
 
 ![](/images/54123485_ML.jpg)

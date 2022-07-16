@@ -1,6 +1,6 @@
 title: Joint Polytechnic Academy for Educators JP-AcE
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/sample logo JP.jpg
 colors:
   primary-color: "#262158"
   secondary-color: "#275b24"
@@ -62,9 +62,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://jointpoly-ace-staging.netlify.app
 prod: https://jointpoly-ace-prod.netlify.app
-shareicon: /images/isomer-logo.svg
+shareicon: /images/sample logo.jpg
 is_government: false
 facebook-pixel: ""
-google_analytics: G-V4HCB63Y55
+google_analytics: G-004S3JGSHT
 linkedin-insights: ""
 resources_name: jp-ace-resource

@@ -2,8 +2,8 @@
 title: Community of Practice (COP)
 permalink: /cop/
 description: Find out how you can learn together as a community
-third_nav_title: Adult Education
 ---
+
 # Community of Practice (COP)
 
 ![](/images/52333688_ML.jpg)

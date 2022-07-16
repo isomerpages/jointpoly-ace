@@ -38,7 +38,7 @@ The duration is 200 hours over a span of 1 year. The first run is conducted betw
 Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for SLMP:
 
 * Nanyang Polytechnic: [Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
-* Ngee Ann Polytechnic: Phillip Lau ,  Peggy Leong , Choy Weng Keong
-* Republic Polytechnic: Kiu Cheong Mau
-* Singapore Polytechnic: Au-Yeong Yuk Chin
-* Temasek Polytechnic: Loh Gin Hin
+* Ngee Ann Polytechnic: [Phillip Lau](mailto: phillip_lau@np.edu.sg) ,  [Peggy Leong](mailto: peggy_leong@np.edu.sg) , [Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
+* Republic Polytechnic: [Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
+* Singapore Polytechnic: [Au-Yeong Yuk Chin](mailto: Aw_Yeong_Yuk_Chin@sp.edu.sg)
+* Temasek Polytechnic: [Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)

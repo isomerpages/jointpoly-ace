@@ -2,11 +2,18 @@
 title: FAQ
 permalink: /faq/
 ---
+## FAQ
 
-### **FAQ**
+#### 1. I am interested in signing up for a Joint Polytechnic Programme. How do I register? 
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+Enrolment for the four Joint Polytechnic Programmes are currently through respective polytechnic's nomination. The joint polytechnic programmes are not open to members of the public at this moment. Polytechnic staff who are keen to be considered for the programmes may contact respective polytechnic coordinators for each programme. 
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+#### 2. I am a polytechnic staff and I have a question regarding Joint Polytechnic programmes. Is there someone whom I can contact if I have an enquiry? 
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+You may contact any JP-AcE colleagues, your Programme Head or your respective Polytechnic Coordinators if you need urgent assistance with regards to the Joint Polytechnic Programmes. The point-of-contacts can be found on each programme page on this website.
+
+
+
+#### 3. I am an adult educator from private sector. Is there any learning opportunities available on JP-AcE that might be suitable for me?
+
+Thank you for visiting the site. JP-AcE drives efforts in T&L capability development for adult educators. More details in this area will be made available at later date. Adult educators who are interested to upskill Teaching and Learning capabilities may check out Programmes>Adult Education for more information regularly.
