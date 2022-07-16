@@ -43,11 +43,8 @@ The duration is 100 hours over a span of 1 year. There are 2 runs per year. One 
 
 Please contact Programme Heads [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for CTLPE:
 
-* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
+* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg) , [Hsiao Yia Fang](mailto: hsiao_yia_fang@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
 * Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) , [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg)
 * Singapore Polytechnic: [Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
 * Temasek Polytechnic: [Jonathan Chee](jonathan_chee@tp.edu.sg)
-
-
-
