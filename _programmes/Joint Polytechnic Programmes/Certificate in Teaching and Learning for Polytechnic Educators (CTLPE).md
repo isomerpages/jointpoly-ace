@@ -45,6 +45,6 @@ Please contact Programme Heads [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joe
 
 * Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
-* Republic Polytechnic:
+* Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) , [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg)
 * Singapore Polytechnic: [Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
 * Temasek Polytechnic:
