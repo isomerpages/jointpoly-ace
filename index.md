@@ -13,7 +13,7 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/sample logo.jpg
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -71,4 +71,5 @@ sections:
       image: /images/53753385_ML.jpg
       alt: clmp
 ---
+
 
