@@ -47,7 +47,7 @@ sections:
         Polytechnic Educators</strong>.
       button: Find out more
       url: /ctlpe/
-      image: /images/127315465_ML2.jpg
+      image: /images/ctlpe.png
       alt: ctlpe
   - infopic:
       title: Leadership Programmes
