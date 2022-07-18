@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Leadership Programmes/.keep
       - Joint Polytechnic Programmes/.keep
       - Joint Polytechnic Programmes/Joint Polytechnic Programmes for
         Polytechnic Educators.md
