@@ -24,12 +24,12 @@ sections:
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
-        - title: About Us
-          description: ""
-          url: /about/
         - title: Welcome Message
           description: ""
           url: /welcome/
+        - title: About Us
+          description: ""
+          url: /about/
         - title: Latest News
           description: ""
           url: /mou/
