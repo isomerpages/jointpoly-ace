@@ -3,7 +3,9 @@ links:
   - title: About Us
     url: /about/
     sublinks:
-      - title: About JP-AcE
+      - title: Welcome Message
+        url: /welcome/
+      - title: About the Academy
         url: /about/
       - title: Our people
         url: /ourpeople/
