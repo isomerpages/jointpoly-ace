@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Welcome Message.md
       - About the Academy.md
       - Our People.md
