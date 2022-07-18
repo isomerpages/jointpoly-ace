@@ -40,7 +40,7 @@ sections:
       url: /about/
       description: The academy is created by the 5 polytechnics.
   - infopic:
-      title: CTLPE
+      title: Onboarding Programme
       subtitle: For new polytechnic lecturers
       description: Equip yourself with foundational skills in teaching and learning
         through the <strong>Certificate for Teaching and Learning for
