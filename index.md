@@ -24,7 +24,7 @@ sections:
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
-        - title: About JP-AcE
+        - title: About Us
           description: ""
           url: /about/
         - title: Our People
@@ -71,5 +71,3 @@ sections:
       image: /images/53753385_ML.jpg
       alt: clmp
 ---
-
-
