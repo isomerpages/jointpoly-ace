@@ -27,9 +27,9 @@ sections:
         - title: About Us
           description: ""
           url: /about/
-        - title: Our People
+        - title: Welcome Message
           description: ""
-          url: /ourpeople/
+          url: /welcome/
         - title: Latest News
           description: ""
           url: /mou/
