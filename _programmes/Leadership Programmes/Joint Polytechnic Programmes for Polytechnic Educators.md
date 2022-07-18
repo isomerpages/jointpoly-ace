@@ -7,7 +7,7 @@ third_nav_title: Leadership Programmes
 ---
 In addition to the onboarding T&L programme (CTLPE), the JP-AcE also offers three joint polytechnic programmes to enhance T&L capabilties of polytechnic educators across the five polytechnics.
 
-The four joint polytechnic leadership programmes are:
+The three joint polytechnic leadership programmes are:
 * School Leadership Move-In Programme (SLMP)
 * T&L Mentor Move-In Programme (TLMP)
 * Course Leadership Move-In Programme (CLMP)
