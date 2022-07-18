@@ -33,6 +33,11 @@ sections:
         - title: Latest News
           description: ""
           url: /mou/
+  - infobar:
+      title: About the Academy
+      subtitle: Welcome to JP-AcE
+      button: Find out more
+      url: /about/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
@@ -70,12 +75,4 @@ sections:
       url: /clmp/
       image: /images/53753385_ML.jpg
       alt: clmp
-  - infobar:
-      title: CTLPE
-      subtitle: For new polytechnic lecturers
-      description: Equip yourself with foundational skills in teaching and learning
-        through the <strong>Certificate for Teaching and Learning for
-        Polytechnic Educators</strong>.
-      button: Find out more
-      url: /ctlpe/
 ---
