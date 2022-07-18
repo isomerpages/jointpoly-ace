@@ -55,7 +55,7 @@ sections:
       description: Enhance your leadership skills through TLMP, CLMP and SLMP.
       button: Find out more
       url: /jpprogrammes/
-      image: /images/53753385_ML.jpg
+      image: /images/leadership programmes.png
       alt: Leadership Programmes
   - infopic:
       title: SLMP
