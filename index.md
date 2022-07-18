@@ -50,6 +50,14 @@ sections:
       image: /images/127315465_ML2.jpg
       alt: ctlpe
   - infopic:
+      title: Leadership Programmes
+      subtitle: For experienced educators
+      description: Enhance your leadership skills through TLMP, CLMP and SLMP.
+      button: Find out more
+      url: /leadership/
+      image: /images/53753385_ML.jpg
+      alt: Leadership Programmes
+  - infopic:
       title: SLMP
       subtitle: For Polytechnic School leaders
       description: Build important T&L leadership capabilities through the
@@ -76,12 +84,4 @@ sections:
       url: /clmp/
       image: /images/53753385_ML.jpg
       alt: clmp
-  - infopic:
-      title: Leadership Programmes
-      subtitle: For experienced educators
-      description: Enhance your leadership skills through TLMP, CLMP and SLMP.
-      button: Find out more
-      url: /leadership/
-      image: /images/53753385_ML.jpg
-      alt: Leadership Programmes
 ---
