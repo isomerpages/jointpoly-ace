@@ -9,7 +9,7 @@ links:
         url: /ourpeople/
   - title: Programmes
     collection: programmes
-  - title: News and Upcoming Events
-    collection: events
+  - title: News And Upcoming Events
+    collection: news-and-upcoming-events
   - title: Contact Us
     url: /contact-us/
