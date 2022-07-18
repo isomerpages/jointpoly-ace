@@ -30,9 +30,9 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Latest News
+        - title: Academy Events
           description: ""
-          url: /mou/
+          url: /academy/
   - infobar:
       title: About the Academy
       subtitle: Welcome to JP-AcE
