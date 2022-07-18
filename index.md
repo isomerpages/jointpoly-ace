@@ -32,7 +32,7 @@ sections:
           url: /ourpeople/
         - title: Academy Events
           description: ""
-          url: /academy/
+          url: /launch/
   - infobar:
       title: About the Academy
       subtitle: Welcome to JP-AcE
