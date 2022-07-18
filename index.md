@@ -38,6 +38,7 @@ sections:
       subtitle: Welcome to JP-AcE
       button: Find out more
       url: /about/
+      description: The academy is created by the 5 polytechnics.
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
