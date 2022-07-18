@@ -76,4 +76,12 @@ sections:
       url: /clmp/
       image: /images/53753385_ML.jpg
       alt: clmp
+  - infopic:
+      title: Leadership Programmes
+      subtitle: For experienced educators
+      description: Enhance your leadership skills through TLMP, CLMP and SLMP.
+      button: Find out more
+      url: /leadership/
+      image: /images/53753385_ML.jpg
+      alt: Leadership Programmes
 ---
