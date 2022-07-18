@@ -54,7 +54,7 @@ sections:
       subtitle: For experienced educators
       description: Enhance your leadership skills through TLMP, CLMP and SLMP.
       button: Find out more
-      url: /leadership/
+      url: /jpprogrammes/
       image: /images/53753385_ML.jpg
       alt: Leadership Programmes
   - infopic:
