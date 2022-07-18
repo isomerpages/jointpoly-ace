@@ -66,22 +66,4 @@ sections:
       url: /mou/
       image: /images/291226995_405302041629525_1628861488584746721_n.jpg
       alt: mou
-  - infopic:
-      title: TLMP
-      subtitle: For polytechnic T&L mentors
-      description: Become a reflective T&L champion through the <strong>T&L Mentor
-        Move-In Programme</strong>.
-      button: Find out more
-      url: /tlmp/
-      image: /images/70290420_MLsuccess.jpg
-      alt: tlmp
-  - infopic:
-      title: CLMP
-      subtitle: For polytechnic Course leaders
-      description: Learn effective course management and leadership through the
-        <strong>Course Leadership Move-In Programme</strong>.
-      button: Find out more
-      url: /clmp/
-      image: /images/53753385_ML.jpg
-      alt: clmp
 ---
