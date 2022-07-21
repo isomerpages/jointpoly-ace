@@ -5,6 +5,8 @@ description: ""
 ---
 ### Professional Development for Polytechnic Educators
 
+![](/images/52559612_ML.jpg)
+
 To ensure that lecturers are equipped with the necessary knowledge and skills to undertake the roles of class leadership, module leadership and module cluster leadership roles, each polytechnic has put in place structured programmes for their lecturers.
 
 In addition, for course and school leaders as well as for T&L Mentors, sectorial programmes were developed by JP-CETL to enable the polytechnics to leverage on sector-based opportunities to enrich professional development in T&L leadership through deliberate opportunities to network, exchange experiences and collaborate. 
