@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - About Polytechnic landscape in Singapore.md
       - Welcome Message.md
       - About the Academy.md
       - Our People.md
