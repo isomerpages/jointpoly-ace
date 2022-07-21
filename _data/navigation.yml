@@ -9,6 +9,8 @@ links:
         url: /about/
       - title: Our people
         url: /ourpeople/
+  - title: About Us
+    collection: about-us
   - title: Programmes
     collection: programmes
   - title: News And Upcoming Events
