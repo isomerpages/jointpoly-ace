@@ -3,8 +3,9 @@ title: T&L Mentor Move In Programme (TLMP)
 permalink: /TLMP/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
-third_nav_title: Joint Polytechnic Programmes
+third_nav_title: Leadership Programmes
 ---
+
 # T&L Mentor Move-In Programme (TLMP)
 
 ![](/images/70290420_MLsuccess.jpg)

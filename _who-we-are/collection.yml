@@ -1,6 +1,0 @@
-collections:
-  who-we-are:
-    output: true
-    order:
-      - About the Academy.md
-      - Our People.md

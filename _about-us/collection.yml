@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Welcome Message.md
+      - About the Academy.md
+      - Our People.md
+      - Ethos and roles of polytechnic educators.md
+      - Professional development for polytechnic educators.md

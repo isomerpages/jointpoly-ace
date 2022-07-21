@@ -1,15 +1,10 @@
-logo: /images/sample logo.jpg
+logo: /images/isomer-logo.svg
 links:
-  - title: Who we are
-    url: /about/
-    sublinks:
-      - title: About JP-AcE
-        url: /about/
-      - title: Our people
-        url: /ourpeople/
+  - title: About Us
+    collection: about-us
   - title: Programmes
     collection: programmes
-  - title: Events
-    collection: events
+  - title: News And Upcoming Events
+    collection: news-and-upcoming-events
   - title: Contact Us
     url: /contact-us/

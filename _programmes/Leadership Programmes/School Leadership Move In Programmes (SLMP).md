@@ -3,8 +3,9 @@ title: School Leadership Move In Programmes (SLMP)
 permalink: /SLMP/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
-third_nav_title: Joint Polytechnic Programmes
+third_nav_title: Leadership Programmes
 ---
+
 # School Leadership Move-In Programme (SLMP)
 
 

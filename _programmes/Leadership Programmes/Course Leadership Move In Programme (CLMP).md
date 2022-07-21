@@ -3,8 +3,9 @@ title: Course Leadership Move In Programme (CLMP)
 permalink: /CLMP/
 description: Course Leadership Move in Programme (CLMP)
 image: ""
-third_nav_title: Joint Polytechnic Programmes
+third_nav_title: Leadership Programmes
 ---
+
 # Course Leadership Move-In Programme (CLMP)
 
 ![](/images/53753385_ML.jpg)

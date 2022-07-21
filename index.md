@@ -13,7 +13,7 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/sample logo.jpg
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -24,51 +24,46 @@ sections:
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
-        - title: About JP-AcE
+        - title: Welcome Message
           description: ""
-          url: /about/
+          url: /welcome/
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Latest News
+        - title: Academy Events
           description: ""
-          url: /mou/
+          url: /launch/
+  - infobar:
+      title: About the Academy
+      subtitle: Welcome to JP-AcE
+      button: Find out more
+      url: /about/
+      description: The academy is created by the 5 polytechnics.
   - infopic:
-      title: CTLPE
+      title: Onboarding Programme
       subtitle: For new polytechnic lecturers
       description: Equip yourself with foundational skills in teaching and learning
         through the <strong>Certificate for Teaching and Learning for
         Polytechnic Educators</strong>.
       button: Find out more
       url: /ctlpe/
-      image: /images/127315465_ML2.jpg
+      image: /images/ctlpe.png
       alt: ctlpe
   - infopic:
-      title: SLMP
-      subtitle: For Polytechnic School leaders
-      description: Build important T&L leadership capabilities through the
-        <strong>School Leadership Move-In Programme</strong>.
+      title: Leadership Programmes
+      subtitle: For experienced educators
+      description: Enhance your leadership skills through <strong>TLMP</strong>,
+        <strong>CLMP</strong> and <strong>SLMP</strong>.
       button: Find out more
-      url: /slmp/
-      image: /images/44638187_ML.jpg
-      alt: slmp
+      url: /jpprogrammes/
+      image: /images/leadership programmes.png
+      alt: Leadership Programmes
   - infopic:
-      title: TLMP
-      subtitle: For polytechnic T&L mentors
-      description: Become a reflective T&L champion through the <strong>T&L Mentor
-        Move-In Programme</strong>.
+      title: Latest News
+      description: Institutions join forces to uplift the training and adult education
+        sector.
       button: Find out more
-      url: /tlmp/
-      image: /images/70290420_MLsuccess.jpg
-      alt: tlmp
-  - infopic:
-      title: CLMP
-      subtitle: For polytechnic Course leaders
-      description: Learn effective course management and leadership through the
-        <strong>Course Leadership Move-In Programme</strong>.
-      button: Find out more
-      url: /clmp/
-      image: /images/53753385_ML.jpg
-      alt: clmp
+      url: /mou/
+      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
+      alt: mou
 ---
-
