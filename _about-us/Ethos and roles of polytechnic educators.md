@@ -3,7 +3,6 @@ title: Ethos and roles of polytechnic educators
 permalink: /role/
 description: ""
 ---
-
 #### Polytechnic Lecturers: Ethos
 
 Polytechnic lecturers are expected to enhance students’ learning experiences, contribute to their holistic development and to prepare them to be workplace ready.
@@ -42,5 +41,3 @@ Mentors will work in a variety of formal and informal ways with individual acade
 * enable the professional growth of academic staff;
 * drive and implement T&L innovation and quality enhancements; and
 * promote a professional culture of evidence-based practice and the exchange of ideas and insights across the community.
-
-* 
