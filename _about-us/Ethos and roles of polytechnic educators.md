@@ -25,11 +25,11 @@ Infographic
 
 The five key T&L roles include:
 
-* Class Leadership – to lead learners and influencing learning within the classes assigned
-* Module Leadership – to lead module design in relation to the course, influencing the module learning experience, ensuring the module’s quality of teaching and assessment
-* Module Cluster Leadership – to oversee the design and alignment of the cluster of modules in relation to the course, influencing the learning experience across the module cluster, impacting quality of teaching and assessment for the cluster
-* Course Leadership – to lead course design in alignment with industry trends, and national & polytechnic directions, to ensure the quality of the course experience and outcomes, and the quality of teaching and assessment in the course
-* School Leadership – to oversee T&L directions of school, ensure the quality of courses and outcomes, the quality of teaching and assessment, and the provision of T&L staff development
+* <strong>Class Leadership</strong> – to lead learners and influencing learning within the classes assigned
+* <strong>Module Leadership</strong> – to lead module design in relation to the course, influencing the module learning experience, ensuring the module’s quality of teaching and assessment
+* <strong>Module Cluster Leadership</strong> – to oversee the design and alignment of the cluster of modules in relation to the course, influencing the learning experience across the module cluster, impacting quality of teaching and assessment for the cluster
+* <strong>Course Leadership</strong> – to lead course design in alignment with industry trends, and national & polytechnic directions, to ensure the quality of the course experience and outcomes, and the quality of teaching and assessment in the course
+* <strong>School Leadership</strong> – to oversee T&L directions of school, ensure the quality of courses and outcomes, the quality of teaching and assessment, and the provision of T&L staff development
 
 These five roles are not mutually exclusive. There is an expectation that staff holding T&L roles at levels above class leadership should be able to demonstrate the role expectations at the levels below.
 
