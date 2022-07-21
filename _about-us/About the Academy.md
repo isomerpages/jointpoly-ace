@@ -6,11 +6,11 @@ image: ""
 ---
 # About the Academy
 
+The Joint Polytechnic Academy for Educators (JP-AcE) was set up in 2022 as a centralised academy dedicated to developing and raising the Teaching & Learning (T&L) capability of polytechnic educators.
 
-The Joint Polytechnic Academy for Educators (JP-AcE) is a centralised academy for T&L capability development of polytechnic educators.
+It offers a suite of joint-polytechnic T&L baseline capability development programmes and certifications, such as <strong>Certificate in T&L for Polytechnic Educators (CTLPE)</strong>, <strong>School Leadership Move-In Programme (SLMP)</strong>, <strong>T&L Mentor Move-In Programme (TLMP)</strong> and <strong>Course Leadership Move-In Programme (CLMP)</strong>, amongst other programmes and initiatives, to strengthen the T&L capabilities of polytechnic educators.
 
-It offers joint-polytechnic suite of T&L baseline capability development programmes and certifications, such as Certificate in T&L for Polytechnic Educators (CTLPE), School Leadership Move-In Programme (SLMP), T&L Mentor Move-In  Programme (TLMP), Course Leadership Move-In Programme (CLMP) and other programmes which strengthens the T&L capabilities of polytechnic educators.
+JP-AcE takes guidance from the <strong>Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee </strong> and works closely with the polytechnics and other stakeholders.
 
-The joint polytechnic programmes complement respective polytechnic staff training offerings to upskill the polytechnic educator community. JP-AcE coordinates Joint Polytechnic programmes and works closely with the Education Development Units (EDUs) across five polytechnics to implement the programmes that enhance T&L capabilities of polytechnic educators. 
+Information on JP-CETL and on the polytechnic sector in Singapore is provided below.
 
-The JP-AcE team also collaborates with all polytechnics, IAL and SSG to drive efforts in strengthening T&L capabilities of adult educators in Singapore.
