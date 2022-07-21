@@ -15,6 +15,7 @@ The T&L ethos of polytechnic lecturers, which defines the desired culture and mi
 * Engaging actively in continual professional development to enhance T&L and discipline capabilities
 * Contributing to the Teaching & Learning development of colleagues and the education community
 
+![](/images/54160733_ML.jpg)
 
 #### Polytechnic Lecturers: Key Teaching and Learning Roles
 
