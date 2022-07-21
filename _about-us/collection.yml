@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Professional development for polytechnic educators.md
       - Welcome Message.md
       - About the Academy.md
-      - About Polytechnic landscape in Singapore.md
       - Our People.md
+      - About Polytechnic landscape in Singapore.md
+      - Professional development for polytechnic educators.md
