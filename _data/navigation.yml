@@ -1,15 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /welcome/
-    sublinks:
-      - title: Welcome Message
-        url: /welcome/
-      - title: About the Academy
-        url: /about/
-      - title: Our people
-        url: /ourpeople/
-  - title: About Us
     collection: about-us
   - title: Programmes
     collection: programmes
