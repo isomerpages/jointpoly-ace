@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Roles of Polytechnic Educators.md
       - Welcome Message.md
       - About the Academy.md
       - Our People.md
