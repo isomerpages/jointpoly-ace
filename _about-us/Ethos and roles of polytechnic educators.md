@@ -3,11 +3,11 @@ title: Ethos and roles of polytechnic educators
 permalink: /role/
 description: ""
 ---
-#### Polytechnic Lecturers: Ethos
+#### Polytechnic Educators: Ethos
 
-Polytechnic lecturers are expected to enhance students’ learning experiences, contribute to their holistic development and to prepare them to be workplace ready.
+Polytechnic educators are expected to enhance learners’ learning experiences, contribute to their holistic development and to prepare them to be workplace ready.
 
-The T&L ethos of polytechnic lecturers, which defines the desired culture and mindset of the professional community of polytechnic lectures, is given below.
+The T&L ethos of polytechnic educators, which defines the desired culture and mindset of the professional community of polytechnic educators, is given below.
 
 * Role modelling and upholding the professional values and behaviours of both the discipline and the teaching profession
 * Enhancing the curricula and students’ learning through active engagement with the industry, institutes of higher learning and other key stakeholders
@@ -17,9 +17,9 @@ The T&L ethos of polytechnic lecturers, which defines the desired culture and mi
 
 ![](/images/54160733_ML.jpg)
 
-#### Polytechnic Lecturers: Key Teaching and Learning Roles
+#### Polytechnic Educators: Key Teaching and Learning Roles
 
-The key T&L roles for leadership as well as mentor for polytechnic lecturers in Singapore are shown in the following figure.
+The key T&L roles for leadership as well as mentor for polytechnic educators in Singapore are shown in the following figure.
 
 Infographic
 
