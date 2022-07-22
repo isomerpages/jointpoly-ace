@@ -69,5 +69,5 @@ sections:
   - resources:
       title: Joint Polytechnic Programmes
       subtitle: Enhance T&L capabilities
-      button: Resources Button Name
+      button: Check out the resources
 ---
