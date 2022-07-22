@@ -66,4 +66,8 @@ sections:
       url: /mou/
       image: /images/291226995_405302041629525_1628861488584746721_n.jpg
       alt: mou
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
