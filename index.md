@@ -13,7 +13,7 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/jppurple2.jpg
+image: /images/jppurple3.jpg
 permalink: /
 notification: ""
 sections:
@@ -70,4 +70,5 @@ sections:
       subtitle: Enhance T&L capabilities
       button: Check out the resources
 ---
+
 
