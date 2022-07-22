@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: /images/124461502_ML.jpg
 ---
+# Resource 2
+
+TEXT
