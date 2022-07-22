@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Key Teaching and Learning Roles of Polytechnic Educators.md
       - Welcome Message.md
       - About the Academy.md
       - Our People.md
       - Ethos and roles of polytechnic educators.md
+      - Key Teaching and Learning Roles of Polytechnic Educators.md
       - Professional development for polytechnic educators.md
