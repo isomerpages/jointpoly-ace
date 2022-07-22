@@ -3,8 +3,7 @@ title: Ethos of Polytechnic Educators
 permalink: /ethos/
 description: ""
 ---
-
-#### Polytechnic Educators: Ethos
+#### Ethos of Polytechnic Educators
 
 Polytechnic educators are expected to enhance learners’ learning experiences, contribute to their holistic development and to prepare them to be workplace ready.
 
@@ -17,4 +16,3 @@ The T&L ethos of polytechnic educators, which defines the desired culture and mi
 * Contributing to the Teaching & Learning development of colleagues and the education community
 
 ![](/images/54160733_ML.jpg)
-
