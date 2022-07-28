@@ -5,6 +5,9 @@ description: Learn more about Joint Polytechnic Academy for Educators (JP-AcE)
 image: ""
 ---
 # About the Academy
+```
+<iframe width="800" height="450" src="https://www.powtoon.com/embed/gsx10CA9UDk/" frameborder="0" allowfullscreen></iframe>
+```
 
 The Joint Polytechnic Academy for Educators (JP-AcE) was set up in 2022 as a centralised academy dedicated to developing and raising the Teaching & Learning (T&L) capability of polytechnic educators.
 
