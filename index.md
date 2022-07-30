@@ -37,7 +37,8 @@ sections:
       subtitle: Welcome to JP-AcE
       button: Find out more
       url: /about/
-      description: The academy is created by the 5 polytechnics.
+      description: We are a centralised academy dedicated to developing and raising
+        the Teaching & Learning (T&L) capability of polytechnic educators.
   - infopic:
       title: Onboarding Programme
       subtitle: For new polytechnic lecturers
@@ -70,7 +71,3 @@ sections:
       subtitle: Enhance T&L capabilities
       button: Check out the resources
 ---
-
-
-
-
