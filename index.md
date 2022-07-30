@@ -37,7 +37,7 @@ sections:
       subtitle: Welcome to JP-AcE
       button: Find out more
       url: /about/
-      description: We are a centralised academy dedicated to developing and raising
+      description: JP-AcE is a centralised academy dedicated to developing and raising
         the Teaching & Learning (T&L) capability of polytechnic educators.
   - infopic:
       title: Onboarding Programme
