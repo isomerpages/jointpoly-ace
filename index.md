@@ -19,7 +19,7 @@ notification: ""
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
-      background: /images/bluelights.jpg
+      background: /images/166802351_ML.jpg
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
