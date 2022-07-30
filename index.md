@@ -13,14 +13,13 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/isomer-logo.svg
+image: /images/pentagon2.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
-      subtitle: "A centralised academy for educators. "
-      background: /images/bluelights.jpg
+      background: /images/background black3.jpg
       button: Joint Polytechnic Programmes
       url: /jpprogrammes/
       key_highlights:
@@ -38,7 +37,8 @@ sections:
       subtitle: Welcome to JP-AcE
       button: Find out more
       url: /about/
-      description: The academy is created by the 5 polytechnics.
+      description: JP-AcE is a centralised academy dedicated to developing and raising
+        the Teaching & Learning (T&L) capability of polytechnic educators.
   - infopic:
       title: Onboarding Programme
       subtitle: For new polytechnic lecturers
