@@ -52,8 +52,8 @@ sections:
   - infopic:
       title: Leadership Programmes
       subtitle: For experienced educators
-      description: Enhance your leadership skills through <strong>TLMP</strong>,
-        <strong>CLMP</strong> and <strong>SLMP</strong>.
+      description: Enhance your leadership skills through <strong>T&L Mentor Move-In Programme(TLMP)</strong>,
+        <strong>Course Leadership Move-In Programme (CLMP)</strong> and <strong>School Leadership Move-In Programme (SLMP)</strong>.
       button: Find out more
       url: /jpprogrammes/
       image: /images/leadership programmes.png
