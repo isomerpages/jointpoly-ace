@@ -21,7 +21,7 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: Joint Polytechnic Programmes
-      url: /jpprogrammes/
+      url: /ctlpe/
       key_highlights:
         - title: Welcome Message
           description: ""
