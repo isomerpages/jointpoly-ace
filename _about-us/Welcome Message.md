@@ -3,7 +3,7 @@ title: Welcome Message
 permalink: /welcome/
 description: ""
 ---
-### Welcome Message
+# Welcome Message
 
 ![](/images/raj%20banner2.jpg)
 
