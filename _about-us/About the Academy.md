@@ -14,7 +14,7 @@ It offers a suite of joint-polytechnic T&L baseline capability development progr
 
 JP-AcE takes guidance from the <strong>Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee </strong> and works closely with the polytechnics and other stakeholders.
 
-Information on JP-CETL and on the polytechnic sector in Singapore is provided below.
+Information on JP-CETL is provided below.
 
 #### ABOUT THE JOINT-POLYTECHNIC COMMITTEE TO ENHANCE TEACHING & LEARNING (JP-CETL)
 
