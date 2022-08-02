@@ -23,3 +23,7 @@ We are committed to educational development, and our work is underpinned by thes
 * Collaboration
 
 The Academy, with the polytechnic community of Singapore, looks ahead to a generation of future-ready educators for the growth of Singapore.  Do find out more about what we do in this website, and we hope to have the chance to work with you some time.
+
+Warmest regards
+
+Rajnish Gupta
