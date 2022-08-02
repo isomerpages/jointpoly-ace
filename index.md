@@ -52,7 +52,7 @@ sections:
   - infopic:
       title: Leadership Programmes
       subtitle: For experienced educators
-      description: Enhance your leadership skills through <strong>T&L Mentor Move-In Programme</strong>,
+      description: Enhance your leadership skills through the <strong>T&L Mentor Move-In Programme</strong>,
         <strong>Course Leadership Move-In Programme</strong> and <strong>School Leadership Move-In Programme</strong>.
       button: Find out more
       url: /jpprogrammes/
