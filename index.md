@@ -26,12 +26,12 @@ sections:
         - title: Welcome Message
           description: ""
           url: /welcome/
+        - title: About the Academy
+          description: ""
+          url: /about/
         - title: Our People
           description: ""
           url: /ourpeople/
-        - title: Academy Events
-          description: ""
-          url: /launch/
   - infobar:
       title: About the Academy
       subtitle: Welcome to JP-AcE
