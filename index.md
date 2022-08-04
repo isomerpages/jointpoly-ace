@@ -32,13 +32,6 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
-  - infobar:
-      title: About the Academy
-      subtitle: Welcome to JP-AcE
-      button: Find out more
-      url: /about/
-      description: JP-AcE is a centralised academy dedicated to developing and raising
-        the Teaching & Learning (T&L) capability of polytechnic educators.
   - infopic:
       title: Onboarding Programme
       subtitle: For new polytechnic lecturers
