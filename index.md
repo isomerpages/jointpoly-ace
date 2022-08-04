@@ -54,7 +54,7 @@ sections:
       image: /images/53753385_ML.jpg
       alt: Leadership Programmes
   - infopic:
-      title: Latest News
+      title: News
       description: Institutions join forces to uplift the training and adult education
         sector.
       button: Find out more
