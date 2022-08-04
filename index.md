@@ -58,7 +58,7 @@ sections:
         Programme</strong>.
       button: Find out more
       url: /jpprogrammes/
-      image: /images/leadership programmes.png
+      image: /images/53753385_ML.jpg
       alt: Leadership Programmes
   - infopic:
       title: Latest News
