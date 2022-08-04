@@ -17,7 +17,7 @@ Time: 3pm -6pm
 
 Venue: IAL
 
-More details will be shared closer to the date. Please check back this website again for updates.
+Representatives from the five polytechnics’ educational development units visited IAL for a Learning Journey on 23 August 2022. This opportunity for the polytechnics to learn more about IAL’s mission would aid the formulation of plans for upcoming collaborations in the Continuing Education & Training (CET) space, and lay the foundation for greater synergy between IAL and the polytechnics.
 
       
 
@@ -31,4 +31,4 @@ Time: 9.30am - 10.30am
 
 Venue: SP
 
-More details will be shared closer to the date. Please check back this website again for updates.
+On 18 November 2022, the polytechnic community will come together to witness the launch of the Joint Polytechnic Academy for Educators (JP-AcE). The launch event aims to share more about the work and the plans for the Academy, and to introduce the members of the new unit. Attendees will also have the opportunity to network and connect with others involved in joint-polytechnic teaching & learning projects and programmes.
