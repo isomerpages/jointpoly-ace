@@ -17,7 +17,7 @@ Time: 3pm -6pm
 
 Venue: IAL
 
-
+More details will be shared closer to the date. Please check back this website again for updates.
 
       
 
@@ -30,5 +30,3 @@ Time: 9.30am - 10.30am
 Venue: SP
 
 More details will be shared closer to the date. Please check back this website again for updates.
-
-
