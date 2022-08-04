@@ -44,7 +44,7 @@ sections:
       subtitle: For new polytechnic lecturers
       description: Equip yourself with foundational skills in teaching and learning
         through the <strong>Certificate for Teaching and Learning for
-        Polytechnic Educators</strong>.
+        Polytechnic Educators (CTLPE)</strong>.
       button: Find out more
       url: /ctlpe/
       image: /images/127315465_ML2.jpg
@@ -53,9 +53,9 @@ sections:
       title: Leadership Programmes
       subtitle: For experienced educators
       description: Enhance your leadership skills through the <strong>T&L Mentor
-        Move-In Programme</strong>, <strong>Course Leadership Move-In
-        Programme</strong> and <strong>School Leadership Move-In
-        Programme</strong>.
+        Move-In Programme (TLMP)</strong>, <strong>Course Leadership Move-In
+        Programme (CLMP)</strong> and <strong>School Leadership Move-In
+        Programme (SLMP)</strong>.
       button: Find out more
       url: /jpprogrammes/
       image: /images/53753385_ML.jpg
