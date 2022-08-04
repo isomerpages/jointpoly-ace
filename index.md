@@ -20,8 +20,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Joint Polytechnic Programmes
-      url: /ctlpe/
+      button: Academy Events
+      url: /launch/
       key_highlights:
         - title: Welcome Message
           description: ""
