@@ -47,13 +47,15 @@ sections:
         Polytechnic Educators</strong>.
       button: Find out more
       url: /ctlpe/
-      image: /images/ctlpe.png
+      image: /images/127315465_ML2.jpg
       alt: ctlpe
   - infopic:
       title: Leadership Programmes
       subtitle: For experienced educators
-      description: Enhance your leadership skills through the <strong>T&L Mentor Move-In Programme</strong>,
-        <strong>Course Leadership Move-In Programme</strong> and <strong>School Leadership Move-In Programme</strong>.
+      description: Enhance your leadership skills through the <strong>T&L Mentor
+        Move-In Programme</strong>, <strong>Course Leadership Move-In
+        Programme</strong> and <strong>School Leadership Move-In
+        Programme</strong>.
       button: Find out more
       url: /jpprogrammes/
       image: /images/leadership programmes.png
