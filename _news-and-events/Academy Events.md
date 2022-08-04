@@ -23,6 +23,8 @@ More details will be shared closer to the date. Please check back this website a
 
 #### 2. JP-AcE Launch Ceremony 
 
+![](/images/launch%20ceremony.png)
+
 Date: 18 November 2022
 
 Time: 9.30am - 10.30am
