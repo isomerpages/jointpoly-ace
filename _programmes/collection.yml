@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - Onboarding Programme/.keep
-      - Onboarding Programme/Certificate in Teaching and Learning for
-        Polytechnic Educators (CTLPE).md
       - Leadership Programmes/.keep
       - Leadership Programmes/Joint Polytechnic Programmes for Polytechnic
         Educators.md
