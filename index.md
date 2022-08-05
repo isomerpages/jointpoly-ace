@@ -43,16 +43,14 @@ sections:
       image: /images/127315465_ML2.jpg
       alt: ctlpe
   - infopic:
-      title: Leadership Programmes
-      subtitle: For experienced educators
-      description: Enhance your leadership skills through the <strong>T&L Mentor
-        Move-In Programme (TLMP)</strong>, <strong>Course Leadership Move-In
-        Programme (CLMP)</strong> and <strong>School Leadership Move-In
-        Programme (SLMP)</strong>.
+      title: SLMP
+      subtitle: For school leaders
+      description: Enhance your leadership skills through the <strong>School
+        Leadership Move-In Programme</strong>.
       button: Find out more
-      url: /jpprogrammes/
+      url: /slmp/
       image: /images/53753385_ML.jpg
-      alt: Leadership Programmes
+      alt: SLMP
   - infopic:
       title: News
       description: Institutions join forces to uplift the training and adult education
