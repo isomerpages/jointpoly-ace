@@ -49,7 +49,7 @@ sections:
         Leadership Move-In Programme</strong>.
       button: Find out more
       url: /slmp/
-      image: /images/53753385_ML.jpg
+      image: /images/44638187_ML.jpg
       alt: SLMP
   - infopic:
       title: TLMP
@@ -61,14 +61,6 @@ sections:
       image: /images/70290420_MLsuccess.jpg
       alt: TLMP
   - infopic:
-      title: News
-      description: Institutions join forces to uplift the training and adult education
-        sector.
-      button: Find out more
-      url: /mou/
-      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
-      alt: mou
-  - infopic:
       title: CLMP
       subtitle: For course leaders
       description: Develop management and course leadership skills through the
@@ -77,4 +69,12 @@ sections:
       url: /clmp/
       image: /images/53753385_ML.jpg
       alt: CLMP
+  - infopic:
+      title: News
+      description: Institutions join forces to uplift the training and adult education
+        sector.
+      button: Find out more
+      url: /mou/
+      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
+      alt: mou
 ---
