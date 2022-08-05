@@ -54,7 +54,7 @@ sections:
   - infopic:
       title: TLMP
       subtitle: For T&L mentors
-      description: Develop your mentoring capabilities through the<strong>T&L Mentor
+      description: Develop your mentoring capabilities through the <strong>T&L Mentor
         Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
