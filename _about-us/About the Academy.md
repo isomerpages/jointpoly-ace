@@ -22,10 +22,10 @@ The JP-CETL was established in 2013 with the objective of “initiating, develop
 
 The five polytechnics are:
 * [Nanyang Polytechnic](https://www.nyp.edu.sg/)
-* [Ngee Ann Polytechnic](www.np.edu.sg)
-* [Republic Polytechnic](www.rp.edu.sg)
-* [Singapore Polytechnic](www.sp.edu.sg)
-* [Temasek Polytechnic](www.tp.edu.sg)
+* [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
+* [Republic Polytechnic](https://www.rp.edu.sg/)
+* [Singapore Polytechnic](https://www.sp.edu.sg/)
+* [Temasek Polytechnic](https://www.tp.edu.sg/)
 
 The committee undertakes strategic projects which result in recommendations and frameworks that serve as a sector-wide reference for the five polytechnics. Polytechnics adapt these to their own contexts as part of on-going efforts to enhance the quality of teaching and learning outcomes for students. In some cases, projects lead to sectorial programmes that are developed and run jointly across the various polytechnics.
 
