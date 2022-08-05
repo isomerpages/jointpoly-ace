@@ -52,14 +52,6 @@ sections:
       image: /images/53753385_ML.jpg
       alt: SLMP
   - infopic:
-      title: News
-      description: Institutions join forces to uplift the training and adult education
-        sector.
-      button: Find out more
-      url: /mou/
-      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
-      alt: mou
-  - infopic:
       title: TLMP
       subtitle: For T&L mentors
       description: Develop your mentoring capabilities through the<strong>T&L Mentor
@@ -68,4 +60,21 @@ sections:
       url: /tlmp/
       image: /images/70290420_MLsuccess.jpg
       alt: TLMP
+  - infopic:
+      title: News
+      description: Institutions join forces to uplift the training and adult education
+        sector.
+      button: Find out more
+      url: /mou/
+      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
+      alt: mou
+  - infopic:
+      title: CLMP
+      subtitle: For course leaders
+      description: Develop management and course leadership skills through the
+        <strong>Course Leadership Move-in Programme</strong>.
+      button: Find out more
+      url: /clmp/
+      image: /images/53753385_ML.jpg
+      alt: CLMP
 ---
