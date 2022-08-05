@@ -63,7 +63,7 @@ sections:
       title: TLMP
       subtitle: For T&L mentors
       description: Develop your mentoring capabilities through the<strong>T&L Mentor
-        Move-In Programme.
+        Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
       image: /images/70290420_MLsuccess.jpg
