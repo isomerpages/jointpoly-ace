@@ -21,7 +21,7 @@ Information on JP-CETL is provided below.
 The JP-CETL was established in 2013 with the objective of “initiating, developing and nurturing a strong teaching and learning culture across all five polytechnics in Singapore”.
 
 The five polytechnics are:
-* [[Nanyang Polytechnic](https://www.nyp.edu.sg/)
+* [Nanyang Polytechnic](https://www.nyp.edu.sg/)
 * [Ngee Ann Polytechnic](www.np.edu.sg)
 * [Republic Polytechnic](www.rp.edu.sg)
 * [Singapore Polytechnic](www.sp.edu.sg)
