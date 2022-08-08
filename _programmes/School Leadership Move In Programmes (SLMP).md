@@ -11,7 +11,7 @@ image: /images/93870290_ML.jpg
 
 #### What is the programme about?
 
-SLMP is a professional development programme for new and potential School Leaders (ADs and DDs) across five polytechnics to build important T&L leadership capabilities in 3 key aspects:
+School Leadership Move-In Programme (SLMP) is a professional development programme for new and potential School Leaders (ADs and DDs) across five polytechnics to build important T&L leadership capabilities in 3 key aspects:
 * Driving Education Change
 * Driving T&L Quality
 * Shaping T&L Culture
