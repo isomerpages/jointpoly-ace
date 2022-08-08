@@ -19,7 +19,7 @@ contacts:
       - phone: ""
       - email: rajnish_gupta@sp.edu.sg
       - other: "Academy Head "
-    title: "Mr. Rajnish Gupta "
+    title: "Dr. Rajnish Gupta "
   - content:
       - phone: ""
       - email: joey_tong@nyp.edu.sg
@@ -40,4 +40,9 @@ contacts:
       - email: keng_wan_ling@tp.edu.sg
       - other: "Education Staff Developer "
     title: Ms. Keng Wan Ling
+  - content:
+      - phone: ""
+      - email: kalaivani@sp.edu.sg
+      - other: Programme Administrative Executive
+    title: Ms. Kalaivani D/O Chandra
 ---
