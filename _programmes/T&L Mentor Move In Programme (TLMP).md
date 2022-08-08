@@ -3,21 +3,19 @@ title: T&L Mentor Move In Programme (TLMP)
 permalink: /TLMP/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
-third_nav_title: Leadership Programmes
 ---
-
 # T&L Mentor Move-In Programme (TLMP)
 
 ![](/images/70290420_MLsuccess.jpg)
 
 #### What is the programme about?
 
-TLMP provides the T&L mentors across five polytechnics an opportunity to deepen learning through cross-poly learning experiences. The TLMP will build a community of reflective T&L champions to grow T&L excellence in the polytechnic sector. The programme focuses on improving T&L leadership in the areas of:
+The T&L Mentor Move-In Programme (TLMP) provides the T&L mentors across five polytechnics an opportunity to deepen learning through cross-poly learning experiences. The TLMP will build a community of reflective T&L champions to grow T&L excellence in the polytechnic sector. The programme focuses on improving T&L leadership in the areas of:
 * Discovering professional identity
 * Developing T&L expertise
 * Driving coaching for T&L quality and innovation
 
-The SLMP is organised by representatives from all polytechnics.
+The TLMP is organised by representatives from all polytechnics.
 ![](/images/tlmp2.jpg)
 
 
@@ -27,7 +25,7 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 #### When is the programme conducted?
 
-The duration is 160 hours over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
+The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
 ## Click here to find out more about TLMP!
 
@@ -35,7 +33,7 @@ The duration is 160 hours over a span of 1 year. The first run will commence on 
 
 #### Have a question related to TLMP?
 
-Please contact Programme Heads [Tina](mailto: tina_soo@np.edu.sg) , [Joey](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for TLMP:
+Please contact Programme Heads [Tina Soo](mailto: tina_soo@np.edu.sg) , [Joey Tong](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for TLMP:
 
 * Nanyang Polytechnic: [Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)

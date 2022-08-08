@@ -18,8 +18,13 @@ contacts:
   - content:
       - phone: ""
       - email: rajnish_gupta@sp.edu.sg
-      - other: "Academy Head "
-    title: "Mr. Rajnish Gupta "
+      - other: Head, JP-AcE
+    title: "Dr. Rajnish Gupta "
+  - content:
+      - phone: ""
+      - email: kalaivani@sp.edu.sg
+      - other: Programme Administrative Executive
+    title: Ms. Kalaivani D/O Chandra
   - content:
       - phone: ""
       - email: joey_tong@nyp.edu.sg

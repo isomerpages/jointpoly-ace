@@ -2,14 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Onboarding Programme/.keep
-      - Onboarding Programme/Certificate in Teaching and Learning for
-        Polytechnic Educators (CTLPE).md
-      - Leadership Programmes/.keep
-      - Leadership Programmes/Joint Polytechnic Programmes for Polytechnic
-        Educators.md
-      - Leadership Programmes/Course Leadership Move In Programme (CLMP).md
-      - Leadership Programmes/T&L Mentor Move In Programme (TLMP).md
-      - Leadership Programmes/School Leadership Move In Programmes (SLMP).md
-      - Adult Education/.keep
-      - Adult Education/Partnership between Polytechnics and IAL SUSS.md
+      - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
+      - School Leadership Move In Programmes (SLMP).md
+      - T&L Mentor Move In Programme (TLMP).md
+      - Course Leadership Move In Programme (CLMP).md
+      - Collaborative Programmes Between Five Polytechnics and Institute of
+        Adult Learning.md

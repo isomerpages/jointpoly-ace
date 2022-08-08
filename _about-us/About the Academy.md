@@ -14,18 +14,18 @@ It offers a suite of joint-polytechnic T&L baseline capability development progr
 
 JP-AcE takes guidance from the <strong>Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee </strong> and works closely with the polytechnics and other stakeholders.
 
-Information on JP-CETL and on the polytechnic sector in Singapore is provided below.
+Information on JP-CETL is provided below.
 
 #### ABOUT THE JOINT-POLYTECHNIC COMMITTEE TO ENHANCE TEACHING & LEARNING (JP-CETL)
 
 The JP-CETL was established in 2013 with the objective of “initiating, developing and nurturing a strong teaching and learning culture across all five polytechnics in Singapore”.
 
 The five polytechnics are:
-* [Nanyang Polytechnic](www.nyp.edu.sg)
-* [Ngee Ann Polytechnic](www.np.edu.sg)
-* [Republic Polytechnic](www.rp.edu.sg)
-* [Singapore Polytechnic](www.sp.edu.sg)
-* [Temasek Polytechnic](www.tp.edu.sg)
+* [Nanyang Polytechnic](https://www.nyp.edu.sg/)
+* [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
+* [Republic Polytechnic](https://www.rp.edu.sg/)
+* [Singapore Polytechnic](https://www.sp.edu.sg/)
+* [Temasek Polytechnic](https://www.tp.edu.sg/)
 
 The committee undertakes strategic projects which result in recommendations and frameworks that serve as a sector-wide reference for the five polytechnics. Polytechnics adapt these to their own contexts as part of on-going efforts to enhance the quality of teaching and learning outcomes for students. In some cases, projects lead to sectorial programmes that are developed and run jointly across the various polytechnics.
 

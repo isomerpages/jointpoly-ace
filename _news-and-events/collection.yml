@@ -1,8 +1,8 @@
 collections:
-  news-and-upcoming-events:
+  news-and-events:
     output: true
     order:
-      - Latest News.md
+      - News.md
       - Academy Events.md
       - Polytechnic Events.md
       - Partner Events.md

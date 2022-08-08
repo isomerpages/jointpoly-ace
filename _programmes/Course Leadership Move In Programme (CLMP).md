@@ -3,16 +3,14 @@ title: Course Leadership Move In Programme (CLMP)
 permalink: /CLMP/
 description: Course Leadership Move in Programme (CLMP)
 image: ""
-third_nav_title: Leadership Programmes
 ---
-
 # Course Leadership Move-In Programme (CLMP)
 
 ![](/images/53753385_ML.jpg)
 
 #### What is the programme about?
 
-CLMP advances polytechnic participants' T&L knowledge and skills in course leadership so that they can effectively navigate the challenges and opportunities of course management.
+The Course Leadership Move-In Programme (CLMP) advances polytechnic participants' T&L knowledge and skills in course leadership so that they can effectively navigate the challenges and opportunities of course management.
 
 The programme provides participants with varied, authentic and practice-oriented learning experiences that offer unique insights in course management through a multi-campus and multi-faceted approach.
 
@@ -28,7 +26,7 @@ CLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 #### When is the programme conducted?
 
-The duration is 100 hours over a span of 7 months. The first run will commence in March 2023. The second run is expected to commence in 2024.
+The duration of the programme is 100 hours, which is conducted over a span of 7 months. The first run will commence in March 2023. The second run is expected to commence in 2024.
 
 ## Click here to find out more about CLMP!
 
@@ -36,7 +34,7 @@ The duration is 100 hours over a span of 7 months. The first run will commence i
 
 #### Have a question related to CLMP?
 
-Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for CLMP:
+Please contact Programme Heads [Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for CLMP:
 
 * Nanyang Polytechnic: [Lye Pek Ling](mailto: lye_pek_ling@nyp.edu.sg) , [Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Tan Guangfan](mailto: tan_guangfan@np.edu.sg) , [Alagu Sundaram](mailto: alagu_sundaram@np.edu.sg)

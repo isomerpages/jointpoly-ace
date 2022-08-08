@@ -4,7 +4,7 @@ links:
     collection: about-us
   - title: Programmes
     collection: programmes
-  - title: News And Upcoming Events
-    collection: news-and-upcoming-events
+  - title: News And Events
+    collection: news-and-events
   - title: Contact Us
     url: /contact-us/

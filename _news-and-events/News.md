@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: News
 permalink: /mou/
 description: "The Training and Adult Education (TAE) sector is set to be given a
   boost, as institutions unite to elevate the quality of Continuing Education
@@ -10,6 +10,7 @@ description: "The Training and Adult Education (TAE) sector is set to be given a
   SkillsFuture Singapore to collaborate in the CET space. "
 image: ""
 ---
+
 # Latest News
 
 #### Institutions join forces to uplift the training and adult education sector
