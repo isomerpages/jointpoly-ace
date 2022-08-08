@@ -6,7 +6,7 @@ description: The JP-AcE collaborates with IAL to design and organise learning
   opportunities to enhance T&L capabilities of adult educators.
 image: ""
 ---
-The JP-AcE represents the 5 polytechnics to collaborate with the Institute of Adult Learning (IAL).
+The JP-AcE represents the five polytechnics to collaborate with the Institute of Adult Learning (IAL).
 
 ![](/images/54123485_ML.jpg)
 
