@@ -4,7 +4,6 @@ permalink: /SLMP/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ML.jpg
 ---
-
 # School Leadership Move-In Programme (SLMP)
 
 
@@ -27,7 +26,7 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 #### When is the programme conducted?
 
-The duration is 200 hours over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
+The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
 
 ## Click here to find out more about SLMP!
 
@@ -35,7 +34,7 @@ The duration is 200 hours over a span of 1 year. The first run is conducted betw
 
 #### Have a question related to SLMP?
 
-Please contact Programme Heads [Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Tina](mailto: tina_soo@np.edu.sg) or your polytechnic coordinator(s) for SLMP:
+Please contact Programme Heads [Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Tina Soo](mailto: tina_soo@np.edu.sg) or your polytechnic coordinator(s) for SLMP:
 
 * Nanyang Polytechnic: [Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Phillip Lau](mailto: phillip_lau@np.edu.sg) ,  [Peggy Leong](mailto: peggy_leong@np.edu.sg) , [Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
