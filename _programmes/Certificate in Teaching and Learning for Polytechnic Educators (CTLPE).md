@@ -42,8 +42,8 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 Please contact Programme Heads [Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Joey Tong](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for CTLPE:
 
-* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg) , [Hsiao Yia Fang](mailto: hsiao_yia_fang@nyp.edu.sg)
+* Nanyang Polytechnic: [Gerard Chan](mailto: gerard_chan@nyp.edu.sg) 
 * Ngee Ann Polytechnic: [Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
-* Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) , [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg)
+* Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) 
 * Singapore Polytechnic: [Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
 * Temasek Polytechnic: [Jonathan Chee](jonathan_chee@tp.edu.sg)
