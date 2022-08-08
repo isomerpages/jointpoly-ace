@@ -4,7 +4,8 @@ permalink: /welcome/
 description: ""
 ---
 # Welcome Message
-![](/images/raj%20banner2.jpg)
+
+![](/images/raj%20banner%204.png)
 
 Welcome to website of the Joint-Polytechnic Academy of Educators (JP-AcE).
 
