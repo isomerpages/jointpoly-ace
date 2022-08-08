@@ -25,7 +25,7 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 #### When is the programme conducted?
 
-The duration of the programme is 160 hours, which is condcuted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
+The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
 ## Click here to find out more about TLMP!
 
