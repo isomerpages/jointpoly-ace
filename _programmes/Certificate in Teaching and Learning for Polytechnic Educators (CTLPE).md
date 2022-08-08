@@ -3,8 +3,6 @@ title: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 permalink: /CTLPE/
 description: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 ---
-
-
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
 ![](/images/127315465_ML2.jpg)
@@ -25,7 +23,7 @@ It focuses on the following areas:
 
 #### How is the programme conducted?
 
-CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous and asynchronous and face-to-face lessons.
+CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous & asynchronous and face-to-face lessons.
 
 ![](/images/ctlpe%20intake%207%20pic%203.jpg)
 
