@@ -53,7 +53,7 @@ sections:
       alt: SLMP
   - infopic:
       title: TLMP
-      subtitle: For T&L mentors
+      subtitle: For Teaching & Learning (T&L) mentors
       description: Develop your mentoring capabilities through the <strong>T&L Mentor
         Move-In Programme</strong>.
       button: Find out more
