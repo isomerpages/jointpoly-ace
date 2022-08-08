@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: ""
       - email: rajnish_gupta@sp.edu.sg
-      - other: "Academy Head "
+      - other: Head, JP-AcE
     title: "Dr. Rajnish Gupta "
   - content:
       - phone: ""
