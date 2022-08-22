@@ -32,6 +32,8 @@ The duration of the programme is 200 hours, which is conducted over a span of 1 
 
 ### [Click here to find out more about SLMP!](https://drive.google.com/file/d/1LjbhSIjzjIVLYP9plop533x1mWkIrP71/view?usp=sharing)
 
+### \[Click here to find out more about SLMP!\](https://drive.google.com/file/d/1LjbhSIjzjIVLYP9plop533x1mWkIrP71/view?usp=sharing)
+
 #### Have a question related to SLMP?
 
 Please contact Programme Heads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) or your polytechnic coordinator(s) for SLMP:
