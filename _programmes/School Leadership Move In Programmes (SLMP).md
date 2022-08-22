@@ -29,7 +29,7 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
 
 ### [Click here to find out more about SLMP!](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%2022%20August%202022%20KWL%20.pdf)
-(Right click to open the above link in a new tab.)
+   (Right click to open the above link in a new tab.)
 
 
 #### Have a question related to SLMP?
