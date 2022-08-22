@@ -30,7 +30,7 @@ c.    For your convenience, we may also display to you data you had previousl
                       
 #### Contact Information
 
-7.    The use of this website is subject to Isomer’s Terms of Use & Privacy Policy which can be found here: https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement. By continuing to use this website, you are deemed to be agreeing to this.
+7.    The use of this website is subject to Isomer’s Terms of Use & Privacy Policy which can be found here: [https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement)  By continuing to use this website, you are deemed to be agreeing to this.
 
 8.   Please contact JP-AcE if you have any enquiries or feedback on our data protection policies and procedures.
 
