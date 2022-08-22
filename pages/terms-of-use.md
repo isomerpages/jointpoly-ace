@@ -6,8 +6,9 @@ permalink: /terms-of-use/
 
 Thank you for visiting JP-AcE’s Website (this Website). By accessing and using this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use.
 
-JP-AcE reserves the right to make changes to the terms of use and the contents of this website.
+In addition, the use of this website is subject to Isomer’s Terms of Use & Privacy Policy which can be found here: [https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement.](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement. "https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement.")
 
+JP-AcE reserves the right to make changes to the terms of use and the contents of this website.
 
 
 #### Proprietary Rights
