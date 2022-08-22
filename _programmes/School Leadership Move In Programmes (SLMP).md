@@ -30,7 +30,7 @@ The duration of the programme is 200 hours, which is conducted over a span of 1 
 
 ## [Click here to find out more about SLMP!](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%2022%20August%202022%20KWL%20.pdf)
 
-
+## [Click here to find out more about SLMP!](https://drive.google.com/file/d/1LjbhSIjzjIVLYP9plop533x1mWkIrP71/view?usp=sharing)
 
 #### Have a question related to SLMP?
 
