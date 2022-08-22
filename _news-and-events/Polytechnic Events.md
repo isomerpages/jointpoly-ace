@@ -20,4 +20,4 @@ Interested polytechnic educators can register and attend any session(s) to learn
     
 #### Keen to share your polytechnic  event on this page?
 
-Please contact either [Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
