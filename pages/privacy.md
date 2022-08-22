@@ -34,6 +34,7 @@ c.    For your convenience, we may also display to you data you had previousl
 
 8.    Please contact JP-AcE if you have any enquiries or feedback on our data protection policies and procedures.
 
+                       
 #### Definitions
 
 
