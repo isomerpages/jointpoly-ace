@@ -34,9 +34,9 @@ The duration of the programme is 100 hours, which is conducted over a span of 7 
 
 #### Have a question related to CLMP?
 
-Please contact Programme Heads [Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for CLMP:
+Please contact Programme Heads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) or your polytechnic coordinator(s) for CLMP:
 
-* Nanyang Polytechnic: [Lye Pek Ling](mailto: lye_pek_ling@nyp.edu.sg) , [Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
+* Nanyang Polytechnic: [Ms. Lye Pek Ling](mailto: lye_pek_ling@nyp.edu.sg) , [Ms. Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Tan Guangfan](mailto: tan_guangfan@np.edu.sg) , [Alagu Sundaram](mailto: alagu_sundaram@np.edu.sg)
 * Republic Polytechnic: [Esther Chng](mailto: esther_chng@rp.edu.sg) , [Allan Lee](mailto: allan_lee@rp.edu.sg) , [Iris Ngia](mailto: iris_ngia@rp.edu.sg)
 * Singapore Polytechnic: [Sally Ng](mailto: sally_ng@sp.edu.sg) , [Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg) , [Tiew Lee Ching](mailto: tiew_lee_ching@sp.edu.sg)
