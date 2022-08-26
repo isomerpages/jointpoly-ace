@@ -9,7 +9,11 @@ image: ""
 
 #### 1. Learning Journey at IAL
 
-![](/images/94213049_ML.jpg)
+![](/images/IALvisit1.jpeg)
+
+![](/images/IALvisit2.jpeg)
+
+![](/images/IALvisit3.jpeg)
 
 Date: 23 August 2022
 
