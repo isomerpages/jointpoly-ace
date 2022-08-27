@@ -16,6 +16,8 @@ This page is dedicated to share with you polytechnic events that are open to all
 
 **NYP Education Symposium 2022 (Open to all Poly and ITE colleagues)**
 
+![](/images/NYP%20ES2022%20banner%20(2).jpg)
+
 Date: 21-22 Sep 2022
 
 Mode: 100% online
