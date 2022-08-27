@@ -12,7 +12,7 @@ description: Discover learning opportunities that are organised by polytechnics
 
 This page is dedicated to share with you polytechnic events that are open to all polytechnic educators across the five polytechnics. 
 
-#### Learning Opportunities
+#### Learning Event 1
 
 NYP Education Symposium 2022 (Open to all Poly and ITE colleagues)
 
@@ -22,7 +22,7 @@ Mode: 100% online
 
 [Click here for ES2022 Programme and Registration!](https://file.for.edu.sg/nypes2022programme.pdf)
      
-   
+![](/images/101361251_ML.jpg)   
 	             
 #### Keen to share your polytechnic  event on this page?
 
