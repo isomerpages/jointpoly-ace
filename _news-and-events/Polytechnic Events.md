@@ -12,7 +12,7 @@ description: Discover learning opportunities that are organised by polytechnics
 
 This page is dedicated to share with you polytechnic events that are open to all polytechnic educators across the five polytechnics. 
 
-#### Learning Event 1
+#### Learning Event 
 
 **NYP Education Symposium 2022 (Open to all Poly and ITE colleagues)**
 
