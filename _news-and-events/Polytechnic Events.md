@@ -20,7 +20,7 @@ Date: 21-22 Sep 2022
 
 Mode: 100% online
 
-[Click here for ES2022 Programme and Registration!](https://file.for.edu.sg/nypes2022programme.pdf)
+[Click here for NYP ES2022 Programme and Registration!](https://file.for.edu.sg/nypes2022programme.pdf)
      
 ![](/images/101361251_ML.jpg)   
 	             
