@@ -8,8 +8,6 @@ description: Discover learning opportunities that are organised by polytechnics
 
 #### Learn as a community
 
-![](/images/117303261_ML.jpg)
-
 This page is dedicated to share with you polytechnic events that are open to all polytechnic educators across the five polytechnics. 
 
 #### Learning Event 
