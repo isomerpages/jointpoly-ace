@@ -14,7 +14,7 @@ This page is dedicated to share with you polytechnic events that are open to all
 
 #### Learning Event 1
 
-**NYP Education Symposium 2022 **(Open to all Poly and ITE colleagues)
+**NYP Education Symposium 2022 (Open to all Poly and ITE colleagues)**
 
 Date: 21-22 Sep 2022
 
