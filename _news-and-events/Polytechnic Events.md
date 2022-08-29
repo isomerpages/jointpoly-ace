@@ -4,7 +4,7 @@ permalink: /openpolyevents/
 description: Discover learning opportunities that are organised by polytechnics
   and open to all polytechnic educators!
 ---
-We will # Polytechnic Events
+
 
 #### Learn as a community
 
