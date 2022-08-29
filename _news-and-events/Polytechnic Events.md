@@ -24,8 +24,8 @@ Poly reps can post a new polytechnic event in the above padlet by indicating the
 * Mode of delivery
 * Course/ Programme details (e.g. Learning Outcomes, Synopsis, speaker/facilitator profile)
 * Registration Method and Links
-* Poly POC 
+* Organiser Point-of-Contact 
 
 Padlet posts will be subjected to approval before appearing live in Padlet.
 
-Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) if you have a post/ question. 
+Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) if you have a post/ question.
