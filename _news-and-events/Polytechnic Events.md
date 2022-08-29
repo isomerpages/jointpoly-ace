@@ -18,7 +18,7 @@ This page is dedicated to share with you polytechnic events that are open to all
 #### Keen to share your polytechnic  event on this page?
 
 Poly reps can post a new polytechnic event in the above padlet (according to timeline) by indicating the following information in order:
-* Post Header: Date and title of event
+* Post Header: Date - Poly Name - Event Title
 * Banner/ Graphic/ Video (if any)
 * Time of event
 * Mode of delivery
