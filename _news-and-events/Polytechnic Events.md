@@ -28,4 +28,4 @@ Poly reps can post a new polytechnic event in the above padlet by indicating the
 
 Padlet posts will be subjected to approval before appearing live in Padlet.
 
-Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) if you have a post/ question.
+Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) if you need assistance.
