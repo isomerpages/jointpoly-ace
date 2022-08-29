@@ -11,10 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: |-
-          Telephone: 68706125 
-
-          Closed on Public Holidays
+        description: "Telephone: 68706125 - Closed on Public Holidays"
     maps_link: https://www.sp.edu.sg/map
     title: JP-AcE Office
 contacts:
