@@ -41,4 +41,4 @@ Please contact your Polytechnic Coordinator(s) for CLMP:
 * Republic Polytechnic: [Esther Chng](mailto: esther_chng@rp.edu.sg) , [Allan Lee](mailto: allan_lee@rp.edu.sg) , [Iris Ngia](mailto: iris_ngia@rp.edu.sg)
 * Singapore Polytechnic: [Sally Ng](mailto: sally_ng@sp.edu.sg) , [Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg) , [Tiew Lee Ching](mailto: tiew_lee_ching@sp.edu.sg)
 * Temasek Polytechnic: [Shirley Ong-Tan](mailto: shirley_ong-tan@tp.edu.sg) , [Jackson Ho](mailto: jackson_ho@tp.edu.sg)
-* Joint-Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg)
+* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg)
