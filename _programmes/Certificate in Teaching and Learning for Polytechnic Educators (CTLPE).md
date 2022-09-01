@@ -46,4 +46,4 @@ Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg
 * Ngee Ann Polytechnic: [Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
 * Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) 
 * Singapore Polytechnic: [Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
-* Temasek Polytechnic: [Jonathan Chee](jonathan_chee@tp.edu.sg)
+* Temasek Polytechnic: [Dr. Jonathan Chee](jonathan_chee@tp.edu.sg)
