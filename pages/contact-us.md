@@ -24,7 +24,7 @@ contacts:
       - phone: ""
       - email: kalaivani_chandra@sp.edu.sg
       - other: Programme Administrative Executive
-    title: Ms. Kalaivani D/O Chandra
+    title: Ms. Kalaivani Chandra
   - content:
       - phone: ""
       - email: joey_tong@nyp.edu.sg
