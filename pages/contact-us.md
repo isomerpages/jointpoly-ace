@@ -22,7 +22,7 @@ contacts:
     title: "Dr. Rajnish Gupta "
   - content:
       - phone: ""
-      - email: kalaivani@sp.edu.sg
+      - email: kalaivani_chandra@sp.edu.sg
       - other: Programme Administrative Executive
     title: Ms. Kalaivani D/O Chandra
   - content:
