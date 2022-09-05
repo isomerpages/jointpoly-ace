@@ -11,4 +11,4 @@ Upcoming events:
 
 Past events:
 
-[Check out the Skills Future Festival 2022 organised by SSG.](https://skillsfuturefestival.sg/smart/hello/LMP?EI=b744yibj)
+[Check out the Skills Future Festival 2022 organised by SSG (5 Jul-14 Aug 2022).](https://skillsfuturefestival.sg/smart/hello/LMP?EI=b744yibj)
