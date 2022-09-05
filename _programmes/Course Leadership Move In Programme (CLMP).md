@@ -28,7 +28,7 @@ CLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 The duration of the programme is 100 hours, which is conducted over a span of 7 months. The first run will commence in March 2023. The second run is expected to commence in 2024.
 
-### Click here to find out more about CLMP!
+#### [Click here to find out more about CLMP!](/files/CLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%205%20Sept%202022%20_KWL%20.pdf)
 (Right click to open the above link in a new tab.)
 
 
