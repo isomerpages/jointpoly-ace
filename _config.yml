@@ -62,7 +62,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://jointpoly-ace-staging.netlify.app
 prod: https://jointpoly-ace-prod.netlify.app
-shareicon: /images/Asset 1@2x.png
+shareicon: /images/final logo with text.jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
