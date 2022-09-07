@@ -33,7 +33,7 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 
 
-### Click here to find out more about CTLPE!
+### [Click here to find out more about CTLPE!](/files/CTLPE%20Prog%20information%20for%20JPAcE%20website_updated%20on%207%20Sep%202022.pdf)
 (Right click to open the above link in a new tab.)
 
 
