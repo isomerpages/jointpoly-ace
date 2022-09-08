@@ -27,16 +27,17 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
-## Click here to find out more about TLMP!
-
+### [Click here to find out more about TLMP!](/files/TLMP_Prog%20information_for%20JPAcE%20website%20_updated%206%20Sept%202022.pdf)
+(Right click to open the above link in a new tab.)
 
 
 #### Have a question related to TLMP?
 
-Please contact Programme Heads [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for TLMP:
+Please contact your Polytechnic Coordinator(s) for TLMP:
 
 * Nanyang Polytechnic: [Ms. Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Dr. Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
-* Republic Polytechnic: [Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg) , [Urvi Maniar](mailto: urvi_maniar@rp.edu.sg)
-* Singapore Polytechnic: [Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg), [Kwa Lay Ping](mailto: kwa_lay_ping@sp.edu.sg)
-* Temasek Polytechnic: [Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg) , [Teresa Abelanes](mailto: maria_abelanes@tp.edu.sg)
+* Ngee Ann Polytechnic: [Mr. Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Ms. Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
+* Republic Polytechnic: [Dr. Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg) , [Ms. Urvi Maniar](mailto: urvi_maniar@rp.edu.sg)
+* Singapore Polytechnic: [Mr. Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg), [Ms. Kwa Lay Ping](mailto: kwa_lay_ping@sp.edu.sg)
+* Temasek Polytechnic: [Ms. Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg) , [Mrs. Teresa Abelanes](mailto: maria_abelanes@tp.edu.sg)
+* Joint Polytechnic Academy for Educators: [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)

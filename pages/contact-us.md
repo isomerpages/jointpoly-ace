@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
+        description: "Telephone: 68706125 - Closed on Public Holidays"
     maps_link: https://www.sp.edu.sg/map
     title: JP-AcE Office
 contacts:
@@ -22,9 +22,9 @@ contacts:
     title: "Dr. Rajnish Gupta "
   - content:
       - phone: ""
-      - email: kalaivani@sp.edu.sg
+      - email: kalaivani_chandra@sp.edu.sg
       - other: Programme Administrative Executive
-    title: Ms. Kalaivani D/O Chandra
+    title: Ms. Kalaivani Chandra
   - content:
       - phone: ""
       - email: joey_tong@nyp.edu.sg

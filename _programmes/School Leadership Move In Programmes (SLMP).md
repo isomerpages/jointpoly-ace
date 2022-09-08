@@ -28,16 +28,17 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
 
-## Click here to find out more about SLMP!
-
+### [Click here to find out more about SLMP!](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%2022%20August%202022%20KWL%20.pdf)
+(Right click to open the above link in a new tab.)
 
 
 #### Have a question related to SLMP?
 
-Please contact Programme Heads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) or your polytechnic coordinator(s) for SLMP:
+Please contact your Polytechnic Coordinator(s) for SLMP:
 
-* Nanyang Polytechnic: [Mr. Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Phillip Lau](mailto: phillip_lau@np.edu.sg) ,  [Peggy Leong](mailto: peggy_leong@np.edu.sg) , [Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
-* Republic Polytechnic: [Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
-* Singapore Polytechnic: [Au-Yeong Yuk Chin](mailto: Aw_Yeong_Yuk_Chin@sp.edu.sg)
-* Temasek Polytechnic: [Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
+* Nanyang Polytechnic: [Dr. Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
+* Ngee Ann Polytechnic: [Mr. Philip Lau](mailto: philip_lau@np.edu.sg) ,  [Ms. Peggy Leong](mailto: peggy_leong@np.edu.sg) , [Dr. Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
+* Republic Polytechnic: [Mr. Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
+* Singapore Polytechnic: [Ms. Au-Yeong Yuk Chin](mailto: Aw_Yeong_Yuk_Chin@sp.edu.sg)
+* Temasek Polytechnic: [Dr. Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
+* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg)

@@ -13,7 +13,7 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/Logo2withtext.png
+image: /images/Web version updated on 7 Sep 2022.png
 permalink: /
 notification: ""
 sections:
@@ -78,5 +78,11 @@ sections:
       image: /images/291226995_405302041629525_1628861488584746721_n.jpg
       alt: mou
 ---
+
+
+
+
+
+
 
 

@@ -19,6 +19,7 @@ a.    Where appropriate, we may share necessary data with other Government ag
 b.    We may share your personal data with non-Government entities that have been authorised to carry out specific Government services. We will NOT share your personal data with other non-Government entities without your consent except where such sharing complies with the law.
 
 c.    For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions.
+            
 
 #### Protection of Data
 
@@ -26,14 +27,19 @@ c.    For your convenience, we may also display to you data you had previousl
 
 6.    This digital service may contain links to non-Government digital services whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital services and we encourage you to consult the privacy notices of those digital services.
 
+                      
 #### Contact Information
 
-7.    Please contact JP-AcE if you have any enquiries or feedback on our data protection policies and procedures.
+7.    The use of this website is subject to Isomer’s Terms of Use & Privacy Policy which can be found here: [https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement](https://guide.isomer.gov.sg/terms-and-privacy/terms-of-use#8.-privacy-statement)  By continuing to use this website, you are deemed to be agreeing to this.
 
+8.    Please contact JP-AcE if you have any enquiries or feedback on our data protection policies and procedures.
+
+                       
 #### Definitions
 
-8.    "Government agency" refers to an Organ of State, Ministry, Department or Statutory Board.
 
- 9.    "Non-Government entity" refers to a person other than a Government agency.
+9.     “Government agency” refers to an Organ of State, Ministry, Department or Statutory Board.
 
-10.  "Personal data" shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).
+ 10.    “Non-Government entity” refers to a person other than a Government agency.
+
+11.     “Personal data” shall have the same meaning as its definition in the Personal Data Protection Act 2012 (No. 26 of 2012).

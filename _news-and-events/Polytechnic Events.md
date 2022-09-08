@@ -4,20 +4,29 @@ permalink: /openpolyevents/
 description: Discover learning opportunities that are organised by polytechnics
   and open to all polytechnic educators!
 ---
-# Polytechnic Events
-
 #### Learn as a community
 
-![](/images/117303261_ML.jpg)
-
 This page is dedicated to share with you polytechnic events that are open to all polytechnic educators across the five polytechnics. 
+       
 
-Interested polytechnic educators can register and attend any session(s) to learn together as a community to strengthen T&L capability.
-
-  
-## Click here to check out what's on at other polytechnics!
-     
-    
+### [Event Padlet: Click here to check out other Polytechnic Learning Events!](https://nyp.padlet.org/joeytong/pyh8eoctf1vj4q2y)
+(You can right click the open link to open Padlet in a new tab.)
+                    
+	             
 #### Keen to share your polytechnic  event on this page?
 
-Please contact either [Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) for a discussion.
+Poly reps can post a new polytechnic event in the above padlet (according to timeline) by indicating the following information in order:
+* Post Header: Date - Poly Name - Event Title
+* Banner/ Graphic/ Video (if any)
+* Time of event
+* Mode of delivery
+* Course/ Programme details (e.g. Learning Outcomes, Synopsis, speaker/facilitator profile)
+* Registration Method and Links
+* Organiser Point-of-Contact 
+
+Padlet posts will be subjected to approval before appearing live in Padlet.
+
+New to Padlet? [Watch an instructional video to learn how to post on Padlet timeline.](https://youtu.be/uXSxl4qFpmk?t=110)
+
+
+Please contact either [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) if you need assistance.

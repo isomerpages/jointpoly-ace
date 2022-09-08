@@ -5,7 +5,10 @@ description: ""
 ---
 # Partner Events
 
+Upcoming events:
 
-[Check out learning opportunities organised by IAL.](https://www.ial.edu.sg/learn-at-ial/ial-programmes.html)
+[Check out short courses organised by IAL.](https://www.ial.edu.sg/short-courses/)
 
-[Check out the Skills Future Festival 2022 organised by SSG.](https://skillsfuturefestival.sg/smart/hello/LMP?EI=b744yibj)
+Past events:
+
+[Check out the Skills Future Festival 2022 organised by SSG (5 Jul-14 Aug 2022).](https://skillsfuturefestival.sg/smart/hello/LMP?EI=b744yibj)

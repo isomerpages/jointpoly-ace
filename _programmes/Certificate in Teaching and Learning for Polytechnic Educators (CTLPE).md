@@ -33,17 +33,17 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 
 
-## Click here to find out more about CTLPE!
-
+### [Click here to find out more about CTLPE!](/files/CTLPE%20Prog%20information%20for%20JPAcE%20website_updated%20on%207%20Sep%202022%20v2.pdf)
+(Right click to open the above link in a new tab.)
 
 
 
 #### Have a question related to CTLPE?
 
-Please contact Programme Heads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or your polytechnic coordinator(s) for CTLPE:
+Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or your Polytechnic Coordinator(s) for CTLPE:
 
 * Nanyang Polytechnic: [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg) 
-* Ngee Ann Polytechnic: [Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
-* Republic Polytechnic: [Renny Low](mailto: renny_low@rp.edu.sg) , [Shaun Tay](mailto: shaun_tay@rp.edu.sg) 
-* Singapore Polytechnic: [Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
-* Temasek Polytechnic: [Jonathan Chee](jonathan_chee@tp.edu.sg)
+* Ngee Ann Polytechnic: [Ms. Wong Wai Leng](mailto: wong_wai_leng@np.edu.sg)
+* Republic Polytechnic: [Mr. Renny Low](mailto: renny_low@rp.edu.sg) , [Mr. Shaun Tay](mailto: shaun_tay@rp.edu.sg) 
+* Singapore Polytechnic: [Ms. Ng Xin Hui](mailto: ng_xin_hui@sp.edu.sg)
+* Temasek Polytechnic: [Dr. Jonathan Chee](jonathan_chee@tp.edu.sg)
