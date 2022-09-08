@@ -22,7 +22,7 @@ Poly reps can post a new polytechnic event in the above padlet (according to tim
 * Mode of delivery
 * Course/ Programme details (e.g. Learning Outcomes, Synopsis, speaker/facilitator profile)
 * Registration Method and Links
-* Video recordings/ slides (if any)
+* Video recordings/ Slides (if any)
 * Organiser Point-of-Contact 
 
 Padlet posts will be subjected to approval before appearing live in Padlet.
