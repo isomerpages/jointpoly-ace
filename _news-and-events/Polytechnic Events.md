@@ -10,7 +10,7 @@ This page is dedicated to share with you polytechnic events that are open to all
        
 
 ### [Event Padlet: Click here to check out other Polytechnic Learning Events!](https://nyp.padlet.org/joeytong/pyh8eoctf1vj4q2y)
-(You can right click the open link to open Padlet in a new tab.)
+(You can right click the above link to open Padlet in a new tab.)
                     
 	             
 #### Keen to share your polytechnic  event on this page?
