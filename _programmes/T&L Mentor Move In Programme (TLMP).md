@@ -16,12 +16,18 @@ The T&L Mentor Move-In Programme (TLMP) provides the T&L mentors across five pol
 * Driving coaching for T&L quality and innovation
 
 The TLMP is organised by representatives from all polytechnics.
-![](/images/tlmp2.jpg)
+
 
 
 #### How is the programme conducted?
 
 TLMP is conducted mainly face-to-face with provision made for hybrid mode of learning.
+
+![](/images/TLMP%20EM%20Huddle%20on%2013%20Sep%202022.png)
+
+![](/images/tlmp1%20(5).jpeg)
+
+![](/images/tlmp1%20(3).jpeg)
 
 #### When is the programme conducted?
 
