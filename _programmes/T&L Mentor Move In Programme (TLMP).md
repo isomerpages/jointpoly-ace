@@ -27,6 +27,8 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 ![](/images/tlmp1%20(5).jpeg)
 
+![](/images/tlmp1%20(2).jpeg)
+
 ![](/images/tlmp1%20(3).jpeg)
 
 #### When is the programme conducted?
