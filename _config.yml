@@ -63,7 +63,7 @@ plugins:
 staging: https://jointpoly-ace-staging.netlify.app
 prod: https://jointpoly-ace-prod.netlify.app
 shareicon: /images/Web version updated on 7 Sep 2022.png
-is_government: true
+is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
