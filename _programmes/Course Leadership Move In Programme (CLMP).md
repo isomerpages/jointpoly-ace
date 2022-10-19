@@ -19,6 +19,7 @@ The 3 key aspects of CLMP are:
 * Leading course quality
 * Managing course stakeholders
 
+![](/images/MicrosoftTeams-image%20(6).png)
 
 #### How is the programme conducted?
 
