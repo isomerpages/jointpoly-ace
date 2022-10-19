@@ -24,6 +24,8 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 ![](/images/slmp.jpg)
 
+![](/images/slmp%20mpa.jpg)
+
 #### When is the programme conducted?
 
 The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
