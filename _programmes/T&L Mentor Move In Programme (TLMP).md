@@ -17,7 +17,7 @@ The T&L Mentor Move-In Programme (TLMP) provides the T&L mentors across five pol
 
 The TLMP is organised by representatives from all polytechnics.
 
-
+![](/images/tlmporganisers.jpeg)
 
 #### How is the programme conducted?
 
