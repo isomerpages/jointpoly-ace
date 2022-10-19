@@ -35,7 +35,7 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
 
-![](/images/tlmp%20intake%201%20group%20pic1.jpg)
+![](/images/tlmp%20NMs.jpeg)
 
 ### [Click here to find out more about TLMP!](/files/TLMP_Prog%20information_for%20JPAcE%20website%20_updated%206%20Sept%202022.pdf)
 (Right click to open the above link in a new tab.)
