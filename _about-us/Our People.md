@@ -8,7 +8,8 @@ image: ""
 
 JP-AcE reports to five polytechnics’ Principal & CEOs (PCEOs) through the co-chairs of the Joint Polytechnic Committee to Enhance Teaching & Learning (JP-CETL) Steering Committee. The organisation structure is depicted as below:
 
-![](/images/jpace%20infrastructure.png)
+
+![](/images/jpace%20reporting%20chart%20-%20senior%20executive.png)
 
 ## Our People
 
