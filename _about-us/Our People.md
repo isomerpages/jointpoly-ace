@@ -17,3 +17,5 @@ The JP-AcE is led by a team of representatives from the five polytechnics. The a
 
 
 ![](/images/ourpeople-%20senior%20executive.png)
+
+![](/images/JP-AcE-19%20(Edited).jpg)
