@@ -20,4 +20,4 @@ The JP-AcE is led by a team of representatives from the five polytechnics. The a
 
 Standing (from left to right): Ms. Joey Tong (Education Staff Developer), Dr Rajnish Gupta (Head, JP-AcE)
 
-Seated (from left to right): Ms Kalaivani Chandra (Senior Executive), Ms Keng Wan ling (Education Staff Developer), Ms Lim Bee Hwee (Education Staff Developer), Ms Tina Soo (Education Staff Developer)
+Seated (from left to right): Ms. Kalaivani Chandra (Senior Executive), Ms. Keng Wan Ling (Education Staff Developer), Ms. Lim Bee Hwee (Education Staff Developer), Ms. Tina Soo (Education Staff Developer)

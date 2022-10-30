@@ -6,8 +6,7 @@ description: ""
 # Welcome Message
 
 
-![](/images/raj%20with%20name%20-%20small.jpg)
-
+![](/images/JP-AcE-27%20(Edited)-raj%20with%20names2.jpg)
 
 Welcome to the website of the Joint-Polytechnic Academy for Educators (JP-AcE).
 
