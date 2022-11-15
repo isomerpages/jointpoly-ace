@@ -21,7 +21,7 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: Academy Events
-      url: /launch/
+      url: /academyevents/
       key_highlights:
         - title: Welcome Message
           description: ""
@@ -78,11 +78,3 @@ sections:
       image: /images/291226995_405302041629525_1628861488584746721_n.jpg
       alt: mou
 ---
-
-
-
-
-
-
-
-

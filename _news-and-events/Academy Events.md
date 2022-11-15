@@ -1,9 +1,10 @@
 ---
 title: Academy Events
-permalink: /launch/
+permalink: /academyevents/
 description: Launch ceremony of JP-AcE will be on 16 September 2022. Find out more!
 image: ""
 ---
+
 # Academy Events
 
 
@@ -31,7 +32,7 @@ Representatives from the five polytechnics’ educational development units visi
 
 Date: 18 November 2022
 
-Time: 9.30am - 10.30am
+Time: 11.30am-12.30pm
 
 Venue: Singapore Polytechnic (SP)
 
