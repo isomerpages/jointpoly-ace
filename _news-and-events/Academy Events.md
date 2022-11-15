@@ -4,7 +4,6 @@ permalink: /academyevents/
 description: Launch ceremony of JP-AcE will be on 16 September 2022. Find out more!
 image: ""
 ---
-
 # Academy Events
 
 
@@ -29,6 +28,9 @@ Representatives from the five polytechnics’ educational development units visi
 #### 2. JP-AcE Launch Ceremony 
 
 ![](/images/launch%20ceremony.png)
+
+
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/Vel55c-4N3s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Date: 18 November 2022
 
