@@ -38,4 +38,7 @@ Time: 11.30am-12.30pm
 
 Venue: Singapore Polytechnic (SP)
 
-On 18 November 2022, the polytechnic community will come together to witness the launch of the Joint Polytechnic Academy for Educators (JP-AcE). The launch event aims to share more about the work and the plans for the Academy, and to introduce the members of the new unit. Attendees will also have the opportunity to network and connect with others involved in joint-polytechnic teaching & learning projects and programmes.
+
+On 18 November 2022, the polytechnic community came together to witness the launch of the Joint Polytechnic Academy for Educators (JP-AcE).
+
+At the event, the work and the plans for the Academy were shared, and the members of the new unit were introduced. DP Mah recounted how JP-AcE began as an idea that has now come to fruition, and emphasised the importance of collaboration between all the polytechnics. The JP-AcE logo, signifying the coming together of all the polytechnics to form a solid foundation for teaching and learning, was unveiled. Event attendees had the opportunity to connect with others who were involved in joint-polytechnic teaching & learning projects and programmes.
