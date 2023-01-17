@@ -44,4 +44,4 @@ Please contact Programme Leads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.
 * Ngee Ann Polytechnic: [Dr. Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
 * Republic Polytechnic: [Mr. Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
 * Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
-* Temasek Polytechnic: [Dr. Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
+* Temasek Polytechnic: [Dr. Vijayan Narayananayar](mailto:vijayan_n@tp.edu.sg)
