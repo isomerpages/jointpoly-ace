@@ -28,21 +28,20 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 #### When is the programme conducted?
 
-The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is expected to commence in the first quarter of 2023.
+The duration of the programme is 200 hours, which was conducted over a span of 1 year. The first run is conducted between Nov 2021 to Nov 2022. The second run is scheduled to commence in the second quarter of 2023.
 
 ![](/images/slmp%20fablab.jpg)
 
-### [Click here to find out more about SLMP!](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%2022%20August%202022%20KWL%20.pdf)
+#### [Click here to find out more about SLMP.](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20Updated%2017%20Jan%202023.pdf)
 (Right click to open the above link in a new tab.)
 
 
 #### Have a question related to SLMP?
 
-Please contact your Polytechnic Coordinator(s) for SLMP:
+Please contact Programme Leads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) or your Polytechnic Coordinator(s) for SLMP:
 
-* Nanyang Polytechnic: [Dr. Mike Cheong](mailto: mike_cheong@nyp.edu.sg) , [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Mr. Philip Lau](mailto: philip_lau@np.edu.sg) ,  [Ms. Peggy Leong](mailto: peggy_leong@np.edu.sg) , [Dr. Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
+* Nanyang Polytechnic: [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
+* Ngee Ann Polytechnic: [Dr. Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
 * Republic Polytechnic: [Mr. Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
-* Singapore Polytechnic: [Ms. Au-Yeong Yuk Chin](mailto: Aw_Yeong_Yuk_Chin@sp.edu.sg)
-* Temasek Polytechnic: [Dr. Loh Gin Hin](mailto: loh_gin_hin@tp.edu.sg)
-* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg)
+* Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
+* Temasek Polytechnic: [Dr. Vijayan Narayananayar](mailto:vijayan_n@tp.edu.sg)
