@@ -32,7 +32,7 @@ The duration of the programme is 200 hours, which was conducted over a span of 1
 
 ![](/images/slmp%20fablab.jpg)
 
-### [Click here to find out more about SLMP!](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20updated%2022%20August%202022%20KWL%20.pdf)
+#### [Click here to find out more about SLMP.](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20Updated%2017%20Jan%202023.pdf)
 (Right click to open the above link in a new tab.)
 
 
