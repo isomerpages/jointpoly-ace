@@ -16,11 +16,9 @@ A leading and inspiring academy to prepare future-ready educators
 Empowering educators for future oriented teaching & learning
 
 #### Values
-Future oriented
-Agile
-Collaboration 
-Excellence
+Future oriented, Agile, Collaboration, Excellence
 
+#### Programmes
 We offer a suite of joint-polytechnic T&L baseline capability development programmes and certifications, such as <strong>Certificate in T&L for Polytechnic Educators (CTLPE)</strong>, <strong>School Leadership Move-In Programme (SLMP)</strong>, <strong>T&L Mentor Move-In Programme (TLMP)</strong> and <strong>Course Leadership Move-In Programme (CLMP)</strong>, amongst other programmes and initiatives, to strengthen the T&L capabilities of polytechnic educators.
         
                     
