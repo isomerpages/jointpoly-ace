@@ -8,15 +8,9 @@ image: ""
 
 The Joint Polytechnic Academy for Educators (JP-AcE) was set up in 2022 as a centralised academy dedicated to developing and raising the Teaching & Learning (T&L) capability of polytechnic educators.
 
+#### Our Vision, Mission and Values
+![](/images/website%20banner%20-%20mission%20vision%20valus.jpg)
 
-#### Vision
-A leading and inspiring academy to prepare future-ready educators
-
-#### Mission
-Empowering educators for future oriented teaching & learning
-
-#### Values
-Future oriented, Agile, Collaboration, Excellence
 
 #### Programmes
 We offer a suite of joint-polytechnic T&L baseline capability development programmes and certifications, such as <strong>Certificate in T&L for Polytechnic Educators (CTLPE)</strong>, <strong>School Leadership Move-In Programme (SLMP)</strong>, <strong>T&L Mentor Move-In Programme (TLMP)</strong> and <strong>Course Leadership Move-In Programme (CLMP)</strong>, amongst other programmes and initiatives, to strengthen the T&L capabilities of polytechnic educators.
