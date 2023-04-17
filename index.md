@@ -21,7 +21,7 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: "New Launch: The Frontier Series for Educators"
-      url: /frontier/
+      url: /programmes/frontier/
       key_highlights:
         - title: Welcome Message
           description: ""
