@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - The Frontier Series for Educators.md
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
       - School Leadership Move In Programmes (SLMP).md
       - T&L Mentor Move In Programme (TLMP).md
