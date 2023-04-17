@@ -12,7 +12,7 @@ Check out new upcoming sessions below. Interested polytechnic staff may register
 
                
 
-***New Workshop: Introduction to the Metaverse***
+**New Workshop: Introduction to the Metaverse**
 ![](/images/metaverse%20banner.png)
 
 Hi educators! Are you curious about the metaverse but not sure what it is?  
