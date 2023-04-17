@@ -24,8 +24,7 @@ We will start by unpacking the essential terminologies and discussing the latest
  
 * Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Sign up for a place in Run 1 now!](https://forms.gle/a78idEwg7AGbdybW6))
 * Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Sign up for a place in Run 2 now!](https://forms.gle/Z4cRBW2xBtyx1fTw6))
-
-Mode: Face-to-face workshop at Singapore Polytechnic
+* Mode: Face-to-face workshop at Singapore Polytechnic
  
 Limited seats available. Registration will be 
 based on first-come-first-served basis.
