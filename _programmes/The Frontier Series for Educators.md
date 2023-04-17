@@ -26,9 +26,4 @@ We will start by unpacking the essential terminologies and discussing the latest
 
 Mode: Face-to-face workshop at Singapore Polytechnic
  
-Limited seats available. Registration will be based on first-come-first-served basis. 
-
-
-
-
-
+Limited seats available. Registration will be based on first-come-first-served basis.
