@@ -22,8 +22,8 @@ As educators, staying informed about the latest advancements and emerging techno
  
 We will start by unpacking the essential terminologies and discussing the latest trends and issues related to the metaverse. You will then learn how to create your digital identity in the form of avatars, and we will take you on a metaverse world tour to examine user experience, platform affordances, and features. By the end of the workshop, you will have a better understanding of the metaverse and the tools to further your exploration of this rapidly evolving technology beyond this course.
  
-* Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Sign up for a place in Run 1 now!](https://forms.gle/a78idEwg7AGbdybW6))
-* Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Sign up for a place in Run 2 now!](https://forms.gle/Z4cRBW2xBtyx1fTw6))
+* Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Register for Run 1 now!](https://forms.gle/a78idEwg7AGbdybW6))
+* Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Register for Run 2 now!](https://forms.gle/Z4cRBW2xBtyx1fTw6))
 * Mode: Face-to-face workshop at Singapore Polytechnic
  
 Limited seats available. Registration will be 
@@ -32,9 +32,7 @@ based on first-come-first-served basis.
 
 
 #### New Webinar: Boost student engagement through Rolljak
-
 ![](/images/rolljak%20banner.png)
-
 Looking to boost student engagement? Want to expand your repertoire of edtech toolkit as an educator?
 
 Join this exclusive 2-hour webinar designed for Polytechnic Educators to introduce you to Rolljak a new edtech tool that combines game-based learning with real-time collaboration. The Rolljak team will guide you through Rolljak’s features and demonstrate how to seamlessly integrate Rolljak into teaching practices. 
