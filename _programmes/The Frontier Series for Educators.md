@@ -38,16 +38,12 @@ based on first-come-first-served basis.
 
 Looking to boost student engagement? Want to expand your repertoire of edtech toolkit as an educator?
 
-Join this exclusive 2-hour webinar designed for Polytechnic Educators to introduce you to Rolljak a new edtech tool that combines game-based learning with real-time collaboration.
-The Rolljak team will guide you through Rolljak’s features and demonstrate how to seamlessly integrate Rolljak into teaching practices. By enabling you to track student engagement levels and providing you with an AI-powered automated assessment feature, Rolljak will make it easier to get immediate feedback on assessments and learning outcomes.
-Rolljak can support you to facilitate collaborative learning - be it peer-to-peer or team-based learning; empowering your learners to work together in real-time, share and improve ideas, and solve problems. Join us to check out Rolljak together.
+Join this exclusive 2-hour webinar designed for Polytechnic Educators to introduce you to Rolljak a new edtech tool that combines game-based learning with real-time collaboration. The Rolljak team will guide you through Rolljak’s features and demonstrate how to seamlessly integrate Rolljak into teaching practices. 
+* Track student engagement levels using AI-powered automated assessment feature. Rolljak can make it easier to get immediate feedback on assessments and learning outcomes.
+* Learn ways to facilitate collaborative learning - be it peer-to-peer or team-based learning; empowering your learners to work together in real-time, share and improve ideas, and solve problems. 
 
-Date/ Time: 28 Jun 2023 Wed 2pm-4pm
+Join us to check out Rolljak together.
 
-Mode: Online via Zoom
-
-[Register now!](https://forms.gle/dVDHztMF8tZrriam9)
-
-
-
-
+* Date/ Time: 28 Jun 2023 Wed 2pm-4pm
+* Mode: Online via Zoom
+* [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
