@@ -43,4 +43,5 @@ Join us to check out Rolljak together.
 
 * Date/ Time: 28 Jun 2023 Wed 2pm-4pm
 * Mode: Online via Zoom
+* Complimentary Rollljak licenses will be given out during webinar.
 * [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
