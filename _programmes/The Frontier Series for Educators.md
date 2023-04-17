@@ -27,4 +27,27 @@ We will start by unpacking the essential terminologies and discussing the latest
 
 Mode: Face-to-face workshop at Singapore Polytechnic
  
-Limited seats available. Registration will be based on first-come-first-served basis.
+Limited seats available. Registration will be 
+based on first-come-first-served basis.
+
+
+
+#### New Webinar: Boost student engagement through Rolljak
+
+![](/images/rolljak%20banner.png)
+
+Looking to boost student engagement? Want to expand your repertoire of edtech toolkit as an educator?
+
+Join this exclusive 2-hour webinar designed for Polytechnic Educators to introduce you to Rolljak a new edtech tool that combines game-based learning with real-time collaboration.
+The Rolljak team will guide you through Rolljak’s features and demonstrate how to seamlessly integrate Rolljak into teaching practices. By enabling you to track student engagement levels and providing you with an AI-powered automated assessment feature, Rolljak will make it easier to get immediate feedback on assessments and learning outcomes.
+Rolljak can support you to facilitate collaborative learning - be it peer-to-peer or team-based learning; empowering your learners to work together in real-time, share and improve ideas, and solve problems. Join us to check out Rolljak together.
+
+Date/ Time: 28 Jun 2023 Wed 2pm-4pm
+
+Mode: Online via Zoom
+
+[Register now!](https://forms.gle/dVDHztMF8tZrriam9)
+
+
+
+
