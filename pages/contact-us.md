@@ -23,7 +23,7 @@ contacts:
   - content:
       - phone: ""
       - email: kalaivani_chandra@sp.edu.sg
-      - other: Programme Administrative Executive
+      - other: Senior Executive
     title: Ms. Kalaivani Chandra
   - content:
       - phone: ""
