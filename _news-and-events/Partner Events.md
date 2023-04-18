@@ -17,5 +17,4 @@ Venue: The Hall @ Singapore Polytechnic
 
 Organiser: IAL
 
-Registration: 
-[Register for a place now!](https://www.ial.edu.sg/events/ae-day-2023-lj/)
+[Find out more now!](https://www.ial.edu.sg/events/ae-day-2023-lj/)
