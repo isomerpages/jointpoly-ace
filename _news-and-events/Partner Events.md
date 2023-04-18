@@ -15,7 +15,7 @@ Date: 12 May 2023
 
 Venue: The Hall @ Singapore Polytechnic
 
+Organiser: IAL
+
 Registration: 
 [Register for a place now!](https://www.ial.edu.sg/events/ae-day-2023-lj/)
-
-
