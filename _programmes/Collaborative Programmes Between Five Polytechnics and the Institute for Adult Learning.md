@@ -10,7 +10,7 @@ The JP-AcE represents the five polytechnics to collaborate with the Institute of
 
 ![](/images/54123485_ML.jpg)
 
-Adult educators can look forward to learning from the following initiatives:
+Adult educators (AEs) can look forward to learning from the following initiatives:
 
 * Community of Practice (COP)
 * Programmatic or Project-based Partnership
