@@ -30,7 +30,7 @@ During this session, you will be guided to examine what it means to be engaged a
 * Date: 9 Jun 2023 Fri
 * Time: 2pm-5pm
 * Mode: Online
-* Register now!
+* [Register now!](https://forms.gle/sp6pQkAtigxtikDJ7)
 
 
                     
