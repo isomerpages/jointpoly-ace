@@ -20,7 +20,7 @@ Adult educators can look forward to learning from the following initiatives:
 #### **Check out upcoming learning opportunities below!**
 
 ##### **Adult Education COP Run 2**
-
+![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 Looking to establish a deeper connection with your adult learners and hope to enhance their engagement in your classes? 
 
 Join us for the upcoming Adult Education Community of Practice (COP) Run 2, a collaboration between the Joint Polytechnic Academy for Educators and the Institute for Adult Learning, which will offer you a deeper understanding of affective engagement and practical strategies to support adult learners better.
