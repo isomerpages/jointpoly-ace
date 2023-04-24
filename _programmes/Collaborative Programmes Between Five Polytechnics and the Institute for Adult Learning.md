@@ -17,6 +17,13 @@ Adult educators can look forward to learning from the following initiatives:
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
-More details of these initiatives will be made available at later date. Do visit this website again for updates.
+Upcoming learning opportunities for Adult Educators from Polys and IAL:
 
+**Adult Education COP Run 2**
+* Date: 9 Jun 2023 Fri
+* Time: 2pm-5pm
+* Mode: Online
+* Register now!
+
+          
 Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) , [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
