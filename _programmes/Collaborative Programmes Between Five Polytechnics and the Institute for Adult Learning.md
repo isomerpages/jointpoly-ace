@@ -39,5 +39,7 @@ Interested IAL AEs: Please contact Associate Professor Renee Tan for more inform
                     
 Limited seats are available. Registration will be based on first-come-first-served basis. 
    
-	                                                      
-Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) , [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
+	 
+	              
+#### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
+Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
