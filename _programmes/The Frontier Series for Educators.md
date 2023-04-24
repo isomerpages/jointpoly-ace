@@ -49,3 +49,6 @@ Join us to check out Rolljak together.
 * Trainer: Mr Aditya Batura, Rolljak
 * Complimentary Rolljak licenses will be given out during webinar.
 * [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
+
+                      
+Programme Lead: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
