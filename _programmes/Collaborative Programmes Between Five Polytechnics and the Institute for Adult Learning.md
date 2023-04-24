@@ -34,6 +34,6 @@ During this session, you will be guided to examine what it means to be engaged a
 
 
                     
-Limited seats are available. Registration will be based on a first-come-first-served basis.
+Limited seats are available. Registration is open only to Adult Educators across polytechnics and IAL, and will be based on a first-come-first-served basis.
           
 Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) , [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
