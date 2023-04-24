@@ -17,9 +17,9 @@ Adult educators can look forward to learning from the following initiatives:
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
-Upcoming learning opportunities for Adult Educators from Polys and IAL:
+#### **Check out upcoming learning opportunities below!**
 
-**Adult Education COP Run 2**
+##### **Adult Education COP Run 2**
 * Date: 9 Jun 2023 Fri
 * Time: 2pm-5pm
 * Mode: Online
