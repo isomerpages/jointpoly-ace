@@ -7,7 +7,7 @@ Welcome to the **Frontier Series for Educators**.
 
 The Frontier Series for Educators is a repertoire of professional development sessions organised by JP-AcE exclusively for polytechnic educators. The Frontier Series aims to inspire lifelong learning, support reflective T&L practices, expand T&L capabilities and empower educators to be future-ready by exploring new educational trends and innovative ways of teaching and learning. 
 
-Check out new upcoming sessions below. Interested polytechnic staff may register directly using the registration forms below.
+Check out new upcoming free training sessions below. Interested polytechnic staff may register directly using the registration forms below.
 
 
                
