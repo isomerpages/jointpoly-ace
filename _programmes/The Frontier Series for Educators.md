@@ -48,7 +48,7 @@ Join us to check out Rolljak together.
 * Mode: Online via Zoom
 * Trainer: Mr Aditya Batura/ Rolljak
 * Complimentary Rolljak licenses will be given out during webinar.
-* Registration Period: 20 April - 16 June 2023
+* Registration Period: 20 April - 28 June 2023
 * [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
 
 #### Have a question related to The Frontier Series for Educators?                      
