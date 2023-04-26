@@ -27,7 +27,7 @@ We will start by unpacking the essential terminologies and discussing the latest
 * Mode: Face-to-face workshop at Singapore Polytechnic
 * Trainer: Joey Tong/ JP-AcE
  
-Limited seats are available. Registration will be 
+Registration period is 20 April to 2 June 2023. Limited seats are available. Registration will be 
 based on first-come-first-served basis.
 
 
