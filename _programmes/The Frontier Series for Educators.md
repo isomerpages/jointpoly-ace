@@ -46,7 +46,7 @@ Join us to check out Rolljak together.
 
 * Date/ Time: 28 Jun 2023 Wed 2pm-4pm
 * Mode: Online via Zoom
-* Trainer: Mr Aditya Batura, Rolljak
+* Trainer: Mr Aditya Batura/ Rolljak
 * Complimentary Rolljak licenses will be given out during webinar.
 * Registration Period: 20 April - 16 June 2023
 * [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
