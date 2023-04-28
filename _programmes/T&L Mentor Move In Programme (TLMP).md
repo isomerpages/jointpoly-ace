@@ -41,6 +41,16 @@ The duration of the programme is 160 hours, which is conducted over a span of 1 
 ### [Click here to find out more about TLMP!](/files/TLMP_Prog%20information_for%20JPAcE%20website%20_updated%206%20Sept%202022.pdf)
 (Right click to open the above link in a new tab.)
 
+#### Brown Bag Series
+The new mentors across polys have come together to organise lunchtime talks to support more educators in enhancing their T&L capabilities.
+
+Check out the video recordings of past Brown Bag sessions:
+* [Fostering Student Motivation & Engagement: The Relevant, Appealing and Personal (RAP) Pedagogical Framework](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2373188500)
+* [Design Better Learning experiences with LXD](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2447847562)
+* [Peer Coaching for Student-centred Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2478254285)
+
+You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg/openpolyevents/) to find out more about other upcoming learning opportunities.
+
 
 #### Have a question related to TLMP?
 
