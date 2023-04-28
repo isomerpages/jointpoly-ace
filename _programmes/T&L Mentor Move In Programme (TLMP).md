@@ -42,7 +42,7 @@ The duration of the programme is 160 hours, which is conducted over a span of 1 
 (Right click to open the above link in a new tab.)
 
 #### Brown Bag Series
-The new mentors across polys have come together to organise lunchtime talks to support more educators in enhancing their T&L capabilities.
+The new mentors across polytechnics have come together to organise lunch time talks to support more educators in enhancing their T&L capabilities.
 
 Check out the video recordings of past Brown Bag sessions:
 * [Fostering Student Motivation & Engagement: The Relevant, Appealing and Personal (RAP) Pedagogical Framework](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2373188500)
