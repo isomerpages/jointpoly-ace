@@ -29,6 +29,7 @@ Join us for the upcoming Adult Education Community of Practice (COP) Run 2, a co
 * Date: 9 Jun 2023 Fri
 * Time: 2pm-5pm
 * Mode: Online
+* Registration Period (TBC): 5 May - 1 June 2023
 
 Interested Poly AEs: [Register now!](https://forms.gle/sp6pQkAtigxtikDJ7)
 

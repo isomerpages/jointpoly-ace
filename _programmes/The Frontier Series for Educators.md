@@ -27,7 +27,7 @@ We will start by unpacking the essential terminologies and discussing the latest
 * Mode: Face-to-face workshop at Singapore Polytechnic
 * Trainer: Joey Tong/ JP-AcE
  
-Limited seats are available. Registration will be 
+Registration period is 20 April to 2 June 2023. Limited seats are available. Registration will be 
 based on first-come-first-served basis.
 
 
@@ -46,8 +46,9 @@ Join us to check out Rolljak together.
 
 * Date/ Time: 28 Jun 2023 Wed 2pm-4pm
 * Mode: Online via Zoom
-* Trainer: Mr Aditya Batura, Rolljak
+* Trainer: Mr Aditya Batura/ Rolljak
 * Complimentary Rolljak licenses will be given out during webinar.
+* Registration Period: 20 April - 21 June 2023
 * [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
 
 #### Have a question related to The Frontier Series for Educators?                      
