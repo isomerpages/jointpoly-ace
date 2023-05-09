@@ -1,6 +1,6 @@
 ---
 title: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
-permalink: /CTLPE/
+permalink: /ctlpe/
 description: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 ---
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
