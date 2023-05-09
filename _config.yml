@@ -60,8 +60,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://jointpoly-ace-staging.netlify.app
-prod: https://jointpoly-ace-prod.netlify.app
+staging: https://staging.d3twdeq6d9fw06.amplifyapp.com/
+prod: https://master.d3twdeq6d9fw06.amplifyapp.com/
 shareicon: /images/Web version updated on 7 Sep 2022.png
 is_government: false
 facebook-pixel: ""
