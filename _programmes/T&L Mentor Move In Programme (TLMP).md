@@ -1,6 +1,6 @@
 ---
 title: T&L Mentor Move In Programme (TLMP)
-permalink: /TLMP/
+permalink: /tlmp/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
 ---

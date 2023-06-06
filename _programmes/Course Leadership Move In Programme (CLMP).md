@@ -1,6 +1,6 @@
 ---
 title: Course Leadership Move In Programme (CLMP)
-permalink: /CLMP/
+permalink: /clmp/
 description: Course Leadership Move in Programme (CLMP)
 image: ""
 ---
