@@ -18,11 +18,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
 
-
-
-                                    
-                    
-Limited seats are available. Registration will be based on first-come-first-served basis. 
+          
    
 	 
 	              
