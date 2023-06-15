@@ -17,10 +17,16 @@ Adult educators (AEs) can look forward to learning from the following initiative
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
+**COP Run 2 is now open for registration!**
+![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
+* Date: 19 Jun 2023 Wednesday
+* Time: 2pm-5pm 
+* Mode: Face-to-face
+* Venue: To be confirmed at later date
+* Register for a place now: https://forms.gle/UamJWVgh1VFDo68M7
 
           
-   
-	 
+   	 
 	              
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
