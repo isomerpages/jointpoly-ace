@@ -22,8 +22,8 @@ As educators, staying informed about the latest advancements and emerging techno
  
 We will start by unpacking the essential terminologies and discussing the latest trends and issues related to the metaverse. You will then learn how to create your digital identity in the form of avatars, and we will take you on a metaverse world tour to examine user experience, platform affordances, and features. By the end of the workshop, you will have a better understanding of the metaverse and the tools to further your exploration of this rapidly evolving technology beyond this course.
  
-* Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Register for Run 1 now!](https://forms.gle/a78idEwg7AGbdybW6))
-* Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Register for Run 2 now!](https://forms.gle/Z4cRBW2xBtyx1fTw6))
+* Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Register for Run 1 now! - Registration has closed.](https://forms.gle/a78idEwg7AGbdybW6))
+* Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Register for Run 2 now! - Registration has closed.](https://forms.gle/Z4cRBW2xBtyx1fTw6))
 * Mode: Face-to-face workshop at Singapore Polytechnic
 * Trainer: Joey Tong/ JP-AcE
  
