@@ -22,7 +22,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 * Date: 19 Jun 2023
 * Time: 2pm-5pm 
 * Mode: Face-to-face
-* Venue: TBC
+* Venue: To be confirmed at later date
 * Register for a place now: https://forms.gle/UamJWVgh1VFDo68M7
 
           
