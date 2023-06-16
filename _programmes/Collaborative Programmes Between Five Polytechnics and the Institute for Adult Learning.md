@@ -24,7 +24,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 
 * Time: 2pm-5pm
 
-* Mode: Face-to-face at Singapore Polytechnic
+* Mode: Face-to-face at Temasek Polytechnic
 
 * Register for a place now: https://forms.gle/UamJWVgh1VFDo68M7
           
