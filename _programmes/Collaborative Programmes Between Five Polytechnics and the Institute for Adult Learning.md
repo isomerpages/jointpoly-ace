@@ -22,7 +22,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 * Date: 19 Jun 2023 Wednesday
 * Time: 2pm-5pm 
 * Mode: Face-to-face
-* Venue: To be confirmed at later date
+* Venue: Singapore Polytechnic
 * Register for a place now: [https://forms.gle/UamJWVgh1VFDo68M7](https://forms.gle/UamJWVgh1VFDo68M7)
 
           
