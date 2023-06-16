@@ -26,7 +26,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 
 * Mode: Face-to-face at Temasek Polytechnic
 
-* Register for a place now: https://forms.gle/UamJWVgh1VFDo68M7
+* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA)
           
    	 
 	              
