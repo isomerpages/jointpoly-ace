@@ -35,9 +35,7 @@ We will start by unpacking the essential terminologies and discussing the latest
 Trainer: Joey Tong/ JP-AcE
  
 
-There will be more upcoming runs. Please visit JP-AcE website again for latest learning opportunities. 
-
-If you are keen to be placed on a wait list, please indicate your interest via this link: [https://forms.gle/AVdiKZR7v8c1qAbp7](https://forms.gle/AVdiKZR7v8c1qAbp7). You will receive an email notification when a new run is open for registration.
+There will be more upcoming runs. Please visit JP-AcE website again for latest learning opportunities. If you are keen to be placed on a wait list, please indicate your interest via this link: [https://forms.gle/AVdiKZR7v8c1qAbp7](https://forms.gle/AVdiKZR7v8c1qAbp7). You will receive an email notification when a new run is open for registration.
 
 
                                           
