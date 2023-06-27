@@ -15,8 +15,6 @@ Check out new upcoming free training sessions below. Interested polytechnic staf
 #### Workshop: Introduction to the Metaverse
 ![](/images/metaverse%20banner.png)
 
-Synopsis:
-
 Hi educators! Are you curious about the metaverse but not sure what it is?  
 No worries! JP-AcE has dedicated months studying about it, so that you don't have to spend a long time doing so. In this 1-day beginner crash course tailored for polytechnic educators, we will help you to go from being a metaverse newbie to an explorer of the metaverse world.
  
