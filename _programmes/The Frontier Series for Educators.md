@@ -21,16 +21,24 @@ No worries! JP-AcE has dedicated months studying about it, so that you don't hav
 As educators, staying informed about the latest advancements and emerging technologies is essential to remain relevant and future ready. Although the metaverse is still in its early stages of development and optimal conditions may not yet be fully present, this crash course offers an opportunity for educators to gain an early glimpse of its possibilities.
  
 We will start by unpacking the essential terminologies and discussing the latest trends and issues related to the metaverse. You will then learn how to create your digital identity in the form of avatars, and we will take you on a metaverse world tour to examine user experience, platform affordances, and features. By the end of the workshop, you will have a better understanding of the metaverse and the tools to further your exploration of this rapidly evolving technology beyond this course.
+
+28 polytechnic educators have attended Run 1 and Run 2 on 13 and 14 Jun 2023. Check out the fun shots below!
+
+![](/images/metaverse%20workshop%20photo%201.jpg)
+
+![](/images/metaverse%20workshop%20photo%202.jpg)
+
+![](/images/metaverse%20workshop%20photo%203.jpg)
+
+![](/images/metaverse%20workshop%20photo%204.jpg)
+
+Trainer: Joey Tong/ JP-AcE
  
-* Run 1 date: 13 Jun 2023 Tue 10am-6pm ([Register for Run 1 now! - Registration has closed.](https://forms.gle/a78idEwg7AGbdybW6))
-* Run 2 date: 14 Jun 2023 Wed 10am-6pm ([Register for Run 2 now! - Registration has closed.](https://forms.gle/Z4cRBW2xBtyx1fTw6))
-* Mode: Face-to-face workshop at Singapore Polytechnic
-* Trainer: Joey Tong/ JP-AcE
- 
-Registration period is 20 April to 2 June 2023. Limited seats are available. Registration will be 
-based on first-come-first-served basis.
+
+There will be more upcoming runs. Please visit JP-AcE website again for latest learning opportunities. If you are keen to be placed on a wait list for the metaverse workshop, please indicate your interest via this link: [https://forms.gle/AVdiKZR7v8c1qAbp7](https://forms.gle/AVdiKZR7v8c1qAbp7). You will receive an email notification when a new run is open for registration.
 
 
+                                          
 
 #### Webinar: Boost student engagement through Rolljak
 ![](/images/rolljak%20banner.png)
