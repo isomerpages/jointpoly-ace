@@ -18,8 +18,7 @@ On a rainy afternoon of 7th June 2023 at Republic Polytechnic, over a hundred po
 
 The Graduation Ceremony was conducted in a face-to-face manner, marking a significant milestone as it represented the inaugural instance of such an occasion since the CTLPE inception in 2019. The primary objective of this ceremony was to provide a symbolic culmination of the academic journey for the graduating cohort of CTLPE students by providing them a memorable experience. In addition, the event aimed to develop a strong sense of camaraderie and interconnectedness among the graduates from five polytechnics, thereby fostering a lasting sense of community within the CTLPE program.
 
-
-**
+![](/images/chuuyi.jpg)
 
 In her opening address, Ms. Loh Chuu Yi, Deputy Principal from Nanyang Polytechnic, and Co-chair of the Joint-Polytechnic Committee to Enhance Teaching &amp; Learning (JP-CETL) warmly congratulated the graduands on the completion of CTLPE and the start of their new careers as polytechnic educators. She also encouraged them to continue reflecting and putting into practice what they had learnt into their teaching.&nbsp;
 
@@ -47,8 +46,11 @@ CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
       
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u0NJlXxxEwE" height="315" width="560"></iframe>
-              
+             
+[Click here to check out Graduation Ceremony photos!](https://drive.google.com/drive/folders/1w3c2t_hogkZxIVFGI0hQ3XL8kkQb-VFo)
 
+
+    
 #### 2. JP-AcE Launch Ceremony
 
 
