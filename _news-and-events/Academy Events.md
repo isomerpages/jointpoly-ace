@@ -19,7 +19,7 @@ On a rainy afternoon of 7th June 2023 at Republic Polytechnic, over a hundred po
 The Graduation Ceremony was conducted in a face-to-face manner, marking a significant milestone as it represented the inaugural instance of such an occasion since the CTLPE inception in 2019. The primary objective of this ceremony was to provide a symbolic culmination of the academic journey for the graduating cohort of CTLPE students by providing them a memorable experience. In addition, the event aimed to develop a strong sense of camaraderie and interconnectedness among the graduates from five polytechnics, thereby fostering a lasting sense of community within the CTLPE program.
 ![](/images/chuuyi2.jpg)
 
-CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
+CTLPE Graduation Ceremony 2023 - Intake 6 Graduation Video
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZN8PQYIsYls" height="315" width="560"></iframe>
 
 CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
