@@ -20,8 +20,13 @@ The ceremony included a series of impactful addresses, commencing with an inspir
 
 The highlight of the Ceremony was a panel discussion featuring recipients of multiple teaching accolades, namely Associate Professor Mark Chong from Singapore Management University and Ms. Iman Tang from Temasek Polytechnic, who shared their profound insights and expertise on the topic of "Enhancing Student Engagement in the Post-COVID Era”. This engrossing dialogue served as a focal point, captivating the attention of the audience. The ceremony ended with an opportunity for attendees to engage in networking activities while partaking in refreshments, thereby fostering further connections and dialogue.
 
+CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZN8PQYIsYls" height="315" width="560"></iframe>
 
+CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
+      
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u0NJlXxxEwE" height="315" width="560"></iframe>
               
 
 #### 2. JP-AcE Launch Ceremony
