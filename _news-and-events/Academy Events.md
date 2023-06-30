@@ -35,6 +35,9 @@ The CTLPE graduates expressed appreciation for the panelists' genuine and candid
 
 Dr Rajnish Gupta, Head of the Joint-Polytechnic Academy for Educators (JP-AcE), continued the focus on learning in his closing remarks. He told CTLPE graduates that the learning does not end with the end of CTLPE and urged them to maintain active communication and provide mutual assistance to their peers across various polytechnics, with the overarching objective of fostering a unified spirit among the polytechnic community.&nbsp; Dr Gupta also thanked the several groups of people involved in CTLPE across the polytechnics, as it really does take a village to nurture new polytechnic lecturers.
 
+The event concluded with networking refreshments and festive photographs to commemorate the special occasion. Well done indeed, one and all!
+
+
 CTLPE Graduation Ceremony 2023 - Intake 6 Graduation Video
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZN8PQYIsYls" height="315" width="560"></iframe>
 
