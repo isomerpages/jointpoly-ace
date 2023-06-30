@@ -48,12 +48,12 @@ The event concluded with networking refreshments and festive photographs to comm
 
 
 CTLPE Graduation Ceremony 2023 - Intake 6 Graduation Video
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZN8PQYIsYls" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/ZN8PQYIsYls" height="315" width="100%"></iframe>
 
 CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
       
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u0NJlXxxEwE" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/u0NJlXxxEwE" height="315" width="100%"></iframe>
              
 [Click here to check out more Graduation Ceremony photos!](https://drive.google.com/drive/folders/1w3c2t_hogkZxIVFGI0hQ3XL8kkQb-VFo)
 
