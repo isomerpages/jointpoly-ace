@@ -52,7 +52,7 @@ Fireside Chat guest speaker Associate Professor May Lim (sitting in the front ro
 
 Fireside chat “Leadership Stories” with polytechnic sector leaders. From left: Dr Faris Akbar Hajamaideen, Senior Director (Build Environment &amp; Maritime (SP), Mr Joshua Hong (RP) Deputy Director, School of Technology for the Arts &amp; SLMP Intake 1 alumnus, and Mr Tan Jek Min (NYP) Senior Director (Industry &amp; Lifelong Learning) 
 
-
+![](/images/slmp%20run%202%20group%20discussion.png)
 
 Group Discussion on participants' SLMP practicum projects with their group facilitators
 
