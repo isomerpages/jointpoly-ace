@@ -21,12 +21,14 @@ The Graduation Ceremony was conducted in a face-to-face manner, marking a signif
 ![](/images/chuuyi.jpg)
 
 In her opening address, Ms. Loh Chuu Yi, Deputy Principal from Nanyang Polytechnic, and Co-chair of the Joint-Polytechnic Committee to Enhance Teaching &amp; Learning (JP-CETL) warmly congratulated the graduands on the completion of CTLPE and the start of their new careers as polytechnic educators. She also encouraged them to continue reflecting and putting into practice what they had learnt into their teaching.&nbsp;
-
+![](/images/graduate.jpg)
 Graduands Mr. Ameer-Alrasyeed Ramdan from Temasek Polytechnic (CTLPE Intake 6) and Mr. Aloysius Wee from Republic Polytechnic (CTLPE Intake 7) both reflected on their teaching journey in passionate sharings. Mr. Ramdan felt that their roles as lecturers goes far beyond disseminating information; they are architects of inspiration, builders of dreams, and sculptors of the future. He appreciated how CTLPE had ignited his curiosity to explore more strategies to enhance the motivation of design students.
 
 Mr. Wee marveled at how rewarding he has found teaching to be after more than a decade in hospitality and in the culinary world. One thing that has struck him was that all students, regardless of age or generation, need acknowledgment or recognition of their efforts; this has guided him as he engages with students. Both wished their fellow graduands hearty congratulations and encouraged their classmates to press on their journey as educators.
 
 The emphasis on learning was heightened through the inclusion of a panel discussion featuring Associate Professor Mark Chong from Singapore Management University and Ms. Iman Tang from Temasek Polytechnic, both recipients of multiple teaching awards. This insightful conversation on the topic of “How to better engage students in this post covid era” was moderated by Mr. Mark Nivan from Singapore Polytechnic.
+
+
 
 Associate Professor Mark Chong shared how it was important to him to constantly try new things and challenge students, illustrating it with a recent instance where he challenged his students to incorporate artificial intelligence (AI) into their academic work. Despite the unfamiliarity of AI to both the students and him, the endeavour proved to be a resounding success. AP Mark’s teaching philosophy includes actively engaging students by initiating conversations to understand their concerns and situations; this is important especially for students who initially show a greater resistance to active participation.
 
