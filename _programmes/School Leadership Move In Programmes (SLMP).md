@@ -28,7 +28,7 @@ SLMP is conducted mainly through face-to-face sessions (including provisions of 
 
 #### When is the programme conducted?
 
-The duration of the programme is 200 hours, which is conducted over a span of 1 year. The first run was conducted between Nov 2021 to Nov 2022. The second run is scheduled to commence in the second quarter of 2023.
+SLMP is a 200-hour programme that takes place over a period of 12 months. The inaugural intake took place from November 2021 to November 2022. The second run of SLMP commenced in May 2023 with SLMP 2023 Onboarding Programme and will conclude in May 2024. The timing of subsequent runs of SLMP will be dependent on the needs of the polytechnic sector.
 
 ![](/images/slmp%20fablab.jpg)
 
