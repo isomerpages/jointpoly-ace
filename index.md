@@ -20,7 +20,7 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: "Academy News: CTLPE graduation ceremony 2023"
+      button: CTLPE graduation ceremony 2023
       url: /academyevents/
       key_highlights:
         - title: Welcome Message
