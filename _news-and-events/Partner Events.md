@@ -17,5 +17,3 @@ Upcoming events:
 
 
 
-
-
