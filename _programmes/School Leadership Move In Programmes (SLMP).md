@@ -42,13 +42,16 @@ SLMP 2023 will continue with a series of learning journeys to the various polyte
       
 ![](/images/slmp%20onboarding%20run%202.png)
 With Singapore Polytechnic's DP Acad Mr Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
-![](/images/slmp%20fireside%20chat%20run%202.png)
+
+![](/images/slmp%20fireside%20chat%20run%202.png)                  
 Fireside Chat with Singapore Polytechnic's PCEO Mr Soh Wai Wah
 ![](/images/slmp%20run%202%20learning%20journey%20to%20ai%20singapore.png)
+
 Learning Journey to AI Singapore
 ![](/images/slmp%20run%202%20fireside%20chat%20with%20guest%20ap%20may%20lim.png)
-Fireside Chat guest speaker Associate Professor May Lim (sitting in the front row, 2nd from the right) Assistant Provost (Applied Learning) at Singapore Institute of Technology 
 
+Fireside Chat guest speaker Associate Professor May Lim (sitting in the front row, 2nd from the right) Assistant Provost (Applied Learning) at Singapore Institute of Technology 
+![](/images/slmp%20run%202%20with%20ahmad.jpg)
 
 Fireside chat “Leadership Stories” with polytechnic sector leaders. From left: Dr Faris Akbar Hajamaideen, Senior Director (Build Environment &amp; Maritime (SP), Mr Joshua Hong (RP) Deputy Director, School of Technology for the Arts &amp; SLMP Intake 1 alumnus, and Mr Tan Jek Min (NYP) Senior Director (Industry &amp; Lifelong Learning) 
 
