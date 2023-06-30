@@ -32,7 +32,12 @@ School leaders from the five polytechnics delved into concepts of educational ch
 
 SLMP 2023 will continue with a series of learning journeys to the various polytechnics. Participants will also work on their SLMP practicum projects; these will focus on T&amp;L leadership, but may relate to themes such as digitization, industry engagement, pedagogical innovation and/or staff capability enhancement.
 ![](/images/slmp%20onboarding%20run%202.png)
-With Singapore Polytechnic's DP Acad Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
+With Singapore Polytechnic's DP Acad Mr Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
+![](/images/slmp%20fireside%20chat%20run%202.png)
+Fireside Chat with Singapore Polytechnic's PCEO Mr Soh Wai Wah
+
+
+
 
 
 #### 3. JP-AcE Launch Ceremony
