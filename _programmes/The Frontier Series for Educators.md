@@ -57,6 +57,9 @@ Rolljak can help you to:
 ![](/images/picture1.png)
 [Click here to access the video recording](https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=75c0446c-f5e7-4bfc-aa7e-b02f008cfe0c) 
 
+If you are keen to be placed on a wait list for Rolljak related training, please indicate your interest via this link:[https://forms.gle/FtZXMP6kxSnscA1KA](https://forms.gle/FtZXMP6kxSnscA1KA) . You will receive an email notification if a new Rolljak training is open for registration.
+
+                       
                        
 #### Have a question related to The Frontier Series for Educators?                      
 Please contact Programme Lead: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
