@@ -31,6 +31,8 @@ Venues: Singapore Polytechnic (SP) and Learning Journeys to various locations
 School leaders from the five polytechnics delved into concepts of educational change, teaching and learning (T&amp;L) quality and T&amp;L culture at the Onboarding Programme for the joint-polytechnic School Leadership Move-in Programme (SLMP) in May 2023. At the five-day programme, 15 SLMP participants came together to discuss, reflect and to learn from senior polytechnic leaders as well as from each other. They were in turn inspired, challenged, intrigued, and encouraged by what they experienced; the Learning Journeys to Pathlight School and AI Singapore provided much food for thought. An important takeaway for all was that people are at the heart of leadership.
 
 SLMP 2023 will continue with a series of learning journeys to the various polytechnics. Participants will also work on their SLMP practicum projects; these will focus on T&amp;L leadership, but may relate to themes such as digitization, industry engagement, pedagogical innovation and/or staff capability enhancement.
+![](/images/slmp%20onboarding%20run%202.png)
+With Singapore Polytechnic's DP Acad Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
 
 
 #### 3. JP-AcE Launch Ceremony
