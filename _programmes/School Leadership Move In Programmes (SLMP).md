@@ -32,6 +32,27 @@ SLMP is a 200-hour programme that takes place over a period of 12 months. The in
 
 ![](/images/slmp%20fablab.jpg)
 
+#### Check out what happened at the Joint Polytechnic School Leadership Move-In Programme (SLMP) Onboarding 2023
+
+Date: 23-25 and 30-31 May 2023
+
+School leaders from the five polytechnics delved into concepts of educational change, teaching and learning (T&amp;L) quality and T&amp;L culture at the Onboarding Programme for the joint-polytechnic School Leadership Move-in Programme (SLMP) in May 2023. At the five-day programme, 15 SLMP participants came together to discuss, reflect and to learn from senior polytechnic leaders as well as from each other. They were in turn inspired, challenged, intrigued, and encouraged by what they experienced; the Learning Journeys to Pathlight School and AI Singapore provided much food for thought. An important takeaway for all was that people are at the heart of leadership.
+
+SLMP 2023 will continue with a series of learning journeys to the various polytechnics. Participants will also work on their SLMP practicum projects; these will focus on T&amp;L leadership, but may relate to themes such as digitization, industry engagement, pedagogical innovation and/or staff capability enhancement.
+![](/images/slmp%20onboarding%20run%202.png)
+With Singapore Polytechnic's DP Acad Mr Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
+![](/images/slmp%20fireside%20chat%20run%202.png)
+Fireside Chat with Singapore Polytechnic's PCEO Mr Soh Wai Wah
+![](/images/slmp%20run%202%20learning%20journey%20to%20ai%20singapore.png)
+Learning Journey to AI Singapore
+![](/images/slmp%20run%202%20fireside%20chat%20with%20guest%20ap%20may%20lim.png)
+Fireside Chat guest speaker Associate Professor May Lim (sitting in the front row, 2nd from the right) Assistant Provost (Applied Learning) at Singapore Institute of Technology (SIT)
+![](/images/fireside%20chat%20with%20poly%20leaders.png)
+
+Fireside chat “Leadership Stories” with polytechnic sector leaders. From left: Dr Faris Akbar Hajamaideen, Senior Director (Build Environment &amp; Maritime (SP), Mr Joshua Hong (RP) Deputy Director, School of Technology for the Arts &amp; SLMP Intake 1 alumnus, and Mr Tan Jek Min (NYP) Senior Director (Industry &amp; Lifelong Learning) &amp; Director/NACE.
+![](/images/slmp%20run%202%20group%20discussion.png)
+Group Discussion on participants' SLMP practicum projects with their group facilitators
+
 #### [Click here to find out more about SLMP.](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20Updated%2017%20Jan%202023.pdf)
 (Right click to open the above link in a new tab.)
 
