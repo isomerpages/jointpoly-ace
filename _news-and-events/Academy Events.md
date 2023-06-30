@@ -30,7 +30,7 @@ Mr. Wee marveled at how rewarding he has found teaching to be after more than a 
 
 The emphasis on learning was heightened through the inclusion of a panel discussion featuring Associate Professor Mark Chong from Singapore Management University and Ms. Iman Tang from Temasek Polytechnic, both recipients of multiple teaching awards. This insightful conversation on the topic of “How to better engage students in this post covid era” was moderated by Mr. Mark Nivan from Singapore Polytechnic.
 
-
+![](/images/panel2.jpg)
 
 Associate Professor Mark Chong shared how it was important to him to constantly try new things and challenge students, illustrating it with a recent instance where he challenged his students to incorporate artificial intelligence (AI) into their academic work. Despite the unfamiliarity of AI to both the students and him, the endeavour proved to be a resounding success. AP Mark’s teaching philosophy includes actively engaging students by initiating conversations to understand their concerns and situations; this is important especially for students who initially show a greater resistance to active participation.
 
