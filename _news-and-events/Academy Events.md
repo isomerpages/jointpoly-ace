@@ -23,6 +23,7 @@ The Graduation Ceremony was conducted in a face-to-face manner, marking a signif
 In her opening address, Ms. Loh Chuu Yi, Deputy Principal from Nanyang Polytechnic, and Co-chair of the Joint-Polytechnic Committee to Enhance Teaching &amp; Learning (JP-CETL) warmly congratulated the graduands on the completion of CTLPE and the start of their new careers as polytechnic educators. She also encouraged them to continue reflecting and putting into practice what they had learnt into their teaching.&nbsp;
 
 Graduands Mr. Ameer-Alrasyeed Ramdan from Temasek Polytechnic (CTLPE Intake 6) and Mr. Aloysius Wee from Republic Polytechnic (CTLPE Intake 7) both reflected on their teaching journey in passionate sharings. Mr. Ramdan felt that their roles as lecturers goes far beyond disseminating information; they are architects of inspiration, builders of dreams, and sculptors of the future. He appreciated how CTLPE had ignited his curiosity to explore more strategies to enhance the motivation of design students.
+
 ![](/images/graduate.jpg)
 
 Mr. Wee marveled at how rewarding he has found teaching to be after more than a decade in hospitality and in the culinary world. One thing that has struck him was that all students, regardless of age or generation, need acknowledgment or recognition of their efforts; this has guided him as he engages with students. Both wished their fellow graduands hearty congratulations and encouraged their classmates to press on their journey as educators.
