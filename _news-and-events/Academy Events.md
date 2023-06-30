@@ -35,7 +35,8 @@ SLMP 2023 will continue with a series of learning journeys to the various polyte
 With Singapore Polytechnic's DP Acad Mr Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
 ![](/images/slmp%20fireside%20chat%20run%202.png)
 Fireside Chat with Singapore Polytechnic's PCEO Mr Soh Wai Wah
-
+![](/images/slmp%20run%202%20learning%20journey%20to%20ai%20singapore.png)
+Learning Journey to AI Singapore
 
 
 
