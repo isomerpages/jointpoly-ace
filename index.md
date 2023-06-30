@@ -20,8 +20,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: "New Launch: The Frontier Series for Educators"
-      url: /programmes/frontier/
+      button: CTLPE graduation ceremony 2023
+      url: /academyevents/
       key_highlights:
         - title: Welcome Message
           description: ""
@@ -54,8 +54,8 @@ sections:
   - infopic:
       title: TLMP
       subtitle: For Teaching & Learning (T&L) mentors
-      description: Develop your mentoring capabilities through the <strong>T&L Mentor
-        Move-In Programme</strong>.
+      description: Develop your mentoring capabilities through the <strong>T&L
+        Mentor Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
       image: /images/70290420_MLsuccess.jpg

@@ -7,7 +7,7 @@ Welcome to the **Frontier Series for Educators**.
 
 The Frontier Series for Educators is a repertoire of professional development sessions organised by JP-AcE exclusively for polytechnic educators. The Frontier Series aims to inspire lifelong learning, support reflective T&L practices, expand T&L capabilities and empower educators to be future-ready by exploring new educational trends and innovative ways of teaching and learning. 
 
-Check out new upcoming free training sessions below. Interested polytechnic staff may register directly using the registration forms below.
+Check out the free training sessions below. Interested polytechnic staff may register directly using the registration forms below during registration period. 
 
 
                
@@ -50,14 +50,16 @@ Rolljak can help you to:
 * Track student engagement levels using AI-powered automated assessment feature. Rolljak can make it easier to get immediate feedback on assessments and learning outcomes.
 * Learn ways to facilitate collaborative learning - be it peer-to-peer or team-based learning; empowering your learners to work together in real-time, share and improve ideas, and solve problems. 
 
-Join us to check out Rolljak together.
-
 * Date/ Time: 28 Jun 2023 Wed 2pm-4pm
 * Mode: Online via Zoom
 * Trainer: Mr Aditya Batura/ Rolljak
-* Complimentary Rolljak licenses will be given out during webinar.
-* Registration Period: 20 April - 21 June 2023
-* [Register now!](https://forms.gle/dVDHztMF8tZrriam9)
+* Complimentary Rolljak licenses were given out during webinar.
+![](/images/picture1.png)
+[Click here to access the video recording](https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=75c0446c-f5e7-4bfc-aa7e-b02f008cfe0c) 
 
+If you are keen to be placed on a wait list for Rolljak related training, please indicate your interest via this link: [https://forms.gle/FtZXMP6kxSnscA1KA](https://forms.gle/FtZXMP6kxSnscA1KA) . You will receive an email notification if a new Rolljak training is open for registration.
+
+                       
+                       
 #### Have a question related to The Frontier Series for Educators?                      
 Please contact Programme Lead: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
