@@ -6,7 +6,13 @@ image: ""
 ---
 # Academy Events
 
-#### CTLPE Graduation Ceremony 2023
+#### 1. Certificate in Teaching and Learning for Polytechnic Educators (CTLPE) Graduation Ceremony 2023
+
+Date: 7 Jun 2023
+
+Time: 2pm-4pm
+
+Venue:  Republic Polytechnic (RP)
 
 On a rainy afternoon of 7th June 2023 in Republic Polytechnic, over a hundred polytechnic educators celebrated their successful completion of the 100-hour Certificate in Teaching &amp; Learning for Polytechnic Educators (CTLPE) at a graduation ceremony with their mentors, colleagues, and other well-wishers. CTLPE Intakes 6 and 7 are the first CTLPE graduands to have a live graduation ceremony where they were able to celebrate in person.
 
@@ -16,10 +22,18 @@ The highlight of the Ceremony was a panel discussion featuring recipients of mul
 
 
 
+#### 2. Joint Polytechnic School Leadership Move-In Programme (SLMP) Onboarding 2023
 
-      
+Date: 23-25 and 30-31 May 2023
 
-#### JP-AcE Launch Ceremony 
+Venues: Singapore Polytechnic (SP) and Learning Journeys to various locations
+
+School leaders from the five polytechnics delved into concepts of educational change, teaching and learning (T&amp;L) quality and T&amp;L culture at the Onboarding Programme for the joint-polytechnic School Leadership Move-in Programme (SLMP) in May 2023. At the five-day programme, 15 SLMP participants came together to discuss, reflect and to learn from senior polytechnic leaders as well as from each other. They were in turn inspired, challenged, intrigued, and encouraged by what they experienced; the Learning Journeys to Pathlight School and AI Singapore provided much food for thought. An important takeaway for all was that people are at the heart of leadership.
+
+SLMP 2023 will continue with a series of learning journeys to the various polytechnics. Participants will also work on their SLMP practicum projects; these will focus on T&amp;L leadership, but may relate to themes such as digitization, industry engagement, pedagogical innovation and/or staff capability enhancement.
+
+
+#### 3. JP-AcE Launch Ceremony
 
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/Vel55c-4N3s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
@@ -49,7 +63,7 @@ On 18 November 2022, the polytechnic community came together to witness the laun
 At the event, the work and the plans for the Academy were shared, and the members of the new unit were introduced. DP Mah recounted how JP-AcE began as an idea that has now come to fruition, and emphasised the importance of collaboration between all the polytechnics. The JP-AcE logo, signifying the coming together of all the polytechnics to form a solid foundation for teaching and learning, was unveiled. Event attendees had the opportunity to connect with others who were involved in joint-polytechnic teaching &amp; learning projects and programmes.
 
 
-#### Learning Journey at IAL
+#### 4. Learning Journey at IAL
 
 ![](/images/IALvisit1.jpeg)
 
@@ -64,10 +78,3 @@ Time: 3pm -6pm
 Venue: Institute for Adult Learning (IAL)
 
 Representatives from the five polytechnics’ educational development units visited IAL for a Learning Journey on 23 August 2022. This opportunity for the polytechnics to learn more about IAL’s mission would aid the formulation of plans for upcoming collaborations in the Continuing Education &amp; Training (CET) space, and lay the foundation for greater synergy between IAL and the polytechnics.
-
-
-
-
-
-
-
