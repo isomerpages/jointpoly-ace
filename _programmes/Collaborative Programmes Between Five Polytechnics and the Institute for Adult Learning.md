@@ -51,7 +51,7 @@ Time: 2pm-5pm
 
 Venue: Singapore Polytechnic 
 
-Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)https://forms.gle/uCNkz7zB33iiprjF7
+Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
    	 
 	              
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
