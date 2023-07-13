@@ -35,7 +35,7 @@ Effective working relationships are built on strong rapport. You will also learn
 
 Don't miss this opportunity to enhance your communication skills as a coach. Sign up today!
 
-Date: 25 Aug 2023 
+Date: 25 Aug 2023 Fri
 
 Time: 2pm-5pm
 
