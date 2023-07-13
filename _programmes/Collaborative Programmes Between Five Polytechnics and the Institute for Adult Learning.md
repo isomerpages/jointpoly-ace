@@ -17,16 +17,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 * Attachments/ Secondments / Staff Exchange
 * Other collaborative opportunities which may evolve or emerge from time to time, subject to the discussion and agreement of both Parties.
 
-**COP Run 2 is now open for registration!**
-![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
-* Date: 19 Jul 2023 Wednesday
-
-* Time: 2pm-5pm
-
-* Mode: Face-to-face at Temasek Polytechnic
-
-* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) 
 
 ### The Adult Education Series (AES)
 ![](/images/aes%20banner%205.png)
@@ -52,7 +43,19 @@ Time: 2pm-5pm
 Venue: Singapore Polytechnic 
 
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
-   	 
+
+
+
+**COP Run 2 is now open for registration!**
+![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
+
+* Date: 19 Jul 2023 Wednesday
+
+* Time: 2pm-5pm
+
+* Mode: Face-to-face at Temasek Polytechnic
+
+* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) 
 	              
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
