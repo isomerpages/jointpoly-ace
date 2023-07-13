@@ -45,6 +45,8 @@ Trainer: Ms Serene Sim/ IAL
 
 ![](/images/serene%20sim%202.jpg)
 
+Limited seats are available.
+
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
 
