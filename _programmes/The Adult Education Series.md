@@ -45,7 +45,7 @@ Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gl
 
                                                        
 
-**Upcoming Event: Adult Education Community of Practice (COP) Run 2 **
+#### Upcoming Event: Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
 * Date: 19 Jul 2023 Wednesday
@@ -54,7 +54,7 @@ Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gl
 
 * Mode: Face-to-face at Temasek Polytechnic
 
-* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) 
+* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) (Registration has closed.)
 	 
 	 
 	                      
