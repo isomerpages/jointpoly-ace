@@ -41,7 +41,7 @@ Time: 2pm-5pm
 
 Venue: Singapore Polytechnic 
 
-![](/images/serene%20sim.jpg)
+![](/images/serene%20sim%202.jpg)
 
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
