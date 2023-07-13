@@ -67,7 +67,7 @@ Mode: Online via Zoom (Zoom link will be sent to participants after registration
 Guest Facilitator: Mr John Chen, author of top selling business book "Engaging Virtual Meetings" and "50 Digital Team Building Games". John is a recognized thought leader on engaging virtual meetings.
 ![](/images/john%20chen2.jpg)
 
-Register for a place now: 
+Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
 
 
                   
