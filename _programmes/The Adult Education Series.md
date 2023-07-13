@@ -23,7 +23,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 The Adult Education Series (AES) aims to support existing Adult Educators from polytechnics and IAL to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunties below.
 
 
-#### Workshop: Communication Skils for Coaching Performance (Run 1)
+#### Workshop: Communication Skills for Coaching Performance (Run 1)
 
 Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
 
@@ -43,7 +43,26 @@ Venue: Singapore Polytechnic
 
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
-                                                       
+
+### Webinar: Engaging Virtual Meetings
+
+Are you suffering from Zoom fatigue at times?
+Do you want to lead engaging virtual meetings?
+Join the webinar 'Engaging Virtual Meetings' to learn how you could use the 6-step Engage method to solve common virtual meeting challenges.
+
+Date: 30 Aug 2023 Wed
+
+Time: 12pm-1pm
+
+Mode: Online via Zoom (Zoom link will be sent to participants after registration closes.)
+
+Guest Facilitator: Mr John Chen, author of top selling business book "Engaging Virtual Meetings" and "50 Digital Team Building Games". John is a recognized thought leader on engaging virtual meetings.
+![](/images/john%20chen2.jpg)
+
+Register for a place now: 
+
+
+                  
 
 #### Upcoming Event: Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
