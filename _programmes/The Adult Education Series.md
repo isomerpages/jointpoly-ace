@@ -50,6 +50,12 @@ Are you suffering from Zoom fatigue at times?
 Do you want to lead engaging virtual meetings?
 Join the webinar 'Engaging Virtual Meetings' to learn how you could use the 6-step Engage method to solve common virtual meeting challenges.
 
+* Fix attendees talking over each other
+* How to look good virtually
+* How to engage everyone even if someone else is talking
+* How to use virtual tools to get work done
+* Powerfully close your meeting and take steps to make your next meeting even more engaging
+
 Date: 30 Aug 2023 Wed
 
 Time: 12pm-1pm
