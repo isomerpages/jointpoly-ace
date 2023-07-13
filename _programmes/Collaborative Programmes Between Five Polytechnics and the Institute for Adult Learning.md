@@ -44,7 +44,7 @@ Venue: Singapore Polytechnic
 
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
-
+                                                       
 
 **Upcoming Event: Adult Education Community of Practice (COP) Run 2 **
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
@@ -56,6 +56,8 @@ Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gl
 * Mode: Face-to-face at Temasek Polytechnic
 
 * Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) 
-	              
+	 
+	 
+	                      
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
