@@ -23,7 +23,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 The Adult Education Series (AES) aims to support existing Adult Educators from polytechnics and IAL to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
 
-#### Workshop: Communication Skills for Coaching Performance (Run 1)
+#### 1. Workshop: Communication Skills for Coaching Performance (Run 1)
 
 Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
 
@@ -50,7 +50,7 @@ Limited seats are available.
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
 
-#### Webinar: Engaging Virtual Meetings
+#### 2. Webinar: Engaging Virtual Meetings
 
 Are you suffering from Zoom fatigue at times?
 Do you want to lead engaging virtual meetings?
@@ -76,7 +76,7 @@ Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gl
 
                   
 
-#### Upcoming Event: Adult Education Community of Practice (COP) Run 2 
+#### 3. Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
 * Date: 19 Jul 2023 Wednesday
