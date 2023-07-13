@@ -41,7 +41,7 @@ Time: 2pm-5pm
 
 Venue: Singapore Polytechnic 
 
-Trainer: Ms Serene Sim/ IAL
+Workshop Facilitator: Ms Serene Sim/ IAL
 
 ![](/images/serene%20sim%202.jpg)
 
