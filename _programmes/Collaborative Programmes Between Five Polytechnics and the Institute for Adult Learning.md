@@ -28,12 +28,12 @@ Adult educators (AEs) can look forward to learning from the following initiative
 
 * Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) 
 
-
+### The Adult Education Series (AES)
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators from polytechnics and IAL to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunties below.
 
 
-Workshop Title: Communication Skils for Coaching Performance (Run 1)
+#### Workshop Title: Communication Skils for Coaching Performance (Run 1)
 
 Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
 
