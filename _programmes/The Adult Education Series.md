@@ -45,7 +45,7 @@ Workshop Facilitator: Ms Serene Sim/ IAL
 
 ![](/images/serene%20sim%202.jpg)
 
-Limited seats are available.
+Training seats are limited and available on a first-come-first-serve basis.
 
 Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
 
