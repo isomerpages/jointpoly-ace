@@ -74,6 +74,8 @@ Guest Facilitator: Mr John Chen, author of top selling business book "Engaging V
 Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
 
 
+
+                                              
                  
                   
 ### Past Learning Event
