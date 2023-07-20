@@ -89,7 +89,9 @@ Passionate educators from various institutions spent the afternoon sharing strat
   
 Are you a passionate adult educator looking to take your professional development to the next level? Join our next run of Adult Education Community of Practice and be part of a dynamic community that fosters growth, collaboration, and excellence in adult education. 
 
-Click here to join Adult Education COP mailing list:[https://forms.gle/8BceHFdkywTf3ogr7](https://forms.gle/8BceHFdkywTf3ogr7). We will keep you informed if there is an upcoming COP run open for registration.
+Click here to join Adult Education COP mailing list: [https://forms.gle/8BceHFdkywTf3ogr7](https://forms.gle/8BceHFdkywTf3ogr7). 
+
+We will keep you informed if there is an upcoming COP run open for registration.
 	 
 	 
 	                      
