@@ -74,20 +74,31 @@ Guest Facilitator: Mr John Chen, author of top selling business book "Engaging V
 Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
 
 
-                  
 
-#### 3. Adult Education Community of Practice (COP) Run 2 
+                                              
+                 
+                  
+### Past Learning Event for Adult Educators
+#### Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
-* Date: 19 Jul 2023 Wednesday
+![](/images/cop%20run%202-3.jpg)
 
-* Time: 2pm-5pm
+![](/images/cop%20run%202-4.jpg)
 
-* Mode: Face-to-face at Temasek Polytechnic
+The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult Learning (IAL) have come together to organise another run of Adult Education Community of Practice for adult educators across five polytechnics and IAL on 19 July 2023 at Temasek Polytechnic. 
+  
+Passionate educators from various institutions spent the afternoon sharing strategies and tips for affective engagement. The energy and enthusiasm in the room were palpable, and it was incredible to witness the collective expertise of our educators coming together. This initiative presents a remarkable opportunity for adult educators to connect, collaborate, and learn from each other.  
+  
+Are you a passionate adult educator looking to take your professional development to the next level? Join our next run of Adult Education Community of Practice and be part of a dynamic community that fosters growth, collaboration, and excellence in adult education. 
 
-* Register for a place now: [https://forms.gle/FHizst1k6LNNW1NKA](https://forms.gle/FHizst1k6LNNW1NKA) (Registration has closed.)
+Click here to join Adult Education COP mailing list: [https://forms.gle/8BceHFdkywTf3ogr7](https://forms.gle/8BceHFdkywTf3ogr7). 
+
+We will keep you informed if there is an upcoming COP run open for registration.
 	 
-	 
+	
+	
+	                             
 	                      
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
