@@ -93,7 +93,7 @@ The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult
   
 Passionate educators from various institutions spent the afternoon sharing strategies and tips for affective engagement. The energy and enthusiasm in the room were palpable, and it was incredible to witness the collective expertise of our educators coming together. This initiative presents a remarkable opportunity for adult educators to connect, collaborate, and learn from each other.  
   
-Are you a passionate adult educator looking to take your professional development to the next level? Join our next run of Adult Education Community of Practice and be part of a dynamic community that fosters growth, collaboration, and excellence in adult education. Together, let's inspire one another to make a difference in adult education!
+Are you a passionate adult educator looking to take your professional development to the next level? Join our next run of Adult Education Community of Practice and be part of a dynamic community that fosters growth, collaboration, and excellence in adult education. Together, let's make a difference in adult education!
 	 
 	 
 	                      
