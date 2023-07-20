@@ -85,8 +85,8 @@ Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gl
 
 * Mode: Face-to-face at Temasek Polytechnic
 
-
 ![](/images/cop%20run%202-3.jpg)
+
 ![](/images/cop%20run%202-4.jpg)
 
 The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult Learning (IAL) have come together to organise another run of Adult Education Community of Practice for adult educators across five polytechnics and IAL. 🤝  
