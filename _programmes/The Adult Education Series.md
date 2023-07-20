@@ -87,6 +87,8 @@ Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gl
 
 ![](/images/cop%20run%202.jpg)
 
+
+
 The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult Learning (IAL) have come together to organise another run of Adult Education Community of Practice for adult educators across five polytechnics and IAL. 🤝  
   
 Passionate educators from various institutions spent the afternoon sharing strategies and tips for affective engagement. The energy and enthusiasm in the room were palpable, and it was incredible to witness the collective expertise of our educators coming together. This initiative presents a remarkable opportunity for adult educators to connect, collaborate, and learn from each other.  
