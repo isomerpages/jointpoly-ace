@@ -74,9 +74,10 @@ Guest Facilitator: Mr John Chen, author of top selling business book "Engaging V
 Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
 
 
+                 
                   
-
-#### 3. Adult Education Community of Practice (COP) Run 2 
+### Past Events
+#### Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
 ![](/images/cop%20run%202-3.jpg)
