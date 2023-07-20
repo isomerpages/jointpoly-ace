@@ -76,7 +76,7 @@ Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gl
 
                  
                   
-### Past Event(s)
+### Past Learning Event
 #### Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
