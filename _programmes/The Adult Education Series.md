@@ -94,7 +94,9 @@ Click here to join Adult Education COP mailing list: [https://forms.gle/8BceHFdk
 
 We will keep you informed if there is an upcoming COP run open for registration.
 	 
-	 
+	
+	
+	                             
 	                      
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
