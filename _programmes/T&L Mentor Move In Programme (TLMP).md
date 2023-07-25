@@ -48,6 +48,7 @@ Check out the video recordings of past Brown Bag sessions:
 * [Fostering Student Motivation & Engagement: The Relevant, Appealing and Personal (RAP) Pedagogical Framework](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2373188500)
 * [Design Better Learning experiences with LXD](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2447847562)
 * [Peer Coaching for Student-centred Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2478254285)
+* [Playing the role of a Faciliactor in Education: Responding the Past, Present and Future](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2639313746)
 
 You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg/openpolyevents/) to find out more about other upcoming learning opportunities.
 
