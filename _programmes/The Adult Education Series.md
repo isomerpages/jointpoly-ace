@@ -20,7 +20,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 
 ### The Adult Education Series (AES)
 ![](/images/aes%20banner%205.png)
-The Adult Education Series (AES) aims to support existing Adult Educators from polytechnics and IAL to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
+The Adult Education Series (AES) aims to support existing Adult Educators to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
 
 #### 1. Workshop: Communication Skills for Coaching Performance (Run 1)
@@ -86,7 +86,7 @@ Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gl
 
 ![](/images/cop%20run%202-4.jpg)
 
-The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult Learning (IAL) have come together to organise another run of Adult Education Community of Practice for adult educators across five polytechnics and IAL on 19 July 2023 at Temasek Polytechnic. 
+The Joint Polytechnic Academy for Educators (JP-AcE) and the Institute for Adult Learning (IAL) have come together to organise another run of Adult Education Community of Practice for adult educators on 19 July 2023 at Temasek Polytechnic. 
   
 Passionate educators from various institutions spent the afternoon sharing strategies and tips for affective engagement. The energy and enthusiasm in the room were palpable, and it was incredible to witness the collective expertise of our educators coming together. This initiative presents a remarkable opportunity for adult educators to connect, collaborate, and learn from each other.  
   
