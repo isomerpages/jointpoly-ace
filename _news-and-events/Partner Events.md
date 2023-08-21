@@ -14,6 +14,4 @@ Upcoming events:
 
 [Invitation to call for abstracts at the 6th World Engineers Summit (WES) 2023  for Track 6 - Pedagogy and Education Technology in Engineering Education](https://www.wes-ies.org/registration-ies/submit-a-paper/)
 
-
-
-
+[Embark on a Learning Journey with IAL to Republic Polytechnic and Master the Art of Modern Business and Efficient Supply Chain Management!](https://www.ial.edu.sg/events/learning-journey-to-rp/)
