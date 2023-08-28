@@ -22,35 +22,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-
-#### 1. Workshop: Communication Skills for Coaching Performance (Run 1)
-
-Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
-
-The workshop will help you develop the essential communication skills needed to excel as a coach. As a coach, it is important to go beyond active listening and gather important perspectives, including facts, emotions, and values. You will learn how to reflect back your understanding of what has been said, providing evidence that you have truly listened to your coachees.
-
-We will also delve into the art of asking powerful questions and giving feedback. The goal is to ask courageous questions that benefit your staff, encourage growth, and provoke new insights. You will discover how to create a safe space through good questioning and feedback techniques, allowing for deeper insights into your coaching effectiveness.
-
-Effective working relationships are built on strong rapport. You will also learn observational skills such as mirroring and matching, leading, pacing, and self-awareness. These skills will help you establish deep connections with your coachees and create a productive coaching environment.
-
-Don't miss this opportunity to enhance your communication skills as a coach. Sign up today!
-
-Date: 25 Aug 2023 Fri
-
-Time: 2pm-5pm
-
-Venue: Singapore Polytechnic 
-
-Workshop Facilitator: Ms Serene Sim/ IAL
-
-![](/images/serene%20sim%202.jpg)
-
-Training seats are limited and available on a first-come-first-serve basis.
-
-Register for a place now: [https://forms.gle/uCNkz7zB33iiprjF7](https://forms.gle/uCNkz7zB33iiprjF7)
-
-
-#### 2. Webinar: Engaging Virtual Meetings
+#### 1. Webinar: Engaging Virtual Meetings
 
 Are you suffering from Zoom fatigue at times?
 Do you want to lead engaging virtual meetings?
@@ -74,7 +46,6 @@ Guest Facilitator: Mr John Chen, author of top selling business book "Engaging V
 Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
 
 
-
                                               
                  
                   
@@ -96,9 +67,21 @@ Click here to join Adult Education COP mailing list: [https://forms.gle/8BceHFdk
 
 We will keep you informed if there is an upcoming COP run open for registration.
 	 
-	
-	
-	                             
-	                      
+#### Workshop: Communication Skills for Coaching Performance (Run 1)
+
+Adult educators from the polytechnics and the Institute of Adult Learning (IAL) came together on 25 August 2023 at Singapore Polytechnic to learn to enhance their coaching through sharpening their communication skills. 
+
+The group explored the difference between coaching and mentoring, and discussed the challenges in asking good questions for coaching. A range of skills (such as mirroring and matching, leading and pacing) supporting the tasks of a coach were also touched on. Participants enjoyed role play activities to practise and reflect on their application of their skills.
+
+Staff who attended appreciated the opportunity to interact with other adult educators, and to share insights and refresh their own journey as coaches and trainers.
+
+**![](https://lh6.googleusercontent.com/Q78Nx2byUuHdtnpVjWdYs4wciEoB8-C_AL2Dk2R5Ba_wL23BUB7499OqbH1XQnIJHH-iROXAonMNnDHaWzqkYXZ_G5S6JN0rv2vKza8noY9WrakVbLzZVpOX6S6eKHvwa-LV8Q22UpwK7z7S)**
+
+**![](https://lh6.googleusercontent.com/18dd2zJyUYje5lJxg4VYN3LybXpSeYo7Juc9TMRPRSu4qjXC_FEpUhGCdJaTjEMSlnDg92NvKwi_cU-_1rVzOF8CWPpZGkhXd644xu5QpRO3BAicm4FzRDnLiqzFFtq4SBeDq62yxvOY3Jpd)**
+
+**![](https://lh4.googleusercontent.com/JvRvY80dxWOIiRnLGuMzTQ_NtqBDP0vwIYHYuC7t3o99dOC9ubVpW9ei0L_upF_vGPcY_oZZdY_1zMzGZcGnm2BKlw9pxuaGbBaxjE26uFcDcib3tNBvfrPZOtZZ3GlHK-TYuAaH8Bo9UeQG)**
+
+                        
+
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
