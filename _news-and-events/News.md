@@ -35,7 +35,7 @@ Photo credits to SSG
 
 #### Hear from the Polytechnic PCEOs
 
-![](/images/Quote%20Instagram%20Post.jpg)
+![](/images/quote%20instagram%20post.jpg)
 
 ![](/images/Quote%20Instagram%20Post%20(1).jpg)
 

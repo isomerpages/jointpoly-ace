@@ -6,7 +6,7 @@ description: Find out how you can learn together as a community
 
 # Community of Practice (COP)
 
-![](/images/52333688_ML.jpg)
+![](/images/52333688_ml.jpg)
 
 #### Target Audience:
 

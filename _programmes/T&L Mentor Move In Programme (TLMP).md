@@ -6,7 +6,7 @@ image: ""
 ---
 # T&L Mentor Move-In Programme (TLMP)
 
-![](/images/70290420_MLsuccess.jpg)
+![](/images/70290420_mlsuccess.jpg)
 
 #### What is the programme about?
 
@@ -38,7 +38,7 @@ The duration of the programme is 160 hours, which is conducted over a span of 1 
 ![](/images/tlmp%20nm2.jpg)
 
 
-### [Click here to find out more about TLMP!](/files/TLMP_Prog%20information_for%20JPAcE%20website%20_updated%206%20Sept%202022.pdf)
+### [Click here to find out more about TLMP!](/files/tlmp_prog%20information_for%20jpace%20website%20_updated%206%20sept%202022.pdf)
 (Right click to open the above link in a new tab.)
 
 #### Brown Bag Series

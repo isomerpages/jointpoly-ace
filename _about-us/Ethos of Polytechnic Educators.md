@@ -15,4 +15,4 @@ The T&L ethos of polytechnic educators, which defines the desired culture and mi
 * Engaging actively in continual professional development to enhance T&L and discipline capabilities
 * Contributing to the Teaching & Learning development of colleagues and the education community
 
-![](/images/54160733_ML.jpg)
+![](/images/54160733_ml.jpg)

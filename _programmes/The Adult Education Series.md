@@ -7,7 +7,7 @@ image: ""
 ---
 The JP-AcE represents the five polytechnics to collaborate with the Institute of Adult Learning (IAL).
 
-![](/images/54123485_ML.jpg)
+![](/images/54123485_ml.jpg)
 
 Adult educators (AEs) can look forward to learning from the following initiatives:
 

@@ -5,7 +5,7 @@ description: Certificate in Teaching and Learning for Polytechnic Educators (CTL
 ---
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
-![](/images/127315465_ML2.jpg)
+![](/images/127315465_ml2.jpg)
 
 #### What is the programme about?
 
@@ -33,7 +33,7 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 ![](/images/ctlpe%20intake%208%20collage.jpg)
 
-### [Click here to find out more about CTLPE!](/files/CTLPE%20Prog%20information%20for%20JPAcE%20website_updated%20on%207%20Sep%202022%20v2.pdf)
+### [Click here to find out more about CTLPE!](/files/ctlpe%20prog%20information%20for%20jpace%20website_updated%20on%207%20sep%202022%20v2.pdf)
 (Right click to open the above link in a new tab.)
 
 ### [Click here to check out CTLPE Graduation Ceremony 2023!](https://jpace.polytechnic.edu.sg/academyevents/)

@@ -7,7 +7,7 @@ image: /images/93870290_ML.jpg
 # School Leadership Move-In Programme (SLMP)
 
 
-![](/images/44638187_ML.jpg)
+![](/images/44638187_ml.jpg)
 
 #### What is the programme about?
 
@@ -16,7 +16,7 @@ School Leadership Move-In Programme (SLMP) is a professional development program
 * Driving T&L Quality
 * Shaping T&L Culture
 
-![](/images/Learning%20Journey%20to%20TP_10%20June%202022.jpg)
+![](/images/learning%20journey%20to%20tp_10%20june%202022.jpg)
 
 #### How is the programme conducted?
 
@@ -57,7 +57,7 @@ Fireside chat “Leadership Stories” with polytechnic sector leaders. From rig
 ![](/images/slmp%20run%202%20group%20discussion.png)
 Group Discussion on participants' SLMP practicum projects with their group facilitators
 
-#### [Click here to find out more about SLMP.](/files/SLMP_%20Prog%20info_%20for%20JPAcE%20website_%20Updated%2017%20Jan%202023.pdf)
+#### [Click here to find out more about SLMP.](/files/slmp_%20prog%20info_%20for%20jpace%20website_%20updated%2017%20jan%202023.pdf)
 (Right click to open the above link in a new tab.)
 
 

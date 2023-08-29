@@ -7,7 +7,7 @@ description: Learn more about how adult educators can enhance T&L capabilities
 
 # Attachments/ Secondments / Staff Exchange
 
-![](/images/94213049_ML.jpg)
+![](/images/94213049_ml.jpg)
 
 The JP-AcE organises the following learning opportunities:
 
