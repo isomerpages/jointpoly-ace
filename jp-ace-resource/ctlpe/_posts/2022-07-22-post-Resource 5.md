@@ -7,5 +7,5 @@ description: Support
 image: /images/52453646_ml.jpg
 ---
 # Resource 5
-![](/images/52453646_ML.jpg)
+![](/images/52453646_ml.jpg)
 Text
