@@ -13,7 +13,7 @@ description: >-
 
 
   This is an Isomer site of the Singapore Government.
-image: /images/Web version updated on 7 Sep 2022.png
+image: /images/web version updated on 7 sep 2022.png
 permalink: /
 notification: ""
 sections:
@@ -40,7 +40,7 @@ sections:
         Educators</strong>.
       button: Find out more
       url: /ctlpe/
-      image: /images/127315465_ML2.jpg
+      image: /images/127315465_ml2.jpg
       alt: ctlpe
   - infopic:
       title: SLMP
@@ -49,7 +49,7 @@ sections:
         Leadership Move-In Programme</strong>.
       button: Find out more
       url: /slmp/
-      image: /images/44638187_ML.jpg
+      image: /images/44638187_ml.jpg
       alt: SLMP
   - infopic:
       title: TLMP
@@ -58,7 +58,7 @@ sections:
         Mentor Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
-      image: /images/70290420_MLsuccess.jpg
+      image: /images/70290420_mlsuccess.jpg
       alt: TLMP
   - infopic:
       title: CLMP
@@ -67,7 +67,7 @@ sections:
         <strong>Course Leadership Move-in Programme</strong>.
       button: Find out more
       url: /clmp/
-      image: /images/53753385_ML.jpg
+      image: /images/53753385_ml.jpg
       alt: CLMP
   - infopic:
       title: News

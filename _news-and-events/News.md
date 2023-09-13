@@ -37,13 +37,13 @@ Photo credits to SSG
 
 ![](/images/quote%20instagram%20post.jpg)
 
-![](/images/Quote%20Instagram%20Post%20(1).jpg)
+![](/images/quote%20instagram%20post%20(1).jpg)
 
-![](/images/Quote%20Instagram%20Post%20(2).jpg)
+![](/images/quote%20instagram%20post%20(2).jpg)
 
-![](/images/Quote%20Instagram%20Post%20(4).jpg)
+![](/images/quote%20instagram%20post%20(4).jpg)
 
-![](/images/Quote%20Instagram%20Post%20(5).jpg)
+![](/images/quote%20instagram%20post%20(5).jpg)
 
    
 #### Read more about the MOUs signing to raise the quality of CET: [go.gov.sg/ssg-20220705-news](http://go.gov.sg/ssg-20220705-news?fbclid=IwAR2WNCe7gY33o3H2JydFIHlHXnT4yLlEO-bm_CH_7cxYG481tI45MNrl21Y)

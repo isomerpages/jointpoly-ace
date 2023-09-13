@@ -19,7 +19,7 @@ The 3 key aspects of CLMP are:
 * Leading course quality
 * Managing course stakeholders
 
-![](/images/MicrosoftTeams-image%20(6).png)
+![](/images/microsoftteams-image%20(6).png)
 
 #### How is the programme conducted?
 
@@ -29,7 +29,7 @@ CLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 The duration of the programme is 100 hours, which is conducted over a span of 7 months. The first run will commence in March 2023. The second run is expected to commence in 2024.
 
-![](/images/MicrosoftTeams-image%20(7).png)
+![](/images/microsoftteams-image%20(7).png)
 
 ### [Click here to find out more about CLMP!](/files/clmp_%20prog%20info_%20for%20jpace%20website_%20updated%205%20sept%202022.pdf)
 (Right click to open the above link in a new tab.)

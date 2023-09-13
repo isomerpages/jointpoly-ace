@@ -2,7 +2,7 @@
 title: School Leadership Move In Programmes (SLMP)
 permalink: /slmp/
 description: Check out School Leadership Move-in Programmes (SLMP)
-image: /images/93870290_ML.jpg
+image: /images/93870290_ml.jpg
 ---
 # School Leadership Move-In Programme (SLMP)
 
