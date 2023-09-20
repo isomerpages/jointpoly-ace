@@ -5,7 +5,7 @@ description: ""
 ---
 #### Key T&L Roles of Polytechnic Educators
 
-![](/images/66739244_ML.jpg)
+![](/images/66739244_ml.jpg)
 
 The key T&L roles for leadership as well as mentor for polytechnic educators in Singapore are shown in the following figure.
 

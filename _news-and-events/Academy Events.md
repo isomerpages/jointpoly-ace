@@ -64,17 +64,17 @@ CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video
 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/Vel55c-4N3s?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-![](/images/20221118_JP-AcELaunch_0081.jpg)
+![](/images/20221118_jp-acelaunch_0081.jpg)
 
-![](/images/20221118_JP-AcELaunch_0192.jpg)
+![](/images/20221118_jp-acelaunch_0192.jpg)
 
-![](/images/20221118_JP-AcELaunch_0216.jpg)
+![](/images/20221118_jp-acelaunch_0216.jpg)
 
-![](/images/20221118_JP-AcELaunch_0085.jpg)
+![](/images/20221118_jp-acelaunch_0085.jpg)
 
-![](/images/20221118_JP-AcELaunch_0240.jpg)
+![](/images/20221118_jp-acelaunch_0240.jpg)
 
-![](/images/20221118_JP-AcELaunch_0250.jpg)
+![](/images/20221118_jp-acelaunch_0250.jpg)
 
 
 Date: 18 November 2022

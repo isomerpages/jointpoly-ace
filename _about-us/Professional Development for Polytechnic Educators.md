@@ -6,7 +6,7 @@ description: ""
 
 ### Professional Development for Polytechnic Educators
 
-![](/images/52559612_ML.jpg)
+![](/images/52559612_ml.jpg)
 
 To ensure that polytechnic educators are equipped with the necessary knowledge and skills to undertake the roles of class leadership, module leadership and module cluster leadership roles, each polytechnic has put in place structured programmes for their educators.
 

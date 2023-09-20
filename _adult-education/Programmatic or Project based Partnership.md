@@ -7,7 +7,7 @@ description: Discover possible areas for collaboration and programmatic /
 
 # Programmatic or Project-based Partnership
 
-![](/images/54123485_ML.jpg)
+![](/images/54123485_ml.jpg)
 
 Polytechnics and SUSS-IAL are offering possible areas of joint collaboration for programmatic or project-based partnership.
 

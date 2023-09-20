@@ -1,6 +1,6 @@
 title: Joint Polytechnic Academy for Educators JP-AcE
 url: https://jpace.polytechnic.edu.sg
-favicon: /images/Web version updated on 7 Sep 2022.png
+favicon: /images/web version updated on 7 sep 2022.png
 colors:
   primary-color: "#006241"
   secondary-color: "#002a5f"
@@ -60,9 +60,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://staging.d3twdeq6d9fw06.amplifyapp.com/
-prod: https://master.d3twdeq6d9fw06.amplifyapp.com/
-shareicon: /images/Web version updated on 7 Sep 2022.png
+staging: https://staging.d3r64eq67610w8.amplifyapp.com/
+prod: https://master.d3r64eq67610w8.amplifyapp.com/
+shareicon: /images/web version updated on 7 sep 2022.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
