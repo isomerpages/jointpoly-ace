@@ -22,32 +22,23 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-#### 1. Webinar: Engaging Virtual Meetings
+#### 1. Workshop: Communication Skills for Coaching Performance (Run 2)
 
-Are you suffering from Zoom fatigue at times?
-Do you want to lead engaging virtual meetings?
-Join the webinar 'Engaging Virtual Meetings' to learn how you could use the 6-step Engage method to solve common virtual meeting challenges.
+Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
 
-* Fix attendees talking over each other
-* How to look good virtually
-* How to engage everyone even if someone else is talking
-* How to use virtual tools to get work done
-* Powerfully close your meeting and take steps to make your next meeting even more engaging
+The workshop will help you develop the essential communication skills needed to excel as a coach. As a coach, it is important to go beyond active listening and gather important perspectives, including facts, emotions, and values. You will learn how to reflect back your understanding of what has been said, providing evidence that you have truly listened to your coachees. We will also delve into the art of asking powerful questions and giving feedback. The goal is to ask courageous questions that benefit your staff, encourage growth, and provoke new insights. You will discover how to create a safe space through good questioning and feedback techniques, allowing for deeper insights into your coaching effectiveness. Effective working relationships are built on strong rapport. You will also learn observational skills such as mirroring and matching, leading, pacing, and self-awareness. These skills will help you establish deep connections with your coachees and create a productive coaching environment. Don’t miss this opportunity to enhance your communication skills as a coach. Sign up today!
 
-Date: 30 Aug 2023 Wed
+Date: 13 Oct 2023 Fri
 
-Time: 12pm-1pm
+Time: 2pm-5pm
 
-Mode: Online via Zoom (Zoom link will be sent to participants after registration closes.)
+Venue: Nanyang Polytechnic (Training Venue details will be sent out to participants after registration closes.)
 
-Guest Facilitator: Mr John Chen, author of top selling business book "Engaging Virtual Meetings" and "50 Digital Team Building Games" and recognized thought leader on engaging virtual meetings.
-![](/images/john%20chen2.jpg)
+Workshop Facilitator: Ms Serene Sim/ IAL
 
-Register for a place now: [https://forms.gle/nDmUPKAwko3ac2uVA](https://forms.gle/nDmUPKAwko3ac2uVA)
-
-
+The seats are limited and are available on a first-come-first-serve basis.
                                               
-                 
+Register for a place now: [https://forms.gle/P2Y6ccE37e8vuGRSA](https://forms.gle/P2Y6ccE37e8vuGRSA)                 
                   
 ### Past Learning Event for Adult Educators
 #### Adult Education Community of Practice (COP) Run 2 
@@ -81,7 +72,28 @@ Staff who attended appreciated the opportunity to interact with other adult educ
 
 **![](https://lh4.googleusercontent.com/JvRvY80dxWOIiRnLGuMzTQ_NtqBDP0vwIYHYuC7t3o99dOC9ubVpW9ei0L_upF_vGPcY_oZZdY_1zMzGZcGnm2BKlw9pxuaGbBaxjE26uFcDcib3tNBvfrPZOtZZ3GlHK-TYuAaH8Bo9UeQG)**
 
-                        
+#### Webinar: Engaging Virtual Meetings
+
+Are you suffering from Zoom fatigue at times?
+Do you want to lead engaging virtual meetings?
+Join the webinar 'Engaging Virtual Meetings' to learn how you could use the 6-step Engage method to solve common virtual meeting challenges.
+
+* Fix attendees talking over each other
+* How to look good virtually
+* How to engage everyone even if someone else is talking
+* How to use virtual tools to get work done
+* Powerfully close your meeting and take steps to make your next meeting even more engaging
+
+Date: 30 Aug 2023 Wed
+
+Time: 12pm-1pm
+
+Mode: Online via Zoom (Zoom link will be sent to participants after registration closes.)
+
+Guest Facilitator: Mr John Chen, author of top selling business book "Engaging Virtual Meetings" and "50 Digital Team Building Games" and recognized thought leader on engaging virtual meetings.
+![](/images/john%20chen2.jpg)
+
+Check out the recorded session [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FEWNRYP00IJsw-xyvKldJ2eWXpjJYSbY8i1Hj7fuq6dMqDPD8Hz813BurjZnPxRIe.SO4c-2v088sVje69&data=05%7C01%7C%7C65a679fbde014e6fcaf008dbb9b1e480%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638307945951212253%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=f5j8Skyv7TqJl1h5E%2FIQ3Bb6K7VL4fDKzrGH7VX8UMw%3D&reserved=0)!
 
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
