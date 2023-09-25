@@ -30,7 +30,7 @@ The workshop will help you develop the essential communication skills needed to 
 
 Date: 13 Oct 2023 Fri
 
-Time: 2pm-5pm
+Time: 1.30pm-5pm
 
 Venue: Nanyang Polytechnic (Training Venue details will be sent out to participants after registration closes.)
 
