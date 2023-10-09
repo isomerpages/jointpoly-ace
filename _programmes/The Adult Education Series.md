@@ -44,8 +44,6 @@ Don't miss this extraordinary opportunity to learn from an industry expert.
 **Learning Journey Facilitator: Chef Teo Yeow Siang, Culinary Director, 3 Embers**
 
 <img alt="Chef Siang" height="1000" width="1500" src="/images/chef%20siang%20profile%20pic%20(1).JPG">
-  	
-height: 1500 px width: 1000 px
 
 **About Chef Siang**
 
