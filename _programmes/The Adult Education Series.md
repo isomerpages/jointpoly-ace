@@ -42,14 +42,17 @@ Don't miss this extraordinary opportunity to learn from an industry expert.
 **Venue: Singapore Turf Club Central Kitchen** (Meeting Venue details will be sent out to participants after registration closes.)
 
 **Learning Journey Facilitator: Chef Teo Yeow Siang, Culinary Director, 3 Embers**
-![](/images/iaalj01%20-%20chef%20siang.jpg)
+
+![](/images/chef%20siang%20profile%20pic%20(1).JPG)
 
 
 **About Chef Siang**
 
 As a relentless innovator, Chef Siang works to pursue his passion and his amazing work and achievements are best represented by Chef Siang’s gold medal collection, amassed from some of the world’s most prestigious culinary events. As a member of the World Champion team at the Expogast Culinary World Cup 2014, Chef Siang led Singapore to a double Gold medal performance at the Culinary Olympics 2016 - one of the world’s most prestigious culinary competitions. Under his leadership, the Singapore National Culinary Team went on to be crowned overall champion, marking a first in local history. Chef Siang helps and guides both new and experienced chefs. He is also part of the advisory committee for the Asian Culinary Institute.
 
-Register for a place now:         <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-fareast-font-family:Calibri; mso-fareast-theme-font:minor-latin;} a:link, span.MsoHyperlink {mso-style-priority:99; color:#0563C1; text-decoration:underline; text-underline:single;} a:visited, span.MsoHyperlinkFollowed {mso-style-noshow:yes; mso-style-priority:99; color:#954F72; mso-themecolor:followedhyperlink; text-decoration:underline; text-underline:single;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-size:10.0pt; mso-ansi-font-size:10.0pt; mso-bidi-font-size:10.0pt; mso-font-kerning:0pt; mso-ligatures:none;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> [https://forms.gle/V91jyAwspCyWzHMa6](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FV91jyAwspCyWzHMa6&amp;data=05%7C01%7C%7Cd505e33483ff4b41b2e408dbc87f0fee%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638324220334923599%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=dAmIjqWbLIe1giVOuIJ292jMvjP%2FD%2FN37KgwAdFYAC4%3D&amp;reserved=0)
+Register for a place now:     [https://forms.gle/V91jyAwspCyWzHMa6](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FV91jyAwspCyWzHMa6&amp;data=05%7C01%7C%7Cd505e33483ff4b41b2e408dbc87f0fee%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638324220334923599%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=dAmIjqWbLIe1giVOuIJ292jMvjP%2FD%2FN37KgwAdFYAC4%3D&amp;reserved=0)
+
+The training seats are limited and are available on a first-come-first-serve basis.
 
 #### 2. Workshop: Communication Skills for Coaching Performance (Run 2)
 
