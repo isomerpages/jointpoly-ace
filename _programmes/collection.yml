@@ -1,0 +1,10 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
+      - School Leadership Move In Programmes (SLMP).md
+      - T&L Mentor Move In Programme (TLMP).md
+      - Course Leadership Move In Programme (CLMP).md
+      - The Adult Education Series.md
+      - The Frontier Series for Educators.md

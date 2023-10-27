@@ -1,0 +1,10 @@
+logo: /images/web version updated on 7 sep 2022.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: News And Events
+    collection: news-and-events
+  - title: Contact Us
+    url: /contact-us/
