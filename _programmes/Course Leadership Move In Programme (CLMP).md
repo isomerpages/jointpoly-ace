@@ -70,9 +70,9 @@ _Ideation as part of Design Thinking (CLMP SCCC Session3@TP)_
 
 There were opportunities for participants to learn from the various polytechnics and external organisations through learning journeys and invited guest speaker(s).
  
- ![](/images/clmpupdate081123-7.png)
+![](/images/img_0024.jpg)
  
-_Learning Journey to Experiential Learning Research Centre (ELRC)@RP_
+_Learning Journey to Experiential Learning Centre (XLC)@RP_
 
 
 #### Have a question related to CLMP?
