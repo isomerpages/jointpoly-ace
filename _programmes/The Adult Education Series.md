@@ -23,8 +23,28 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&amp;L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-#### 1. 
-#### 2. 
+#### 1. Workshop: Unleashing Creativity in Notetaking
+
+This interactive and hands-on workshop focuses on enhancing your live creative note-taking skill. Delve into a plethora of techniques that allow you to graphically summarize and highlight the fundamental concepts of any topic. Seize this chance to enrich your teaching arsenal and inspire learning with visually captivating content!
+
+Date: 12 Jan 2024 Fri
+
+Time: 2pm-5.30pm
+
+Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
+
+Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic
+ 
+ ![](/images/jpucn01-1.png)
+ 
+ 
+Ms Deborha Daniele
+Senior Lecturer, School of Design &amp; Media, Nanyang Polytechnic
+
+Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design &amp; Media in Nanyang Polytechnic. After graduating from the Academy of Art University, San Francisco, Deborha had the chance to work in the industry as a storyboard, visual development artist and product designer for Disney, Mattel, Hasbro (My Little Pony), Cartoon Network and Nickelodeon. She now produces her own web comics like The Pirate Balthasar – which ranks as one of the top 300 comics on the web – The Flower and the Nose, The Mark of Cain and Delightfully Victorian Tales of love and Terror, amongst others. She published The Forgotten Muse with Emilia C. Perri in 2018, worked on the webcomic version with her and is now producing pages for Invisible World due to be released in 3 languages by Shockdom Edizioni in 2024.
+
+
+#### 2. Workshop – Embracing and Managing Change: Strategies for Adult Educators
 ### Past Learning Event for Adult Educators
 #### Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
@@ -125,7 +145,7 @@ Don't miss this extraordinary opportunity to learn from an industry expert.
 
 As a relentless innovator, Chef Siang works to pursue his passion and his amazing work and achievements are best represented by Chef Siang’s gold medal collection, amassed from some of the world’s most prestigious culinary events. As a member of the World Champion team at the Expogast Culinary World Cup 2014, Chef Siang led Singapore to a double Gold medal performance at the Culinary Olympics 2016 - one of the world’s most prestigious culinary competitions. Under his leadership, the Singapore National Culinary Team went on to be crowned overall champion, marking a first in local history. Chef Siang helps and guides both new and experienced chefs. He is also part of the advisory committee for the Asian Culinary Institute.
 
-If you want to see photos and videos of the session click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1p7oh4DXXWFYFjHgcPJnW-m70UcHEaOcG%3Fusp%3Dsharing&amp;data=05%7C01%7C%7C179654eb6a7a4ef1f4f508dbdc256596%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638345825528137394%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=EgeQpea8fsUZP4T49bmH9oMzJR6TBl0h4P4Xcww2oOc%3D&amp;reserved=0).
+If you want to see photos and videos of the session, click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1p7oh4DXXWFYFjHgcPJnW-m70UcHEaOcG%3Fusp%3Dsharing&amp;data=05%7C01%7C%7C179654eb6a7a4ef1f4f508dbdc256596%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638345825528137394%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=EgeQpea8fsUZP4T49bmH9oMzJR6TBl0h4P4Xcww2oOc%3D&amp;reserved=0).
 
 Check out the recorded session [here](https://www.youtube.com/watch?v=8-LVtwpbDuQ)
 
