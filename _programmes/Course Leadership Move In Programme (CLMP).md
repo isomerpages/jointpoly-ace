@@ -46,25 +46,25 @@ _*The closing ceremony was moved from 1 September to 1 November because of Singa
 
 The 3-day onboarding experience, encompassing workshops, fireside chat, learning journey, and panel discussion. This onboarding experience encouraged participants to delve into the three core CLMP aspects of leading educational change, leading course quality and managing stakeholders. 
 
-![](/images/clmpupdate081123-1.png)
+![](/images/img_7970.jpg)
 
-![](/images/clmpupdate081123-2.png)
+![](/images/20230322_151302.jpg)
 
 _Group discussions and brainstorming at CLMP onboarding sessions._
 
-![](/images/clmpupdate081123-3.png)
+![](/images/img_9990.jpg)
 
 _Fireside chat with: Dr Kwan Kian Hoong (Director, Temasek Skills Future Academy), Mr Felix Goh (Strategic Lead@Google, Edtech, Research & Education), Mr Mark Nivan Singh (Deputy Director, Department of Educational Development, Singapore Polytechnic), Mrs Phang-Eng Peck Hoong (Director, School of Design & Environment, Ngee Ann Polytechnic)_
 
 The learning in the Onboarding Programme was summed up in the graphic below: 
 
-![](/images/clmpupdate081123-4.png)
+![](/images/rp_clmp_28mar.jpg)
 
 CLMP continued with a series of Structured Conversations on Change Challenges (SCCC) offering authentic learning that helped the course leaders to co-create practical solutions to their real problems (termed “changed challenges”). In the four SCCC sessions, participant used Design Thinking to work through their change challenges and arrive at prototypes. 
 
-![](/images/clmpupdate081123-5.png)
+![](/images/20230707_135030.jpg)
 
-![](/images/clmpupdate081123-6.png)
+![](/images/20230707_144626.jpg)
 
 _Ideation as part of Design Thinking (CLMP SCCC Session3@TP)_
 
