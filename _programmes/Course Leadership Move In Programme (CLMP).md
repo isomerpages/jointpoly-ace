@@ -38,6 +38,7 @@ The duration of the programme is 100 hours, which is conducted over a span of 7 
 #### Check out what happened at the Joint Polytechnic Course Leadership Move-In Programme (CLMP) Inaugural Run 
 
 Dates: March to October 2023
+
 Course Leaders from the five polytechnics came together in March 2023 for the inaugural run of the Course Leadership Move-in Programme (CLMP). They were excited to meet fellow polytechnic colleagues and to level up their skills in course leadership to navigate the challenges and opportunities of course management. 
 
 
@@ -78,9 +79,9 @@ _Learning Journey to Experiential Learning Research Centre (ELRC)@RP_
 
 Please contact your Polytechnic Coordinator(s) for CLMP:
 
-* Nanyang Polytechnic: [Dr. Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
+* Nanyang Polytechnic: [Dr. Ang Wei Sin](mailto:ang_wei_sin@nyp.edu.sg)
 * Ngee Ann Polytechnic: [Ms Eva Rosdiana](mailto:eva_rosdiana@np.edu.sg), [Ms Christina Jimenez](mailto:christina_jimenez@np.edu.sg)
-* Republic Polytechnic: [Mr. Allan Lee](mailto: allan_lee@rp.edu.sg)
+* Republic Polytechnic: [Mr. Allan Lee](mailto:allan_lee@rp.edu.sg)
 * Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
-* Temasek Polytechnic: [Ms Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg)
-* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg)
+* Temasek Polytechnic: [Ms Tan Lay Khee](mailto:tan_lay_khee@tp.edu.sg)
+* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)
