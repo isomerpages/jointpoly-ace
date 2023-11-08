@@ -69,14 +69,18 @@ _Ideation as part of Design Thinking (CLMP SCCC Session3@TP)_
 
 There were opportunities for participants to learn from the various polytechnics and external organisations through learning journeys and invited guest speaker(s).
  
+ ![](/images/clmpupdate081123-7.png)
  
+_Learning Journey to Experiential Learning Research Centre (ELRC)@RP_
+
+
 #### Have a question related to CLMP?
 
 Please contact your Polytechnic Coordinator(s) for CLMP:
 
-* Nanyang Polytechnic: [Ms. Lye Pek Ling](mailto: lye_pek_ling@nyp.edu.sg) , [Dr. Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Mr. Tan Guangfan](mailto: tan_guangfan@np.edu.sg) , [Mr. Alagu Sundaram](mailto: alagu_sundaram@np.edu.sg)
-* Republic Polytechnic: [Dr. Esther Chng](mailto: esther_chng@rp.edu.sg) , [Mr. Allan Lee](mailto: allan_lee@rp.edu.sg) , [Ms. Iris Ngia](mailto: iris_ngia@rp.edu.sg)
-* Singapore Polytechnic: [Mr. George Teo](mailto: george_teo@sp.edu.sg) , [Ms. Tiew Lee Ching](mailto: tiew_lee_ching@sp.edu.sg)
-* Temasek Polytechnic: [Dr. Shirley Ong-Tan](mailto: shirley_ong-tan@tp.edu.sg) , [Mr. Jackson Ho](mailto: jackson_ho@tp.edu.sg)
+* Nanyang Polytechnic: [Dr. Ang Wei Sin](mailto: ang_wei_sin@nyp.edu.sg)
+* Ngee Ann Polytechnic: [Ms Eva Rosdiana](mailto:eva_rosdiana@np.edu.sg), [Ms Christina Jimenez](mailto:christina_jimenez@np.edu.sg)
+* Republic Polytechnic: [Mr. Allan Lee](mailto: allan_lee@rp.edu.sg)
+* Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
+* Temasek Polytechnic: [Ms Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg)
 * Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg)
