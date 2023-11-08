@@ -41,10 +41,7 @@ Dates: March to October 2023
 
 Course Leaders from the five polytechnics came together in March 2023 for the inaugural run of the Course Leadership Move-in Programme (CLMP). They were excited to meet fellow polytechnic colleagues and to level up their skills in course leadership to navigate the challenges and opportunities of course management. 
 
-
-_*The closing ceremony was moved from 1 September to 1 November because of Singapore Presidential election._
-
-The 3-day onboarding experience, encompassing workshops, fireside chat, learning journey, and panel discussion. This onboarding experience encouraged participants to delve into the three core CLMP aspects of leading educational change, leading course quality and managing stakeholders. 
+The 3-day onboarding experience, encompassed workshops, fireside chats, learning journeys, and a panel discussion. This onboarding experience encouraged participants to delve into the three core CLMP aspects of leading educational change, leading course quality and managing stakeholders. 
 
 ![](/images/img_7970.jpg)
 
