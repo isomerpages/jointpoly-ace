@@ -33,11 +33,11 @@ Time: 2pm-5.30pm
 
 Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
 
-###### Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic
+##### Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic
  
- ![](/images/jpucn01-1.png)
-Ms Deborha Daniele
-Senior Lecturer, School of Design &amp; Media, Nanyang Polytechnic
+  <img style="width: 225px; height: 300px" src="/images/jpucn01-1.png">
+<center><i>Ms Deborha Daniele
+	Senior Lecturer, School of Design &amp; Media, Nanyang Polytechnic</i></center>
 
 Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design &amp; Media in Nanyang Polytechnic. After graduating from the Academy of Art University, San Francisco, Deborha had the chance to work in the industry as a storyboard, visual development artist and product designer for Disney, Mattel, Hasbro (My Little Pony), Cartoon Network and Nickelodeon. She now produces her own web comics like The Pirate Balthasar – which ranks as one of the top 300 comics on the web – The Flower and the Nose, The Mark of Cain and Delightfully Victorian Tales of love and Terror, amongst others. She published The Forgotten Muse with Emilia C. Perri in 2018, worked on the webcomic version with her and is now producing pages for Invisible World due to be released in 3 languages by Shockdom Edizioni in 2024.
 
@@ -56,14 +56,16 @@ Time: 1.30pm-5.30pm
 
 Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
 
-###### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators
- ![](/images/iaemc01.png)
-Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators
+##### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators <br>
+
+<img style="width: 225px; height: 300px" src="/images/JP_AcE_27__Edited_.jpg">
+<center><i> Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators </i></center>
 
 Experienced Director with a demonstrated history of working in the higher education industry. Skilled in E-Learning, Power Systems, Strategic Planning, Lecturing, and Research. Strong professional with a Doctor of Philosophy (Ph.D.) focused in Electrical Engineering (Power Systems Reliability) from University of Saskatchewan.
  
- ![](/images/iaemc01-2.jpg)
-Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators
+ <img style="width: 225px; height: 300px" src="/images/iaemc01-2.jpg">
+
+<center><i> Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators </i></center>
 
 Bee Hwee is a seasoned professional and trainer with a diverse background in engineering, banking, human resources, and education. As a former teacher and HR manager, she excelled in upskilling, designing competency frameworks, training roadmaps, and interventions. Currently serving as a Senior Lecturer at Republic Polytechnic, Bee Hwee is seconded to the Joint Polytechnic Academy for Educators (JP-AcE), where she is a part of the pioneering team establishing the academy to enhance the competencies of polytechnic lecturers across five institutions.
 
@@ -166,7 +168,7 @@ Don't miss this extraordinary opportunity to learn from an industry expert.
 
 **Learning Journey Facilitator: Chef Teo Yeow Siang, Culinary Director, 3 Embers**
 
-<img alt="Chef Siang" height="1000" width="1500" src="/images/chef%20siang%20profile%20pic%20(1).JPG">
+<img style="width: 225px; height: 350px" src="/images/chef%20siang%20profile%20pic%20(1).JPG"><br>
 
 **About Chef Siang**
 
