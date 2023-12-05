@@ -59,7 +59,7 @@ Venue: Singapore Polytechnic (Venue details will be sent out to participants aft
 ###### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators <br>
 
 <img style="width: 225px; height: 300px" src="/images/JP_AcE_27__Edited_.jpg">
-<center><i> Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators </i></center>
+###### Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators 
 
 Experienced Director with a demonstrated history of working in the higher education industry. Skilled in E-Learning, Power Systems, Strategic Planning, Lecturing, and Research. Strong professional with a Doctor of Philosophy (Ph.D.) focused in Electrical Engineering (Power Systems Reliability) from University of Saskatchewan.
  
