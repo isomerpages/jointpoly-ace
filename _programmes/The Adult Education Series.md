@@ -56,7 +56,10 @@ Time: 1.30pm-5.30pm
 
 Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
 
-###### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators
+###### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators <br>
+
+<img height="300px" width="300px" src="/images/iaemc01.png" class="one"><br>
+
  ![](/images/iaemc01.png)
 Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators
 
