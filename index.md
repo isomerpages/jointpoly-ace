@@ -16,7 +16,7 @@ description: >-
 image: /images/web version updated on 7 sep 2022.png
 permalink: /
 notification: For New Polytechnic Educators who have joined the Poly Sector this
-  month, click https://jpace.polytechnic.edu.sg/ctlpe
+  month, click https://jpace.polytechnic.edu.sg/ctlpe/
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
