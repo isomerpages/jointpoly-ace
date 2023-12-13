@@ -34,7 +34,7 @@ sections:
           url: /ourpeople/
         - title: For New Polytechnic Lecturers
           description: ""
-          url: https://jpace.polytechnic.edu.sg/ctlpe/
+          url: /ctlpe/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
