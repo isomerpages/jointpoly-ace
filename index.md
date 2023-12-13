@@ -15,8 +15,7 @@ description: >-
   This is an Isomer site of the Singapore Government.
 image: /images/web version updated on 7 sep 2022.png
 permalink: /
-notification: For New Polytechnic Educators who have joined the Poly Sector this
-  month, click https://jpace.polytechnic.edu.sg/ctlpe/
+notification: ""
 sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
@@ -33,6 +32,9 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
+        - title: For New Polytechnic Lecturers
+          description: ""
+          url: https://jpace.polytechnic.edu.sg/ctlpe/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers
