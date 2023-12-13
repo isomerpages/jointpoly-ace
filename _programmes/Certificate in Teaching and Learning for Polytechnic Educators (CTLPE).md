@@ -13,8 +13,8 @@ For New Lecturers Joining from :
 
 | Period of Joining  | Politemall Link |
 | -------- | -------- |
-|  7 Oct 2023 - 31 March 2024  | Link | 
-| 6 Apr 2024 - 28 Sep 2024 | Link |
+|  7 October 2023 - 5 April 2024  | Link | 
+| 6 April 2024 - 4 October 2024 | Link |
 |
 
 
