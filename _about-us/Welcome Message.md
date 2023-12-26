@@ -9,8 +9,6 @@ variant: markdown
 
 ![](/images/jp-ace-27%20(edited)-raj%20with%20names2.jpg)
 
-<p align="justify">
-
 Welcome to the website of the Joint-Polytechnic Academy for Educators (JP-AcE).
 
 Whether you're currently part of the polytechnic sector or exploring this site to gain more insights, we are delighted to provide you with information about the significant role our Academy plays in the polytechnic sector in Singapore.
@@ -36,4 +34,4 @@ We firmly believe that educators constitute the cornerstone of student learning,
 * <strong> Collaboration</strong>: Fostering a culture of collaboration among the Academy, the polytechnic community, and our valued partners to create a collective impact.
 *	<strong> Excellence</strong>: Upholding a commitment to excellence in T&amp;L practices to ensure the highest standards in education.
 
-The Academy, in collaboration with the polytechnic community and our esteemed partners, envisions the cultivation of a generation of future-ready educators for the continued growth and prosperity of Singapore. Explore more about our initiatives on this website, and we look forward to the possibility of collaborating with you in the future. </p>
+The Academy, in collaboration with the polytechnic community and our esteemed partners, envisions the cultivation of a generation of future-ready educators for the continued growth and prosperity of Singapore. Explore more about our initiatives on this website, and we look forward to the possibility of collaborating with you in the future. 
