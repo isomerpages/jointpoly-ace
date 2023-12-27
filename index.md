@@ -32,6 +32,9 @@ sections:
         - title: Our People
           description: ""
           url: /ourpeople/
+        - title: For New Polytechnic Lecturers
+          description: ""
+          url: /ctlpe/
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers

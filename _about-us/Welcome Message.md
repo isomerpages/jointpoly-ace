@@ -2,6 +2,7 @@
 title: Welcome Message
 permalink: /welcome/
 description: ""
+variant: markdown
 ---
 # Welcome Message
 
@@ -10,21 +11,27 @@ description: ""
 
 Welcome to the website of the Joint-Polytechnic Academy for Educators (JP-AcE).
 
-Whether you’re already a member of the polytechnic sector, or reading this site to find out more, we’re glad to share with you the role of our Academy in polytechnic sector in Singapore.  
+Whether you're currently part of the polytechnic sector or exploring this site to gain more insights, we are delighted to provide you with information about the significant role our Academy plays in the polytechnic sector in Singapore.
 
-JP-AcE was launched on 18 November 2022 by the desire for greater connection among five polytechnics in Singapore in the area of teaching and learning (T&L). 
+JP-AcE was inaugurated on November 18, 2022, driven by the aspiration to foster stronger collaboration among the five polytechnics in Singapore, specifically in the realm of teaching and learning (T&amp;L).
 
-This is the first time that the five polytechnics have come together to create an Academy dedicated to developing and raising the T&L capability and competencies of polytechnic educators, to augment the quality of education in polytechnic sector. We do this by leveraging on strengths and innovations of the five polytechnics and facilitating collaborations to all involved in T&L in the polytechnics and other organisations.
+This marked the inaugural collaboration where all five polytechnics unite to establish an Academy focused on enhancing the teaching and learning (T&amp;L) capabilities of polytechnic educators. The primary objective is to elevate the overall quality of education within the polytechnic sector. Our approach involves harnessing the unique strengths and innovative practices of each polytechnic, fostering collaboration among them, and extending these synergies to all individuals engaged in T&amp;L across polytechnics and other organizations.
 
-As of now, JP-AcE is offering two categories of programmes. The first category is for new polytechnic lecturers to develop their foundational skills in teaching & learning. This 1-year certification program is called <strong>_Certificate in T&L for Polytechnic Educators_</strong>. The T&L leadership programmes forms the second category, which includes 200-hour programme for School Leaders (<strong>_School Leadership Move-in Programme_</strong>), 160-hour programme for T&L Mentor (<strong>_T&L Mentors Move-in Programme_</strong>) and 100-hour programme for course leaders (<strong>_Course Leadership Move-In Programme_</strong>). We are also looking into the development of programmes in the areas of digitalisation, flip classroom learning, etc.
+JP-AcE has its flagship programs, collectively known as Move-In Programmes, currently featuring four distinctive offerings. The first Move-In Programme is tailored for new polytechnic lecturers, focusing on cultivating foundational skills in teaching and learning. This comprehensive 100-hour, 1-year certification program is named the <strong> _Certificate in T&amp;L for Polytechnic Educators (CTLPE)_ </strong>.
 
-We are collaborating with Institute of Adult Learning (IAL) – Singapore University of Social Sciences and SkillsFuture Singapore (SSG) to develop programmes in Adult Learning. 
+In addition to this foundational program, JP-AcE extends its reach with three specialized Move-In Programmes in T&amp;L leadership. These include a 200-hour program designed for School Leaders <strong>_(School Leadership Move-In Programme (SLMP))_</strong>, a 160-hour initiative catering to T&amp;L Mentors <strong> _(T&amp;L Mentors Move-In Programme (TLMP))_</strong>, and a 100-hour program tailored for course leaders <strong>_(Course Leadership Move-In Programme (CLMP))_</strong>.
 
-We believe that an educator is the most important pillar in students learning, which in turn shapes the workforce of the nation. Therefore, the educator must be competent for a better workforce.  We are committed to the professional development of T&L for polytechnic educators, and our work is underpinned by these values:
+Furthermore, we are proud to announce strategic collaborations with the Institute of Adult Learning (IAL) at Singapore University of Social Sciences and SkillsFuture Singapore (SSG). Together, we are dedicated to the development and implementation of programs in Adult Learning, falling under the category of Adult Education Series. This initiative aims to enhance the skills and knowledge of adult learners, contributing to their personal and professional growth.
 
-*   Future-oriented
-*   Agile
-*   Collaboration
-*   Excellence
+In parallel, our commitment to staying at the forefront of education is underscored by the Frontier Series Category. Within this category, we are conducting programs that delve into new education technologies and innovative pedagogies. By doing so, we strive to explore and embrace cutting-edge approaches that shape the future of education.
 
-The Academy, together with the polytechnic community and partners, looks ahead to a generation of future-ready educators for the growth of Singapore.  Do find out more about what we do in this website, and we hope to work with you some time.
+Our commitment to excellence propels us to explore and develop programs in emerging areas such as digitalization, flip classroom learning, and beyond. Stay tuned as we continue to evolve and expand our offerings to meet the dynamic needs of the polytechnic education landscape.
+
+We firmly believe that educators constitute the cornerstone of student learning, ultimately shaping the future workforce of our nation. Recognizing the pivotal role educators play, we are dedicated to ensuring their competence, thereby contributing to the development of a stronger workforce. Our commitment to the professional development of teaching and learning (T&amp;L) for polytechnic educators is guided by the following core values:
+
+* <strong> Future-oriented</strong>: Embracing a forward-thinking mindset to equip educators with the skills needed for tomorrow's challenges.
+* <strong> Agile</strong>: Adapting and responding swiftly to the evolving landscape of education to meet the dynamic needs of learners.
+* <strong> Collaboration</strong>: Fostering a culture of collaboration among the Academy, the polytechnic community, and our valued partners to create a collective impact.
+*	<strong> Excellence</strong>: Upholding a commitment to excellence in T&amp;L practices to ensure the highest standards in education.
+
+The Academy, in collaboration with the polytechnic community and our esteemed partners, envisions the cultivation of a generation of future-ready educators for the continued growth and prosperity of Singapore. Explore more about our initiatives on this website, and we look forward to the possibility of collaborating with you in the future. 

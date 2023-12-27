@@ -2,10 +2,23 @@
 title: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 permalink: /ctlpe/
 description: Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
+variant: markdown
 ---
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
 ![](/images/127315465_ml2.jpg)
+
+
+For New Lecturers Joining from : 
+
+| Period of Joining  | Politemall Link |
+| -------- | -------- |
+|  7 October 2023 - 5 April 2024 (Intake 11) | Link | 
+| 6 April 2024 - 4 October 2024 (Intake 12) | Link |
+|
+
+
+
 
 #### What is the programme about?
 
