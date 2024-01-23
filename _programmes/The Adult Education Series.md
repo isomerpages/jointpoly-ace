@@ -91,7 +91,8 @@ Sign up today!
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_Faci.png)
 
-##### [Sign Up Now!](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjpace.polytechnic.edu.sg%2Fial%2F&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417626793%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=XkP1TDOP5%2BjfPMrApFLwhvsEh1SLP6WGBedrk6MMSrc%3D&amp;reserved=0)
+###### [Sign Up Now!](https://forms.gle/RQJPkBhYxgJt1Kum8)
+Just to check would it allow me to export the list of participants within one of my course?
 
 The training places are limited and are available on a first-come-first-serve basis.
 
