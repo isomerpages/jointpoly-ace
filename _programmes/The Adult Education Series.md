@@ -23,30 +23,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&amp;L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-#### 1. Workshop: Unleashing Creativity in Notetaking
-
-This interactive and hands-on workshop focuses on enhancing your live creative note-taking skill. Delve into a plethora of techniques that allow you to graphically summarize and highlight the fundamental concepts of any topic. Seize this chance to enrich your teaching arsenal and inspire learning with visually captivating content!
-
-Date: 12 Jan 2024 Fri
-
-Time: 2pm-5.30pm
-
-Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
-
-##### Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic
- 
-  <img style="width: 225px; height: 300px" src="/images/jpucn01-1.png">
-<center><i>Ms Deborha Daniele
-	Senior Lecturer, School of Design &amp; Media, Nanyang Polytechnic</i></center>
-
-Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design &amp; Media in Nanyang Polytechnic. After graduating from the Academy of Art University, San Francisco, Deborha had the chance to work in the industry as a storyboard, visual development artist and product designer for Disney, Mattel, Hasbro (My Little Pony), Cartoon Network and Nickelodeon. She now produces her own web comics like The Pirate Balthasar – which ranks as one of the top 300 comics on the web – The Flower and the Nose, The Mark of Cain and Delightfully Victorian Tales of love and Terror, amongst others. She published The Forgotten Muse with Emilia C. Perri in 2018, worked on the webcomic version with her and is now producing pages for Invisible World due to be released in 3 languages by Shockdom Edizioni in 2024.
-
-[Sign up now!](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FzRDCfivDb3PDz7Y79&amp;data=05%7C01%7C%7Cb05d7e655fce4161989808dbdf5f583e%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638349372868956074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=qomwLk0tF5Z8MnTWHTDICXX5UK5dAsfIV5gKRhBpIHI%3D&amp;reserved=0)
-
-The training places are limited and are available on a first-come-first-serve basis. 
-
-
-#### 2. Workshop: Embracing and Managing Change: Strategies for Adult Educators
+#### 1. Workshop: Embracing and Managing Change: Strategies for Adult Educators
 
 This workshop aims to equip adult educators with some necessary knowledge and tools to effectively embrace and manage change in their professional lives. Participants will explore various aspects of change, understand the psychology behind resistance, and develop practical strategies to navigate transitions more smoothly.
 
@@ -72,6 +49,11 @@ Bee Hwee is a seasoned professional and trainer with a diverse background in eng
 [Sign up now!](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FWj59xhgz7QySdjMh9&amp;data=05%7C01%7C%7Cb05d7e655fce4161989808dbdf5f583e%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638349372868956074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=xI637uXv%2BaPERvSQPyQZejeESrLo7U7t9mIWx%2FYfPvE%3D&amp;reserved=0)
 
 The training places are limited and are available on a first-come-first-serve basis. 
+
+#### 2. Webinar – The Digital Future of Work and learning in the Age of Artificial Intelligence
+
+
+
 
 
 ### Past Learning Event for Adult Educators
@@ -177,6 +159,28 @@ As a relentless innovator, Chef Siang works to pursue his passion and his amazin
 If you want to see photos and videos of the session, click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1p7oh4DXXWFYFjHgcPJnW-m70UcHEaOcG%3Fusp%3Dsharing&amp;data=05%7C01%7C%7C179654eb6a7a4ef1f4f508dbdc256596%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638345825528137394%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=EgeQpea8fsUZP4T49bmH9oMzJR6TBl0h4P4Xcww2oOc%3D&amp;reserved=0).
 
 Check out the recorded session [here](https://www.youtube.com/watch?v=8-LVtwpbDuQ).
+
+
+#### Workshop: Unleashing Creativity in Notetaking
+This interactive and hands-on workshop focuses on enhancing your live creative note-taking skill. Delve into a plethora of techniques that allow you to graphically summarize and highlight the fundamental concepts of any topic. Seize this chance to enrich your teaching arsenal and inspire learning with visually captivating content!
+
+Date: 12 Jan 2024 Fri
+
+Time: 2pm-5.30pm
+
+Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
+
+##### Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic
+ 
+  <img style="width: 225px; height: 300px" src="/images/jpucn01-1.png">
+<center><i>Ms Deborha Daniele
+	Senior Lecturer, School of Design &amp; Media, Nanyang Polytechnic</i></center>
+
+Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design &amp; Media in Nanyang Polytechnic. After graduating from the Academy of Art University, San Francisco, Deborha had the chance to work in the industry as a storyboard, visual development artist and product designer for Disney, Mattel, Hasbro (My Little Pony), Cartoon Network and Nickelodeon. She now produces her own web comics like The Pirate Balthasar – which ranks as one of the top 300 comics on the web – The Flower and the Nose, The Mark of Cain and Delightfully Victorian Tales of love and Terror, amongst others. She published The Forgotten Muse with Emilia C. Perri in 2018, worked on the webcomic version with her and is now producing pages for Invisible World due to be released in 3 languages by Shockdom Edizioni in 2024.
+
+
+
+
 
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
 Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)
