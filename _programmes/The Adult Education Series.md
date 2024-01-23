@@ -96,7 +96,7 @@ Just to check would it allow me to export the list of participants within one of
 
 The training places are limited and are available on a first-come-first-serve basis.
 
-### Past Learning Event for Adult Educators
+### Past Learning Events for Adult Educators
 #### Adult Education Community of Practice (COP) Run 2 
 ![](/images/navy%20and%20dark%20red%20creative%20illustrated%20business%20marketing%20plant%20presentation.png)
 
@@ -219,7 +219,7 @@ Venue: Singapore Polytechnic (Venue details will be sent out to participants aft
 Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design &amp; Media in Nanyang Polytechnic. After graduating from the Academy of Art University, San Francisco, Deborha had the chance to work in the industry as a storyboard, visual development artist and product designer for Disney, Mattel, Hasbro (My Little Pony), Cartoon Network and Nickelodeon. She now produces her own web comics like The Pirate Balthasar – which ranks as one of the top 300 comics on the web – The Flower and the Nose, The Mark of Cain and Delightfully Victorian Tales of love and Terror, amongst others. She published The Forgotten Muse with Emilia C. Perri in 2018, worked on the webcomic version with her and is now producing pages for Invisible World due to be released in 3 languages by Shockdom Edizioni in 2024.
 
 
-
+![](/images/Adult%20Education%20Uploads/Feb%202024/IAUCN01_Pic.png)
 
 
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
