@@ -50,11 +50,50 @@ Bee Hwee is a seasoned professional and trainer with a diverse background in eng
 
 The training places are limited and are available on a first-come-first-serve basis. 
 
-#### 2. Webinar – The Digital Future of Work and learning in the Age of Artificial Intelligence
+#### 2. Webinar: The Digital Future of Work and learning in the Age of Artificial Intelligence
 
 
+![](/images/Adult%20Education%20Uploads/Feb%202024/GenAI.jpg)
 
+Generative AI has been a popular topic of discussion in recent years, with the potential to transform the way we work and create. AI-generated content, including images, videos, and text, has applications in marketing campaigns, product design, and even scientific discovery. As generative AI becomes more prevalent, its potential is too great to ignore, and it will likely have an enormous impact on how we live and work.
 
+In this session, we examine how professionals can use generative AI to enhance their skills, expand their opportunities, and innovate. Using generative AI also comes with challenges and ethical implications, such as ensuring quality, avoiding plagiarism, and respecting intellectual property. The digital future of work and learning must address these concerns and challenges if it is to be inclusive, accessible, and equitable for everyone. Our goal is to provide practical tips and examples on how to use generative AI tools effectively and responsibly. To conclude, we envision how generative AI can foster collaboration, diversity, and social impact as we move into the age of generative AI. To achieve this, we must bring a human-centric approach to generative AI that places people at the center of all our efforts.
+
+**Date: 7 Feb 2024 Wed**
+
+**Time: 3.30pm-4.30pm**
+
+**Mode: Online via Zoom** 
+
+**Presenter: Dr Samson Tan / Institute for Adult Education (IAL)**
+
+![](/images/Adult%20Education%20Uploads/Feb%202024/Samson_GenAI.jpg)
+
+Click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fialsg.zoom.us%2Fwebinar%2Fregister%2FWN_3MWyQfUARN6_MYpYXf0S9w&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417615419%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=UF47Lha4zrES7pN%2FoBhtCfly5%2FGI2hFM0pV%2BOj%2FWr64%3D&amp;reserved=0) to access the Webinar!
+
+#### 3. Workshop: Communication skills for coaching performance (Run 3)
+
+![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_main.jpg)
+
+Are you an adult educator looking to enhance your communication skills for coaching performance? Join our new workshop designed specifically for educators like you. This workshop focuses on clear, direct communication skills and their effective application in coaching sessions.
+
+The workshop will help you develop the essential communication skills needed to excel as a coach. As a coach, it is important to go beyond active listening and gather important perspectives, including facts, emotions, and values. You will learn how to reflect back your understanding of what has been said, providing evidence that you have truly listened to your coachees. We will also delve into the art of asking powerful questions and giving feedback. The goal is to ask courageous questions that benefit your staff, encourage growth, and provoke new insights. You will discover how to create a safe space through good questioning and feedback techniques, allowing for deeper insights into your coaching effectiveness. Effective working relationships are built on strong rapport. You will also learn observational skills such as mirroring and matching, leading, pacing, and self-awareness. These skills will help you establish deep connections with your coachees and create a productive coaching environment. Don’t miss this opportunity to enhance your communication skills as a coach.
+
+Sign up today!
+
+**Date: 23 Feb 2024 Fri**
+
+**Time: 1.30pm-5pm**
+
+**Venue: Temasek Polytechnic** (Venue details will be sent out to participants after registration closes.)
+
+**Workshop Facilitator: Ms Corrinne Sim/ Institute for Adult Learning**
+
+![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_Faci.png)
+
+##### [Sign Up Now!](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjpace.polytechnic.edu.sg%2Fial%2F&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417626793%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=XkP1TDOP5%2BjfPMrApFLwhvsEh1SLP6WGBedrk6MMSrc%3D&amp;reserved=0)
+
+The training places are limited and are available on a first-come-first-serve basis.
 
 ### Past Learning Event for Adult Educators
 #### Adult Education Community of Practice (COP) Run 2 
