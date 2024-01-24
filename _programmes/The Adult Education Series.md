@@ -65,9 +65,9 @@ In this session, we examine how professionals can use generative AI to enhance t
 
 **Mode: Online via Zoom** 
 
-**Presenter: Dr Samson Tan / Institute for Adult Education (IAL)**
+**Presenter: Dr Samson Tan / Institute for Adult Learning (IAL)**
 
-![](/images/Adult%20Education%20Uploads/Feb%202024/Samson_GenAI.jpg)
+![](/images/Adult%20Education%20Uploads/Feb%202024/Samson_GenAI2.png)
 
 Click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fialsg.zoom.us%2Fwebinar%2Fregister%2FWN_3MWyQfUARN6_MYpYXf0S9w&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417615419%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=UF47Lha4zrES7pN%2FoBhtCfly5%2FGI2hFM0pV%2BOj%2FWr64%3D&amp;reserved=0) to access the Webinar!
 
