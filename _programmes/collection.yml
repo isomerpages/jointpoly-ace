@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Past AES events/The Adult Education Series.md
       - Past AES events/.keep
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
       - School Leadership Move In Programmes (SLMP).md
