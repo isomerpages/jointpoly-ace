@@ -92,7 +92,6 @@ Sign up today!
 ![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_Faci.png)
 
 ###### [Sign Up Now!](https://forms.gle/RQJPkBhYxgJt1Kum8)
-Just to check would it allow me to export the list of participants within one of my course?
 
 The training places are limited and are available on a first-come-first-serve basis.
 
