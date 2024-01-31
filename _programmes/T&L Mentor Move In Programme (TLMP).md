@@ -32,8 +32,6 @@ TLMP is conducted mainly face-to-face and provision for hybrid mode. The program
 
 ![](/images/tlmp1%20(3).jpeg)
 
-![](/images/TLMP%20Intake%202%20Update/Identity.png)
-
 #### When is the programme conducted?
 
 TLMP is a 160-hour programme that takes place over a period of 12 months. The inaugural intake took place from October 2022 till October 2023. The second run of TLMP will commence in April 2024 till April 2025.  
