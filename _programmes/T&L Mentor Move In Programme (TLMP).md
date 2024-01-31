@@ -3,6 +3,7 @@ title: T&L Mentor Move In Programme (TLMP)
 permalink: /tlmp/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
+variant: markdown
 ---
 # T&L Mentor Move-In Programme (TLMP)
 
@@ -21,7 +22,7 @@ The TLMP is organised by representatives from all polytechnics.
 
 #### How is the programme conducted?
 
-TLMP is conducted mainly face-to-face with provision made for hybrid mode of learning.
+TLMP is conducted mainly face-to-face and provision for hybrid mode. The programme includes workshop, learning journey, panel discussion, fireside chat and forum. 
 
 ![](/images/tlmp%20intake%201%20discussion.jpg)
 
@@ -33,15 +34,31 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 #### When is the programme conducted?
 
-The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
+TLMP is a 160-hour programme that takes place over a period of 12 months. The inaugural intake took place from October 2022 till October 2023. The second run of TLMP will commence in April 2024 till April 2025.  
 
 ![](/images/tlmp%20nm2.jpg)
 
 
-### [Click here to find out more about TLMP!](/files/tlmp_prog%20information_for%20jpace%20website%20_updated%206%20sept%202022.pdf)
-(Right click to open the above link in a new tab.)
+### [Click here to find out more about TLMP!](/files/TLMP_intake_2_website_approved_by_RJ_16_Jan_24.pdf)
 
-#### Brown Bag Series
+##### Mid-Point Retreat on 20th March 2023
+![](/images/TLMP%20Intake%202%20Update/MPR_Ideation2_min.png)
+
+![](/images/TLMP%20Intake%202%20Update/MPR_Friends.png)
+
+![](/images/TLMP%20Intake%202%20Update/EM_Huddle.png)
+
+![](/images/TLMP%20Intake%202%20Update/EM_Huddle_image.JPG)
+
+##### T&L Learning Festival on 9th October 2023
+
+![](/images/TLMP%20Intake%202%20Update/Identity.png)
+
+![](/images/TLMP%20Intake%202%20Update/Impact.png)
+
+![](/images/TLMP%20Intake%202%20Update/Inspiration.png)
+
+##### Brown Bag Series
 The new mentors across polytechnics have come together to organise lunch time talks to support more educators in enhancing their T&L capabilities.
 
 Check out the video recordings of past Brown Bag sessions:
@@ -58,9 +75,5 @@ You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg
 
 Please contact your Polytechnic Coordinator(s) for TLMP:
 
-* Nanyang Polytechnic: [Ms. Chian Hwey Miin](mailto: chian_hwey_miin@nyp.edu.sg) , [Dr. Vanessa Vinodhen](mailto: vanessa_vinodhen@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Mr. Javihn Chan](mailto: javihn_chan@np.edu.sg) , [Ms. Melanie Morrissette](mailto: melanie_morrissette@np.edu.sg)
-* Republic Polytechnic: [Dr. Abdul Kahlid](mailto: abdul_kahlid@rp.edu.sg) , [Ms. Urvi Maniar](mailto: urvi_maniar@rp.edu.sg)
-* Singapore Polytechnic: [Mr. Mark Nivan Singh](mailto: mark_nivan_singh@sp.edu.sg), [Ms. Kwa Lay Ping](mailto: kwa_lay_ping@sp.edu.sg)
-* Temasek Polytechnic: [Ms. Tan Lay Khee](mailto: tan_lay_khee@tp.edu.sg) , [Mrs. Teresa Abelanes](mailto: maria_abelanes@tp.edu.sg)
-* Joint Polytechnic Academy for Educators: [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
+
+* Joint Polytechnic Academy for Educators: [Ms. Tina Soo](tina_soo@np.edu.sg)  , [Ms. Joey Tong](Joey_tong@nyp.edu.sg)
