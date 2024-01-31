@@ -3,6 +3,7 @@ title: T&L Mentor Move In Programme (TLMP)
 permalink: /tlmp/
 description: T&L Mentor Move-In Programme (TLMP)
 image: ""
+variant: markdown
 ---
 # T&L Mentor Move-In Programme (TLMP)
 
@@ -21,7 +22,7 @@ The TLMP is organised by representatives from all polytechnics.
 
 #### How is the programme conducted?
 
-TLMP is conducted mainly face-to-face with provision made for hybrid mode of learning.
+TLMP is conducted mainly face-to-face and provision for hybrid mode. The programme includes workshop, learning journey, panel discussion, fireside chat and forum. 
 
 ![](/images/tlmp%20intake%201%20discussion.jpg)
 
@@ -33,7 +34,7 @@ TLMP is conducted mainly face-to-face with provision made for hybrid mode of lea
 
 #### When is the programme conducted?
 
-The duration of the programme is 160 hours, which is conducted over a span of 1 year. The first run will commence on 3 Oct 2022. The second run is expected to commence in 2023.
+TLMP is a 160-hour programme that takes place over a period of 12 months. The inaugural intake took place from October 2022 till October 2023. The second run of TLMP will commence in April 2024 till April 2025.  
 
 ![](/images/tlmp%20nm2.jpg)
 
