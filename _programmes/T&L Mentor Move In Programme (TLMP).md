@@ -42,7 +42,7 @@ TLMP is a 160-hour programme that takes place over a period of 12 months. The in
 ### [Click here to find out more about TLMP!](/files/TLMP_intake_2_website_approved_by_RJ_16_Jan_24.pdf)
 
 ##### Mid-Point Retreat on 20th March 2023
-![](/images/TLMP%20Intake%202%20Update/MPR_Ideation.png)
+![](/images/TLMP%20Intake%202%20Update/MPR_Ideation2_min.png)
 
 ![](/images/TLMP%20Intake%202%20Update/MPR_Friends.png)
 
