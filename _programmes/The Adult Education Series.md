@@ -23,7 +23,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&amp;L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-#### 2. Webinar: The Digital Future of Work and learning in the Age of Artificial Intelligence
+#### 1. Webinar: The Digital Future of Work and learning in the Age of Artificial Intelligence
 
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/GenAI.jpg)
@@ -44,7 +44,7 @@ In this session, we examine how professionals can use generative AI to enhance t
 
 Click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fialsg.zoom.us%2Fwebinar%2Fregister%2FWN_3MWyQfUARN6_MYpYXf0S9w&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417615419%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=UF47Lha4zrES7pN%2FoBhtCfly5%2FGI2hFM0pV%2BOj%2FWr64%3D&amp;reserved=0) to access the Webinar!
 
-#### 3. Workshop: Communication skills for coaching performance (Run 3)
+#### 2. Workshop: Communication skills for coaching performance (Run 3)
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_main.jpg)
 
