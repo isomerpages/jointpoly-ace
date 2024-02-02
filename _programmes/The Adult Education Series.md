@@ -23,34 +23,7 @@ Adult educators (AEs) can look forward to learning from the following initiative
 ![](/images/aes%20banner%205.png)
 The Adult Education Series (AES) aims to support existing Adult Educators to advance T&amp;L capabilities, expand skill sets necessary for adult education, and empower reflective practices. Check out upcoming learning opportunities below.
 
-#### 1. Workshop: Embracing and Managing Change: Strategies for Adult Educators
-
-This workshop aims to equip adult educators with some necessary knowledge and tools to effectively embrace and manage change in their professional lives. Participants will explore various aspects of change, understand the psychology behind resistance, and develop practical strategies to navigate transitions more smoothly.
-
-Date: 26 Jan 2024 Fri
-
-Time: 1.30pm-5.30pm
-
-Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
-
-##### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators <br>
-
-<img style="width: 225px; height: 300px" src="/images/JP_AcE_27__Edited_.jpg">
-<center><i> Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators </i></center>
-
-Experienced Director with a demonstrated history of working in the higher education industry. Skilled in E-Learning, Power Systems, Strategic Planning, Lecturing, and Research. Strong professional with a Doctor of Philosophy (Ph.D.) focused in Electrical Engineering (Power Systems Reliability) from University of Saskatchewan.
- 
- <img style="width: 225px; height: 300px" src="/images/iaemc01-2.jpg">
-
-<center><i> Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators </i></center>
-
-Bee Hwee is a seasoned professional and trainer with a diverse background in engineering, banking, human resources, and education. As a former teacher and HR manager, she excelled in upskilling, designing competency frameworks, training roadmaps, and interventions. Currently serving as a Senior Lecturer at Republic Polytechnic, Bee Hwee is seconded to the Joint Polytechnic Academy for Educators (JP-AcE), where she is a part of the pioneering team establishing the academy to enhance the competencies of polytechnic lecturers across five institutions.
-
-[Sign up now!](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FWj59xhgz7QySdjMh9&amp;data=05%7C01%7C%7Cb05d7e655fce4161989808dbdf5f583e%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638349372868956074%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=xI637uXv%2BaPERvSQPyQZejeESrLo7U7t9mIWx%2FYfPvE%3D&amp;reserved=0)
-
-The training places are limited and are available on a first-come-first-serve basis. 
-
-#### 2. Webinar: The Digital Future of Work and learning in the Age of Artificial Intelligence
+#### 1. Webinar: The Digital Future of Work and learning in the Age of Artificial Intelligence
 
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/GenAI.jpg)
@@ -71,7 +44,7 @@ In this session, we examine how professionals can use generative AI to enhance t
 
 Click [here](https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fialsg.zoom.us%2Fwebinar%2Fregister%2FWN_3MWyQfUARN6_MYpYXf0S9w&amp;data=05%7C02%7C%7Ced36adddf2624eebda7e08dc1bb537b8%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638415712417615419%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=UF47Lha4zrES7pN%2FoBhtCfly5%2FGI2hFM0pV%2BOj%2FWr64%3D&amp;reserved=0) to access the Webinar!
 
-#### 3. Workshop: Communication skills for coaching performance (Run 3)
+#### 2. Workshop: Communication skills for coaching performance (Run 3)
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_main.jpg)
 
@@ -219,6 +192,30 @@ Ms Deborha Daniele is a comic artist and senior lecturer at the School of Design
 
 
 ![](/images/Adult%20Education%20Uploads/Feb%202024/IAUCN01_Pic.png)
+
+#### Workshop: Embracing and Managing Change: Strategies for Adult Educators
+
+This workshop aims to equip adult educators with some necessary knowledge and tools to effectively embrace and manage change in their professional lives. Participants will explore various aspects of change, understand the psychology behind resistance, and develop practical strategies to navigate transitions more smoothly.
+
+Date: 26 Jan 2024 Fri
+
+Time: 1.30pm-5.30pm
+
+Venue: Singapore Polytechnic (Venue details will be sent out to participants after registration closes.)
+
+##### Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators <br>
+
+<img style="width: 225px; height: 300px" src="/images/JP_AcE_27__Edited_.jpg">
+<center><i> Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators </i></center>
+
+Experienced Director with a demonstrated history of working in the higher education industry. Skilled in E-Learning, Power Systems, Strategic Planning, Lecturing, and Research. Strong professional with a Doctor of Philosophy (Ph.D.) focused in Electrical Engineering (Power Systems Reliability) from University of Saskatchewan.
+ 
+ <img style="width: 225px; height: 300px" src="/images/iaemc01-2.jpg">
+
+<center><i> Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators </i></center>
+
+Bee Hwee is a seasoned professional and trainer with a diverse background in engineering, banking, human resources, and education. As a former teacher and HR manager, she excelled in upskilling, designing competency frameworks, training roadmaps, and interventions. Currently serving as a Senior Lecturer at Republic Polytechnic, Bee Hwee is seconded to the Joint Polytechnic Academy for Educators (JP-AcE), where she is a part of the pioneering team establishing the academy to enhance the competencies of polytechnic lecturers across five institutions.
+ 
 
 
 #### Have a question related to collaborative programmes between five polytechnics and the IAL?   	                                                      
