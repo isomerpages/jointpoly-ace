@@ -74,11 +74,5 @@ _Learning Journey to Experiential Learning Centre (XLC)@RP_
 
 #### Have a question related to CLMP?
 
-Please contact your Polytechnic Coordinator(s) for CLMP:
 
-* Nanyang Polytechnic: [Dr. Ang Wei Sin](mailto:ang_wei_sin@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Ms Eva Rosdiana](mailto:eva_rosdiana@np.edu.sg), [Ms Christina Jimenez](mailto:christina_jimenez@np.edu.sg)
-* Republic Polytechnic: [Mr. Allan Lee](mailto:allan_lee@rp.edu.sg)
-* Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
-* Temasek Polytechnic: [Ms Tan Lay Khee](mailto:tan_lay_khee@tp.edu.sg)
-* Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)
+Please contact the Programme Leads from  JP-AcE: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)

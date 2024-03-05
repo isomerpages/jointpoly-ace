@@ -73,7 +73,4 @@ You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg
 
 #### Have a question related to TLMP?
 
-Please contact your Polytechnic Coordinator(s) for TLMP:
-
-
-* Joint Polytechnic Academy for Educators: [Ms. Tina Soo](tina_soo@np.edu.sg)  , [Ms. Joey Tong](Joey_tong@nyp.edu.sg)
+Please contact our Programme Leads from JP-AcE: [Ms. Tina Soo](tina_soo@np.edu.sg)  , [Ms. Joey Tong](Joey_tong@nyp.edu.sg)
