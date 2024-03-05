@@ -9,11 +9,11 @@ variant: markdown
 ![](/images/127315465_ml2.jpg)
 
 
-For New Lecturers Joining from : 
+For Newly Hired Polytechnic Lecturers Joining from : 
 
 | Period of Joining  | Politemall Link |
 | -------- | -------- |
-|  7 October 2023 - 5 April 2024 (Intake 11) | Link | 
+|  7 October 2023 - 5 April 2024 (Intake 11) | Link (Opens 18 Mar) | 
 | 6 April 2024 - 4 October 2024 (Intake 12) | Link |
 |
 
