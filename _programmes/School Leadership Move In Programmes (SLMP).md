@@ -3,6 +3,7 @@ title: School Leadership Move In Programmes (SLMP)
 permalink: /slmp/
 description: Check out School Leadership Move-in Programmes (SLMP)
 image: /images/93870290_ml.jpg
+variant: markdown
 ---
 # School Leadership Move-In Programme (SLMP)
 
@@ -64,9 +65,3 @@ Group Discussion on participants' SLMP practicum projects with their group facil
 #### Have a question related to SLMP?
 
 Please contact Programme Leads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) or your Polytechnic Coordinator(s) for SLMP:
-
-* Nanyang Polytechnic: [Mr. Gerard Chan](mailto: gerard_chan@nyp.edu.sg)
-* Ngee Ann Polytechnic: [Dr. Choy Weng Keong](mailto: CHOY_Weng_Keong@np.edu.sg)
-* Republic Polytechnic: [Mr. Kiu Cheong Mau](mailto: kiu_cheong_mau@rp.edu.sg')
-* Singapore Polytechnic: [Mr. Ahmad Al-Mahir Abu Bakar](mailto:ahmad_al-mahir_abu_bakar@sp.edu.sg)
-* Temasek Polytechnic: [Dr. Vijayan Narayananayar](mailto:vijayan_n@tp.edu.sg)
