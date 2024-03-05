@@ -53,4 +53,4 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 #### Have a question related to CTLPE?
 
-Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) or your Polytechnic Coordinator(s) for CTLPE:
+Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) 
