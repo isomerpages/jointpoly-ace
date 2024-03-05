@@ -75,4 +75,4 @@ _Learning Journey to Experiential Learning Centre (XLC)@RP_
 #### Have a question related to CLMP?
 
 
-Please contact Joint Polytechnic Academy for Educators: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)
+Please contact the Programme Leads from  JP-AcE: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)
