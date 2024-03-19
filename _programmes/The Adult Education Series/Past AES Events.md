@@ -32,6 +32,7 @@ of Practice and be part of a dynamic community that fosters growth, collaboratio
 and excellence in adult education.</p>
 <p>Click here to join Adult Education COP mailing list: <a href="https://forms.gle/8BceHFdkywTf3ogr7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/8BceHFdkywTf3ogr7</a>.</p>
 <p>We will keep you informed if there is an upcoming COP run open for registration.</p>
+<p></p>
 <h4>Workshop: Communication Skills for Coaching Performance (Run 1)</h4>
 <p>Adult educators from the polytechnics and the Institute of Adult Learning
 (IAL) came together on 25 August 2023 at Singapore Polytechnic to learn
@@ -81,6 +82,7 @@ leader on engaging virtual meetings.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/john%20chen2.jpg">
 </div>
 <p>Check out the recorded session <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FEWNRYP00IJsw-xyvKldJ2eWXpjJYSbY8i1Hj7fuq6dMqDPD8Hz813BurjZnPxRIe.SO4c-2v088sVje69&amp;data=05%7C01%7C%7C65a679fbde014e6fcaf008dbb9b1e480%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638307945951212253%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=f5j8Skyv7TqJl1h5E%2FIQ3Bb6K7VL4fDKzrGH7VX8UMw%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
+<p></p>
 <h4>Workshop: Communication Skills for Coaching Performance (Run 2)</h4>
 <p>Are you an adult educator looking to enhance your communication skills
 for coaching performance? Join our new workshop designed specifically for
@@ -109,6 +111,7 @@ participants after registration closes.)</p>
 <p>Workshop Facilitator: Ms Serene Sim/ IAL</p>
 <p>The seats are limited and are available on a first-come-first-serve basis.</p>
 <p>Registration is closed.</p>
+<p></p>
 <h4>AES Learning Journey: Entrepreneurial Culinary Journey: Chef Siang’s Insights on Coaching and Mentoring New Chefs.</h4>
 <p>Embark on a learning adventure designed specifically for adult educators.
 Together, we will explore the realms of culinary mastery and excellence
@@ -136,20 +139,17 @@ community passionate about coaching and mentoring.</p>
 </li>
 </ul>
 <p>Don't miss this extraordinary opportunity to learn from an industry expert.</p>
-<p><strong>Date: 1 Nov 2023 Wednesday</strong>
-</p>
-<p><strong>Time: 2pm-4.30pm</strong>
-</p>
-<p><strong>Venue: Singapore Turf Club Central Kitchen</strong> (Meeting Venue
-details will be sent out to participants after registration closes.)</p>
-<p><strong>Learning Journey Facilitator: Chef Teo Yeow Siang, Culinary Director, 3 Embers</strong>
-</p>
+<p>Date: 1 Nov 2023 Wednesday</p>
+<p>Time: 2pm-4.30pm</p>
+<p>Venue: Singapore Turf Club Central Kitchen (Meeting Venue details will
+be sent out to participants after registration closes.)</p>
+<p>Learning Journey Facilitator: Chef Teo Yeow Siang, Culinary Director,
+3 Embers</p>
 <div class="isomer-image-wrapper">
 <img style="width: 225px; height: 350px" height="auto" width="100%" src="/images/chef%20siang%20profile%20pic%20(1).JPG">
 </div>
 <p></p>
-<p><strong>About Chef Siang</strong>
-</p>
+<p>About Chef Siang</p>
 <p>As a relentless innovator, Chef Siang works to pursue his passion and
 his amazing work and achievements are best represented by Chef Siang’s
 gold medal collection, amassed from some of the world’s most prestigious
@@ -162,6 +162,7 @@ Chef Siang helps and guides both new and experienced chefs. He is also
 part of the advisory committee for the Asian Culinary Institute.</p>
 <p>If you want to see photos and videos of the session, click <a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1p7oh4DXXWFYFjHgcPJnW-m70UcHEaOcG%3Fusp%3Dsharing&amp;data=05%7C01%7C%7C179654eb6a7a4ef1f4f508dbdc256596%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638345825528137394%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=EgeQpea8fsUZP4T49bmH9oMzJR6TBl0h4P4Xcww2oOc%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Check out the recorded session <a href="https://www.youtube.com/watch?v=8-LVtwpbDuQ" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p></p>
 <h4>Workshop: Unleashing Creativity in Notetaking</h4>
 <p>This interactive and hands-on workshop focuses on enhancing your live
 creative note-taking skill. Delve into a plethora of techniques that allow
@@ -172,7 +173,7 @@ learning with visually captivating content!</p>
 <p>Time: 2pm-5.30pm</p>
 <p>Venue: Singapore Polytechnic (Venue details will be sent out to participants
 after registration closes.)</p>
-<h5>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</h5>
+<p>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</p>
 <div class="isomer-image-wrapper">
 <img style="width: 225px; height: 300px" height="auto" width="100%" src="/images/jpucn01-1.png">
 </div>
@@ -193,6 +194,7 @@ Edizioni in 2024.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult%20Education%20Uploads/Feb%202024/IAUCN01_Pic.png">
 </div>
+<p></p>
 <h4>Workshop: Embracing and Managing Change: Strategies for Adult Educators</h4>
 <p>This workshop aims to equip adult educators with some necessary knowledge
 and tools to effectively embrace and manage change in their professional
@@ -203,7 +205,8 @@ transitions more smoothly.</p>
 <p>Time: 1.30pm-5.30pm</p>
 <p>Venue: Singapore Polytechnic (Venue details will be sent out to participants
 after registration closes.)</p>
-<h5>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators</h5>
+<p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
+Academy for Educators</p>
 <div class="isomer-image-wrapper">
 <img style="width: 225px; height: 300px" height="auto" width="100%" src="/images/JP_AcE_27__Edited_.jpg">
 </div>
