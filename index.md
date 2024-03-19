@@ -21,7 +21,7 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: Adult Education Series
-      url: /ial/
+      url: /ial/upcomingaesevents
       key_highlights:
         - title: Welcome Message
           description: ""
