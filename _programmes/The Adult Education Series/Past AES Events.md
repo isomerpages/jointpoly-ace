@@ -203,11 +203,11 @@ transitions more smoothly.</p>
 <p>Time: 1.30pm-5.30pm</p>
 <p>Venue: Singapore Polytechnic (Venue details will be sent out to participants
 after registration closes.)</p>
-<h5>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators </h5>
+<h5>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic Academy for Educators</h5>
 <div class="isomer-image-wrapper">
 <img style="width: 225px; height: 300px" height="auto" width="100%" src="/images/JP_AcE_27__Edited_.jpg">
 </div>
-<p><em> Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators</em>
+<p><em>Dr Rajnish Gupta, Head of the Joint Polytechnic Academy for Educators</em>
 </p>
 <p>Experienced Director with a demonstrated history of working in the higher
 education industry. Skilled in E-Learning, Power Systems, Strategic Planning,
@@ -217,7 +217,7 @@ University of Saskatchewan.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 225px; height: 300px" height="auto" width="100%" src="/images/iaemc01-2.jpg">
 </div>
-<p><em> Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators</em>
+<p><em>Ms Lim Bee Hwee, Education Staff Developer, Joint Polytechnic Academy for Educators</em>
 </p>
 <p>Bee Hwee is a seasoned professional and trainer with a diverse background
 in engineering, banking, human resources, and education. As a former teacher
@@ -227,3 +227,7 @@ at Republic Polytechnic, Bee Hwee is seconded to the Joint Polytechnic
 Academy for Educators (JP-AcE), where she is a part of the pioneering team
 establishing the academy to enhance the competencies of polytechnic lecturers
 across five institutions.</p>
+<p></p>
+<h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
+<p>Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
+and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)</p>
