@@ -155,5 +155,5 @@ this opportunity to enhance your communication skills as a coach.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/IACSC03___Group_photo.jpg">
 </div>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
-<p>Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
-and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)</p>
+<p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
+</p>
