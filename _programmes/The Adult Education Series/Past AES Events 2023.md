@@ -46,8 +46,6 @@ activities to practise and reflect on their application of their skills.</p>
 adult educators, and to share insights and refresh their own journey as
 coaches and trainers.</p>
 <p></p>
-<p></p>
-<p></p>
 <h4>Webinar: Engaging Virtual Meetings</h4>
 <p>Are you suffering from Zoom fatigue at times? Do you want to lead engaging
 virtual meetings? Join the webinar 'Engaging Virtual Meetings' to learn
