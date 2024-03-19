@@ -13,10 +13,9 @@ For Newly Hired Polytechnic Lecturers Joining from :
 
 | Period of Joining  | Politemall Link |
 | -------- | -------- |
-|  7 October 2023 - 5 April 2024 (Intake 11) | Link (Opens 18 Mar) | 
-| 6 April 2024 - 4 October 2024 (Intake 12) | Link |
-|
-
+|  7 October 2023 - 5 April 2024 (Intake 11) | [Link](https://lms.polite.edu.sg/d2l/home/442565) | 
+| 6 April 2024 - 4 October 2024 (Intake 12) | [Link](https://lms.polite.edu.sg/d2l/home/475114) |
+|**You may only access the link if your Polytechnic has enrolled you in the course site*.|
 
 
 
@@ -53,4 +52,4 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 #### Have a question related to CTLPE?
 
-Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg) 
+Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
