@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - The Adult Education Series/.keep
-      - The Adult Education Series/The Adult Education Series.md
+      - The Adult Education Series/Upcoming AES Events.md
       - The Adult Education Series/Past AES Events.md
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
       - Course Leadership Move In Programme (CLMP).md
