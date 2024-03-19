@@ -79,9 +79,6 @@ adult learners!</p>
 </p>
 <h2><a href="" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
 <h4>2. Workshop: Design Activation</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_main.jpg">
-</div>
 <p>You’ve heard of Design Thinking and may know something about it, but are
 you still struggling to understand how to make it relevant and practical
 in your classroom? Are you interested in unlocking the power of Design
@@ -101,15 +98,16 @@ sensemaking capabilities.</p>
 </p>
 <p><strong>Venue: Republic Polytechnic</strong> (Venue details will be sent
 out to participants after registration closes.)</p>
-<p><strong>Workshop Facilitator: Ms Corrinne Sim/ Institute for Adult Learning</strong>
+<p><strong>Workshop Facilitator: Ms Tamsin Greulich-Smith/ Founding Director of School of X, DesignSingapore Council</strong>
 </p>
+<h6></h6>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult%20Education%20Uploads/Feb%202024/CoachingSki_Faci.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/Design_1.png">
 </div>
-<h6><a href="https://forms.gle/RQJPkBhYxgJt1Kum8" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></h6>
+<h6></h6>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
-<h3></h3>
+<h2><a href="" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
 and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)</p>
