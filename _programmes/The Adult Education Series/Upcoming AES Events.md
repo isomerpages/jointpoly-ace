@@ -76,7 +76,7 @@ adult learners!</p>
 </p>
 <p><strong>Venue: Enabling Village @ Lengkok Bahru (Venue details will be sent out to participants after registration closes.)</strong>
 </p>
-<h2><a href="" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
+<h2><a href="https://forms.gle/PakNpYeh25jv3iwB9" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
 <h4>2. Workshop: Design Activation</h4>
 <p>You’ve heard of Design Thinking and may know something about it, but are
 you still struggling to understand how to make it relevant and practical
@@ -106,7 +106,7 @@ out to participants after registration closes.)</p>
 <h6></h6>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
-<h2><a href="" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
+<h2><a href="https://forms.gle/eruq1GVGc3bLhjGg6" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
-<p>Please contact Programme Leads: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
-and/or [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg)</p>
+<p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
+</p>
