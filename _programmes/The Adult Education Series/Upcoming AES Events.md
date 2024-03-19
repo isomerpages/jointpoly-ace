@@ -68,8 +68,7 @@ and professionals, fostering collaboration and exchange of ideas. Embark
 on this transformative learning journey and empower yourself to create
 inclusive learning environments that cater to the diverse needs of all
 adult learners!</p>
-<p>&nbsp;</p>
-<p><strong>Date: 17 Apr 2024 Wed</strong>
+<p>&nbsp;<strong>Date: 17 Apr 2024 Wed</strong>
 </p>
 <p><strong>Time: 2.00pm - 5.30pm</strong>
 </p>
