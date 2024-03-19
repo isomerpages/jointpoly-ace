@@ -146,7 +146,7 @@ this opportunity to enhance your communication skills as a coach.</p>
 </p>
 <p><strong>Time: 1.30pm-5pm</strong>
 </p>
-<p><strong>Venue: Temasek Polytechnic</strong> 
+<p><strong>Venue: Temasek Polytechnic</strong>
 </p>
 <p><strong>Workshop Facilitator: Ms Corrinne Sim/ Institute for Adult Learning</strong>
 </p>
