@@ -91,7 +91,7 @@ sensemaking capabilities.</p>
 <p></p>
 <p><strong>Date: 24 Apr 2024 Wed</strong>
 </p>
-<p><strong>Time: 2.30pm - 4.30pm</strong>
+<p><strong>Time: 2.00pm - 4.30pm</strong>
 </p>
 <p><strong>Mode: Face-to-Face</strong>
 </p>
