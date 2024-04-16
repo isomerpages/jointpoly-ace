@@ -125,7 +125,7 @@ deployed in a classroom environment for a better learning environment.</p>
 </p>
 <p><strong>Venue: ZOOM Webinar</strong>
 </p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Webinar Facilitator: Mr</strong>  <strong>Mike Wee / Senior Lecturer in the School of InfoComm Technology (ICT), Ngee Ann Polytechnic</strong>
 </p>
 <p></p>
