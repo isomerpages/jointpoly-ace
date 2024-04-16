@@ -108,7 +108,7 @@ out to participants after registration closes.)</p>
 basis.</p>
 <h2><a href="https://forms.gle/eruq1GVGc3bLhjGg6" rel="noopener noreferrer nofollow" target="_blank">Sign up now!</a></h2>
 <p></p>
-<h4>2. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</h4>
+<h4>3. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</h4>
 <p></p>
 <p>This event gives an overview of leveraging data for teaching and learning,
 covering topics like data sources, question-driven analytics, and visualization
@@ -129,6 +129,10 @@ deployed in a classroom environment for a better learning environment.</p>
 <p><strong>Webinar Facilitator: Mr</strong>  <strong>Mike Wee / Senior Lecturer in the School of InfoComm Technology (ICT), Ngee Ann Polytechnic</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Apr 2024/IALDA01____1.png">
+</div>
+<h2><a href="https://ialsg.zoom.us/webinar/register/WN_hIXdvfDrTiGErUu9-_fGNA#/registration" rel="noopener noreferrer nofollow" target="_blank">Register Now!</a></h2>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
