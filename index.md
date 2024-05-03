@@ -27,7 +27,7 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: Check out Gen AI Learning Week!
-      url: /programmes//the-frontier-series/
+      url: /programmes/the-frontier-series/
       key_highlights:
         - title: Welcome Message
           description: ""
