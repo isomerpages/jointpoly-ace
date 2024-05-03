@@ -84,3 +84,6 @@ registration period.</p>
 </div>
 <h4>3.3. Prompt Engineering for T&amp;L with Generative AI: Registration Link Coming Soon</h4>
 <p></p>
+<p>.</p><a class="isomer-image-wrapper" href="https://nyp.padlet.org/joeytong/learning-week-2024-event-padlet-transforming-teaching-and-tr-4v07jnmusogosjq2"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/Event_Padlet.jpg"></a>
+<p>Link to Event Padlet: <a href="https://nyp.padlet.org/joeytong/learning-week-2024-event-padlet-transforming-teaching-and-tr-4v07jnmusogosjq2" rel="noopener noreferrer nofollow" target="_blank">Learning Week 2024 Event Padlet - Transforming Teaching and Training with Gen AI</a>
+</p>
