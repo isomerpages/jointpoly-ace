@@ -75,5 +75,5 @@ period.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_3.jpg">
 </div>
-<h4>3.3. Prompt Engineering for T&amp;L with Generative AI: </h4>
+<h4>3.3. Prompt Engineering for T&amp;L with Generative AI:</h4>
 <p></p>
