@@ -1,5 +1,5 @@
 ---
-title: The Frontier Series
+title: Upcoming Frontier Event (Gen AI Learning Week)
 permalink: /the-frontier-series/
 variant: tiptap
 description: ""
@@ -7,14 +7,14 @@ third_nav_title: The Frontier Series
 ---
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
 <p>The Frontier Series for Educators is a repertoire of professional development
-sessions organised by JP-AcE exclusively for polytechnic educators. The
-Frontier Series aims to inspire lifelong learning, support reflective T&amp;L
-practices, expand T&amp;L capabilities and empower educators to be future-ready
-by exploring new educational trends and innovative ways of teaching and
-learning.</p>
-<p>Check out the free training sessions below. Interested polytechnic staff
-may register directly using the registration forms below during registration
-period.</p>
+sessions organised by JP-AcE exclusively for educators in the POLITE sector.
+The Frontier Series aims to inspire lifelong learning, support reflective
+T&amp;L practices, expand T&amp;L capabilities and empower educators to
+be future-ready by exploring new educational trends and innovative ways
+of teaching and learning.</p>
+<p>Check out the free training sessions below. Interested Polytechnic and
+ITE staff may register directly using the registration forms below during
+registration period.</p>
 <p></p>
 <h2>Learning Week: Gen AI<br>(3 Jun 2024 - 7 Jun 2024)</h2>
 <h3></h3>
@@ -75,5 +75,5 @@ period.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_3.jpg">
 </div>
-<h4>3.3. Prompt Engineering for T&amp;L with Generative AI: </h4>
+<h4>3.3. Prompt Engineering for T&amp;L with Generative AI: Registration Link Coming Soon</h4>
 <p></p>

@@ -6,10 +6,16 @@ description: >-
   for T&L capability development of educators in polytechnics and industry.
 
 
-  It offers joint polytechnic suite of T&L baseline capability development programmes and certifications, such as the Certificate in T&L for Polytechnic Educators (CTLPE), School Leadership Move-In Programme (SLMP), T&L Mentor Move-In  Programme (TLMP), Course Leadership Move-In Programme (CLMP) and other programmes which strengthens the T&L capabilities of polytechnic educators. 
+  It offers joint polytechnic suite of T&L baseline capability development
+  programmes and certifications, such as the Certificate in T&L for Polytechnic
+  Educators (CTLPE), School Leadership Move-In Programme (SLMP), T&L Mentor
+  Move-In  Programme (TLMP), Course Leadership Move-In Programme (CLMP) and
+  other programmes which strengthens the T&L capabilities of polytechnic
+  educators. 
 
 
-  In addition, it collaborates with Institute of Adult Learning (IAL) and partners to create and deliver programmes in area of adult education. 
+  In addition, it collaborates with Institute of Adult Learning (IAL) and
+  partners to create and deliver programmes in area of adult education. 
 
 
   This is an Isomer site of the Singapore Government.
@@ -20,8 +26,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Adult Education Series
-      url: /programmes/the-adult-education-series/upcomingaesevents/
+      button: Check out Gen AI Learning Week!
+      url: /the-frontier-series/
       key_highlights:
         - title: Welcome Message
           description: ""
