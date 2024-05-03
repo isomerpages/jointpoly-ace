@@ -16,7 +16,7 @@ of teaching and learning.</p>
 ITE staff may register directly using the registration forms below during
 registration period.</p>
 <p></p>
-<h2>Learning Week: Gen AI<br>(3 Jun 2024 - 7 Jun 2024)</h2>
+<h2>Learning Week: Transforming Teaching and Training with Gen AI</h2>
 <h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/Banner.jpg">
