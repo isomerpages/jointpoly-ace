@@ -23,13 +23,14 @@ links below.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
 </div>
-<p></p>
+<h4>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_1.jpg">
 </div>
 <p><strong>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer: <a href="https://events.teams.microsoft.com/event/c20d240a-dd25-4949-b5db-853119243e6d@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p></p>
+<h4>Session 1.2 - A Discussion on our one year with Gen AI</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_2.jpg">
 </div>
