@@ -12,9 +12,9 @@ The Frontier Series aims to inspire lifelong learning, support reflective
 T&amp;L practices, expand T&amp;L capabilities and empower educators to
 be future-ready by exploring new educational trends and innovative ways
 of teaching and learning.</p>
-<p>Check out the free training sessions below. Interested Polytechnic and
-ITE staff may register directly using the registration links below during
-registration period.</p>
+<p>Check out the free professional development courses/sessions below. Interested
+Polytechnic and ITE staff may register directly using the registration
+links below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI__2_.jpg">
@@ -35,8 +35,7 @@ registration period.</p>
 </div>
 <p><strong>Session 1.2 - A discussion on our one year with Gen AI: Sign Up Now!</strong>
 </p>
-<p><strong>           </strong>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_3.jpg">
 </div>
