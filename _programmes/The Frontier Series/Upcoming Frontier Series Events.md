@@ -79,4 +79,6 @@ links below.</p>
 <p><strong>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI: Sign Up Now!</strong>
 </p>
 <p></p>
-<p>.</p>
+<p></p>
+<h4>Have a question related to The Frontier Series for Educators?</h4>
+<p>Please contact Programme Lead: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)</p>
