@@ -7,14 +7,18 @@ third_nav_title: The Frontier Series
 ---
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
 <p>The Frontier Series for Educators is a repertoire of professional development
-sessions organised by JP-AcE exclusively for educators in the POLITE sector.
-The Frontier Series aims to inspire lifelong learning, support reflective
-T&amp;L practices, expand T&amp;L capabilities and empower educators to
-be future-ready by exploring new educational trends and innovative ways
-of teaching and learning.</p>
-<p>Check out the free professional development courses/sessions below. Interested
-Polytechnic and ITE staff may register directly using the registration
-links below.</p>
+sessions organised by the Joint Polytechnic Academy for Educators (JP-AcE)
+for polytechnic educators. The Frontier Series aims to inspire lifelong
+learning, support reflective T&amp;L practices, expand T&amp;L capabilities
+and empower educators to be future-ready by exploring new educational trends
+and innovative ways of teaching and learning.</p>
+<p></p>
+<p>In collaboration with the POLITE PD Workgroup, JP-AcE is proud to unveil
+a suite of new short professional development courses designed to elevate
+your skills and knowledge, enabling you to harness the power of Gen AI
+in creating dynamic, engaging and effective educational environments!</p>
+<p></p>
+<p>Check out the upcoming courses below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI__2_.jpg">
