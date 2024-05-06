@@ -13,7 +13,7 @@ T&amp;L practices, expand T&amp;L capabilities and empower educators to
 be future-ready by exploring new educational trends and innovative ways
 of teaching and learning.</p>
 <p>Check out the free training sessions below. Interested Polytechnic and
-ITE staff may register directly using the registration forms below during
+ITE staff may register directly using the registration links below during
 registration period.</p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -30,32 +30,30 @@ registration period.</p>
 <p><strong>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer: Sign Up Now!</strong>
 </p>
 <p></p>
-<p>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_2.jpg">
 </div>
 <p><strong>Session 1.2 - A discussion on our one year with Gen AI: Sign Up Now!</strong>
 </p>
-<p>.</p>
+<p><strong>           </strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_3.jpg">
 </div>
 <p><strong>Session 1.3 - The AI + Human Collaboration | Deconstructing Approaches to Learning with AI: Sign Up Now!</strong>
 </p>
-<p>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_4.jpg">
 </div>
 <p><strong>Session 1.4 - Empowering Educators: Harnessing Generative AI for Teaching Success: Sign Up Now!</strong>
 </p>
-<p>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_1.jpg">
 </div>
 <p><strong>Session 2.1 - D-R-E-A-M with Generative AI and a learning journey to the IDEAS lab: Sign Up Now!</strong>
 </p>
-<p>.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_2.png">
@@ -63,13 +61,11 @@ registration period.</p>
 <p><strong>Session 2.2 - Redesigning assessment in the era of AI: Sign Up Now!</strong>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
 </div>
 <p><strong>Session 2.3 - Breaking New Ground: AI-Powered Insights for the Future of Business Communication Skills: Sign Up Now!</strong>
 </p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
@@ -81,7 +77,7 @@ registration period.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_3.jpg">
 </div>
-<p><strong>Session 3.3 - Prompt Engineering for T&amp;L with Generative AI: Sign Up Now!</strong>
+<p><strong>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI: Sign Up Now!</strong>
 </p>
 <p></p>
 <p>.</p>
