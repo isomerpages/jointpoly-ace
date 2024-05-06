@@ -16,20 +16,19 @@ of teaching and learning.</p>
 ITE staff may register directly using the registration forms below during
 registration period.</p>
 <p></p>
-<h2>Learning Week: Transforming Teaching and Training with Gen AI</h2>
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/Banner.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI__2_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/Programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_1.jpg">
 </div>
-<h4>1.1. 8 Generative AI Tools and Hacks for the Busy Lecturer : Click Here to Sign Up Now!</h4>
+<p>Session 1.1: 8 Generative AI Tools and Hacks for the Busy Lecturer: Sign
+Up Now!</p>
 <p></p>
 <p>.</p>
 <div class="isomer-image-wrapper">
