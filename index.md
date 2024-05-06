@@ -26,8 +26,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Check out Gen AI Learning Week!
-      url: /the-frontier-series/
+      button: Check out the Frontier Series for Educators!
+      url: https://jpace.polytechnic.edu.sg/the-frontier-series/
       key_highlights:
         - title: Welcome Message
           description: ""
