@@ -95,7 +95,8 @@ please indicate your interest via this link: <a href="https://forms.gle/FtZXMP6k
 You will receive an email notification if a new Rolljak training is open
 for registration.</p>
 <h4>Have a question related to The Frontier Series for Educators?</h4>
-<p>Please contact Programme Lead: Ms. Joey Tong</p>
+<p>Please contact Programme Lead: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Joey Tong</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
