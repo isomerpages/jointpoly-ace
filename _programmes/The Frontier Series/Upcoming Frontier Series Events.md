@@ -50,22 +50,24 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <h4>Session 1.4 - Empowering Educators: Harnessing Generative AI for Teaching Success</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/6.png">
 </div>
 <p><strong>Session 1.4: <a href="https://nyp-sg.zoom.us/meeting/register/tJUtdOisqT8pEtdhwtS4wFGBKNn9ZA_7eRJ9" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p></p>
-<h4>Session 2.1 - D-R-E-A-M with Generative AI and a learning journey to the IDEAS lab</h4>
+<h4>Session 2.1 - D-R-E-A-M with Generative AI</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/7.png">
 </div>
 <p><strong>Session 2.1: <a href="https://form.gov.sg/6633257c83afe4776d297228" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p></p>
-<h4>Session 2.2 - Redesigning assessment in the era of AI</h4>
+<h4>Session 2.2 - Redesigning Assessment in the Era of AI</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/8.png">
 </div>
 <p><strong>Session 2.2: <a href="https://form.gov.sg/663338b4d6f38c203c50c9c3" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
