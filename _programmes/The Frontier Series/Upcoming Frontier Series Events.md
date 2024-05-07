@@ -25,7 +25,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI.png">
 </div>
 <h4>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer</h4>
 <div class="isomer-image-wrapper">
