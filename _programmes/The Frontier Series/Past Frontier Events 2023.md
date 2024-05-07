@@ -5,6 +5,8 @@ description: ""
 third_nav_title: The Frontier Series
 variant: tiptap
 ---
+<h3>Past Frontier Events 2023</h3>
+<p></p>
 <h4>1. Workshop: Introduction to the Metaverse</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20banner.png">
@@ -93,4 +95,11 @@ please indicate your interest via this link: <a href="https://forms.gle/FtZXMP6k
 You will receive an email notification if a new Rolljak training is open
 for registration.</p>
 <h4>Have a question related to The Frontier Series for Educators?</h4>
-<p>Please contact Programme Lead: [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)</p>
+<p>Please contact Programme Lead: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Joey Tong</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
