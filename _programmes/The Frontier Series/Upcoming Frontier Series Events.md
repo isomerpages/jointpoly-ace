@@ -94,7 +94,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p></p>
 <p></p>
 <h4>Have a question related to The Frontier Series for Educators?</h4>
-<p>Please contact Programme Lead: <a href="joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a>
+<p>Please contact Programme Lead: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms. Joey Tong</a>
 </p>
 <p></p>
 <p></p>
