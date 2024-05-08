@@ -154,6 +154,76 @@ this opportunity to enhance your communication skills as a coach.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/IACSC03___Group_photo.jpg">
 </div>
+<p></p>
+<h3><u>April 2024</u></h3>
+<h4>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/LJ_SG_Enable_1.jpg">
+</div>
+<p>Join us for an immersive learning journey tailored for adult educators
+keen on fostering inclusive learning environments.&nbsp;</p>
+<p>&nbsp;The Learning Journey programme includes:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A sharing on SG Enable Employment Support Services by the Employment and
+Employability Unit to help you better understand the inclusive employment
+landscape, support schemes and programs that facilitate the journey of
+persons with disabilities (PWDs) towards employment.</p>
+</li>
+<li>
+<p>A guided tour to discover assistive technology devices and gaining insights
+from a PWD tour guide.</p>
+</li>
+<li>
+<p>A sharing by the Enabling Academy to learn how the academy supports training
+for PWDs and fosters a network of support within the education sector.</p>
+</li>
+</ul>
+<p>&nbsp;You will engage in hands-on experiences and discussions throughout
+the learning journey.</p>
+<p>There are also opportunities to connect with like-minded adult educators
+and professionals, fostering collaboration and exchange of ideas. Embark
+on this transformative learning journey and empower yourself to create
+inclusive learning environments that cater to the diverse needs of all
+adult learners!</p>
+<p>&nbsp;<strong>Date: 17 Apr 2024 Wed</strong>
+</p>
+<p><strong>Time: 2:00pm - 5:30pm</strong>
+</p>
+<p><strong>Mode: Face-to-Face</strong>
+</p>
+<p><strong>Venue: Enabling Village @ Lengkok Bahru (Venue details will be sent out to participants after registration closes.)</strong>
+</p>
+<h2></h2>
+<h4>Workshop: Design Activation</h4>
+<p>You’ve heard of Design Thinking and may know something about it, but are
+you still struggling to understand how to make it relevant and practical
+in your classroom? Are you interested in unlocking the power of Design
+Thinking to create more empathetic, engaging learning experiences?&nbsp;</p>
+<p>During this workshop you will gain insights into how to make Design Thinking
+impactful, within the classroom and beyond, and you’ll have the chance
+to learn-by-doing during a hands-on co-design activity and discover how
+key design mindsets can support you and your adult learners in gaining
+critical thinking skills, creative problem-solving abilities, and effective
+sensemaking capabilities.</p>
+<p></p>
+<p><strong>Date: 24 Apr 2024 Wed</strong>
+</p>
+<p><strong>Time: 2:00pm - 4:30pm</strong>
+</p>
+<p><strong>Mode: Face-to-Face</strong>
+</p>
+<p><strong>Venue: Republic Polytechnic</strong> (Venue details will be sent
+out to participants after registration closes.)</p>
+<p><strong>Workshop Facilitator: Ms Tamsin Greulich-Smith/ Founding Director of School of X, DesignSingapore Council</strong>
+</p>
+<h6></h6>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/Design_1.png">
+</div>
+<h6></h6>
+<p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
