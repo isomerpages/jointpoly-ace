@@ -85,10 +85,11 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 </ul>
 <p>More information will be made available closer to date.</p>
 <p></p>
-<h4>Update Training Record via Workday             </h4>
-<p>For polytechnic educators who are keen to update their training records
-via Workday, you can refer to this Workday guide to learn how to create
-a self-sourced training request: <a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training quest in Workday </a> 
+<h4>Update Training Record via Workday</h4>
+<p>For polytechnic educators who are keen to update your Workday training
+records for short courses under JP-AcE, you can refer to this Workday guide:
+<a href="https://cms.isomer.gov.sg/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>How to create a self-sourced training request in Workday</u>
+</a>
 </p>
 <p>Training Provider: JP-AcE</p>
 <p></p>
