@@ -63,7 +63,8 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 <h4><a href="https://ialsg.zoom.us/webinar/register/WN_hIXdvfDrTiGErUu9-_fGNA#/registration" rel="noopener noreferrer nofollow" target="_blank">Register Now!</a></h4>
 <p></p>
 <p></p>
-<h4>Look out for the following event in June!</h4>
+<p></p>
+<h4>Coming Soon in June!</h4>
 <p>Adult Education Community of Practice (Run 3)</p>
 <ul data-tight="true" class="tight">
 <li>
