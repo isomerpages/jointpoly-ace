@@ -94,10 +94,10 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p><strong>Session 3.2: <a href="https://for.edu.sg/politewebinar-5jun2024" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p></p>
-<h4>Update Training Record via Workday             </h4>
+<h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update their training records
 via Workday, you can refer to this Workday guide to learn how to create
-a self-sourced training request: <a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training quest in Workday </a> 
+a self-sourced training request: <a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training quest in Workday</a>
 </p>
 <p>Training Provider: JP-AcE</p>
 <p></p>
