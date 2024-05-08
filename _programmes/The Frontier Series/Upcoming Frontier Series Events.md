@@ -95,9 +95,9 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
-<p>For polytechnic educators who are keen to update their training records
-via Workday, you can refer to this Workday guide to learn how to create
-a self-sourced training request: <a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training quest in Workday</a>
+<p>For polytechnic educators who are keen to update your training records
+via Workday for short courses under JP-AcE, you can refer to this Workday
+guide to learn how to create a self-sourced training request: <a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training request in Workday</a>
 </p>
 <p>Training Provider: JP-AcE</p>
 <p></p>
