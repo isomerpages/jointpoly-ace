@@ -156,7 +156,7 @@ this opportunity to enhance your communication skills as a coach.</p>
 </div>
 <p></p>
 <h3><u>April 2024</u></h3>
-<h4>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h4>
+<h3>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/LJ_SG_Enable_1.jpg">
