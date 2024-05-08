@@ -60,11 +60,16 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Apr 2024/IALDA01____1.png">
 </div>
-<h4><a href="https://ialsg.zoom.us/webinar/register/WN_hIXdvfDrTiGErUu9-_fGNA#/registration" rel="noopener noreferrer nofollow" target="_blank">Register Now!</a></h4>
+<p><strong><a href="https://ialsg.zoom.us/webinar/register/WN_hIXdvfDrTiGErUu9-_fGNA#/registration" rel="noopener noreferrer nofollow" target="_blank">Register for the webinar now</a></strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
-<h4>Coming Soon in June!</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54160733_ml.jpg">
+</div>
+<h4>Coming Soon in June</h4>
 <p>Adult Education Community of Practice (Run 3)</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -80,7 +85,7 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 <p>Venue: Ngee Ann Polytechnic</p>
 </li>
 </ul>
-<p>More information will be made available soon.</p>
+<p>More information will be made available closer to date.</p>
 <p></p>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
