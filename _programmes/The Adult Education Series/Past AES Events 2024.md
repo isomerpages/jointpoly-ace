@@ -180,13 +180,12 @@ from a PWD tour guide.</p>
 for PWDs and fosters a network of support within the education sector.</p>
 </li>
 </ul>
-<p>&nbsp;You will engage in hands-on experiences and discussions throughout
-the learning journey.</p>
-<p>There are also opportunities to connect with like-minded adult educators
-and professionals, fostering collaboration and exchange of ideas. Embark
-on this transformative learning journey and empower yourself to create
-inclusive learning environments that cater to the diverse needs of all
-adult learners!</p>
+<p>You will engage in hands-on experiences and discussions throughout the
+learning journey. There are also opportunities to connect with like-minded
+adult educators and professionals, fostering collaboration and exchange
+of ideas. Embark on this transformative learning journey and empower yourself
+to create inclusive learning environments that cater to the diverse needs
+of all adult learners!</p>
 <p>&nbsp;<strong>Date: 17 Apr 2024 Wed</strong>
 </p>
 <p><strong>Time: 2:00pm - 5:30pm</strong>
@@ -195,6 +194,9 @@ adult learners!</p>
 </p>
 <p><strong>Venue: Enabling Village @ Lengkok Bahru (Venue details will be sent out to participants after registration closes.)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sg_enable_learning_journey.png">
+</div>
 <h2></h2>
 <h4>Workshop: Design Activation</h4>
 <p>You’ve heard of Design Thinking and may know something about it, but are
@@ -218,7 +220,6 @@ sensemaking capabilities.</p>
 out to participants after registration closes.)</p>
 <p><strong>Workshop Facilitator: Ms Tamsin Greulich-Smith/ Founding Director of School of X, DesignSingapore Council</strong>
 </p>
-<h6></h6>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/Design_1.png">
 </div>
