@@ -76,7 +76,7 @@ professional practice.</p>
 <p>Here are what you can expect:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Experience Gen AI tools via hands-on practice.</p>
+<p>Gain hands-on experience with Gen AI tools</p>
 </li>
 <li>
 <p>Examine Gen AI trends, issues, use cases and consider strategies to enhance
