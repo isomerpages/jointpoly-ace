@@ -122,7 +122,7 @@ your practice.</p>
 <p>This session is suitable for Adult Educators across Polytechnics and IAL.
 Training places are limited and are available on a first-come-first-serve
 basis.</p>
-<p><strong><a href="https://form.gov.sg/66457841dbdd1451a3e94b62" rel="noopener noreferrer nofollow" target="_blank">Register for Adult Education COP Run 3 now!</a></strong>
+<p><strong><a href="https://form.gov.sg/66457841dbdd1451a3e94b62" rel="noopener noreferrer nofollow" target="_blank">Register for Adult Education COP Run 3 now</a></strong>
 </p>
 <p></p>
 <p></p>
