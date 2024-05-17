@@ -38,7 +38,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4>1. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</h4>
+<h4><strong>1. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</strong></h4>
 <p>This event gives an overview of leveraging data for teaching and learning,
 covering topics like data sources, question-driven analytics, and visualization
 examples. Participants will be more aware of how data analytics can be
@@ -64,7 +64,7 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 </p>
 <p></p>
 <p></p>
-<h4>2. Adult Education Community of Practice (COP) Run 3</h4>
+<h4><strong>2. Adult Education Community of Practice (COP) Run 3</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
 </div>
