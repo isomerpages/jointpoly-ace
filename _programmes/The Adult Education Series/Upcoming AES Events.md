@@ -29,7 +29,7 @@ initiatives:</p>
 to time, subject to the discussion and agreement of both Parties.</p>
 </li>
 </ul>
-<h3>The Adult Education Series (AES)</h3>
+<h3><strong>The Adult Education Series (AES)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes%20banner%205.png">
 </div>
