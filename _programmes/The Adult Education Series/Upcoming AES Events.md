@@ -64,10 +64,12 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 </p>
 <p></p>
 <p></p>
-<h4>Adult Education Community of Practice (COP) Run 3</h4>
+<h4>2. Adult Education Community of Practice (COP) Run 3</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
 </div>
+<p><strong>Focus: Unleashing Gen AI in Training and Adult Education</strong>
+</p>
 <p>Join us at the upcoming adult education community of practice, where you
 would explore the potential of Generative AI tools and strategies in your
 professional practice.</p>
