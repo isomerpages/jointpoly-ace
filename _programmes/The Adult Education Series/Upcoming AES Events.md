@@ -29,7 +29,7 @@ initiatives:</p>
 to time, subject to the discussion and agreement of both Parties.</p>
 </li>
 </ul>
-<h3>The Adult Education Series (AES)</h3>
+<h3><strong>The Adult Education Series (AES)</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes%20banner%205.png">
 </div>
@@ -38,7 +38,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4>1. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</h4>
+<h4><strong>1. Webinar: Leveraging Data Analytics for Teaching and Learning – An Overview</strong></h4>
 <p>This event gives an overview of leveraging data for teaching and learning,
 covering topics like data sources, question-driven analytics, and visualization
 examples. Participants will be more aware of how data analytics can be
@@ -64,26 +64,67 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 </p>
 <p></p>
 <p></p>
+<h4><strong>2. Adult Education Community of Practice (COP) Run 3</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54160733_ml.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
 </div>
-<h4>Coming Soon in June</h4>
-<p>Adult Education Community of Practice (Run 3)</p>
+<p><strong>Focus: Unleashing Gen AI in Training and Adult Education</strong>
+</p>
+<p>Join us at the upcoming adult education community of practice, where you
+would explore the potential of Generative AI tools and strategies in your
+professional practice.</p>
+<p>Here are what you can expect:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Topic Focus: Empowering Adult Educators with Gen AI strategies</p>
+<p>Gain hands-on experience with Gen AI tools</p>
 </li>
 <li>
-<p>Date: 28 Jun 2024 Friday</p>
+<p>Examine Gen AI trends, issues, use cases and consider strategies to enhance
+your practice.</p>
+</li>
+</ul>
+<p>Let’s embark on a journey of growth and discovery!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 28 Jun 2024 Fri</p>
 </li>
 <li>
-<p>Time: 1.30-5.30pm</p>
+<p>Time: 1.30pm-5.30pm</p>
+</li>
+<li>
+<p>Mode: Face-to-Face</p>
 </li>
 <li>
 <p>Venue: Ngee Ann Polytechnic</p>
 </li>
 </ul>
-<p>More information will be made available closer to date.</p>
+<p>Facilitators include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Darren Tjan/ IAL</p>
+</li>
+<li>
+<p>Mr Zach Chew/ IAL</p>
+</li>
+<li>
+<p>Mr Paul Ng/ NP</p>
+</li>
+<li>
+<p>Mr Preetam Rai/ NP</p>
+</li>
+<li>
+<p>Mr Tan Yew Kong/ NP</p>
+</li>
+<li>
+<p>Ms Tan Hui Leng/ NP</p>
+</li>
+</ul>
+<p>This session is suitable for Adult Educators across Polytechnics and IAL.
+Training places are limited and are available on a first-come-first-serve
+basis.</p>
+<p><strong><a href="https://form.gov.sg/66457841dbdd1451a3e94b62" rel="noopener noreferrer nofollow" target="_blank">Register for Adult Education COP Run 3 now</a></strong>
+</p>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
