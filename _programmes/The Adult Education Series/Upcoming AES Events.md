@@ -125,6 +125,7 @@ basis.</p>
 <p><strong><a href="https://form.gov.sg/66457841dbdd1451a3e94b62" rel="noopener noreferrer nofollow" target="_blank">Register for Adult Education COP Run 3 now!</a></strong>
 </p>
 <p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
