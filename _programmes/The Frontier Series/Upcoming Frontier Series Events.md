@@ -31,7 +31,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_1.jpg">
 </div>
-<p><strong>Session 1.1: <a href="https://events.teams.microsoft.com/event/c20d240a-dd25-4949-b5db-853119243e6d@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+<p><strong>Session 1.1: </strong><a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 1.1 Video Recording Link: <a href="https://drive.google.com/file/d/1AeV5K-za3mTiMk_LJhw4fGaGVpusZSHx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1AeV5K-za3mTiMk_LJhw4fGaGVpusZSHx/view?usp=sharing</a>
 </p>
@@ -46,7 +46,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_3.jpg">
 </div>
-<p><strong>Session 1.3: <a href="https://nyp-sg.zoom.us/meeting/register/tJUuf-qtqjIuHd3fvl9mS0_vGYxJAkdT5n83" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+<p><strong>Session 1.3: </strong><a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 1.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169</a>
 </p>
