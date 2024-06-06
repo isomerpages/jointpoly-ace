@@ -18,7 +18,7 @@ a suite of new short professional development courses designed to elevate
 your skills and knowledge, enabling you to harness the power of Gen AI
 in creating dynamic, engaging and effective educational environments!</p>
 <p></p>
-<p>Check out the upcoming courses below.</p>
+<p>Check out the recent courses below.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI__2_.jpg">
@@ -50,6 +50,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p>Session 1.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169</a>
 </p>
+<p></p>
 <h4>Session 1.4 - Empowering Educators: Harnessing Generative AI for Teaching Success</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -61,17 +62,20 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p>Session 1.4 Slide Deck: <a href="https://drive.google.com/file/d/1A06p48e3QgktIWY7koLEpa3W4t9CLpt8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1A06p48e3QgktIWY7koLEpa3W4t9CLpt8/view?usp=sharing</a>
 </p>
+<p></p>
 <h4>Session 2.1 - D-R-E-A-M with Generative AI</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/7.png">
 </div>
 <p>Session 2.1 workshop does not have video recording.</p>
+<p></p>
 <h4>Session 2.2 - Redesigning Assessment in the Era of AI</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/8.png">
 </div>
 <p>Session 2.2 workshop does not have video recording.</p>
+<p></p>
 <h4>Session 2.3 - Breaking New Grounds: AI-Powered Insights for the Future of Business Communication Skills</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
@@ -80,6 +84,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p>Session 2.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57</a>
 </p>
+<p></p>
 <h4>Session 3.1 - Build a customized Generative AI application to enhance Teaching and Learning (T&amp;L) Experiences</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
