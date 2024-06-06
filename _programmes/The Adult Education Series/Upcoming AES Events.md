@@ -134,7 +134,7 @@ responsible for curriculum development and planning for mid-career learners.</p>
 during the COP session. Participants who are selected as ICs are required
 to attend a short online pre-event briefing on 19 July 2024 10-11am, hosted
 by IAL colleagues via Zoom. IAL colleagues will be reaching out to selected
-facilitators after registration has closed.</p>
+ICs (facilitators) after registration has closed.</p>
 <p>Spaces for training are limited and will be allocated on a first-come-first-served
 basis. Registration Period: 7 Jun – 8 July (or sooner if maximum class
 capacity is reached).</p>
