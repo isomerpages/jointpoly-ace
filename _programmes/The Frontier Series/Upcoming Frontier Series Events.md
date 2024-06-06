@@ -40,7 +40,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_2.jpg">
 </div>
-<p></p>
+<p>Session 1.2 does not have video recording.</p>
 <p></p>
 <h4>Session 1.3 - The AI + Human Collaboration | Deconstructing Approaches to Learning with AI</h4>
 <div class="isomer-image-wrapper">
@@ -66,12 +66,12 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/7.png">
 </div>
-<p></p>
+<p>Session 2.1 workshop does not have video recording.</p>
 <h4>Session 2.2 - Redesigning Assessment in the Era of AI</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/8.png">
 </div>
-<p></p>
+<p>Session 2.2 workshop does not have video recording.</p>
 <h4>Session 2.3 - Breaking New Grounds: AI-Powered Insights for the Future of Business Communication Skills</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
@@ -84,7 +84,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
 </div>
-<p></p>
+<p>Session 3.1 workshop does not have video recording.</p>
 <p></p>
 <h4>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI</h4>
 <p></p>
