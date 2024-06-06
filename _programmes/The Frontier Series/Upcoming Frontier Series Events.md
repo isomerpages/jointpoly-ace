@@ -103,7 +103,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <p></p>
-<p>Please share your feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a>
+<p><strong>Please share your Frontier Series experience and feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></strong>
 </p>
 <p></p>
 <p></p>
