@@ -102,6 +102,10 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p>Session 3.2 Resource Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
 </p>
 <p></p>
+<p></p>
+<h4>Share your feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></h4>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
