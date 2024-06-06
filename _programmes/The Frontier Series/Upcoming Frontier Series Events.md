@@ -89,7 +89,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
 </div>
-<p>Session 3.1 video recording: Nil</p>
+<p>Session 3.1 workshop video recording: Nil</p>
 <p></p>
 <h4>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI</h4>
 <p></p>
