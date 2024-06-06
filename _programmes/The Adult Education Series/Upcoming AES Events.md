@@ -100,9 +100,57 @@ basis.</p>
 </p>
 <p></p>
 <h4><strong>2. Adult Education Community of Practice (COP) Run 4</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/COP_Run_4_Banner.jpg">
+</div>
+<p>Focus: Rethinking Age - Opportunities, Not Obstacles</p>
+<p>Drawing extensively from IAL’s research findings, the&nbsp;COP session
+"Rethinking Age –Opportunities, Not Obstacles"&nbsp;is designed to offer
+broad strategies and examples to&nbsp;equip IHL educators with pedagogical
+practices tailored&nbsp;to&nbsp;mid-career learners. This session aims
+to foster meaningful dialogue and facilitate the integration of research
+findings into practical teaching scenarios, thereby enhancing educational
+approaches for Singapore's mid-career learners.&nbsp;</p>
+<p>Date: 26 July 2024 Fri</p>
+<p>Time: 1.30pm-5.30pm</p>
+<p>Mode: Face-to-Face</p>
+<p>Venue: Lifelong Learning Institute, IN.LAB, 11 Eunos Rd 8, #05-03 Singapore
+408601</p>
 <p></p>
+<p>This session is suitable for experienced frontline Adult Educators who
+are actively involved in CET teaching and facilitation, as well as, staff
+responsible for curriculum development and planning for mid-career learners.</p>
 <p></p>
-<p></p>
+<p>Participants may assume roles as Group ICs, actively guiding group discussions
+during the COP session. Participants who are selected as ICs are required
+to attend a short online pre-event briefing on 19 July 2024 10-11am, hosted
+by IAL colleagues via Zoom. IAL colleagues will be reaching out to selected
+facilitators after registration has closed.</p>
+<p>Spaces for training are limited and will be allocated on a first-come-first-served
+basis.Registration Period: 7 Jun – 8 July (or sooner if maximum class capacity
+is reached).</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Registration Link for NYP adult educators: <a href="https://form.gov.sg/66470bb498caad32ea2e3335" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66470bb498caad32ea2e3335</a>
+</p>
+</li>
+<li>
+<p>Registration Link for NP adult educators: <a href="https://form.gov.sg/664717510461525865e83857" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/664717510461525865e83857</a>
+</p>
+</li>
+<li>
+<p>Registration Link for RP adult educators: <a href="https://form.gov.sg/6647180998caad32ea31df3b" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6647180998caad32ea31df3b</a>
+</p>
+</li>
+<li>
+<p>Registration Link for SP adult educators: <a href="https://form.gov.sg/6647191c0461525865e8c4bd" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/6647191c0461525865e8c4bd</a>
+</p>
+</li>
+<li>
+<p>Registration Link for TP adult educators: <a href="https://form.gov.sg/66471a989cbe1d1a315d04be" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/66471a989cbe1d1a315d04be</a>
+</p>
+</li>
+</ol>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
