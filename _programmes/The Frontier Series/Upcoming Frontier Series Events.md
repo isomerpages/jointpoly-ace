@@ -103,7 +103,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <p></p>
-<h4>Share your feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></h4>
+<h4>Please share your feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></h4>
 <p></p>
 <p></p>
 <p></p>
