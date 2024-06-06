@@ -99,7 +99,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p><strong>Session 3.2: <a href="https://for.edu.sg/politewebinar-5jun2024" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
 <p>Session 3.2 Video Recording Link: Coming soon</p>
-<p>Session 3.2 Resource Folder Link: <a href="202406 Prompt Engineering TnL Webinar - Google Drive" rel="noopener noreferrer nofollow" target="_blank">202406 Prompt Engineering TnL Webinar - Google Drive</a>
+<p>Session 3.2 Resource Folder Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
 </p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
