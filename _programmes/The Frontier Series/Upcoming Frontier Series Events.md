@@ -96,8 +96,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_2_Update.jpg">
 </div>
-<p><strong>Session 3.2: <a href="https://for.edu.sg/politewebinar-5jun2024" rel="noopener noreferrer nofollow" target="_blank">M</a></strong>
-<a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
+<p><strong>Session 3.2: </strong><a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 3.2 Video Recording Link: Coming soon</p>
 <p>Session 3.2 Resource Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
