@@ -56,7 +56,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/6.png">
 </div>
-<p><strong>Session 1.4: <a href="https://nyp-sg.zoom.us/meeting/register/tJUtdOisqT8pEtdhwtS4wFGBKNn9ZA_7eRJ9" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+<p><strong>Session 1.4: </strong><a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 1.4 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=d9a7dac2-1b46-456f-8c8b-b1840093d6b4" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=d9a7dac2-1b46-456f-8c8b-b1840093d6b4</a>
 </p>
@@ -80,7 +80,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
 </div>
-<p><strong>Session 2.3: <a href="https://nyp-sg.zoom.us/meeting/register/tJwuce2rpzwvHdBKHIhsV7nCAT_PLEMFaEgx" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+<p><strong>Session 2.3: </strong><a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 2.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57</a>
 </p>
@@ -96,7 +96,8 @@ in creating dynamic, engaging and effective educational environments!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_2_Update.jpg">
 </div>
-<p><strong>Session 3.2: <a href="https://for.edu.sg/politewebinar-5jun2024" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+<p><strong>Session 3.2: <a href="https://for.edu.sg/politewebinar-5jun2024" rel="noopener noreferrer nofollow" target="_blank">M</a></strong>
+<a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a>
 </p>
 <p>Session 3.2 Video Recording Link: Coming soon</p>
 <p>Session 3.2 Resource Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
