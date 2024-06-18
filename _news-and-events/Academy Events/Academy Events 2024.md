@@ -24,6 +24,9 @@ a memorable culmination of the graduates' training programmes, fostering
 a strong sense of camaraderie and interconnectedness among the graduates
 from various polytechnics.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture1.png">
+</div>
 <p>In his opening address, Mr. Russell Chan, Principal and Chief Executive
 Officer (PCEO) of Nanyang Polytechnic, warmly congratulated the graduates
 on their dedication and perseverance. He emphasized the importance of the
@@ -39,6 +42,15 @@ two inspiring videos. Three graduates from SLMP and five from CTLPE reflected
 on their journeys, emphasizing the personal and professional growth they
 achieved through the programs. These reflections underscored the transformative
 impact of the training on their teaching practices and leadership skills.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NkEWkZ-2hPQ?si=i87J1CiAG-npBRRY"></iframe>
+</div>
+<p>
+<br>
+</p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55va3mVdOko?si=OfWURQwq6f_3etLc"></iframe>
+</div>
 <p></p>
 <p></p>
 <p>The highlight of the event was a panel discussion on "Education 4.0: The
@@ -52,6 +64,13 @@ landscape of education and the necessary skills and mindsets for educators
 and leaders. They emphasized the importance of shaping educational cultures,
 fostering motivation, and integrating technology thoughtfully.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture3.png">
+</div>
 <p>Key insights from the panel discussion included:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Shaping Educational Cultures:</strong> Dr.
 Manu Kapur stressed the need for educators to focus on shaping cultures
@@ -79,7 +98,9 @@ Dr. Pee shared examples of motivating students through their interests
 and discussed the potential for AI to enhance learning when used alongside
 human intelligence.</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture4.png">
+</div>
 <p>In his closing address, Dr. Rajnish Gupta, Head of the Joint-Polytechnic
 Academy for Educators (JP-AcE), expressed deep gratitude to all attendees,
 panelists, and supporters for making the graduation ceremony a success.
@@ -87,6 +108,14 @@ He congratulated the SLMP and CTLPE graduates for their hard work and resilience
 urging them to continue their lifelong learning journey. Dr. Gupta emphasized
 the importance of collaboration within the Polytechnic community to support
 and inspire future educators.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2024/Picture6.png">
+</div>
 <p>The ceremony concluded with networking refreshments and festive photographs
 to commemorate the special occasion. The graduates left with a sense of
 accomplishment and a commitment to continue their journey as educators,
