@@ -9,7 +9,7 @@ third_nav_title: Academy Events
 <h4>1. Joint Polytechnic Graduation Ceremony 2024</h4>
 <p>Date: 7 Jun 2024</p>
 <p>Time: 2pm-4pm</p>
-<p>Venue: Nanyang Polytechnic (RP)</p>
+<p>Venue: Nanyang Polytechnic (NYP)</p>
 <p>On a rainy afternoon on 7 June, 2024, at Nanyang Polytechnic, approximately
 two hundred polytechnic lecturers celebrated their successful completion
 of the Certificate in Teaching &amp; Learning for Polytechnic Educators
