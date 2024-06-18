@@ -1,8 +1,10 @@
 ---
-title: Academy Events
-permalink: /academyevents/
+title: Academy Events 2023
+permalink: /academyevents2023/
 description: Launch ceremony of JP-AcE will be on 16 September 2022. Find out more!
 image: ""
+third_nav_title: Academy Events
+variant: tiptap
 ---
 # Academy Events
 
