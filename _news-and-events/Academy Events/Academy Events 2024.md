@@ -43,15 +43,12 @@ on their journeys, emphasizing the personal and professional growth they
 achieved through the programs. These reflections underscored the transformative
 impact of the training on their teaching practices and leadership skills.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NkEWkZ-2hPQ?si=i87J1CiAG-npBRRY"></iframe>
-</div>
-<p>
-<br>
-</p>
-<div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/55va3mVdOko?si=OfWURQwq6f_3etLc"></iframe>
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/D_C1oYEvBEA?list=PLI3rfjAKrq04yjpNmILcjb9OmaK2MFUCU"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qx8o0EOTYh8?list=PLI3rfjAKrq04yjpNmILcjb9OmaK2MFUCU"></iframe>
+</div>
 <p></p>
 <p>The highlight of the event was a panel discussion on "Education 4.0: The
 Crucial Role of Educators and Leaders," featuring Dr. Manu Kapur, Professor
