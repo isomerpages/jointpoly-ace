@@ -3,6 +3,7 @@ title: About the Academy
 permalink: /about/
 description: Learn more about Joint Polytechnic Academy for Educators (JP-AcE)
 image: ""
+variant: markdown
 ---
 # About the Academy
 
@@ -30,7 +31,7 @@ The JP-CETL was established in 2013 with the objective of “initiating, develop
 
 The five polytechnics are:
 * [Nanyang Polytechnic](https://www.nyp.edu.sg/)
-* [Ngee Ann Polytechnic](https://www.np.edu.sg/Pages/default.aspx)
+* [Ngee Ann Polytechnic](https://www.np.edu.sg/home)
 * [Republic Polytechnic](https://www.rp.edu.sg/)
 * [Singapore Polytechnic](https://www.sp.edu.sg/)
 * [Temasek Polytechnic](https://www.tp.edu.sg/)
