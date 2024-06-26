@@ -12,10 +12,10 @@ variant: markdown
 
 #### What is the programme about?
 
-School Leadership Move-In Programme (SLMP) is a professional development programme for new and potential School Leaders (ADs and DDs) across five polytechnics to build important T&L leadership capabilities in 3 key aspects:
+School Leadership Move-In Programme (SLMP) is a professional development programme for new and potential School Leaders (ADs and DDs) across five polytechnics to build important T&amp;L leadership capabilities in 3 key aspects:
 * Driving Educational Change
-* Driving T&L Quality
-* Shaping T&L Culture
+* Driving T&amp;L Quality
+* Shaping T&amp;L Culture
 
 ![](/images/learning%20journey%20to%20tp_10%20june%202022.jpg)
 
@@ -33,30 +33,58 @@ SLMP is a 200-hour programme that takes place over a period of 12 months. The in
 
 ![](/images/slmp%20fablab.jpg)
 
-#### Check out what happened at the Joint Polytechnic School Leadership Move-In Programme (SLMP) Onboarding 2023
+#### Check out what happened at the Joint Polytechnic School Leadership Move-In Programme (SLMP) Intake 2
 
-Date: 23-25 and 30-31 May 2023
+SLMP Intake 2 started in May 2023 with a five-day onboarding programme. 
+15 school leaders from the five polytechnics delved into concepts of educational change, teaching and learning (T&amp;L) quality and T&amp;L culture. They were in turn inspired, challenged, intrigued, and encouraged by what they experienced; the Learning Journeys to Pathlight School and AI Singapore provided much food for thought. An important takeaway for all was that people are at the heart of leadership.
 
-School leaders from the five polytechnics delved into concepts of educational change, teaching and learning (T&amp;L) quality and T&amp;L culture at the Onboarding Programme for the joint-polytechnic School Leadership Move-in Programme (SLMP) in May 2023. At the five-day programme, 15 SLMP participants came together to discuss, reflect and to learn from senior polytechnic leaders as well as from each other. They were in turn inspired, challenged, intrigued, and encouraged by what they experienced; the Learning Journeys to Pathlight School and AI Singapore provided much food for thought. An important takeaway for all was that people are at the heart of leadership.
+![](/images/SLMP%20Intake%202%20Update/IMG_0517.jpg)
+*Fireside Chat with Singapore Polytechnic’s PCEO Mr Soh Wai Wah*
 
-SLMP 2023 will continue with a series of learning journeys to the various polytechnics. Participants will also work on their SLMP practicum projects; these will focus on T&amp;L leadership, but may relate to themes such as digitization, industry engagement, pedagogical innovation and/or staff capability enhancement.
-      
-![](/images/slmp%20onboarding%20run%202.png)
-With Singapore Polytechnic's DP Acad Mr Lim Peng Hun (sitting in the center), facilitator of workshop on "Immunity to Change"
+![](/images/SLMP%20Intake%202%20Update/a71c0872_de7c_4d94_9a9c_e658d9c54bc0.jpg)
+*SLMP 2 participants with panel guests of School Directors and Educational Development Unit directors*
 
-![](/images/slmp%20fireside%20chat%20run%202.png)                  Fireside Chat with Singapore Polytechnic's PCEO Mr Soh Wai Wah
+SLMP 2023 continued with a series of learning journeys to the various polytechnics. These visits allowed participants to see best practices of applied learning and integration of industry into T&amp;L facilities and curriculum. 
 
-![](/images/slmp%20run%202%20learning%20journey%20to%20ai%20singapore.png)
-Learning Journey to AI Singapore
+![](/images/SLMP%20Intake%202%20Update/IMG_1390.jpg)
+*Learning Journey to Singapore Polytechnic’s Singapore Maritime Academy*
 
-![](/images/slmp%20run%202%20fireside%20chat%20with%20guest%20ap%20may%20lim.png)
-Fireside Chat guest speaker Associate Professor May Lim (sitting in the front row, 2nd from the right) Assistant Provost (Applied Learning) at Singapore Institute of Technology 
+![](/images/SLMP%20Intake%202%20Update/98dca52a_95f8_4924_8894_ef28b984aca4.jpg)
+*Learning journey to Republic Polytechnic’s The Greenhouse*
 
-![](/images/slmp%20run%202%20with%20ahmad.jpg)
-Fireside chat “Leadership Stories” with polytechnic sector leaders. From right: Mr Tan Jek Min (NYP) Senior Director (Industry & Lifelong Learning) & Director/NACE, Mr Joshua Hong (RP) Deputy Director, School of Technology for the Arts & SLMP Intake 1 alumnus, and Dr Faris Akbar Hajamaideen, Senior Director (Build Environment & Maritime (SP), with SLMP facilitator.
+Throughout SLMP, participants worked on their SLMP practicum projects relating to theme such as industry engagement, pedagogical innovation, as well as lifelong learning. They also took part in a visioning exercise to analyse future trends that could affect the polytechnic sector (the SLMP Group Pitch). As part of SLMP, dialogues with senior polytechnic leaders provided inputs on their Group Pitch. 
 
-![](/images/slmp%20run%202%20group%20discussion.png)
-Group Discussion on participants' SLMP practicum projects with their group facilitators
+![](/images/SLMP%20Intake%202%20Update/CIM2__Dialogue_with_leaders3.jpg)
+*Dialogue with TP Senior leaders DP Anita Kuan and EDU Director Dr Woo Boon Seong.*
+
+![](/images/SLMP%20Intake%202%20Update/GPDP1_resized.jpg)
+*Dialogue with RP Senior Leaders DP Boo Chong-Han and EDU Director Dr Girija*
+
+![](/images/SLMP%20Intake%202%20Update/Dialogue_Group_Photo_with_SD_and_EDU_Dir_1__1_.jpg)
+*Dialogue with NP Senior Leaders: Senior Director (Skillsfuture) Ms Anna Yap-Too and EDU Director Ms Shirley Williams*
+
+
+The programme culminated in a Leadership Forum in May 2024, which was a celebration of the SLMP journey for participants, and an opportunity for their Project Sponsors to hear their Group Pitch and to hear about their practicum projects as well as their reflections on T&amp;L leadership. 
+
+![](/images/SLMP%20Intake%202%20Update/SLMP_2__Edu_of_the_Future_photo.png)
+*Group Pitch presentation focusing on “Polytechnic Educators of the Future*
+
+This was a good time of networking and consolidating their learning from the year-long programme, and conversations between participants, Project Sponsors and directors of educational development units were varied and fruitful.
+
+![](/images/SLMP%20Intake%202%20Update/IMG_4687.jpg)
+*Republic Polytechnic SLMP participants, project sponsors and educational development unit colleagues*
+
+![](/images/SLMP%20Intake%202%20Update/IMG_4693.jpg)
+*Nanyang Polytechnic participants in discussion*
+
+![](/images/SLMP%20Intake%202%20Update/IMG_20240524_121928.jpg)
+*The SLMP 2 Community at the Leadership Forum finale*
+
+To see video highlights of SLMP 2, please visit these links: 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Highlights of SLMP Intake 2 Experience" src="https://www.youtube.com/embed/n2F40AY-FnU?list=PLI3rfjAKrq04yjpNmILcjb9OmaK2MFUCU" height="418" width="743"></iframe>
+.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Highlights of SLMP Intake 2 Learning Artefacts" src="https://www.youtube.com/embed/muqFWmdRtig?list=PLI3rfjAKrq04yjpNmILcjb9OmaK2MFUCU" height="418" width="743"></iframe>
+
 
 #### [Click here to find out more about SLMP.](/files/slmp_%20prog%20info_%20for%20jpace%20website_%20updated%2017%20jan%202023.pdf)
 (Right click to open the above link in a new tab.)
