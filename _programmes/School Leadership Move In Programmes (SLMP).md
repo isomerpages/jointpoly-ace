@@ -92,4 +92,4 @@ To see video highlights of SLMP 2, please visit these links:
 
 #### Have a question related to SLMP?
 
-Please contact Programme Leads [Ms. Keng Wan Ling](mailto: keng_wan_ling@tp.edu.sg) , [Ms. Tina Soo](mailto: tina_soo@np.edu.sg) or your Polytechnic Coordinator(s) for SLMP:
+Please contact Programme Leads: <a href="mailto:keng_wan_ling@tp.edu.sg">Ms. Keng Wan Ling</a>, <a href="mailto:tina_soo@np.edu.sg">Ms. Tina Soo</a>  
