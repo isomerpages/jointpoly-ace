@@ -11,7 +11,7 @@ variant: markdown
 
 #### What is the programme about?
 
-The Course Leadership Move-In Programme (CLMP) advances polytechnic participants' T&L knowledge and skills in course leadership so that they can effectively navigate the challenges and opportunities of course management.
+The Course Leadership Move-In Programme (CLMP) advances polytechnic participants' T&amp;L knowledge and skills in course leadership so that they can effectively navigate the challenges and opportunities of course management.
 
 The programme provides participants with varied, authentic and practice-oriented learning experiences that offer unique insights in course management through a multi-campus and multi-faceted approach.
 
@@ -51,7 +51,7 @@ _Group discussions and brainstorming at CLMP onboarding sessions._
 
 ![](/images/img_9990.jpg)
 
-_Fireside chat with: Dr Kwan Kian Hoong (Director, Temasek Skills Future Academy), Mr Felix Goh (Strategic Lead@Google, Edtech, Research & Education), Mr Mark Nivan Singh (Deputy Director, Department of Educational Development, Singapore Polytechnic), Mrs Phang-Eng Peck Hoong (Director, School of Design & Environment, Ngee Ann Polytechnic)_
+_Fireside chat with: Dr Kwan Kian Hoong (Director, Temasek Skills Future Academy), Mr Felix Goh (Strategic Lead@Google, Edtech, Research &amp; Education), Mr Mark Nivan Singh (Deputy Director, Department of Educational Development, Singapore Polytechnic), Mrs Phang-Eng Peck Hoong (Director, School of Design &amp; Environment, Ngee Ann Polytechnic)_
 
 The learning in the Onboarding Programme was summed up in the graphic below: 
 
@@ -75,4 +75,4 @@ _Learning Journey to Experiential Learning Centre (XLC)@RP_
 #### Have a question related to CLMP?
 
 
-Please contact the Programme Leads from  JP-AcE: [Ms. Keng Wan Ling](mailto:keng_wan_ling@tp.edu.sg) , [Ms. Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg)
+Please contact the Programme Leads from  JP-AcE: <a href="mailto:keng_wan_ling@tp.edu.sg">Ms. Keng Wan Ling</a>, <a href="mailto:lim_bee_hwee@rp.edu.sg">Ms. Lim Bee Hwee</a>
