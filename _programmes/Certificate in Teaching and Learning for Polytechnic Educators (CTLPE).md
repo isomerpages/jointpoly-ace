@@ -35,7 +35,7 @@ It focuses on the following areas:
 
 #### How is the programme conducted?
 
-CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous & asynchronous and face-to-face lessons.
+CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous &amp; asynchronous and face-to-face lessons.
 
 ![](/images/ctlpe%20intake%207%20pic%203.jpg)
 
@@ -52,4 +52,4 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 #### Have a question related to CTLPE?
 
-Please contact Programme Leads [Ms. Lim Bee Hwee](mailto: lim_bee_hwee@rp.edu.sg) , [Ms. Joey Tong](mailto: joey_tong@nyp.edu.sg)
+Please contact Programme Leads:  <a href="mailto:lim_bee_hwee@rp.edu.sg">Ms Lim Bee Hwee</a>, <a href="mailto:joey_tong@nyp.edu.sg">Ms. Joey Tong</a> 
