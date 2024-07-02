@@ -122,3 +122,8 @@ to commemorate the special occasion. The graduates left with a sense of
 accomplishment and a commitment to continue their journey as educators,
 equipped with new skills, knowledge, and a supportive network. Congratulations
 to all the graduates of 2024!</p>
+<p></p>
+<p><a href="https://drive.google.com/drive/folders/1sjYO8NGh3ex8_HOwc9mg6H1qYeWVRIlc?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Check out the Cohort Pictures Here!</a>
+</p>
+<p><a href="https://drive.google.com/drive/folders/1A4RUScsQwQLJWqQUkR6RvYP4qjLIRbcO?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click here to see more photos from the Event!</a>
+</p>
