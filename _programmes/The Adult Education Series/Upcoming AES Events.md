@@ -136,7 +136,7 @@ to attend a short online pre-event briefing on 19 July 2024 10-11am, hosted
 by IAL colleagues via Zoom. IAL colleagues will be reaching out to selected
 ICs (facilitators) after registration has closed.</p>
 <p>Spaces for training are limited and will be allocated on a first-come-first-served
-basis. Registration Period: 7 Jun – 8 July (or sooner if maximum class
+basis. Registration Period: ends 15 July 2024 (or sooner if maximum class
 capacity is reached).</p>
 <ol data-tight="true" class="tight">
 <li>
