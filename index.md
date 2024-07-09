@@ -1,24 +1,16 @@
 ---
 layout: homepage
 title: Joint Polytechnic Academy for Educators JP-AcE
-description: >-
-  The Joint Polytechnic Academy for Educators (JP-AcE) is a centralised academy
-  for T&L capability development of educators in polytechnics and industry.
-
-
-  It offers joint polytechnic suite of T&L baseline capability development
-  programmes and certifications, such as the Certificate in T&L for Polytechnic
-  Educators (CTLPE), School Leadership Move-In Programme (SLMP), T&L Mentor
-  Move-In  Programme (TLMP), Course Leadership Move-In Programme (CLMP) and
-  other programmes which strengthens the T&L capabilities of polytechnic
-  educators. 
-
-
-  In addition, it collaborates with Institute of Adult Learning (IAL) and
-  partners to create and deliver programmes in area of adult education. 
-
-
-  This is an Isomer site of the Singapore Government.
+description: The Joint Polytechnic Academy for Educators (JP-AcE) is a
+  centralised academy for T&L capability development of educators in
+  polytechnics and industry.  It offers joint polytechnic suite of T&L baseline
+  capability development programmes and certifications, such as the Certificate
+  in T&L for Polytechnic Educators (CTLPE), School Leadership Move-In Programme
+  (SLMP), T&L Mentor Move-In  Programme (TLMP), Course Leadership Move-In
+  Programme (CLMP) and other programmes which strengthens the T&L capabilities
+  of polytechnic educators.   In addition, it collaborates with Institute of
+  Adult Learning (IAL) and partners to create and deliver programmes in area of
+  adult education.   This is an Isomer site of the Singapore Government.
 image: /images/web version updated on 7 sep 2022.png
 permalink: /
 notification: ""
@@ -26,8 +18,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Check out the Frontier Series for Educators!
-      url: https://jpace.polytechnic.edu.sg/the-frontier-series/
+      button: Check out our Upcoming Adult Education Events!
+      url: https://jpace.polytechnic.edu.sg/programmes/the-adult-education-series/upcomingaesevents/
       key_highlights:
         - title: Welcome Message
           description: ""
