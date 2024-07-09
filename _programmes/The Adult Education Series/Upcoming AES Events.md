@@ -160,8 +160,8 @@ capacity is reached).</p>
 </p>
 </li>
 <li>
-<p>Registration Link for IAL/IAL AEN (Non-Poly) Adult Educators</p>
-<p><a href="https://form.gov.sg/668cbafc20bc9e08d3b9a149" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/668cbafc20bc9e08d3b9a149</a>
+<p>Registration Link for IAL/IAL AEN (Non-Poly) Adult Educators
+<br><a href="https://form.gov.sg/668cbafc20bc9e08d3b9a149" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/668cbafc20bc9e08d3b9a149</a>
 </p>
 </li>
 </ol>
