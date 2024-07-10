@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
+      - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL).md
       - Course Leadership Move In Programme (CLMP).md
       - School Leadership Move In Programmes (SLMP).md
       - T&L Mentor Move In Programme (TLMP).md
@@ -10,6 +11,7 @@ collections:
       - The Adult Education Series/Upcoming AES Events.md
       - The Adult Education Series/Past AES Events 2024.md
       - The Adult Education Series/Past AES Events 2023.md
-      - The Frontier Series/Upcoming Frontier Series Events.md
       - The Frontier Series/.keep
+      - The Frontier Series/Upcoming Frontier Events.md
+      - The Frontier Series/Past Frontier Events 2024.md
       - The Frontier Series/Past Frontier Events 2023.md

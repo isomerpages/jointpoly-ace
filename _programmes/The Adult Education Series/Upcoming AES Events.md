@@ -38,68 +38,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Adult Education Community of Practice (COP) Run 3</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
-</div>
-<p><strong>Focus: Unleashing Gen AI in Training and Adult Education</strong>
-</p>
-<p>Join us at the upcoming adult education community of practice, where you
-would explore the potential of Generative AI tools and strategies in your
-professional practice.</p>
-<p>Here are what you can expect:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Gain hands-on experience with Gen AI tools</p>
-</li>
-<li>
-<p>Examine Gen AI trends, issues, use cases and consider strategies to enhance
-your practice.</p>
-</li>
-</ul>
-<p>Let’s embark on a journey of growth and discovery!</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 28 Jun 2024 Fri</p>
-</li>
-<li>
-<p>Time: 1.30pm-5.30pm</p>
-</li>
-<li>
-<p>Mode: Face-to-Face</p>
-</li>
-<li>
-<p>Venue: Ngee Ann Polytechnic</p>
-</li>
-</ul>
-<p>Facilitators include:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Mr Darren Tjan/ IAL</p>
-</li>
-<li>
-<p>Mr Zach Chew/ IAL</p>
-</li>
-<li>
-<p>Mr Paul Ng/ NP</p>
-</li>
-<li>
-<p>Mr Preetam Rai/ NP</p>
-</li>
-<li>
-<p>Mr Tan Yew Kong/ NP</p>
-</li>
-<li>
-<p>Ms Tan Hui Leng/ NP</p>
-</li>
-</ul>
-<p>This session is suitable for Adult Educators across Polytechnics and IAL.
-Training places are limited and are available on a first-come-first-serve
-basis.</p>
-<p><strong><a href="https://form.gov.sg/66457841dbdd1451a3e94b62" rel="noopener noreferrer nofollow" target="_blank">Register for Adult Education COP Run 3 now</a></strong>
-</p>
-<p></p>
-<h4><strong>2. Adult Education Community of Practice (COP) Run 4</strong></h4>
+<h4><strong>1. Adult Education Community of Practice (COP) Run 4</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/COP_Run_4_Banner.jpg">
 </div>

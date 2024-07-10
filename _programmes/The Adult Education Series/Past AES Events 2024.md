@@ -156,7 +156,7 @@ this opportunity to enhance your communication skills as a coach.</p>
 </div>
 <p></p>
 <h3><u>April 2024</u></h3>
-<h3>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h3>
+<h4>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/LJ_SG_Enable_1.jpg">
@@ -250,9 +250,73 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Apr 2024/IALDA01____1.png">
 </div>
+<h4></h4>
+<h3><u>July 2024</u></h3>
+<h4>Adult Education Community of Practice (COP) Run 3</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
+</div>
+<p><strong>Focus: Unleashing Gen AI in Training and Adult Education</strong>
+</p>
+<p>This event explores the potential of Generative AI tools and strategies
+in your professional practice.</p>
+<p>Here are what you can expect:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Gain hands-on experience with Gen AI tools</p>
+</li>
+<li>
+<p>Examine Gen AI trends, issues, use cases and consider strategies to enhance
+your practice.</p>
+</li>
+</ul>
+<p>Let’s embark on a journey of growth and discovery!</p>
+<p>This session was on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 28 Jun 2024 Fri</p>
+</li>
+<li>
+<p>Time: 1.30pm-5.30pm</p>
+</li>
+<li>
+<p>Mode: Face-to-Face</p>
+</li>
+<li>
+<p>Venue: Ngee Ann Polytechnic</p>
+</li>
+</ul>
+<p>Facilitators include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Darren Tjan/ IAL</p>
+</li>
+<li>
+<p>Mr Zach Chew/ IAL</p>
+</li>
+<li>
+<p>Mr Paul Ng/ NP</p>
+</li>
+<li>
+<p>Mr Preetam Rai/ NP</p>
+</li>
+<li>
+<p>Mr Tan Yew Kong/ NP</p>
+</li>
+<li>
+<p>Ms Tan Hui Leng/ NP</p>
+</li>
+</ul>
+<p>This session is suitable for Adult Educators across Polytechnics and IAL.
+Training places are limited and are available on a first-come-first-serve
+basis.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102232.png">
+</div>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102256.png">
+</div>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>

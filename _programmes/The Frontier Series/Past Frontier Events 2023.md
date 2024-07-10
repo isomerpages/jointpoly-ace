@@ -1,6 +1,6 @@
 ---
 title: Past Frontier Events 2023
-permalink: /programmes/frontier/
+permalink: /programmes/pastfs2023/
 description: ""
 third_nav_title: The Frontier Series
 variant: tiptap
