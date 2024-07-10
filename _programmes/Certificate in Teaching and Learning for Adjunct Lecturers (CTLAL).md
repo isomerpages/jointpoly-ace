@@ -14,13 +14,42 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png">
 </div>
 <p>For Newly Hired Adjunct Lecturers Joining from :</p>
-<p>| Period of Joining | Politemall Link |</p>
-<p>| -------- | -------- |</p>
-<p>| 1 Apr 2024 - 27 Sep 2024 (Intake 1) | Politemall Course Link: <a href="https://lms.polite.edu.sg/d2l/home/445836" rel="noopener noreferrer nofollow" target="_blank">Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 1 (polite.edu.sg)</a> |</p>
-<p>| 30 Sep 2024 - 28 Mar 2025 (Intake 2) | Politemall Course Link: Coming
-Soon|</p>
-<p>|**You may only access the link if your Polytechnic has enrolled you in
-the course site*.|</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Enrolment Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Politemall Course Link*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Apr 2024 - 27 Sep 2024 (Intake 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Link: <a href="https://lms.polite.edu.sg/d2l/home/445836" rel="noopener noreferrer nofollow" target="_blank"><u>Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 1 (polite.edu.sg)</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Sep 2024 - 28 Mar 2025 (Intake 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Course Link: Coming soon</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*You may only access the link if your Polytechnic has enrolled you in
+the course site*.</p>
 <p></p>
 <p></p>
 <h3>What is the programme about?</h3>
@@ -37,11 +66,46 @@ lecturers to refine their essential teaching and learning capabilities.&nbsp;</p
 <p>
 <br>
 </p>
-<p>#### How is the programme conducted?</p>
-<p>CTLPE is conducted in hybrid manner. There are online sessions conducted
-via MS Teams, Zoom synchronous &amp;amp; asynchronous and face-to-face
-lessons.</p>
-<p>![](/images/ctlpe%20intake%207%20pic%203.jpg)</p>
+<h3>How is the programme conducted?</h3>
+<p>CTLAL is conducted in blended mode. Participants are required to complete
+an online segment and a face-to-face/ online microteaching segment.</p>
+<p>Here's a table outlining the two key segments of the programme:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Segment</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Tasks</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Online Self-Paced Learning Modules (13 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Complete three online modules focusing on classroom facilitation, lesson
+planning, and engaging adult learners.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Microteaching Segment (3hrs)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Apply what you've learned in a practical teaching session, with feedback
+to reflect on and improve teaching and learning practices.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>#### When is the programme conducted?</p>
 <p>There are 2 runs per year. One commences in April and another in October.
 The duration of the programme is 100 hours, which is conducted over a span
