@@ -14,6 +14,19 @@ for polytechnic educators. The Frontier Series aims to inspire lifelong
 learning, support reflective T&amp;L practices, expand T&amp;L capabilities
 and empower educators to be future-ready by exploring new educational trends
 and innovative ways of teaching and learning.</p>
+<p>We have dedicated two Frontier Series webpages to support you in your
+navigation via programme menu:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Frontier Series (EdTech) - Training and Supporting for Polytechnic
+Educators focusing on Technology Enabled Learning</p>
+</li>
+<li>
+<p>The Frontier Series (Research) - Training and Supporting for Polytechnic
+Educators focusing on Technology Enabled Learning</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <h4>1. Workshop 'Introduction to Action Research'</h4>
 <ul data-tight="true" class="tight">
