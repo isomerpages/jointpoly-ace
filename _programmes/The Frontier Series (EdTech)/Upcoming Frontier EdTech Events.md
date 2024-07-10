@@ -12,8 +12,8 @@ for polytechnic educators. The Frontier Series aims to inspire lifelong
 learning, support reflective T&amp;L practices, expand T&amp;L capabilities
 and empower educators to be future-ready by exploring new educational trends
 and innovative ways of teaching and learning.</p>
-<p>This page is dedicated to training and support for polytechnic educators
-in the area of EdTech.</p>
+<p></p>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
