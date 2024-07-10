@@ -311,7 +311,13 @@ your practice.</p>
 Training places are limited and are available on a first-come-first-serve
 basis.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102232.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102256.png">
+</div>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
