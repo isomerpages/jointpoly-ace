@@ -61,8 +61,7 @@ pedagogical and andragogical abilities of new adjunct faculty, ensuring
 they thrive in the unique polytechnic teaching environment. This programme
 blends the convenience of online self-paced learning with hands-on experience
 through a microteaching segment, providing a robust platform for adjunct
-lecturers to refine their essential teaching and learning capabilities.&nbsp;</p>
-<p>
+lecturers to refine their essential teaching and learning capabilities.&nbsp;
 <br>
 </p>
 <h3>How is the programme conducted?</h3>
