@@ -6,6 +6,11 @@ description: ""
 third_nav_title: The Frontier Series (Research)
 ---
 <h1>Joint Polytechnic Education Research Repository</h1>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_429286112.jpg">
+</div>
 <p><strong>Resource Link: </strong>Coming soon</p>
 <p></p>
 <p><strong><u>Contact Information for Education Research Workgroup</u></strong>
