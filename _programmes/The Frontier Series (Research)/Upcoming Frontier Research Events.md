@@ -8,6 +8,10 @@ third_nav_title: The Frontier Series (Research)
 <h1>Upcoming Frontier Education Research Events</h1>
 <p></p>
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_247519552__1_.jpg">
+</div>
 <p>The Frontier Series for Educators is a repertoire of professional development
 sessions organised by the Joint Polytechnic Academy for Educators (JP-AcE)
 for polytechnic educators. The Frontier Series aims to inspire lifelong
