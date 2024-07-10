@@ -13,7 +13,7 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png">
 </div>
-<p>For Newly Hired Adjunct Lecturers Joining from :</p>
+<p>For Newly Hired Associate/Adjunct Lecturers Joining from :</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
