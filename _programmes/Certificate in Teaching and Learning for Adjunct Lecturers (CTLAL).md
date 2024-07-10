@@ -23,19 +23,20 @@ Soon|</p>
 the course site*.|</p>
 <p></p>
 <p></p>
-<p>#### What is the programme about?</p>
-<p>Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
-is a joint polytechnic certification programme for the professional development
-of new polytechnic lecturers by equipping them with foundational skills
-in teaching and learning.</p>
-<p>It focuses on the following areas:</p>
-<p>* Polytechnic Education Philosophies</p>
-<p>* Learner-centred and Industry-relevant Curriculum Design</p>
-<p>* Facilitative Curriculum Delivery</p>
-<p>* Formative and Summative Assessment</p>
-<p>* Reflective Professional Practice for Effective Learning and Teaching</p>
-<p>![](/images/ctlpe%20intake%207%20pic%201.png)</p>
-<p>![](/images/ctlpe%20intake%207%20pic%205.png)</p>
+<h3>What is the programme about?</h3>
+<p>The Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL)
+is a comprehensive 16-hour programme collaboratively created and led by
+all five polytechnics and the Joint Polytechnic Academy for Educators.
+This programme is specifically tailored to empower new Adjunct Lecturers
+with essential teaching and learning skills. Its goal is to enhance the
+pedagogical and andragogical abilities of new adjunct faculty, ensuring
+they thrive in the unique polytechnic teaching environment. This programme
+blends the convenience of online self-paced learning with hands-on experience
+through a microteaching segment, providing a robust platform for adjunct
+lecturers to refine their essential teaching and learning capabilities.&nbsp;</p>
+<p>
+<br>
+</p>
 <p>#### How is the programme conducted?</p>
 <p>CTLPE is conducted in hybrid manner. There are online sessions conducted
 via MS Teams, Zoom synchronous &amp;amp; asynchronous and face-to-face
