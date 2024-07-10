@@ -104,6 +104,9 @@ capacity is reached).</p>
 </li>
 </ol>
 <p></p>
+<h4><strong>2. Workshop - Unleashing Creativity in Notetaking (Run 2)</strong></h4>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
