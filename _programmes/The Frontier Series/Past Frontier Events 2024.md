@@ -7,45 +7,88 @@ third_nav_title: The Frontier Series
 ---
 <h3>Past Frontier Events 2024</h3>
 <p></p>
-<h4>1. Workshop: Introduction to the Metaverse</h4>
+<h4>1. Webinar+Workshops: Transforming Teaching and Training with Gen AI</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI__2_.jpg">
 </div>
-<p>Hi educators! Are you curious about the metaverse but not sure what it
-is?
-<br>No worries! JP-AcE has dedicated months studying about it, so that you
-don't have to spend a long time doing so. In this 1-day beginner crash
-course tailored for polytechnic educators, we will help you to go from
-being a metaverse newbie to an explorer of the metaverse world.</p>
-<p>As educators, staying informed about the latest advancements and emerging
-technologies is essential to remain relevant and future ready. Although
-the metaverse is still in its early stages of development and optimal conditions
-may not yet be fully present, this crash course offers an opportunity for
-educators to gain an early glimpse of its possibilities.</p>
-<p>We will start by unpacking the essential terminologies and discussing
-the latest trends and issues related to the metaverse. You will then learn
-how to create your digital identity in the form of avatars, and we will
-take you on a metaverse world tour to examine user experience, platform
-affordances, and features. By the end of the workshop, you will have a
-better understanding of the metaverse and the tools to further your exploration
-of this rapidly evolving technology beyond this course.</p>
-<p>28 polytechnic educators have attended Run 1 and Run 2 on 13 and 14 Jun
-2023. Check out the fun shots below!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20workshop%20photo%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI.png">
 </div>
+<h4>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20workshop%20photo%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_1.jpg">
 </div>
+<p><strong>Session 1.1: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+</p>
+<p>Session 1.1 Video Recording Link: <a href="https://drive.google.com/file/d/1AeV5K-za3mTiMk_LJhw4fGaGVpusZSHx/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1AeV5K-za3mTiMk_LJhw4fGaGVpusZSHx/view?usp=sharing</a>
+</p>
+<p></p>
+<h4>Session 1.2 - A Discussion on our one year with Gen AI</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20workshop%20photo%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_2.jpg">
 </div>
+<p>Session 1.2 video recording: Nil</p>
+<p></p>
+<h4>Session 1.3 - The AI + Human Collaboration | Deconstructing Approaches to Learning with AI</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metaverse%20workshop%20photo%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_3.jpg">
 </div>
-<p>Trainer: Joey Tong/ JP-AcE</p>
-<p>There will be more upcoming runs. Please visit JP-AcE website again for
-latest learning opportunities. If you are keen to be placed on a wait list
-for the metaverse workshop, please indicate your interest via this link:
-<a href="https://forms.gle/AVdiKZR7v8c1qAbp7" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/AVdiKZR7v8c1qAbp7</a>. You will receive an email notification
-when a new run is open for registration.</p>
+<p><strong>Session 1.3: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+</p>
+<p>Session 1.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=527d0a15-c97d-4652-a6a0-b1840072b169</a>
+</p>
+<p></p>
+<h4>Session 1.4 - Empowering Educators: Harnessing Generative AI for Teaching Success</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/6.png">
+</div>
+<p><strong>Session 1.4: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+</p>
+<p>Session 1.4 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=d9a7dac2-1b46-456f-8c8b-b1840093d6b4" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=d9a7dac2-1b46-456f-8c8b-b1840093d6b4</a>
+</p>
+<p>Session 1.4 Slide Deck: <a href="https://drive.google.com/file/d/1A06p48e3QgktIWY7koLEpa3W4t9CLpt8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">https://drive.google.com/file/d/1A06p48e3QgktIWY7koLEpa3W4t9CLpt8/view?usp=sharing</a>
+</p>
+<p></p>
+<h4>Session 2.1 - D-R-E-A-M with Generative AI</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/7.png">
+</div>
+<p>Session 2.1 workshop video recording: Nil</p>
+<p></p>
+<h4>Session 2.2 - Redesigning Assessment in the Era of AI</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/8.png">
+</div>
+<p>Session 2.2 workshop video recording: Nil</p>
+<p></p>
+<h4>Session 2.3 - Breaking New Grounds: AI-Powered Insights for the Future of Business Communication Skills</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
+</div>
+<p><strong>Session 2.3: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+</p>
+<p>Session 2.3 Video Recording Link: <a href="https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57" rel="noopener noreferrer nofollow" target="_blank">https://nyp.ap.panopto.com/Panopto/Pages/Viewer.aspx?id=1bdd31ca-78be-4a44-b12c-b18500798d57</a>
+</p>
+<p></p>
+<h4>Session 3.1 - Build a customized Generative AI application to enhance Teaching and Learning (T&amp;L) Experiences</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
+</div>
+<p>Session 3.1 workshop video recording: Nil</p>
+<p></p>
+<h4>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_2_Update.jpg">
+</div>
+<p><strong>Session 3.2: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
+</p>
+<p>Session 3.2 Video Recording Link: Coming soon</p>
+<p>Session 3.2 Resource Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
+</p>
+<p></p>
+<p></p>
