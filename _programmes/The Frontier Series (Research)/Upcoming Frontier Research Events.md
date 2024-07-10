@@ -72,7 +72,7 @@ learning effectiveness</p>
 <p>RP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeong Poh Kiaw&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><a href="mailto:yeong_poh_kiaw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeong Poh Kiaw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +80,8 @@ learning effectiveness</p>
 <p>SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Gavin Lee (Co-Lead)</p>
+<p><a href="mailto:gavin_bryan_lee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Gavin Lee (Co-Lead)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,7 +89,8 @@ learning effectiveness</p>
 <p>TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Vijayan N</p>
+<p><a href="mailto:vijayan_N@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vijayan N</a>
+</p>
 </td>
 </tr>
 </tbody>
