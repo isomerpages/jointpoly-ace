@@ -13,10 +13,6 @@ learning, support reflective T&amp;L practices, expand T&amp;L capabilities
 and empower educators to be future-ready by exploring new educational trends
 and innovative ways of teaching and learning.</p>
 <p></p>
-<p>In collaboration with the POLITE PD Workgroup, JP-AcE is proud to unveil
-a suite of new short professional development courses designed to elevate
-your skills and knowledge, enabling you to harness the power of Gen AI
-in creating dynamic, engaging and effective educational environments!</p>
 <p></p>
 <p></p>
 <p></p>
