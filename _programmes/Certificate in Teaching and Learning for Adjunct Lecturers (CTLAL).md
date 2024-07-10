@@ -51,7 +51,6 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>*You may only access the link if your Polytechnic has enrolled you in
 the course site*.</p>
 <p></p>
-<p></p>
 <h3>What is the programme about?</h3>
 <p>The Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL)
 is a comprehensive 16-hour programme collaboratively created and led by
@@ -110,6 +109,63 @@ to reflect on and improve teaching and learning practices.</p>
 <h3>When is the programme conducted?</h3>
 <p>There are 2 runs per year. The duration of the programme is 16 hours.</p>
 <p></p>
+<h3>Is my polytechnic participating in this programme?</h3>
+<p>All polytechnics are scheduled to be onboard this programme with effect
+from Mar 2025.
+<br>
+</p>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Polytechnics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nanyang Polytechnic (NYP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ngee Ann Polytechnic (NP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Republic Polytechnic (RP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Polytechnic (SP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Temasek Polytechnic (TP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Onboarding Schedule</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>April 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>March 2025</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h3>Have a question related to CTLAL?</h3>
 <p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> or the following Polytechnic
