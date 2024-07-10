@@ -137,7 +137,7 @@ Representatives for assistance.</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Gaik Bee</a>
 </p>
-<p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
+<p><a href="mailto:peggy_leong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
 </p>
 </td>
 </tr>
