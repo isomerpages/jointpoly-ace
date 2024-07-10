@@ -26,7 +26,7 @@ in the area of technology enhanced learning</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<h3>Upcoming Education Research Learning Events</h3>
 <h4>1. Workshop 'Introduction to Action Research'</h4>
 <ul data-tight="true" class="tight">
 <li>
