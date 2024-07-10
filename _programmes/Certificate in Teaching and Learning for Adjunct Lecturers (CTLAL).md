@@ -165,7 +165,8 @@ to reflect on and improve teaching and learning practices.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>New ALs may be expected to attend other poly-specific staff development
+trainings beyond CTLAL.</p>
 <p></p>
 <h3>Have a question related to CTLAL?</h3>
 <p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> or the following Polytechnic
