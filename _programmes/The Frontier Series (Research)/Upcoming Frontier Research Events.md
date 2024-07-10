@@ -18,10 +18,8 @@ third_nav_title: The Frontier Series (Research)
 <p>Venue: Republic Polytechnic</p>
 </li>
 <li>
-<p>Registration: Coming Soon</p>
-</li>
-<li>
-<p>More information will be released in September.</p>
+<p>Registration: Coming Soon in September</p>
+<p></p>
 </li>
 </ul>
 <p></p>
@@ -96,9 +94,19 @@ learning effectiveness</p>
 </tbody>
 </table>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Date: 8 November 2024</p>
+</li>
+<li>
 <p>Time: TBC</p>
+</li>
+<li>
 <p>Mode: Online</p>
-<p>Registration: Coming Soon</p>
-<p>More information will be released in September.</p>
+</li>
+<li>
+<p>Registration: Coming Soon in September</p>
+</li>
+</ul>
+<p></p>
 <p></p>
