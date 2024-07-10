@@ -69,7 +69,7 @@ lecturers to refine their essential teaching and learning capabilities.&nbsp;</p
 <h3>How is the programme conducted?</h3>
 <p>CTLAL is conducted in blended mode. Participants are required to complete
 an online segment and a face-to-face/ online microteaching segment.</p>
-<p>Here's a table outlining the two key segments of the programme:</p>
+<p>Here is a table outlining the two key segments of the programme:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
