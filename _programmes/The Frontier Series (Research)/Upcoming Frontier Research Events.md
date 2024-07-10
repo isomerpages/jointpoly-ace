@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: The Frontier Series (Research)
 ---
-<h1>Upcoming Frontier Research Capability Development Events</h1>
+<h1>Upcoming Frontier Education Research Events</h1>
 <p></p>
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
 <p>The Frontier Series for Educators is a repertoire of professional development
