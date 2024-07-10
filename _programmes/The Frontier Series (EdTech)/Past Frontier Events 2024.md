@@ -1,9 +1,9 @@
 ---
 title: Past Frontier Events 2024
-permalink: /pastfs2024/
+permalink: /pastfsedtech2024/
 variant: tiptap
 description: ""
-third_nav_title: The Frontier Series
+third_nav_title: The Frontier Series (EdTech)
 ---
 <h3>Past Frontier Events 2024</h3>
 <p></p>

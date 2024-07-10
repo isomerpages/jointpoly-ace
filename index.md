@@ -19,20 +19,22 @@ sections:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
       button: Check out our Upcoming Adult Education Events!
-      url: https://jpace.polytechnic.edu.sg/programmes/the-adult-education-series/upcomingaesevents/
+      url: https://jpace.polytechnic.edu.sg/upcomingaesevents/
       key_highlights:
-        - title: Welcome Message
+        - title: About Us
           description: ""
           url: /welcome/
-        - title: About the Academy
-          description: ""
-          url: /about/
-        - title: Our People
-          description: ""
-          url: /ourpeople/
-        - title: For New Polytechnic Lecturers
+        - title: Programmes
           description: ""
           url: /ctlpe/
+        - title: The Adult education series
+          description: ""
+          url: /upcomingaesevents/
+        - title: The Frontier Series
+          description: ""
+          url: /upcomingfsedtechevents/
+      variant: center
+      backgroundColor: gray
   - infopic:
       title: CTLPE
       subtitle: For new polytechnic lecturers

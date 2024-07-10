@@ -13,7 +13,7 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png">
 </div>
-<p>For Newly Hired Adjunct Lecturers Joining from :</p>
+<p>For Newly Hired Associate/Adjunct Lecturers Joining from :</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -55,9 +55,9 @@ the course site*.</p>
 <p>The Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL)
 is a comprehensive 16-hour programme collaboratively created and led by
 all five polytechnics and the Joint Polytechnic Academy for Educators.
-This programme is specifically tailored to empower new Adjunct Lecturers
-with essential teaching and learning skills. Its goal is to enhance the
-pedagogical and andragogical abilities of new adjunct faculty, ensuring
+This programme is specifically tailored to empower new Associate/Adjunct
+Lecturers with essential teaching and learning skills. Its goal is to enhance
+the pedagogical and andragogical abilities of new adjunct faculty, ensuring
 they thrive in the unique polytechnic teaching environment. This programme
 blends the convenience of online self-paced learning with hands-on experience
 through a microteaching segment, providing a robust platform for adjunct
@@ -165,8 +165,8 @@ to reflect on and improve teaching and learning practices.</p>
 </tr>
 </tbody>
 </table>
-<p>New ALs may be expected to attend other poly-specific staff development
-trainings beyond CTLAL.</p>
+<p>New Associate/Adjunct Lecturers (ALs) may be expected to attend other
+poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
 <h3>Have a question related to CTLAL?</h3>
 <p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> or the following Polytechnic

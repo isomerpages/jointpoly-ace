@@ -1,6 +1,6 @@
 ---
 title: Past AES Events 2024
-permalink: /programmes/the-adult-education-series/pastaesevents2024/
+permalink: /pastaesevents2024/
 variant: tiptap
 description: ""
 third_nav_title: The Adult Education Series

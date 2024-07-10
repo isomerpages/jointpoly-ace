@@ -1,6 +1,6 @@
 ---
 title: Upcoming AES Events
-permalink: /programmes/the-adult-education-series/upcomingaesevents/
+permalink: /upcomingaesevents/
 description: The JP-AcE collaborates with IAL to design and organise learning
   opportunities to enhance T&L capabilities of adult educators.
 image: ""
