@@ -6,6 +6,10 @@ description: ""
 third_nav_title: The Frontier Series (EdTech)
 ---
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AdobeStock_349104260__2_.jpg">
+</div>
 <p>The Frontier Series for Educators is a repertoire of professional development
 sessions organised by the Joint Polytechnic Academy for Educators (JP-AcE)
 for polytechnic educators. The Frontier Series aims to inspire lifelong
@@ -24,6 +28,7 @@ Educators in the area of Education Research</p>
 </li>
 </ul>
 <p></p>
+<p>Watch this space for upcoming Frontier Series EdTech Events.</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
