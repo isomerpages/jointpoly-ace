@@ -106,6 +106,50 @@ capacity is reached).</p>
 <p></p>
 <h4><strong>2. Workshop - Unleashing Creativity in Notetaking (Run 2)</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/aes1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES1_2.png">
+</div>
+<p>This interactive and hands-on workshop focuses on enhancing your live
+creative note-taking skill. Delve into a plethora of techniques that allow
+you to graphically summarize and highlight the fundamental concepts of
+any topic. Seize this chance to enrich your teaching arsenal and inspire
+learning with visually captivating content!</p>
+<p>Date: 2 August 2024 Fri</p>
+<p>Time: 2pm-5.30pm</p>
+<p>Venue: Nanyang Polytechnic</p>
+<p>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</p>
+<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd_q3X1XKVLL2XQldLGX87Y-tsJ8vJ4h24whU3OkP4hNe0ptA/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
+</p>
+<p>The training places are limited and are available on a first-come-first-serve
+basis.</p>
+<p></p>
+<h4><strong>3. Workshop – Embracing and Managing Change: Strategies for Adult Educators (Run 2)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES1_2.png">
+</div>
+<p></p>
+<p>This workshop aims to equip adult educators with some necessary knowledge
+and tools to effectively embrace and manage change in their professional
+lives. Participants will explore various aspects of change, understand
+the psychology behind resistance, and develop practical strategies to navigate
+transitions more smoothly.</p>
+<p>Date: 23 August 2024 Fri</p>
+<p>Time: 1.30pm-5.30pm</p>
+<p>Venue: Republic Polytechnic</p>
+<p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
+Academy for Educators</p>
+<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjpace.polytechnic.edu.sg%2Fial&amp;data=05%7C02%7C%7C9e963ec78314477c1dd708dca0a3b1a7%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638561872779883553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=xWrqcoj3P%2Bgr%2FMeq8nZTIbxCpZ0cTUeGiyMdCit0B8o%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
+</p>
+<p>The training places are limited and are available on a first-come-first-serve
+basis.</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
