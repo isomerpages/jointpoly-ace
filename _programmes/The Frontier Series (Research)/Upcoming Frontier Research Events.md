@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: The Frontier Series (Research)
 ---
-<h1>Upcoming Research Capability Development Events</h1>
+<h1>Upcoming Frontier Research Capability Development Events</h1>
 <h4>1. Workshop 'Introduction to Action Research'</h4>
 <ul data-tight="true" class="tight">
 <li>
