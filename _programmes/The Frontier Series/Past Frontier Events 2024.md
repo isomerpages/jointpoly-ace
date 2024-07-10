@@ -7,7 +7,8 @@ third_nav_title: The Frontier Series
 ---
 <h3>Past Frontier Events 2024</h3>
 <p></p>
-<h4>1. Webinar+Workshops: Transforming Teaching and Training with Gen AI</h4>
+<h3><u>June 2024</u></h3>
+<h4>Transforming Teaching and Training with Gen AI</h4>
 <p>In collaboration with the POLITE PD Workgroup, JP-AcE is proud to unveil
 a suite of new short professional development courses designed to elevate
 your skills and knowledge, enabling you to harness the power of Gen AI
