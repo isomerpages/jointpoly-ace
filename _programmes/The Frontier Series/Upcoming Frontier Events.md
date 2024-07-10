@@ -20,11 +20,6 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p></p>
 <p></p>
 <p></p>
-<p><strong>Please share your Frontier Series experience and feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></strong>
-</p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
