@@ -18,12 +18,12 @@ and innovative ways of teaching and learning.</p>
 navigation via programme menu:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The Frontier Series (EdTech) - Training and Supporting for Polytechnic
-Educators focusing on Technology Enabled Learning</p>
+<p>The Frontier Series (EdTech) - Training and Support for Polytechnic Educators
+in the area of technology enhanced learning</p>
 </li>
 <li>
-<p>The Frontier Series (Research) - Training and Supporting for Polytechnic
-Educators focusing on Technology Enabled Learning</p>
+<p><strong>The Frontier Series (Research) - Training and Support for Polytechnic Educators in the area of Education Research</strong>
+</p>
 </li>
 </ul>
 <p></p>
