@@ -109,8 +109,8 @@ to reflect on and improve teaching and learning practices.</p>
 <p>There are 2 runs per year. The duration of the programme is 16 hours.</p>
 <p></p>
 <h3>Is my polytechnic participating in this programme?</h3>
-<p>All polytechnics are scheduled to be onboard this programme with effect
-from Mar 2025.
+<p>All polytechnics are scheduled to be onboard this programme from March
+2025 onwards. Please refer to the following table for onboarding schedule.
 <br>
 </p>
 <table style="minWidth: 150px">
