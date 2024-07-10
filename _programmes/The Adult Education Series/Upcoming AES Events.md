@@ -132,10 +132,10 @@ basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES1_2.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_1.png">
+</div>
 <p>This workshop aims to equip adult educators with some necessary knowledge
 and tools to effectively embrace and manage change in their professional
 lives. Participants will explore various aspects of change, understand
@@ -146,7 +146,7 @@ transitions more smoothly.</p>
 <p>Venue: Republic Polytechnic</p>
 <p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
 Academy for Educators</p>
-<p><strong><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fjpace.polytechnic.edu.sg%2Fial&amp;data=05%7C02%7C%7C9e963ec78314477c1dd708dca0a3b1a7%7C7604ff02abd845db8cac550054323fc9%7C0%7C0%7C638561872779883553%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&amp;sdata=xWrqcoj3P%2Bgr%2FMeq8nZTIbxCpZ0cTUeGiyMdCit0B8o%3D&amp;reserved=0" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
+<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0U75gZE7Ew53Ut-CIVMUlU1GsB_RloXuqSYCWat6LX9dJtw/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
 </p>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
