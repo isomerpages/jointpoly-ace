@@ -106,15 +106,68 @@ to reflect on and improve teaching and learning practices.</p>
 </tr>
 </tbody>
 </table>
-<p>#### When is the programme conducted?</p>
-<p>There are 2 runs per year. One commences in April and another in October.
-The duration of the programme is 100 hours, which is conducted over a span
-of 1 year.</p>
-<p>![](/images/ctlpe%20intake%208%20collage.jpg)</p>
-<p>### [Click here to find out more about CTLPE!](/files/ctlpe%20prog%20information%20for%20jpace%20website_updated%20on%207%20sep%202022%20v2.pdf)</p>
-<p>(Right click to open the above link in a new tab.)</p>
-<p>### [Click here to check out CTLPE Graduation Ceremony 2023!](<a href="https://jpace.polytechnic.edu.sg/academyevents/" rel="noopener noreferrer nofollow" target="_blank">https://jpace.polytechnic.edu.sg/academyevents/</a>)</p>
-<p>#### Have a question related to CTLPE?</p>
-<p>Please contact Programme Leads: &lt;a href="mailto:<a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joey_tong@nyp.edu.sg</a>"&gt;Ms.
-Joey Tong&lt;/a&gt;, &lt;a href="mailto:<a href="mailto:lim_bee_hwee@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_bee_hwee@rp.edu.sg</a>"&gt;Ms
-Lim Bee Hwee&lt;/a&gt;</p>
+<p></p>
+<h3>When is the programme conducted?</h3>
+<p>There are 2 runs per year. The duration of the programme is 16 hours.</p>
+<p></p>
+<p></p>
+<h3>Have a question related to CTLAL?</h3>
+<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> or the following Polytechnic
+Representatives for assistance.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NYP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lye_pek_ling@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lye Pek Ling</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Gaik Bee</a>
+</p>
+<p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zek_hazley@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zek Hazley</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mark_nivan_singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jonathan_chee@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Chee</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
