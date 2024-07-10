@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - The Frontier Series (Research)/.keep
       - Certificate in Teaching and Learning for Polytechnic Educators (CTLPE).md
       - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL).md
       - Course Leadership Move In Programme (CLMP).md
@@ -16,3 +15,4 @@ collections:
       - The Frontier Series (Tech)/Upcoming Frontier Events.md
       - The Frontier Series (Tech)/Past Frontier Events 2024.md
       - The Frontier Series (Tech)/Past Frontier Events 2023.md
+      - The Frontier Series (Research)/.keep
