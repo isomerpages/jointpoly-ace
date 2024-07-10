@@ -310,7 +310,6 @@ your practice.</p>
 <p>This session is suitable for Adult Educators across Polytechnics and IAL.
 Training places are limited and are available on a first-come-first-serve
 basis.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102232.png">
 </div>
