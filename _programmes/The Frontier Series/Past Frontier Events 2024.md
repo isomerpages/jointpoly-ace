@@ -22,8 +22,9 @@ in creating dynamic, engaging and effective educational environments!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Transforming_Teaching_and_Training_with_Gen_AI.png">
 </div>
 <h4>Session 1.1 - 8 Generative AI Tools and Hacks for the Busy Lecturer</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/1_1.jpg">
 </div>
 <p><strong>Session 1.1: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
@@ -31,14 +32,16 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <h4>Session 1.2 - A Discussion on our one year with Gen AI</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/1_2.jpg">
 </div>
 <p>Session 1.2 video recording: Nil</p>
 <p></p>
 <h4>Session 1.3 - The AI + Human Collaboration | Deconstructing Approaches to Learning with AI</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/1_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/1_3.jpg">
 </div>
 <p><strong>Session 1.3: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
@@ -48,7 +51,7 @@ in creating dynamic, engaging and effective educational environments!</p>
 <h4>Session 1.4 - Empowering Educators: Harnessing Generative AI for Teaching Success</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/1_4.jpg">
 </div>
 <p><strong>Session 1.4: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
@@ -60,19 +63,21 @@ in creating dynamic, engaging and effective educational environments!</p>
 <h4>Session 2.1 - D-R-E-A-M with Generative AI</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/2_1.jpg">
 </div>
 <p>Session 2.1 workshop video recording: Nil</p>
 <p></p>
 <h4>Session 2.2 - Redesigning Assessment in the Era of AI</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/2_2.png">
 </div>
 <p>Session 2.2 workshop video recording: Nil</p>
 <p></p>
 <h4>Session 2.3 - Breaking New Grounds: AI-Powered Insights for the Future of Business Communication Skills</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/2_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/2_3.jpg">
 </div>
 <p><strong>Session 2.3: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
@@ -80,15 +85,16 @@ in creating dynamic, engaging and effective educational environments!</p>
 </p>
 <p></p>
 <h4>Session 3.1 - Build a customized Generative AI application to enhance Teaching and Learning (T&amp;L) Experiences</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/3_1.jpg">
 </div>
 <p>Session 3.1 workshop video recording: Nil</p>
 <p></p>
 <h4>Session 3.2 - Prompt Engineering for T&amp;L with Generative AI</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/3_2_Update.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT01/3_2_Update.jpg">
 </div>
 <p><strong>Session 3.2: <a href="https://form.gov.sg/663997b9cecabd22691f8cd7" rel="noopener noreferrer nofollow" target="_blank">Mark attendance after watching video recording</a></strong>
 </p>
