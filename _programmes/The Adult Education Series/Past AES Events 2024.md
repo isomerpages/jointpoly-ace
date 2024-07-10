@@ -156,7 +156,7 @@ this opportunity to enhance your communication skills as a coach.</p>
 </div>
 <p></p>
 <h3><u>April 2024</u></h3>
-<h3>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h3>
+<h4>Learning Journey: Journey to Inclusive Training and Adult Education with SG Enable</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Mar 2024/LJ_SG_Enable_1.jpg">
@@ -252,7 +252,7 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 </div>
 <h4></h4>
 <h3><u>July 2024</u></h3>
-<h3>Adult Education Community of Practice (COP) Run 3</h3>
+<h4>Adult Education Community of Practice (COP) Run 3</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
 </div>
