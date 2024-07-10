@@ -13,9 +13,6 @@ learning, support reflective T&amp;L practices, expand T&amp;L capabilities
 and empower educators to be future-ready by exploring new educational trends
 and innovative ways of teaching and learning.</p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
