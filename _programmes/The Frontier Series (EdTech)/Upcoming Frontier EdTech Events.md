@@ -12,7 +12,7 @@ for polytechnic educators. The Frontier Series aims to inspire lifelong
 learning, support reflective T&amp;L practices, expand T&amp;L capabilities
 and empower educators to be future-ready by exploring new educational trends
 and innovative ways of teaching and learning.</p>
-<p>The Frontier Series include two tracks currently. They are:</p>
+<p>The Frontier Series has two key learning tracks currently. They are:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>The Frontier Series (EdTech) - Training and Support for Polytechnic Educators in the area of technology enhanced learning</strong>
