@@ -18,9 +18,7 @@ is a collaborative initiative among all five of Singapore's polytechnics.
 This repository aims to consolidate and showcase the scholarly work, research
 findings, and innovative ideas produced by our academic community. </p>
 <p></p>
-<blockquote>
-<h4>&nbsp;<strong>Repository Link:</strong> Coming Soon</h4>
-</blockquote>
+<h4><strong>Repository Link:</strong> Coming Soon</h4>
 <p></p>
 <h3><strong>Objectives of the Repository</strong></h3>
 <ul data-tight="true" class="tight">
