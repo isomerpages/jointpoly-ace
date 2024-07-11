@@ -121,8 +121,7 @@ learning with visually captivating content!</p>
 <p>Time: 2pm-5.30pm</p>
 <p>Venue: Nanyang Polytechnic</p>
 <p>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</p>
-<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd_q3X1XKVLL2XQldLGX87Y-tsJ8vJ4h24whU3OkP4hNe0ptA/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
-</p>
+<h4><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSd_q3X1XKVLL2XQldLGX87Y-tsJ8vJ4h24whU3OkP4hNe0ptA/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong></h4>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
 <p></p>
@@ -144,8 +143,7 @@ transitions more smoothly.</p>
 <p>Venue: Republic Polytechnic</p>
 <p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
 Academy for Educators</p>
-<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0U75gZE7Ew53Ut-CIVMUlU1GsB_RloXuqSYCWat6LX9dJtw/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong>
-</p>
+<h4><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0U75gZE7Ew53Ut-CIVMUlU1GsB_RloXuqSYCWat6LX9dJtw/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign up now</a></strong></h4>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
 <p></p>
