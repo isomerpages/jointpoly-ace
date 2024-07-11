@@ -20,7 +20,7 @@ findings, and innovative ideas produced by our academic community. </p>
 <p></p>
 <h4><strong>Repository Link:</strong> Coming Soon</h4>
 <p></p>
-<h3><strong>Objectives of the Repository</strong></h3>
+<h4><strong>Objectives of the Repository</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Elevate the educational research competencies of polytechnic educators.</p>
@@ -34,7 +34,7 @@ learning effectiveness.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Why Contribute?</strong></h3>
+<h4><strong>Why Contribute?</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Visibility: </strong>By sharing your research papers, you contribute
@@ -52,7 +52,7 @@ learning, and industry practices.</p>
 </li>
 </ol>
 <p></p>
-<h3><strong>How to contribute?</strong></h3>
+<h4><strong>How to contribute?</strong></h4>
 <p>For polytechnic educators who are interested to contribute to the repository,
 please connect with the following poly representatives.</p>
 <p><strong>Contact Information for Education Research Workgroup</strong>
