@@ -23,34 +23,26 @@ findings, and innovative ideas produced by our academic community. </p>
 </blockquote>
 <p></p>
 <h3><strong>Objectives of the Repository</strong></h3>
-<ol data-tight="true" class="tight">
-<li>
 <p>Elevate the educational research competencies of polytechnic educators.</p>
-</li>
-<li>
 <p>Promote an evidence-based, data-driven approach to improve teaching and
 learning effectiveness.</p>
-</li>
-<li>
 <p>Facilitate educational research collaborations across polytechnics.</p>
-</li>
-</ol>
 <p></p>
 <h3><strong>Why Contribute?</strong></h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Visibility: By sharing your research papers, you contribute to the collective
-knowledge base and enhance the visibility of your work within the polytechnic
-ecosystem.</p>
+<p><strong>Visibility: </strong>By sharing your research papers, you contribute
+to the collective knowledge base and enhance the visibility of your work
+within the polytechnic ecosystem.</p>
 </li>
 <li>
-<p>Collaboration: The repository fosters collaboration across disciplines
-and institutions, allowing colleagues to engage with your research and
-build upon it.</p>
+<p><strong>Collaboration:</strong> The repository fosters collaboration across
+disciplines and institutions, allowing colleagues to engage with your research
+and build upon it.</p>
 </li>
 <li>
-<p>Impact: Your contributions can positively impact teaching, learning, and
-industry practices.</p>
+<p><strong>Impact:</strong> Your contributions can positively impact teaching,
+learning, and industry practices.</p>
 </li>
 </ol>
 <p></p>
@@ -88,7 +80,8 @@ please connect with the following poly representatives.</p>
 <p>RP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeong_poh_kiaw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Yeong Poh Kiaw</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><a href="mailto:yeong_poh_kiaw@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Yeong Poh Kiaw</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +89,7 @@ please connect with the following poly representatives.</p>
 <p>SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gavin_bryan_lee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Gavin Lee (Co-Lead)</a>
+<p><a href="mailto:gavin_bryan_lee@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Gavin Lee (Co-Lead)</a>
 </p>
 </td>
 </tr>
@@ -105,7 +98,7 @@ please connect with the following poly representatives.</p>
 <p>TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vijayan_N@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Vijayan N</a>
+<p><a href="mailto:vijayan_N@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Vijayan N</a>
 </p>
 </td>
 </tr>
