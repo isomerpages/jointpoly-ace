@@ -23,10 +23,18 @@ findings, and innovative ideas produced by our academic community. </p>
 </blockquote>
 <p></p>
 <h3><strong>Objectives of the Repository</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
 <p>Elevate the educational research competencies of polytechnic educators.</p>
+</li>
+<li>
 <p>Promote an evidence-based, data-driven approach to improve teaching and
 learning effectiveness.</p>
+</li>
+<li>
 <p>Facilitate educational research collaborations across polytechnics.</p>
+</li>
+</ul>
 <p></p>
 <h3><strong>Why Contribute?</strong></h3>
 <ol data-tight="true" class="tight">
