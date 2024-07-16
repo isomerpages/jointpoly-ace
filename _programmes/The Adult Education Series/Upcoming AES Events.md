@@ -30,8 +30,9 @@ to time, subject to the discussion and agreement of both Parties.</p>
 </li>
 </ul>
 <h3><strong>The Adult Education Series (AES)</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aes%20banner%205.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/AES_Banner__as_of_16_Jul_24_.png">
 </div>
 <p>The Adult Education Series (AES) aims to support existing Adult Educators
 to advance T&amp;L capabilities, expand skill sets necessary for adult
