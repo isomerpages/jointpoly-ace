@@ -365,6 +365,19 @@ basis.</p>
 <br><a href="/files/Workshop_slides__Sahara_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Sahara!</a>
 </p>
 <p></p>
+<h3><u>August 2024</u></h3>
+<h4>Workshop - Unleashing Creativity in Notetaking (Run 2)</h4>
+<p>This interactive and hands-on workshop focuses on enhancing your live
+creative note-taking skill. Delve into a plethora of techniques that allow
+you to graphically summarize and highlight the fundamental concepts of
+any topic. Seize this chance to enrich your teaching arsenal and inspire
+learning with visually captivating content!</p>
+<p>Date: 2 August 2024 Fri</p>
+<p>Time: 2pm-5.30pm</p>
+<p>Venue: Nanyang Polytechnic</p>
+<p>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</p>
+<p>The training places are limited and are available on a first-come-first-serve
+basis.</p>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
