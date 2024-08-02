@@ -366,7 +366,7 @@ basis.</p>
 </p>
 <p></p>
 <h3><u>August 2024</u></h3>
-<h4>Workshop - Unleashing Creativity in Notetaking (Run 2)</h4>
+<h4>Workshop: Unleashing Creativity in Notetaking (Run 2)</h4>
 <p>This interactive and hands-on workshop focuses on enhancing your live
 creative note-taking skill. Delve into a plethora of techniques that allow
 you to graphically summarize and highlight the fundamental concepts of
