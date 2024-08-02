@@ -114,7 +114,8 @@ approach to generative AI that places people at the center of all our efforts.</
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Feb 2024/Samson_GenAI2.png">
 </div>
-<p></p>
+<p><a href="/files/JP_ACE_Digital_Future_of_Work___Learning_7Feb2024__Samson_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out the Slides from the Sharing here!</a>
+</p>
 <h4>Workshop: Communication skills for coaching performance (Run 3)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Feb 2024/CoachingSki_main.jpg">
@@ -317,6 +318,55 @@ basis.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102256.png">
 </div>
+<p></p>
+<h4>Adult Education Community of Practice (COP) Run 4</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/COP_4.jpg">
+</div>
+<p><strong>Focus: Rethinking Age - Opportunities, Not Obstacles</strong>
+</p>
+<p>Drawing extensively from IAL’s research findings, the&nbsp;COP session
+"Rethinking Age –Opportunities, Not Obstacles"&nbsp;is designed to offer
+broad strategies and examples to&nbsp;equip IHL educators with pedagogical
+practices tailored&nbsp;to&nbsp;mid-career learners. This session aims
+to foster meaningful dialogue and facilitate the integration of research
+findings into practical teaching scenarios, thereby enhancing educational
+approaches for Singapore's mid-career learners.&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 26 July 2024 Fri</p>
+</li>
+<li>
+<p>Time: 1.30pm-5.30pm</p>
+</li>
+<li>
+<p>Mode: Face-to-Face</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, IN.LAB, 11 Eunos Rd 8, #05-03 Singapore
+408601</p>
+</li>
+</ul>
+<p>This session is suitable for experienced frontline Adult Educators who
+are actively involved in CET teaching and facilitation, as well as staff
+responsible for curriculum development and planning for mid-career learners.</p>
+<p>Participants may assume roles as Group ICs, actively guiding group discussions
+during the COP session. Participants who are selected as ICs are required
+to attend a short online pre-event briefing on 19 July 2024 10-11am, hosted
+by IAL colleagues via Zoom. IAL colleagues will be reaching out to selected
+ICs (facilitators) after registration has closed.</p>
+<p>Spaces for training are limited and will be allocated on a first-come-first-served
+basis.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/IMG_5570.jpg">
+</div>
+<p><a href="/files/Workshop_slides__Parveen_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Parveen!</a>
+</p>
+<p><a href="/files/Workshop_slides__Sahara_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Sahara!</a>
+</p>
+<p></p>
+<p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
