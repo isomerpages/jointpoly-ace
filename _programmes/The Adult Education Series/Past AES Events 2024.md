@@ -362,8 +362,7 @@ basis.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/IMG_5570.jpg">
 </div>
 <p><a href="/files/Workshop_slides__Parveen_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Parveen!</a>
-</p>
-<p><a href="/files/Workshop_slides__Sahara_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Sahara!</a>
+<br><a href="/files/Workshop_slides__Sahara_.pdf" rel="noopener noreferrer nofollow" target="_blank">Check out our Workshop Slides from Facilitator Sahara!</a>
 </p>
 <p></p>
 <p></p>
