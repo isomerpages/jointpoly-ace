@@ -61,7 +61,18 @@ TLMP is a 160-hour programme that takes place over a period of 12 months. The in
 ##### Brown Bag Series
 The new mentors across polytechnics have come together to organise lunch time talks to support more educators in enhancing their T&amp;L capabilities.
 
-Check out the video recordings of past Brown Bag sessions:
+Missed the recent Brown Bag sessions? No worries!
+
+We’ve got you covered with video recordings of our past sessions from 2024 and 2023. These sessions are full of valuable insights and innovative strategies to enhance your teaching and learning experience.
+
+Watch Now:&nbsp;[T&amp;L Mentor Move In Programme (TLMP) (polytechnic.edu.sg)](https://jpace.polytechnic.edu.sg/tlmp/ "https://jpace.polytechnic.edu.sg/tlmp/")
+
+2024
+*  [Harnessing the Power of Generative AI Tools for Teaching and Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/E1P8aX80JGG7awA9)
+*  [Innovative Approaches in Curriculum Design](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/wKmOZ5J2MVXVWzMA)
+*  [Competency Based Learning in NYP](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/NvylWE15AozeW0OX)
+
+2023
 * [Fostering Student Motivation &amp; Engagement: The Relevant, Appealing and Personal (RAP) Pedagogical Framework](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2373188500)
 * [Design Better Learning experiences with LXD](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2447847562)
 * [Peer Coaching for Student-centred Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2478254285)
