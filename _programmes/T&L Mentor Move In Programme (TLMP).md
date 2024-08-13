@@ -59,6 +59,8 @@ TLMP is a 160-hour programme that takes place over a period of 12 months. The in
 ![](/images/TLMP%20Intake%202%20Update/Inspiration.png)
 
 ##### Brown Bag Series
+![](/images/TLMP%20Intake%202%20Update/BB.png)
+
 The new mentors across polytechnics have come together to organise lunch time talks to support more educators in enhancing their T&amp;L capabilities.
 
 Missed the recent Brown Bag sessions? No worries!
