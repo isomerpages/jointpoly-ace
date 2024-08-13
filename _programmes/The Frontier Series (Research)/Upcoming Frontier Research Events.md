@@ -49,7 +49,7 @@ the ethical considerations when conducting action research.</p>
 <p>Date: 10 October 2024</p>
 </li>
 <li>
-<p>Time: 1pm-5.30pm</p>
+<p>Time: 1:00pm - 5:30pm</p>
 </li>
 <li>
 <p>Venue: Republic Polytechnic RP E19A</p>
@@ -79,7 +79,7 @@ learning effectiveness</p>
 <p>Date: 15 November 2024</p>
 </li>
 <li>
-<p>Time: 12-1.30pm</p>
+<p>Time: 12:00pm - 1:30pm</p>
 </li>
 <li>
 <p>Mode: Online</p>
