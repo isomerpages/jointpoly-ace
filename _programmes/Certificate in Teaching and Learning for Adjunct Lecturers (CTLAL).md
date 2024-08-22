@@ -43,7 +43,8 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>30 Sep 2024 - 28 Mar 2025 (Intake 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Link: Coming soon</p>
+<p>Course Link: <a href="https://lms.polite.edu.sg/d2l/home/550757" rel="noopener noreferrer nofollow" target="_blank">Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 2 (polite.edu.sg)</a>
+</p>
 </td>
 </tr>
 </tbody>
