@@ -29,6 +29,29 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <p>Watch this space for upcoming Frontier Series EdTech Events.</p>
+<h4>3. Webinar - Platforms for Lifelong Social Learning</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Platforms_for_Lifelong_Social_Learning.png">
+</div>
+<p>Synopsis Coming Soon</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 18 Oct 2024</p>
+</li>
+<li>
+<p>Time: TBC</p>
+</li>
+<li>
+<p>Mode: Online</p>
+</li>
+<li>
+<p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
+</li>
+<li>
+<p>Sign Up Now</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
