@@ -29,7 +29,7 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Webinar - Platforms for Lifelong Social Learnin</strong></h4>
+<h4><strong>1. Webinar - Platforms for Lifelong Social Learning</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sociallearning.png">
 </div>
