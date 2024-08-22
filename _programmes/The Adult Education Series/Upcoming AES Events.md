@@ -39,25 +39,22 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Workshop – Embracing and Managing Change: Strategies for Adult Educators (Run 2)</strong></h4>
+<h4><strong>1. Workshop – Mastering Adult Learning in the CET Classroom (Run 1)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mastering_adult_learning.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_1.png">
-</div>
-<p>This workshop aims to equip adult educators with some necessary knowledge
-and tools to effectively embrace and manage change in their professional
-lives. Participants will explore various aspects of change, understand
-the psychology behind resistance, and develop practical strategies to navigate
-transitions more smoothly.</p>
-<p>Date: 23 August 2024 Fri</p>
-<p>Time: 1.30pm-5.30pm</p>
-<p>Venue: Republic Polytechnic</p>
-<p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
-Academy for Educators</p>
-<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0U75gZE7Ew53Ut-CIVMUlU1GsB_RloXuqSYCWat6LX9dJtw/viewform" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
+<p>This one-day workshop aims to equip CET educators with effective teaching
+strategies based in andragogy. Participants will gain insights into adult
+learner needs and learn how to foster engagement. Additionally, participants
+will develop skills to proactively manage disruptive behaviors and create
+a positive classroom environment conducive to adult learning.</p>
+<p>Date: 20 September 2024 Fri</p>
+<p>Time: 9am-5pm</p>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
+<p>Workshop Facilitators: Ms Shirley Lim/ Institute for Adult Learning</p>
+<p><strong><a href="https://forms.gle/z2tcG7BCMPPDfcS96" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
