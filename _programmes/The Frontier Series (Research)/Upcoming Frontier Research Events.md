@@ -21,11 +21,11 @@ and innovative ways of teaching and learning.</p>
 <p>The Frontier Series has two key learning tracks currently. They are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://jpace.polytechnic.edu.sg/upcomingfsedtechevents/" rel="noopener noreferrer nofollow" target="_blank">The Frontier Series (EdTech) - Training and Support for Polytechnic Educators in the area of technology enhanced learning</a>
+<p><a href="https://jpace.polytechnic.edu.sg/upcomingfsedtechevents/" rel="noopener noreferrer nofollow" target="_blank">The Frontier Series (EdTech)</a>
 </p>
 </li>
 <li>
-<p><strong><a href="https://jpace.polytechnic.edu.sg/upcomingfsresearchevents/" rel="noopener noreferrer nofollow" target="_blank">The Frontier Series (Research) - Training and Support for Polytechnic Educators in the area of Education Research</a></strong>
+<p><strong><a href="https://jpace.polytechnic.edu.sg/upcomingfsresearchevents/" rel="noopener noreferrer nofollow" target="_blank">The Frontier Series (Research)</a></strong>
 </p>
 </li>
 </ul>

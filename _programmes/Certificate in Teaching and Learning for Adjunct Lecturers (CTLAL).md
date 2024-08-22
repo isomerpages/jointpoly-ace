@@ -213,8 +213,8 @@ Representatives for assistance.</p>
 <p>SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mark_nivan_singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh , </a>
-<a href="chan_huazhi@sp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chan Hua Zhi</a>
+<p><a href="mailto: chan_huazhi@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh , </a>
+<a href="mailto: chan_huazhi@sp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chan Hua Zhi</a>
 </p>
 </td>
 </tr>

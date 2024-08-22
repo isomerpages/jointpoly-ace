@@ -376,8 +376,9 @@ learning with visually captivating content!</p>
 <p>Time: 2pm-5.30pm</p>
 <p>Venue: Nanyang Polytechnic</p>
 <p>Workshop Facilitator: Ms Deborha Daniele/ Nanyang Polytechnic</p>
-<p>The training places are limited and are available on a first-come-first-serve
-basis.</p>
+<p>Link to the miro board: <a href="https://miro.com/app/board/uXjVNCBLqtk=/?share_link_id=538255482311" rel="noopener noreferrer nofollow" target="_blank">https://miro.com/app/board/uXjVNCBLqtk=/?share_link_id=538255482311</a>
+</p>
+<p></p>
 <p></p>
 <h4>Workshop – Embracing and Managing Change: Strategies for Adult Educators (Run 2)</h4>
 <p></p>
