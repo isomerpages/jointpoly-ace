@@ -58,7 +58,8 @@ the ethical considerations when conducting action research.</p>
 <p>Venue: Republic Polytechnic RP E19A</p>
 </li>
 <li>
-<p>Registration: Coming Soon in September</p>
+<p><strong><a href="https://forms.gle/416wZR9hfe71w6tE7" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -88,7 +89,7 @@ learning effectiveness</p>
 <p>Mode: Online</p>
 </li>
 <li>
-<p>Registration: Coming Soon in September</p>
+<p>Registration: Coming Soon in October</p>
 </li>
 </ul>
 <p></p>
