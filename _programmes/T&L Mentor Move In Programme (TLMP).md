@@ -67,7 +67,7 @@ Missed the recent Brown Bag sessions? No worries!
 
 We’ve got you covered with video recordings of our past sessions from 2024 and 2023. These sessions are full of valuable insights and innovative strategies to enhance your teaching and learning experience.
 
-Watch Now:&nbsp;[T&amp;L Mentor Move In Programme (TLMP) (polytechnic.edu.sg)](https://jpace.polytechnic.edu.sg/tlmp/ "https://jpace.polytechnic.edu.sg/tlmp/")
+Watch Now:
 
 2024
 *  [Harnessing the Power of Generative AI Tools for Teaching and Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/E1P8aX80JGG7awA9)
