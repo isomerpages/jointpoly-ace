@@ -49,11 +49,21 @@ strategies based in andragogy. Participants will gain insights into adult
 learner needs and learn how to foster engagement. Additionally, participants
 will develop skills to proactively manage disruptive behaviors and create
 a positive classroom environment conducive to adult learning.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Date: 20 September 2024 Fri</p>
+</li>
+<li>
 <p>Time: 9am-5pm</p>
+</li>
+<li>
 <p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
 inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
+</li>
+<li>
 <p>Workshop Facilitators: Ms Shirley Lim/ Institute for Adult Learning</p>
+</li>
+</ul>
 <p><strong><a href="https://forms.gle/z2tcG7BCMPPDfcS96" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
 </p>
 <p>The training places are limited and are available on a first-come-first-serve
@@ -77,11 +87,21 @@ a working knowledge of the principles, and process steps in:- generating
 new ideas, forming new relationships, discerning consensus, and confirming
 the resolve.</p>
 <p>This workshop is tailored for Adult Educators.</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Date: 30 October 2024 Wed</p>
+</li>
+<li>
 <p>Time: 2-4.30pm</p>
+</li>
+<li>
 <p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
 Level 7 Multipurpose Rooms MPR705/MPR706</p>
+</li>
+<li>
 <p>Workshop Facilitators: Ms Serene Sim/ Institute for Adult Learning</p>
+</li>
+</ul>
 <p><strong><a href="https://forms.gle/uQHN4ycX1XE6FTiy8" rel="noopener noreferrer nofollow" target="_blank"><u>Sign Up Now!</u></a></strong>
 </p>
 <p>The training places are limited and are available on a first-come-first-serve
