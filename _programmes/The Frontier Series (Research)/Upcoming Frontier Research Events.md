@@ -30,7 +30,7 @@ and innovative ways of teaching and learning.</p>
 </li>
 </ul>
 <p></p>
-<h3>Upcoming Education Research Learning Events</h3>
+<h3><strong>Upcoming Professional Development Events</strong></h3>
 <h4>1. Workshop: Action Research: Empowering Educators to Enhance their Pedagogical Practices (Run 1)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
