@@ -48,7 +48,7 @@ and innovative ways of teaching and learning.</p>
 <p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
 </li>
 <li>
-<p>Sign Up Now</p>
+<p>Registration: Coming Soon</p>
 </li>
 </ul>
 <p></p>
