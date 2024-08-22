@@ -43,7 +43,8 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>30 Sep 2024 - 28 Mar 2025 (Intake 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Link: Coming soon</p>
+<p>Course Link: <a href="https://lms.polite.edu.sg/d2l/home/550757" rel="noopener noreferrer nofollow" target="_blank">Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 2 (polite.edu.sg)</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -86,7 +87,8 @@ an online segment and a face-to-face/ online microteaching segment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Self-Paced Learning Modules (13 hours)</p>
+<p>Online Self-Paced Learning Modules (13 hours)
+<br>- To be completed promptly within first 2 weeks of course enrolment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete three online modules focusing on classroom facilitation, lesson
@@ -192,9 +194,8 @@ Representatives for assistance.</p>
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Gaik Bee</a>
-</p>
-<p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
+<p><a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Gaik Bee , </a>
+<a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
 </p>
 </td>
 </tr>
@@ -212,7 +213,8 @@ Representatives for assistance.</p>
 <p>SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mark_nivan_singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh</a>
+<p><a href="mailto:mark_nivan_singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh , </a>
+<a href="chan_huazhi@sp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chan Hua Zhi</a>
 </p>
 </td>
 </tr>

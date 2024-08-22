@@ -30,7 +30,7 @@ and innovative ways of teaching and learning.</p>
 </li>
 </ul>
 <p></p>
-<h3>Upcoming Education Research Learning Events</h3>
+<h3><strong>Upcoming Professional Development Events</strong></h3>
 <h4>1. Workshop: Action Research: Empowering Educators to Enhance their Pedagogical Practices (Run 1)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -58,7 +58,11 @@ the ethical considerations when conducting action research.</p>
 <p>Venue: Republic Polytechnic RP E19A</p>
 </li>
 <li>
-<p>Registration: Coming Soon in September</p>
+<p>Facilitator: Dr David Kwok/ Republic Polytechnic</p>
+</li>
+<li>
+<p><strong><a href="https://forms.gle/416wZR9hfe71w6tE7" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
@@ -88,7 +92,7 @@ learning effectiveness</p>
 <p>Mode: Online</p>
 </li>
 <li>
-<p>Registration: Coming Soon in September</p>
+<p>Registration: Coming Soon in October</p>
 </li>
 </ul>
 <p></p>
