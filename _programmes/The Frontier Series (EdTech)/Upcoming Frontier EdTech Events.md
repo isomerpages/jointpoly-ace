@@ -53,7 +53,7 @@ your experience.</p>
 <p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
 </li>
 <li>
-<p>Registration: <a rel="noopener noreferrer nofollow" target="_blank">https://np-edu-sg.zoom.us/meeting/register/tJwpc-CoqTIqGdK5RnSDBuGXj8dwY_4K8Xrx</a>
+<p><strong><a href="https://np-edu-sg.zoom.us/meeting/register/tJwpc-CoqTIqGdK5RnSDBuGXj8dwY_4K8Xrx" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 </li>
 </ul>
