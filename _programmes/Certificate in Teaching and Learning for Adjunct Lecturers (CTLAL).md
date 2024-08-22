@@ -87,7 +87,8 @@ an online segment and a face-to-face/ online microteaching segment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Online Self-Paced Learning Modules (13 hours)</p>
+<p>Online Self-Paced Learning Modules (13 hours)
+<br>- To be completed promptly within first 2 weeks of course enrolment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Complete three online modules focusing on classroom facilitation, lesson
