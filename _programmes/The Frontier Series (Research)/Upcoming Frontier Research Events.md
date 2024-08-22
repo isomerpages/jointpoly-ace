@@ -58,6 +58,9 @@ the ethical considerations when conducting action research.</p>
 <p>Venue: Republic Polytechnic RP E19A</p>
 </li>
 <li>
+<p>Facilitator: Dr David Kwok/ Republic Polytechnic</p>
+</li>
+<li>
 <p><strong><a href="https://forms.gle/416wZR9hfe71w6tE7" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 <p></p>
