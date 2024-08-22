@@ -63,11 +63,16 @@ inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
 <li>
 <p>Workshop Facilitators: Ms Shirley Lim/ Institute for Adult Learning</p>
 </li>
-</ul>
-<p><strong><a href="https://forms.gle/z2tcG7BCMPPDfcS96" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
-</p>
+<li>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
+</li>
+<li>
+<p><strong><a href="https://forms.gle/z2tcG7BCMPPDfcS96" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <h4><strong>2. Workshop - Advanced Facilitation: The Focused Conversation &amp; Workshop Method</strong></h4>
 <div class="isomer-image-wrapper">
@@ -101,11 +106,16 @@ Level 7 Multipurpose Rooms MPR705/MPR706</p>
 <li>
 <p>Workshop Facilitators: Ms Serene Sim/ Institute for Adult Learning</p>
 </li>
-</ul>
-<p><strong><a href="https://forms.gle/uQHN4ycX1XE6FTiy8" rel="noopener noreferrer nofollow" target="_blank"><u>Sign Up Now!</u></a></strong>
-</p>
+<li>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
+</li>
+<li>
+<p><strong><a href="https://forms.gle/uQHN4ycX1XE6FTiy8" rel="noopener noreferrer nofollow" target="_blank"><u>Sign Up Now!</u></a></strong>
+</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
