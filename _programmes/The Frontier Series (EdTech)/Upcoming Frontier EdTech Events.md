@@ -29,7 +29,7 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Webinar - Platforms for Lifelong Social Learnin</strong></h4>
+<h4><strong>1. Webinar - Platforms for Lifelong Social Learning</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sociallearning.png">
 </div>
@@ -53,7 +53,7 @@ your experience.</p>
 <p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
 </li>
 <li>
-<p>Registration: <a rel="noopener noreferrer nofollow" target="_blank">https://np-edu-sg.zoom.us/meeting/register/tJwpc-CoqTIqGdK5RnSDBuGXj8dwY_4K8Xrx</a>
+<p><strong><a href="https://np-edu-sg.zoom.us/meeting/register/tJwpc-CoqTIqGdK5RnSDBuGXj8dwY_4K8Xrx" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
 </p>
 </li>
 </ul>
