@@ -115,7 +115,7 @@ Level 7<strong> </strong>Multipurpose<strong> </strong>Rooms MPR705/MPR706,
 <p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
 </li>
 </ul>
-<h3><a href="https://forms.gle/yv6ToXJM32u1HL4Z7" rel="noopener nofollow" target="_blank">Sign Up Now</a></h3>
+<h3><strong><a href="https://forms.gle/yv6ToXJM32u1HL4Z7" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
