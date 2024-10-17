@@ -1,11 +1,11 @@
 ---
-title: Past Frontier Events 2024
+title: Past Frontier EdTech Events 2024
 permalink: /pastfsedtech2024/
 variant: tiptap
 description: ""
 third_nav_title: The Frontier Series (EdTech)
 ---
-<h3>Past Frontier Events 2024</h3>
+<h3>Past Frontier EdTech Events 2024</h3>
 <p></p>
 <h3><u>June 2024</u></h3>
 <h4>Transforming Teaching and Training with Gen AI</h4>

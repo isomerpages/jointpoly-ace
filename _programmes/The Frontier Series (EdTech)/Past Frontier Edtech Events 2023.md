@@ -1,5 +1,5 @@
 ---
-title: Past Frontier Events 2023
+title: Past Frontier Edtech Events 2023
 permalink: /programmes/pastfsedtech2023/
 description: ""
 third_nav_title: The Frontier Series (EdTech)

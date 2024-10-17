@@ -39,42 +39,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Workshop – Mastering Adult Learning in the CET Classroom (Run 1)</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mastering_adult_learning.png">
-</div>
-<p>This one-day workshop aims to equip CET educators with effective teaching
-strategies based in andragogy. Participants will gain insights into adult
-learner needs and learn how to foster engagement. Additionally, participants
-will develop skills to proactively manage disruptive behaviors and create
-a positive classroom environment conducive to adult learning.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 20 September 2024 Fri</p>
-</li>
-<li>
-<p>Time: 9am-5pm</p>
-</li>
-<li>
-<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
-inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
-</li>
-<li>
-<p>Workshop Facilitators: Ms Shirley Lim/ Institute for Adult Learning</p>
-</li>
-<li>
-<p>The training places are limited and are available on a first-come-first-serve
-basis.</p>
-</li>
-<li>
-<p><strong><a href="https://forms.gle/z2tcG7BCMPPDfcS96" rel="noopener noreferrer nofollow" target="_blank">Sign Up Now!</a></strong>
-</p>
-</li>
-</ul>
-<p></p>
-<p></p>
-<h4><strong>2. Workshop - Advanced Facilitation: The Focused Conversation &amp; Workshop Method</strong></h4>
+<h4><strong>1. Workshop - Advanced Facilitation: The Focused Conversation &amp; Workshop Method</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/advanced_facilitation.png">
 </div>
@@ -115,9 +80,6 @@ basis.</p>
 </p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training

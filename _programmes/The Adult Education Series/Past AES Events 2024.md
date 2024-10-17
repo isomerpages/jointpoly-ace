@@ -367,6 +367,10 @@ basis.</p>
 <p></p>
 <h3><u>August 2024</u></h3>
 <h4>Workshop: Unleashing Creativity in Notetaking (Run 2)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/aes1_1.png">
+</div>
 <p>This interactive and hands-on workshop focuses on enhancing your live
 creative note-taking skill. Delve into a plethora of techniques that allow
 you to graphically summarize and highlight the fundamental concepts of
@@ -379,6 +383,9 @@ learning with visually captivating content!</p>
 <p>Link to the miro board: <a href="https://miro.com/app/board/uXjVNCBLqtk=/?share_link_id=538255482311" rel="noopener noreferrer nofollow" target="_blank">https://miro.com/app/board/uXjVNCBLqtk=/?share_link_id=538255482311</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES1_2.png">
+</div>
 <p></p>
 <h4>Workshop – Embracing and Managing Change: Strategies for Adult Educators (Run 2)</h4>
 <p></p>
@@ -396,6 +403,40 @@ transitions more smoothly.</p>
 <p>Workshop Facilitators: Dr Rajnish Gupta and Ms Lim Bee Hwee/ Joint Polytechnic
 Academy for Educators</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/AES2_1.png">
+</div>
+<p></p>
+<h3><u>September 2024</u></h3>
+<h4>Workshop: Mastering Adult Learning in the CET Classroom (Run 1)</h4>
+<p>This one-day workshop aims to equip CET educators with effective teaching
+strategies based in andragogy. Participants will gain insights into adult
+learner needs and learn how to foster engagement. Additionally, participants
+will develop skills to proactively manage disruptive behaviors and create
+a positive classroom environment conducive to adult learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 20 September 2024 Fri</p>
+</li>
+<li>
+<p>Time: 9am-5pm</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
+</li>
+<li>
+<p>Workshop Facilitators: Ms Shirley Lim/ Institute for Adult Learning</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Sep 2024/Adv_Fac_1_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Sep 2024/Adv_Fac_1_2.jpg">
+</div>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
