@@ -408,7 +408,7 @@ Academy for Educators</p>
 </div>
 <p></p>
 <h3><u>September 2024</u></h3>
-<h4>Workshop - Advanced Facilitation: The Focused Conversation &amp; Workshop Method</h4>
+<h4>Workshop: Mastering Adult Learning in the CET Classroom (Run 1)</h4>
 <p>This one-day workshop aims to equip CET educators with effective teaching
 strategies based in andragogy. Participants will gain insights into adult
 learner needs and learn how to foster engagement. Additionally, participants
