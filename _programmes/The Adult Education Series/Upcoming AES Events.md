@@ -90,7 +90,7 @@ in constructive conversations that inspire and motivate them to become
 effective learners? These challenges are common, yet many of us find it
 difficult to break out of habitual thinking patterns or struggle to make
 effective decisions in our professional roles.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>This session will explore the mindset and awareness necessary to thrive
 in the workplace. We will examine how coaching can not only enhance your
 personal and professional life but also improve how you communicate with
@@ -98,7 +98,7 @@ and support your learners.</p>
 <p>By understanding key principles of workplace psychology, you will gain
 valuable insights into addressing learner needs, refining communication,
 and fostering an environment where both you and your students&nbsp;can&nbsp;excel.</p>
-<p>&nbsp;</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Date: 29 Nov 2024</p>
