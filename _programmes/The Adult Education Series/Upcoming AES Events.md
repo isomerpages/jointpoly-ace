@@ -74,13 +74,48 @@ Level 7 Multipurpose Rooms MPR705/MPR706</p>
 <li>
 <p>The training places are limited and are available on a first-come-first-serve
 basis.</p>
-</li>
-<li>
-<p><strong><a href="https://forms.gle/uQHN4ycX1XE6FTiy8" rel="noopener noreferrer nofollow" target="_blank"><u>Sign Up Now!</u></a></strong>
-</p>
+<p></p>
+<h3><strong><a href="https://forms.gle/uQHN4ycX1XE6FTiy8" rel="noopener noreferrer nofollow" target="_blank"><u>Sign Up Now!</u></a></strong></h3>
 </li>
 </ul>
 <p></p>
+<h4>2. Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Sep 2024/Coaching_for_Edu_1_1.jpg">
+</div>
+<p>How often do you, as lecturers or adult educators, feel overwhelmed by
+the demands of managing learners, meeting their diverse needs, and engaging
+in constructive conversations that inspire and motivate them to become
+effective learners? These challenges are common, yet many of us find it
+difficult to break out of habitual thinking patterns or struggle to make
+effective decisions in our professional roles.</p>
+<p>&nbsp;</p>
+<p>This session will explore the mindset and awareness necessary to thrive
+in the workplace. We will examine how coaching can not only enhance your
+personal and professional life but also improve how you communicate with
+and support your learners.</p>
+<p>By understanding key principles of workplace psychology, you will gain
+valuable insights into addressing learner needs, refining communication,
+and fostering an environment where both you and your students&nbsp;can&nbsp;excel.</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 29 Nov 2024</p>
+</li>
+<li>
+<p>Time: 2pm-5.30pm</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+Level 7<strong> </strong>Multipurpose<strong> </strong>Rooms MPR705/MPR706,
+11 Eunos Rd 8, #07-04 Singapore 408601</p>
+</li>
+<li>
+<p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
+</li>
+</ul>
+<h3><a href="https://forms.gle/yv6ToXJM32u1HL4Z7" rel="noopener nofollow" target="_blank">Sign Up Now</a></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
