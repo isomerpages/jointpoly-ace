@@ -223,7 +223,7 @@ Representatives for assistance.</p>
 <p>TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jonathan_chee@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Jonathan Chee</a>
+<p><a href="mailto:jonathan_chee@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Jonathan Chee</a>
 </p>
 </td>
 </tr>
