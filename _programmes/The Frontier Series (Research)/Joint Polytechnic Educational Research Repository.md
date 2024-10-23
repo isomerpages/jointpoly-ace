@@ -17,7 +17,21 @@ initiative among all five polytechnics. It consolidates and showcases the
 scholarly work, research findings, and innovative ideas produced by the
 polytechnic academic community.  </p>
 <p></p>
-<h3><strong>Repository Link:</strong> <a href="https://politemall.polite.edu.sg/product?catalog=P-JP-EDURESEARCH" rel="noopener nofollow" target="_blank">POLITEMall Repository</a></h3>
+<h3><strong>Objectives of the Repository</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Elevate the educational research competencies of polytechnic educators.</p>
+</li>
+<li>
+<p>Promote an evidence-based, data-driven approach to improve teaching and
+learning effectiveness.</p>
+</li>
+<li>
+<p>Facilitate educational research collaborations across polytechnics.</p>
+</li>
+</ul>
+<p></p>
+<h4><strong>Repository Link: <a href="https://politemall.polite.edu.sg/product?catalog=P-JP-EDURESEARCH" rel="noopener nofollow" target="_blank">Joint Poly Educational Research Repository</a></strong></h4>
 <p></p>
 <h3><strong>What's in the repository</strong></h3>
 <p>In the repository, you can find educational research presentations and
@@ -46,24 +60,9 @@ conferences or published in international journals.</p>
 </li>
 <li>
 <p>Student Development and Support</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<h3><strong>Objectives of the Repository</strong></h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Elevate the educational research competencies of polytechnic educators.</p>
-</li>
-<li>
-<p>Promote an evidence-based, data-driven approach to improve teaching and
-learning effectiveness.</p>
-</li>
-<li>
-<p>Facilitate educational research collaborations across polytechnics.</p>
-</li>
-</ul>
-<p></p>
-<h4></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_429286112.jpg">
@@ -71,7 +70,7 @@ learning effectiveness.</p>
 <h4><strong>How to contribute?</strong></h4>
 <p>For polytechnic educators who are interested to contribute to the repository,
 please connect with the following poly representatives.</p>
-<p><strong>Contact Information for Education Research Workgroup</strong>
+<p><strong>Contact Information for Educational Research Workgroup</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
