@@ -48,16 +48,16 @@ learning effectiveness</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 15 November 2024</p>
+<p>Date: Q1 2025</p>
 </li>
 <li>
-<p>Time: 12:00pm - 1:30pm</p>
+<p>Time: TBC</p>
 </li>
 <li>
-<p>Mode: Online</p>
+<p>Mode: TBC</p>
 </li>
 <li>
-<p>Registration: Coming Soon in October</p>
+<p>Registration: Coming Soon in 2025</p>
 </li>
 </ul>
 <p></p>
