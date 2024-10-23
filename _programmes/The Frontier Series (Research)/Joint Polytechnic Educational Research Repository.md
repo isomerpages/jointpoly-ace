@@ -1,26 +1,23 @@
 ---
-title: Joint Polytechnic Education Research Repository
+title: Joint Polytechnic Educational Research Repository
 permalink: /jperrepository/
 variant: tiptap
 description: ""
 third_nav_title: The Frontier Series (Research)
 ---
-<h1>Joint Polytechnic Education Research Repository</h1>
+<h1>Joint Polytechnic Educational Research Repository</h1>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_429286112.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/frontierRepository.png">
 </div>
+<h3><strong>About the Repository</strong></h3>
+<p>The Joint Polytechnic Educational Research Repository is a collaborative
+initiative among all five polytechnics. It consolidates and showcases the
+scholarly work, research findings, and innovative ideas produced by the
+polytechnic academic community.  </p>
 <p></p>
-<h4><strong>What is the Repository about?</strong></h4>
-<p><strong>&nbsp;</strong>The Joint Polytechnic Education Research Repository
-is a collaborative initiative among all five of Singapore's polytechnics.
-This repository aims to consolidate and showcase the scholarly work, research
-findings, and innovative ideas produced by our academic community. </p>
-<p></p>
-<h4><strong>Repository Link:</strong> Coming Soon</h4>
-<p></p>
-<h4><strong>Objectives of the Repository</strong></h4>
+<h3><strong>Objectives of the Repository</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Elevate the educational research competencies of polytechnic educators.</p>
@@ -34,28 +31,46 @@ learning effectiveness.</p>
 </li>
 </ul>
 <p></p>
-<h4><strong>Why Contribute?</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Visibility: </strong>By sharing your research papers, you contribute
-to the collective knowledge base and enhance the visibility of your work
-within the polytechnic ecosystem.</p>
-</li>
-<li>
-<p><strong>Collaboration:</strong> The repository fosters collaboration across
-disciplines and institutions, allowing colleagues to engage with your research
-and build upon it.</p>
-</li>
-<li>
-<p><strong>Impact:</strong> Your contributions can positively impact teaching,
-learning, and industry practices.</p>
-</li>
-</ol>
+<h4><strong>Repository Link: <a href="https://politemall.polite.edu.sg/product?catalog=P-JP-EDURESEARCH" rel="noopener nofollow" target="_blank">Joint Poly Educational Research Repository</a></strong></h4>
 <p></p>
+<h3><strong>What's in the repository</strong></h3>
+<p>In the repository, you can find educational research presentations and
+papers by polytechnic educators. These have either been presented at local/overseas
+conferences or published in international journals.</p>
+<p></p>
+<h3><strong>Themes</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Assessment</p>
+</li>
+<li>
+<p>Curriculum Design and Development</p>
+</li>
+<li>
+<p>Data and Tech-Enhanced T&amp;L</p>
+</li>
+<li>
+<p>Facilitation of Learning</p>
+</li>
+<li>
+<p>Life Skills Development</p>
+</li>
+<li>
+<p>Professional Development</p>
+</li>
+<li>
+<p>Student Development and Support</p>
+<p></p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_429286112.jpg">
+</div>
 <h4><strong>How to contribute?</strong></h4>
 <p>For polytechnic educators who are interested to contribute to the repository,
 please connect with the following poly representatives.</p>
-<p><strong>Contact Information for Education Research Workgroup</strong>
+<p><strong>Contact Information for Educational Research Workgroup</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>

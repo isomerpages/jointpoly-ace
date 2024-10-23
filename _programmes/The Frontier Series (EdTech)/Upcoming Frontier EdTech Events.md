@@ -29,35 +29,7 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Webinar - Platforms for Lifelong Social Learning</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sociallearning.png">
-</div>
-<p>In this webinar, we will explore how people learn through social knowledge
-platforms like Reddit and Discord. We will examine features such as ease
-of use, privacy, and a less formal atmosphere. We will discuss techniques
-for verifying information and evaluating the credibility of a community.
-If you run or participate in such communities, we would love to hear about
-your experience.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 18 Oct 2024</p>
-</li>
-<li>
-<p>Time: 12pm</p>
-</li>
-<li>
-<p>Mode: Online</p>
-</li>
-<li>
-<p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
-</li>
-<li>
-<p><strong><a href="https://np-edu-sg.zoom.us/meeting/register/tJwpc-CoqTIqGdK5RnSDBuGXj8dwY_4K8Xrx" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong>
-</p>
-</li>
-</ul>
-<p></p>
+<p>Watch this space for 2025 events.</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
