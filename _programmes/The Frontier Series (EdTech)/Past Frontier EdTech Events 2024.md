@@ -103,6 +103,35 @@ in creating dynamic, engaging and effective educational environments!</p>
 <p>Session 3.2 Resource Link: <a href="https://drive.google.com/drive/folders/1RUNeC6FnsXp27QfQfBLtL5uStfv-3Bpd" rel="noopener noreferrer nofollow" target="_blank">Access slide deck</a>
 </p>
 <p></p>
+<h3><u>October 2024</u></h3>
+<h4>Webinar - Platforms for Lifelong Social Learning</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sociallearning.png">
+</div>
+<p>In this webinar, we will explore how people learn through social knowledge
+platforms like Reddit and Discord. We will examine features such as ease
+of use, privacy, and a less formal atmosphere. We will discuss techniques
+for verifying information and evaluating the credibility of a community.
+If you run or participate in such communities, we would love to hear about
+your experience.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 18 Oct 2024</p>
+</li>
+<li>
+<p>Time: 12pm</p>
+</li>
+<li>
+<p>Mode: Online</p>
+</li>
+<li>
+<p>Facilitator: Mr Preetam Rai/ Ngee Ann Polytechnic</p>
+</li>
+<li>
+<p>If you missed the webinar, Check out the notes from the Webinar <a href="https://docs.google.com/document/d/1cU0LhOOAZt2qZLOGomMRYBOSdf033zUWZOxeMi8fL2U/edit?usp=sharing" rel="noopener nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
 <p><strong>Please share your Frontier Series experience and feedback with us: <a href="https://forms.office.com/r/ZSdUjwBCHv" rel="noopener noreferrer nofollow" target="_blank">https://forms.office.com/r/ZSdUjwBCHv</a></strong>
 </p>
 <p></p>
