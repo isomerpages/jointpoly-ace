@@ -18,8 +18,8 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Check out our Upcoming Adult Education Events!
-      url: https://jpace.polytechnic.edu.sg/upcomingaesevents/
+      button: Check out new Joint poly educational research repository!
+      url: https://jpace.polytechnic.edu.sg/jperrepository/
       key_highlights:
         - title: About Us
           description: ""
