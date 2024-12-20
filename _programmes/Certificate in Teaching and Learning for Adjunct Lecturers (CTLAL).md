@@ -87,6 +87,8 @@ an online segment and a face-to-face/ online microteaching segment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Teaching Foundation</strong>
+</p>
 <p>Online Self-Paced Learning Modules (13 hours)
 <br>- To be completed promptly within first 2 weeks of course enrolment</p>
 </td>
@@ -97,6 +99,8 @@ planning, and engaging adult learners.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Practice and Reflection</strong>
+</p>
 <p>Microteaching Segment (3hrs)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -171,8 +175,8 @@ to reflect on and improve teaching and learning practices.</p>
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
 <h3>Have a question related to CTLAL?</h3>
-<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> or the following Polytechnic
-Representatives for assistance.</p>
+<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:patricia_kong@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Patricia Kong</a> or
+the following Polytechnic Representatives for assistance.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>

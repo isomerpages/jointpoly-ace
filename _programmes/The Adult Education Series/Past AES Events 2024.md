@@ -438,6 +438,72 @@ inlab Experiment Room, 11 Eunos Rd 8, #06-03/04 Singapore 408601</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Sep 2024/Adv_Fac_1_2.jpg">
 </div>
 <p></p>
+<h3><u>October 2024</u></h3>
+<h4>Workshop - Advanced Facilitation: The Focused Conversation &amp; Workshop Method</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/advanced_facilitation.png">
+</div>
+<p>The Focused Conversation Technique aims to elevate your facilitation excellence
+through transformative conversation. You gain a working knowledge of the
+principles, and process steps in the practice of Focused Conversation to
+tap on the collective wisdom of the group using a 4-level process of awareness:-
+observable, relational, interpretative, and decisional - which form a template
+from which conversations can be drawn.</p>
+<p>The Workshop Method aims to create a safe and respectful space for all
+voices to be heard by employing a variety of visual and interactive tools.
+Facilitators trained in The Workshop Method guide groups through a series
+of structured processes. Facilitators trained in the Workshop Method gain
+a working knowledge of the principles, and process steps in:- generating
+new ideas, forming new relationships, discerning consensus, and confirming
+the resolve.</p>
+<p>This workshop is tailored for Adult Educators.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 30 October 2024 Wed</p>
+</li>
+<li>
+<p>Time: 2-4.30pm</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+Level 7 Multipurpose Rooms MPR705/MPR706</p>
+</li>
+<li>
+<p>Workshop Facilitators: Ms Serene Sim/ Institute for Adult Learning</p>
+</li>
+</ul>
+<p></p>
+<h4>Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success</h4>
+<p></p>
+<p>How often do you, as lecturers or adult educators, feel overwhelmed by
+the demands of managing learners, meeting their diverse needs, and engaging
+in constructive conversations that inspire and motivate them to become
+effective learners? These challenges are common, yet many of us find it
+difficult to break out of habitual thinking patterns or struggle to make
+effective decisions in our professional roles.</p>
+<p>This session will explore the mindset and awareness necessary to thrive
+in the workplace. We will examine how coaching can not only enhance your
+personal and professional life but also improve how you communicate with
+and support your learners.</p>
+<p>By understanding key principles of workplace psychology, you will gain
+valuable insights into addressing learner needs, refining communication,
+and fostering an environment where both you and your students&nbsp;can&nbsp;excel.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 29 Nov 2024</p>
+</li>
+<li>
+<p>Time: 2pm-5.30pm</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+Level 7<strong> </strong>Multipurpose<strong> </strong>Rooms MPR705/MPR706,
+11 Eunos Rd 8, #07-04 Singapore 408601</p>
+</li>
+<li>
+<p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
+</li>
+</ul>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
