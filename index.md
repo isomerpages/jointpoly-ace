@@ -88,5 +88,4 @@ sections:
       button: Find out More
       url: https://jpace.polytechnic.edu.sg/ctlal/
       image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
-      alt: Image alt text
 ---
