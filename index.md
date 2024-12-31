@@ -80,4 +80,13 @@ sections:
       url: /mou/
       image: /images/291226995_405302041629525_1628861488584746721_n.jpg
       alt: mou
+  - infopic:
+      title: CTLAL
+      id: infopic
+      description: Equip yourself with the essential teaching and learning skills for
+        Adjunct Lecturers.
+      button: Find out More
+      url: https://jpace.polytechnic.edu.sg/ctlal/
+      image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
+      alt: Image alt text
 ---
