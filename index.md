@@ -73,14 +73,6 @@ sections:
       image: /images/53753385_ml.jpg
       alt: CLMP
   - infopic:
-      title: News
-      description: Institutions join forces to uplift the training and adult education
-        sector.
-      button: Find out more
-      url: /mou/
-      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
-      alt: mou
-  - infopic:
       title: CTLAL
       id: infopic
       description: Equip yourself with the essential teaching and learning skills for
@@ -88,4 +80,12 @@ sections:
       button: Find out More
       url: https://jpace.polytechnic.edu.sg/ctlal/
       image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
+  - infopic:
+      title: News
+      description: Institutions join forces to uplift the training and adult education
+        sector.
+      button: Find out more
+      url: /mou/
+      image: /images/291226995_405302041629525_1628861488584746721_n.jpg
+      alt: mou
 ---
