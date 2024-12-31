@@ -73,6 +73,14 @@ sections:
       image: /images/53753385_ml.jpg
       alt: CLMP
   - infopic:
+      title: CTLAL
+      id: infopic
+      description: Equip yourself with the essential teaching and learning skills for
+        Adjunct Lecturers.
+      button: Find out More
+      url: https://jpace.polytechnic.edu.sg/ctlal/
+      image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
+  - infopic:
       title: News
       description: Institutions join forces to uplift the training and adult education
         sector.
