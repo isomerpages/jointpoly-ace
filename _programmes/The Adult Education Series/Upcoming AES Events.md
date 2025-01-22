@@ -55,6 +55,7 @@ This hands-on mind-on interactive workshop is designed to help you understand
 and overcome the hidden dynamics that prevent personal and professional
 growth.</p>
 <p></p>
+<p>Programme Details:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Date: 24 Jan 2025 Friday</p>
@@ -76,7 +77,54 @@ growth.</p>
 <p></p>
 <p>Register today to secure your spot!</p>
 <h3><strong><a href="https://forms.gle/QE3kKHJTyvSQW4t58" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
-<h3></h3>
+<h4><strong>2. Webinar: Insights from a Mediacorp DJ Trainer</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Feb 2025/Feb_AES.png">
+</div>
+<p>We are thrilled to invite you to an exclusive webinar with Ms. Margaret
+Mary Lim (Maggie), a seasoned industry professional who will share her
+journey in training and coaching aspiring DJs. In this session, she will
+discuss her approach to coaching new talent in Mediacorp. Attendees will
+gain valuable insights into how DJ training is conducted where there is
+an emphasis on both technical proficiency and the creative aspects of the
+craft in the industry.</p>
+<p>You would be guided to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Understand how DJ training is tailored to different learning styles and
+skill levels in Mediacorp</p>
+</li>
+<li>
+<p>Explore practical coaching techniques for teaching technical skills</p>
+</li>
+<li>
+<p>Learn the importance of fostering creativity and confidence in learners</p>
+</li>
+<li>
+<p>Gain real-world adult learning and training insights through the sharing
+of challenges and success stories</p>
+</li>
+</ul>
+<p></p>
+<p>Programme Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 7 Feb 2025 Friday</p>
+</li>
+<li>
+<p>Time: 12-1pm</p>
+</li>
+<li>
+<p>Mode: Online Webinar</p>
+</li>
+<li>
+<p>Speaker: Ms Margaret Mary Lim/ Mediacorp</p>
+<p></p>
+</li>
+</ul>
+<p>Learn something new!</p>
+<h3><strong><a href="https://nyp-sg.zoom.us/meeting/register/eF8E2qdYRvCXGFWfs7EF8g" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
