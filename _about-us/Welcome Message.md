@@ -7,31 +7,47 @@ variant: markdown
 # Welcome Message
 
 
-![](/images/jp-ace-27%20(edited)-raj%20with%20names2.jpg)
 
-Welcome to the website of the Joint-Polytechnic Academy for Educators (JP-AcE).
+   <div style="height: 340px">
+         <img align="left" style="max-width: 40%;max-height: 150%" alt="Head JP-AcE" src="/images/Welcome%20Message%20%20%2022%20Jan%2025/Rajnish_Image.png">
+    </div> 
 
-Whether you're currently part of the polytechnic sector or exploring this site to gain more insights, we are delighted to provide you with information about the significant role our Academy plays in the polytechnic sector in Singapore.
+Welcome to the Joint-Polytechnic Academy for Educators (JP-AcE)!
 
-JP-AcE was inaugurated on November 18, 2022, driven by the aspiration to foster stronger collaboration among the five polytechnics in Singapore, specifically in the realm of teaching and learning (T&amp;L).
+Whether you're a current member of the polytechnic sector or exploring this site to gain deeper insights, we're pleased to provide you with information about our Academy's pivotal role in Singapore's polytechnic education landscape.
 
-This marked the inaugural collaboration where all five polytechnics unite to establish an Academy focused on enhancing the teaching and learning (T&amp;L) capabilities of polytechnic educators. The primary objective is to elevate the overall quality of education within the polytechnic sector. Our approach involves harnessing the unique strengths and innovative practices of each polytechnic, fostering collaboration among them, and extending these synergies to all individuals engaged in T&amp;L across polytechnics and other organizations.
+**About JP-AcE**
 
-JP-AcE has its flagship programs, collectively known as Move-In Programmes, currently featuring four distinctive offerings. The first Move-In Programme is tailored for new polytechnic lecturers, focusing on cultivating foundational skills in teaching and learning. This comprehensive 100-hour, 1-year certification program is named the <strong> _Certificate in T&amp;L for Polytechnic Educators (CTLPE)_ </strong>.
+Established in 2022, JP-AcE aims to elevate the quality of education within the polytechnic sector of Singapore by leveraging the unique strengths and innovative practices of the five polytechnics. Our baseline courses, developed collaboratively with the five polytechnics, offer participants engaging, cross-polytechnic experiential learning opportunities.
 
-In addition to this foundational program, JP-AcE extends its reach with three specialized Move-In Programmes in T&amp;L leadership. These include a 200-hour program designed for School Leaders <strong>_(School Leadership Move-In Programme (SLMP))_</strong>, a 160-hour initiative catering to T&amp;L Mentors <strong> _(T&amp;L Mentors Move-In Programme (TLMP))_</strong>, and a 100-hour program tailored for course leaders <strong>_(Course Leadership Move-In Programme (CLMP))_</strong>.
+**Flagship Programmes: The Move-In Series**
 
-Furthermore, we are proud to announce strategic collaborations with the Institute of Adult Learning (IAL) at Singapore University of Social Sciences and SkillsFuture Singapore (SSG). Together, we are dedicated to the development and implementation of programs in Adult Learning, falling under the category of Adult Education Series. This initiative aims to enhance the skills and knowledge of adult learners, contributing to their personal and professional growth.
+JP-AcE’s flagship offerings, collectively known as Move-In Programmes, feature five distinctive initiatives:
 
-In parallel, our commitment to staying at the forefront of education is underscored by the Frontier Series Category. Within this category, we are conducting programs that delve into new education technologies and innovative pedagogies. By doing so, we strive to explore and embrace cutting-edge approaches that shape the future of education.
+<p style="padding-bottom: 0px;"><font size="3"></font></p><ol><font size="3">
+	<li><strong> Certificate in T&amp;L for Polytechnic Educators (CTLPE): </strong> A comprehensive 100-hour, 1-year certification program designed to equip new full-time polytechnic lecturers with foundational T&amp;L skills.</li>
+<li><strong> Certificate in T&amp;L for Adjunct Lecturers (CTLAL): </strong> A tailored 16-hour program aimed at certifying adjunct lecturers in effective teaching practices.</li>
+	<li><strong> School Leadership Move-In Programme (SLMP): </strong>A 160-hour program designed for school leaders, focusing on T&amp;L leadership and strategic educational management.</li>
+	<li><strong> T&amp;L Mentors Move-In Programme (TLMP): </strong> A 160-hour initiative catering to experienced educators mentoring others in T&amp;L practices. </li>
+	<li><strong> Course Leadership Move-In Programme (CLMP): </strong> A 100-hour program designed to enhance the capabilities of course leaders.</li>
+		</font></ol><p></p>
 
-Our commitment to excellence propels us to explore and develop programs in emerging areas such as digitalization, flip classroom learning, and beyond. Stay tuned as we continue to evolve and expand our offerings to meet the dynamic needs of the polytechnic education landscape.
 
-We firmly believe that educators constitute the cornerstone of student learning, ultimately shaping the future workforce of our nation. Recognizing the pivotal role educators play, we are dedicated to ensuring their competence, thereby contributing to the development of a stronger workforce. Our commitment to the professional development of teaching and learning (T&amp;L) for polytechnic educators is guided by the following core values:
+**Pioneering Innovation: The Frontier Series**
 
-* <strong> Future-oriented</strong>: Embracing a forward-thinking mindset to equip educators with the skills needed for tomorrow's challenges.
-* <strong> Agile</strong>: Adapting and responding swiftly to the evolving landscape of education to meet the dynamic needs of learners.
-* <strong> Collaboration</strong>: Fostering a culture of collaboration among the Academy, the polytechnic community, and our valued partners to create a collective impact.
-*	<strong> Excellence</strong>: Upholding a commitment to excellence in T&amp;L practices to ensure the highest standards in education.
+In addition to the Move-In Programmes, JP-AcE offers the Frontier Series, which explores emerging education technologies and innovative pedagogies. These programs empower educators to embrace cutting-edge approaches, preparing them to lead transformative changes in the future of education.
 
-The Academy, in collaboration with the polytechnic community and our esteemed partners, envisions the cultivation of a generation of future-ready educators for the continued growth and prosperity of Singapore. Explore more about our initiatives on this website, and we look forward to the possibility of collaborating with you in the future. 
+
+**Core Values Guiding Our Mission**
+
+At JP-AcE, our dedication to professional development for polytechnic educators is grounded in these core values:
+
+* <strong>Future-oriented:</strong> Preparing educators with the forward-thinking skills needed to address tomorrow’s challenges.
+* <strong>Agile:</strong> Adapting swiftly to the evolving educational landscape to meet diverse learner needs.
+* <strong>Collaboration:</strong> Fostering partnerships and creating a shared mission among polytechnics and stakeholders.
+* <strong>Excellence:</strong> Upholding the highest standards in teaching and learning practices to achieve impactful outcomes.
+
+**Building Future-Ready Educators**
+
+We firmly believe that educators are the cornerstone of student learning, shaping the future workforce of our nation. Through our programs and initiatives, JP-AcE is committed to equipping educators with the tools and knowledge they need to excel. Together with the polytechnic community and esteemed partners, we strive to cultivate a generation of future-ready educators who will contribute to the continued growth and prosperity of Singapore.
+Explore more about our initiatives on this website, and we look forward to collaborating with you in shaping the future of education.
