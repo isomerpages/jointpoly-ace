@@ -76,7 +76,8 @@ sections:
       title: CTLAL
       id: infopic
       description: Equip yourself with the essential teaching and learning skills for
-        Adjunct Lecturers.
+        ALs through the <strong>Certificate in Teaching and Learning For Adjunct
+        Lecturers</strong>.
       button: Find out More
       url: https://jpace.polytechnic.edu.sg/ctlal/
       image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
