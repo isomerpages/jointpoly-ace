@@ -128,10 +128,12 @@ of challenges and success stories</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
-<a href="/files/How_to_create_a_self_sourced_training_request_in_Workday.pdf" rel="noopener noreferrer nofollow" target="_blank">How to create a self-sourced training request in Workday</a>
+<a href="https://for.edu.sg/selfsourcedtrainingrequest" rel="noopener nofollow" target="_blank">How to create a self-sourced training request in Workday</a>
 </p>
 <p>Training Provider: JP-AcE</p>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
-<p>Please contact Programme Leads: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a>
+<p>Please contact Programme Leads: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and <a href="mailto:lau_poh_nguk@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Lau Poh Nguk</a>
 </p>
+<p></p>
+<p></p>
