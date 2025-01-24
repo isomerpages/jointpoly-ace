@@ -45,6 +45,8 @@ CTLPE is conducted in hybrid manner. There are online sessions conducted via MS 
 
 There are 2 runs per year. One commences in April and another in October. The duration of the programme is 100 hours, which is conducted over a span of 1 year.
 
+![](/images/Welcome%20Message%20%20%2022%20Jan%2025/Black_and_Beige_Simple_Collage_Christmas_Family_Photo_Card__1_.png)
+
 ![](/images/ctlpe%20intake%208%20collage.jpg)
 
 ### [Click here to find out more about CTLPE!](/files/ctlpe%20prog%20information%20for%20jpace%20website_updated%20on%207%20sep%202022%20v2.pdf)
