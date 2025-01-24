@@ -9,6 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="max-width: 40%;max-height: 150%" height="auto" width="100%" alt="Head JP-AcE" src="/images/Welcome%20Message%20%20%2022%20Jan%2025/Rajnish_Image.png">
 </div>
+<p></p>
+<p></p>
 <p>Welcome to the Joint-Polytechnic Academy for Educators (JP-AcE)!</p>
 <p>Whether you're a current member of the polytechnic sector or exploring
 this site to gain deeper insights, we're pleased to provide you with information
