@@ -8,10 +8,9 @@ variant: markdown
 
 
 
-   <div style="height: 345px">
+<p></p><div style="height: 345px">
          <img align="left" style="max-width: 40%;max-height: 150%" alt="Head JP-AcE" src="/images/Welcome%20Message%20%20%2022%20Jan%2025/Rajnish_Image.png">
-    </div> 
-
+    </div><p></p>
 Welcome to the Joint-Polytechnic Academy for Educators (JP-AcE)!
 
 Whether you're a current member of the polytechnic sector or exploring this site to gain deeper insights, we're pleased to provide you with information about our Academy's pivotal role in Singapore's polytechnic education landscape.
