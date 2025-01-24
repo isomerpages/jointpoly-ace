@@ -8,7 +8,7 @@ variant: markdown
 
 
 
-   <div style="height: 350px">
+   <div style="height: 345px">
          <img align="left" style="max-width: 40%;max-height: 150%" alt="Head JP-AcE" src="/images/Welcome%20Message%20%20%2022%20Jan%2025/Rajnish_Image.png">
     </div> 
 
