@@ -14,7 +14,7 @@ The Joint Polytechnic Academy for Educators (JP-AcE) was set up in 2022 as a cen
 ![](/images/vision-mission-value_v2.png)
 
 #### Programmes
-We offer a suite of joint-polytechnic T&amp;L baseline capability development programmes and certifications, such as <strong>Certificate in T&amp;L for Polytechnic Educators (CTLPE)</strong>, <strong>School Leadership Move-In Programme (SLMP)</strong>, <strong>T&amp;L Mentor Move-In Programme (TLMP)</strong> and <strong>Course Leadership Move-In Programme (CLMP)</strong>, amongst other programmes and initiatives, to strengthen the T&amp;L capabilities of polytechnic educators.
+We offer a suite of joint-polytechnic T&amp;L baseline capability development programmes and certifications, such as <strong>Certificate in T&amp;L for Polytechnic Educators (CTLPE)</strong>, <strong>**Certificate in T&amp;L for Adjunct Lecturers (CTLAL)**</strong>, <strong>School Leadership Move-In Programme (SLMP)</strong>, <strong>T&amp;L Mentor Move-In Programme (TLMP)</strong> and <strong>Course Leadership Move-In Programme (CLMP)</strong>, amongst other programmes and initiatives, to strengthen the T&amp;L capabilities of polytechnic educators.
         
                     
 
