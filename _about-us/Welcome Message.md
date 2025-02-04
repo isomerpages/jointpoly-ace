@@ -11,6 +11,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome Message   22 Jan 25/Picture3_banner.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome Message   22 Jan 25/Picture3_bannerv2.png">
+</div>
+<p></p>
 <p>Welcome to the Joint-Polytechnic Academy for Educators (JP-AcE)!</p>
 <p>Whether you're a current member of the polytechnic sector or exploring
 this site to gain deeper insights, we're pleased to provide you with information
