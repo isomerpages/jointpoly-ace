@@ -7,8 +7,9 @@ variant: tiptap
 <h1>Welcome Message</h1>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome Message   22 Jan 25/Picture2_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Welcome Message   22 Jan 25/Picture3_banner.png">
 </div>
 <p>Welcome to the Joint-Polytechnic Academy for Educators (JP-AcE)!</p>
 <p>Whether you're a current member of the polytechnic sector or exploring
