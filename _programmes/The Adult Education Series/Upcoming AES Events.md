@@ -39,92 +39,43 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Workshop: Unlocking the Immunity to Change</strong></h4>
+<h4><strong>1. Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success (Run 2)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Immunity_to_change.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Coaching_for_Educators.png">
 </div>
-<p>Do you or your learners have a personal change goal that has proven resistant
-to your sincerest intentions, best efforts and plans?</p>
-<p></p>
-<p>Learn how you can significantly enhance your capacity to deliver on your
-goals through this enlightening workshop. The Immunity to Change (ITC)
-approach is based on 30 years of research on adult development theory and
-developed by Harvard University Professors Robert Kegan and Lisa Lahey.
-This hands-on mind-on interactive workshop is designed to help you understand
-and overcome the hidden dynamics that prevent personal and professional
-growth.</p>
-<p></p>
-<p>Programme Details:</p>
+<p>How often do you, as lecturers or adult educators, feel overwhelmed by
+the demands of managing learners, meeting their diverse needs, and engaging
+in constructive conversations that inspire and motivate them to become
+effective learners? These challenges are common, yet many of us find it
+difficult to break out of habitual thinking patterns or struggle to make
+effective decisions in our professional roles.</p>
+<p>This session will explore the mindset and awareness necessary to thrive
+in the workplace. We will examine how coaching can not only enhance your
+personal and professional life but also improve how you communicate with
+and support your learners. By understanding key principles of workplace
+psychology, you will gain valuable insights into addressing learner needs,
+refining communication, and fostering an environment where both you and
+your students can excel.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 24 Jan 2025 Friday</p>
+<p>Date: 28 March 2025</p>
 </li>
 <li>
-<p>Time: 2-5.30pm</p>
+<p>Time: 2pm-5.30pm</p>
 </li>
 <li>
-<p>Mode: Face-to-Face Workshop</p>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+Level 7 Multipurpose Rooms MPR705/MPR706, 11 Eunos Rd 8, #07-04 Singapore
+408601</p>
 </li>
 <li>
-<p>Venue: Singapore Polytechnic Colours (<a href="https://file.for.edu.sg/to-sp-library.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here to access navigation guide.)</a>
-</p>
-</li>
-<li>
-<p>Facilitators: Mr Lim Peng Hun and Ms Vanisa Lee</p>
-</li>
-</ul>
-<p></p>
-<p>Register today to secure your spot!</p>
-<h3><strong><a href="https://forms.gle/QE3kKHJTyvSQW4t58" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
-<h4><strong>2. Webinar: Insights from a Mediacorp DJ Trainer</strong></h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Feb 2025/Feb_AES.png">
-</div>
-<p>We are thrilled to invite you to an exclusive webinar with Ms. Margaret
-Mary Lim (Maggie), a seasoned industry professional who will share her
-journey in training and coaching aspiring DJs. In this session, she will
-discuss her approach to coaching new talent in Mediacorp. Attendees will
-gain valuable insights into how DJ training is conducted where there is
-an emphasis on both technical proficiency and the creative aspects of the
-craft in the industry.</p>
-<p>You would be guided to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Understand how DJ training is tailored to different learning styles and
-skill levels in Mediacorp</p>
-</li>
-<li>
-<p>Explore practical coaching techniques for teaching technical skills</p>
-</li>
-<li>
-<p>Learn the importance of fostering creativity and confidence in learners</p>
-</li>
-<li>
-<p>Gain real-world adult learning and training insights through the sharing
-of challenges and success stories</p>
-</li>
-</ul>
-<p></p>
-<p>Programme Details:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 7 Feb 2025 Friday</p>
-</li>
-<li>
-<p>Time: 12-1pm</p>
-</li>
-<li>
-<p>Mode: Online Webinar</p>
-</li>
-<li>
-<p>Speaker: Ms Margaret Mary Lim/ Mediacorp</p>
-<p></p>
+<p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
 </li>
 </ul>
 <p>Learn something new!</p>
-<h3><strong><a href="https://nyp-sg.zoom.us/meeting/register/eF8E2qdYRvCXGFWfs7EF8g" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
+<p></p>
+<h3><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScqpQ8eWbz4lkxCvTkCLKvi39idBnlrxtJynq8sijDmfELPaA/viewform" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
