@@ -13,38 +13,63 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png">
 </div>
-<p>For Newly Hired Associate/Adjunct Lecturers Joining from :</p>
+<p>For Newly Hired Polytechnic Associate/Adjunct Lecturers Joining from :</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Enrolment Period</p>
+<p><strong>Period of Joining</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Politemall Course Link*</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Apr 2024 - 27 Sep 2024 (Intake 1)</p>
+<p><strong>Politemall Link</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Link: <a href="https://lms.polite.edu.sg/d2l/home/445836" rel="noopener noreferrer nofollow" target="_blank"><u>Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 1 (polite.edu.sg)</u></a>
+<p><strong>Course Code</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Sep 2024 - 28 Mar 2025 (Intake 2)</p>
+<p>1 April 2024 - 27 September 2024 (Intake 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Course Link: <a href="https://lms.polite.edu.sg/d2l/home/550757" rel="noopener noreferrer nofollow" target="_blank">Homepage - Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL) Intake 2 (polite.edu.sg)</a>
+<p><a href="https://lms.polite.edu.sg/d2l/home/445836" rel="noopener nofollow" target="_blank">Link</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24YL-P-JP-CTLAL001</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 September 2024 - 28 March 2025 (Intake 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lms.polite.edu.sg/d2l/home/550757" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>24YL-P-JP-CTLAL002</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 March to 26 September 2025 (Intake 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lms.polite.edu.sg/d2l/home/619983" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25YL-P-JP-CTLAL003</p>
 </td>
 </tr>
 </tbody>
@@ -174,8 +199,11 @@ to reflect on and improve teaching and learning practices.</p>
 <p>New Associate/Adjunct Lecturers (ALs) may be expected to attend other
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
+<h3>CTLAL Exemption List</h3>
+<p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
+determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
-<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:patricia_kong@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Patricia Kong</a> or
+<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Gaik Bee</a> or
 the following Polytechnic Representatives for assistance.</p>
 <p></p>
 <table style="minWidth: 50px">
@@ -198,8 +226,8 @@ the following Polytechnic Representatives for assistance.</p>
 <p>NP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lim Gaik Bee , </a>
-<a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong</a>
+<p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong, </a>
+<a href="mailto:Catherine_Chua@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Catherine Chua</a>
 </p>
 </td>
 </tr>
@@ -217,8 +245,8 @@ the following Polytechnic Representatives for assistance.</p>
 <p>SP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chan_huazhi@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh , </a>
-<a href="mailto: chan_huazhi@sp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chan Hua Zhi</a>
+<p><a href="mailto:mark_nivan_singh@sp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Mark Nivan Singh, </a>
+<a href="mailto:chan_huazhi@sp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chan Hua Zhi</a>
 </p>
 </td>
 </tr>

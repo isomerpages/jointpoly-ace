@@ -30,7 +30,6 @@ and innovative ways of teaching and learning.</p>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
 <p>Watch this space for 2025 events.</p>
-<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:

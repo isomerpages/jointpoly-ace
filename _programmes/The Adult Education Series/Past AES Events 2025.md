@@ -92,3 +92,41 @@ of challenges and success stories</p>
 </ul>
 <p>Learn something new!</p>
 <p>If you missed this, check out the recorded session by clicking <a href="https://drive.google.com/file/d/1nhcJvl-lsmixRiRbH6A2ngKtJXRgIk0J/view" rel="noopener nofollow" target="_blank">here</a>!</p>
+<h3><u>March 2025</u></h3>
+<h4>Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success (Run 2)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Coaching_for_Educators.png">
+</div>
+<p>How often do you, as lecturers or adult educators, feel overwhelmed by
+the demands of managing learners, meeting their diverse needs, and engaging
+in constructive conversations that inspire and motivate them to become
+effective learners? These challenges are common, yet many of us find it
+difficult to break out of habitual thinking patterns or struggle to make
+effective decisions in our professional roles.</p>
+<p>This session will explore the mindset and awareness necessary to thrive
+in the workplace. We will examine how coaching can not only enhance your
+personal and professional life but also improve how you communicate with
+and support your learners. By understanding key principles of workplace
+psychology, you will gain valuable insights into addressing learner needs,
+refining communication, and fostering an environment where both you and
+your students can excel.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 28 March 2025</p>
+</li>
+<li>
+<p>Time: 2pm-5.30pm</p>
+</li>
+<li>
+<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
+Level 7 Multipurpose Rooms MPR705/MPR706, 11 Eunos Rd 8, #07-04 Singapore
+408601</p>
+</li>
+<li>
+<p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
+</li>
+</ul>
+<p>Learn something new!</p>
+<p></p>
+<p></p>
