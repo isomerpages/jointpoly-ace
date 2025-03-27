@@ -200,7 +200,7 @@ to reflect on and improve teaching and learning practices.</p>
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
 <h3>CTLAL Exemption List</h3>
-<p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">CTLAL Exemption List</a> to
+<p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
 determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
 <p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Gaik Bee</a> or
