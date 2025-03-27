@@ -31,7 +31,28 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4>1. Education Research Community of Practice (Run 1)</h4>
+<h4>1. Webinar: Bridging Educational Research and Practice: Insights from Polytechnic Researchers</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="descriptive image of the programme" src="/images/Adult Education Uploads/Education_Research.jpg">
+</div>
+<p>Join us in this insightful lunchtime webinar where seasoned researchers
+from all the polytechnics in Singapore share their experiences and tips
+on carrying out educational research.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 30 April 2025</p>
+</li>
+<li>
+<p>Time: 12-1.30pm</p>
+</li>
+<li>
+<p>Mode: Online via Zoom</p>
+</li>
+</ul>
+<h3><strong><a href="https://forms.office.com/pages/responsepage.aspx?id=7bo-JNAAkEan3HWJOw2fmLoiRy_L0XdLkHO1-h-5mslURVc0QjJXRVgwVUk4UEhUV0pPSU5QV0dMMi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
+<p></p>
+<h4>2. Education Research Community of Practice (Run 1)</h4>
 <p><strong><u>Objectives of Education Research COP</u></strong>
 </p>
 <ol data-tight="true" class="tight">
