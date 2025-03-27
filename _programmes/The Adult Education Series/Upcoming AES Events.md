@@ -39,43 +39,27 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success (Run 2)</strong></h4>
+<h4><strong>1. Webinar: InnovJam Showcase</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Coaching_for_Educators.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/InnovJam.png">
 </div>
-<p>How often do you, as lecturers or adult educators, feel overwhelmed by
-the demands of managing learners, meeting their diverse needs, and engaging
-in constructive conversations that inspire and motivate them to become
-effective learners? These challenges are common, yet many of us find it
-difficult to break out of habitual thinking patterns or struggle to make
-effective decisions in our professional roles.</p>
-<p>This session will explore the mindset and awareness necessary to thrive
-in the workplace. We will examine how coaching can not only enhance your
-personal and professional life but also improve how you communicate with
-and support your learners. By understanding key principles of workplace
-psychology, you will gain valuable insights into addressing learner needs,
-refining communication, and fostering an environment where both you and
-your students can excel.</p>
+<p>Join this webinar to learn from dedicated adult educators who have integrated
+GenAI into their TAE practices. Don't miss out on this opportunity to elevate
+your skills and stay ahead in the game!</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 28 March 2025</p>
+<p>Date: 17 April 2025</p>
 </li>
 <li>
-<p>Time: 2pm-5.30pm</p>
+<p>Time: 3pm-5.30pm</p>
 </li>
 <li>
-<p>Venue: Lifelong Learning Institute, Institute for Adult Learning (IAL)
-Level 7 Multipurpose Rooms MPR705/MPR706, 11 Eunos Rd 8, #07-04 Singapore
-408601</p>
-</li>
-<li>
-<p>Facilitator: Ms Betsy Ng / Institute for Adult Learning</p>
+<p>Mode: Online via Zoom</p>
 </li>
 </ul>
-<p>Learn something new!</p>
+<h3><strong><a href="https://ialsg.zoom.us/webinar/register/WN_UVdXK2dyQtKQYu4IRrb4wg" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
 <p></p>
-<h3><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScqpQ8eWbz4lkxCvTkCLKvi39idBnlrxtJynq8sijDmfELPaA/viewform" rel="noopener nofollow" target="_blank">Sign Up Now</a></strong></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
