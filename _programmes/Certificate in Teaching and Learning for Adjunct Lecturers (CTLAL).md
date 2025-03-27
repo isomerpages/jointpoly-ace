@@ -227,7 +227,7 @@ the following Polytechnic Representatives for assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong, </a>
-<a href="mailto:Catherine_Chua@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Catherina Chua</a>
+<a href="mailto:Catherine_Chua@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Catherine Chua</a>
 </p>
 </td>
 </tr>
