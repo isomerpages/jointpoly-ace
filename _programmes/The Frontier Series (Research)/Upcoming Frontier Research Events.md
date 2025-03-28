@@ -51,36 +51,7 @@ on carrying out educational research.</p>
 </li>
 </ul>
 <h3><strong><a href="https://forms.office.com/pages/responsepage.aspx?id=7bo-JNAAkEan3HWJOw2fmLoiRy_L0XdLkHO1-h-5mslURVc0QjJXRVgwVUk4UEhUV0pPSU5QV0dMMi4u&amp;route=shorturl" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
-<p></p>
-<h4>2. Education Research Community of Practice (Run 1)</h4>
-<p><strong><u>Objectives of Education Research COP</u></strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Elevate the educational research competencies of polytechnic educators</p>
-</li>
-<li>
-<p>Promote an evidence-based, data-driven approach to improve teaching and
-learning effectiveness</p>
-</li>
-<li>
-<p>Facilitate educational research collaborations across polytechnics</p>
-</li>
-</ol>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: Q1 2025</p>
-</li>
-<li>
-<p>Time: TBC</p>
-</li>
-<li>
-<p>Mode: TBC</p>
-</li>
-<li>
-<p>Registration: Coming Soon in 2025</p>
-</li>
-</ul>
+<h4></h4>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
