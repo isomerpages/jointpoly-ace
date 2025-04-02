@@ -119,7 +119,7 @@ please connect with the following poly representatives.</p>
 <p>TP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vijayan_N@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Vijayan N</a>
+<p><a href="mailto:keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
 </td>
 </tr>
