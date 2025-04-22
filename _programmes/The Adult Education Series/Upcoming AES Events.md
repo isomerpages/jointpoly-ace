@@ -68,7 +68,7 @@ workshop.</p>
 <p>Facilitator: Dr Abdul Khalid/ Republic Polytechnic</p>
 </li>
 </ul>
-<h3><strong><a href="https://ialsg.zoom.us/webinar/register/WN_UVdXK2dyQtKQYu4IRrb4wg" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
+<h3><strong><a href="https://forms.gle/QDUokRfqqhS3U6TFA" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
