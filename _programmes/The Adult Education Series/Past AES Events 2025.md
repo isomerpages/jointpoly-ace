@@ -129,4 +129,25 @@ Level 7 Multipurpose Rooms MPR705/MPR706, 11 Eunos Rd 8, #07-04 Singapore
 </ul>
 <p>Learn something new!</p>
 <p></p>
+<h3><u>April 2025</u></h3>
+<h4>Webinar: InnovJam Showcase</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/InnovJam.png">
+</div>
+<p>Join this webinar to learn from dedicated adult educators who have integrated
+GenAI into their TAE practices. Don't miss out on this opportunity to elevate
+your skills and stay ahead in the game!</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 17 April 2025</p>
+</li>
+<li>
+<p>Time: 3pm-5.30pm</p>
+</li>
+<li>
+<p>Mode: Online via Zoom</p>
+</li>
+</ul>
+<p>If you missed this, check out the recorded session by clicking <a href="https://ialsg.zoom.us/rec/play/ZjwFqraYxX1xvEEUvgQzZs0_HiFR4-brg2Y5QrbdQbYRyiB6OJSuA07HWZh1L22vdbHfmi7eJwIZpZwC.zAF_7eeGn7VDjWCF" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
