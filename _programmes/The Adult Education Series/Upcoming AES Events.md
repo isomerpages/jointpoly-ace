@@ -39,7 +39,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Webinar: InnovJam Showcase</strong></h4>
+<h4><strong>1. Workshop: Mastering Adult Learning in the CET classroom (Run 2)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="title card" src="/images/Adult Education Uploads/Mastering_cet.jpg">
