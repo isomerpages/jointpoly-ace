@@ -39,26 +39,36 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <p></p>
-<h4><strong>1. Webinar: InnovJam Showcase</strong></h4>
+<h4><strong>1. Workshop: Mastering Adult Learning in the CET classroom (Run 2)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/InnovJam.png">
+<img style="width: 100%" height="auto" width="100%" alt="title card" src="/images/Adult Education Uploads/Mastering_cet.jpg">
 </div>
-<p>Join this webinar to learn from dedicated adult educators who have integrated
-GenAI into their TAE practices. Don't miss out on this opportunity to elevate
-your skills and stay ahead in the game!</p>
+<p>This one-day immersive workshop equips CET educators with practical, research-informed
+strategies to confidently manage disruptive behaviours in adult learning
+classrooms. Grounded in andragogical principles, participants will explore
+the root causes of disruptive behaviours and learn to apply targeted, proactive,
+and de-escalation techniques. Through scenario-based discussions, collaborative
+problem-solving, and realistic role-plays, educators will enhance their
+ability to foster respectful, inclusive, and psychologically safe environments
+that support meaningful learning for working professionals. Participants
+will get to experience problem-based learning and discussions during the
+workshop.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 17 April 2025</p>
+<p>Date: 23 May 2025</p>
 </li>
 <li>
-<p>Time: 3pm-5.30pm</p>
+<p>Time: 9am-5pm</p>
 </li>
 <li>
-<p>Mode: Online via Zoom</p>
+<p>Venue: Republic Polytechnic Block E1 Level 4 OLELab</p>
+</li>
+<li>
+<p>Facilitator: Dr Abdul Khalid/ Republic Polytechnic</p>
 </li>
 </ul>
-<h3><strong><a href="https://ialsg.zoom.us/webinar/register/WN_UVdXK2dyQtKQYu4IRrb4wg" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
+<h3><strong><a href="https://forms.gle/QDUokRfqqhS3U6TFA" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
