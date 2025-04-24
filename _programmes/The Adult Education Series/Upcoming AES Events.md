@@ -65,7 +65,7 @@ workshop.</p>
 <p>Venue: Republic Polytechnic Block E1 Level 4 OLELab</p>
 </li>
 <li>
-<p>Facilitator: Dr Abdul Khalid/ Republic Polytechnic</p>
+<p>Facilitator: Dr Abdul Kahlid/ Republic Polytechnic</p>
 </li>
 </ul>
 <h3><strong><a href="https://forms.gle/QDUokRfqqhS3U6TFA" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
