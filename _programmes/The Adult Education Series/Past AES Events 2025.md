@@ -151,3 +151,34 @@ your skills and stay ahead in the game!</p>
 </ul>
 <p>If you missed this, check out the recorded session by clicking <a href="https://ialsg.zoom.us/rec/play/ZjwFqraYxX1xvEEUvgQzZs0_HiFR4-brg2Y5QrbdQbYRyiB6OJSuA07HWZh1L22vdbHfmi7eJwIZpZwC.zAF_7eeGn7VDjWCF" rel="noopener nofollow" target="_blank">here</a>!</p>
 <p></p>
+<h3><u>May 2025</u></h3>
+<h4>Workshop: Mastering Adult Learning in the CET classroom (Run 2)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="title card" src="/images/Adult Education Uploads/Mastering_cet.jpg">
+</div>
+<p>This one-day immersive workshop equips CET educators with practical, research-informed
+strategies to confidently manage disruptive behaviours in adult learning
+classrooms. Grounded in andragogical principles, participants will explore
+the root causes of disruptive behaviours and learn to apply targeted, proactive,
+and de-escalation techniques. Through scenario-based discussions, collaborative
+problem-solving, and realistic role-plays, educators will enhance their
+ability to foster respectful, inclusive, and psychologically safe environments
+that support meaningful learning for working professionals. Participants
+will get to experience problem-based learning and discussions during the
+workshop.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 23 May 2025</p>
+</li>
+<li>
+<p>Time: 9am-5pm</p>
+</li>
+<li>
+<p>Venue: Republic Polytechnic Block E1 Level 4 OLELab</p>
+</li>
+<li>
+<p>Facilitator: Dr Abdul Kahlid/ Republic Polytechnic</p>
+</li>
+</ul>
+<p></p>
