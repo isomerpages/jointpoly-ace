@@ -175,7 +175,7 @@ workshop.</p>
 <p>Time: 9am-5pm</p>
 </li>
 <li>
-<p>Venue: Republic Polytechnic Block E1 Level 4 OLELab</p>
+<p>Venue: Republic Polytechnic Block E1 Level 4 OLE! Lab</p>
 </li>
 <li>
 <p>Facilitator: Dr Abdul Kahlid/ Republic Polytechnic</p>
