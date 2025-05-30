@@ -66,7 +66,7 @@ and data powered teaching pedagogies in education.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://forms.office.com/r/jeqGguFifV" rel="noopener noreferrer nofollow" target="_blank"><u>https://forms.office.com/r/jeqGguFifV</u></a>
+<p><a href="https://forms.office.com/r/jeqGguFifV" rel="noopener nofollow" target="_blank">Link</a>
 </p>
 </td>
 </tr>
