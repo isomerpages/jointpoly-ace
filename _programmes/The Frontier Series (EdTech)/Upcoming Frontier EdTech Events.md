@@ -28,8 +28,20 @@ and innovative ways of teaching and learning.</p>
 </li>
 </ul>
 <p></p>
-<h3><strong>Upcoming Professional Development Events</strong></h3>
-<p>Watch this space for 2025 events.</p>
+<h3><strong>Transforming Teaching and Learning with Data and Technology</strong></h3>
+<p></p>
+<p>In collaboration with the PolitePD Workgroup and JP-AcE, the Frontier
+Series 2025 presents a dynamic lineup of webinars and workshops designed
+to spark innovation and conversation around <strong>Transforming Teaching and Learning with Data and Technology </strong>in
+the Polytechnic Sector. This year’s series explores the transformative
+role of Generative AI in education, adaptive technologies, and technology
+and data powered teaching pedagogies in education.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
