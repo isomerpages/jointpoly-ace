@@ -30,6 +30,9 @@ and innovative ways of teaching and learning.</p>
 <p></p>
 <h3><strong>Transforming Teaching and Learning with Data and Technology</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide1.jpg">
+</div>
 <p>In collaboration with the PolitePD Workgroup and JP-AcE, the Frontier
 Series 2025 presents a dynamic lineup of webinars and workshops designed
 to spark innovation and conversation around <strong>Transforming Teaching and Learning with Data and Technology </strong>in
@@ -37,8 +40,56 @@ the Polytechnic Sector. This year’s series explores the transformative
 role of Generative AI in education, adaptive technologies, and technology
 and data powered teaching pedagogies in education.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide2.jpg">
+</div>
+<h4>15 July 2025 - Leveraging data for personalised learning through the use of Self-Directed Learning (SDL) Coach</h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme Details</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Sign Up Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15 July 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
