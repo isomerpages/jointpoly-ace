@@ -44,49 +44,57 @@ and data powered teaching pedagogies in education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide2.jpg">
 </div>
 <h4>15 July 2025 - Leveraging data for personalised learning through the use of Self-Directed Learning (SDL) Coach</h4>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide3.jpg">
+</div>
+<p>Click here to sign up: <a href="https://forms.office.com/r/jeqGguFifV" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
+<p></p>
+<h4>16 July 2025 - AI-Assisted Instructional Design (ID): Evolving Practices &amp; Perspectives</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide4.jpg">
 </div>
 <p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide4.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide5.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide6.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide7.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide8.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide9.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide10.jpg">
 </div>
-<p></p>
+<p>Click here to sign up: <a href="https://forms.office.com/r/9VFwy1Qe7r" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
