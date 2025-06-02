@@ -71,6 +71,19 @@ to enhance your teaching approach and make a meaningful impact.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="facil description" src="/images/Adult Education Uploads/May 2025/Simple_Minimalist_Christmas_Card_with_Photo.png">
 </div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Registration form for <strong>SGEnable</strong> Staff/ Adult Educators:
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScrBXxrV4UAzAj2YyB8nKLP8h904AD2gHSKw3JaOr0sugCgNQ/viewform" rel="noopener nofollow" target="_blank">Sign Up Here!</a>
+</p>
+</li>
+<li>
+<p>Registration form for <strong>Polytechnics and IAL</strong> Staff/ Adult
+Educators: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdWh0HrwMTig4lWAPaXgJDWhqZmW-al26-l0wLel48-ycax_w/viewform" rel="noopener nofollow" target="_blank">Sign Up Here!</a>
+</p>
+<p></p>
+</li>
+</ul>
 <p><strong>Directions</strong>
 </p>
 <p>The easiest way to reach here is by MRT to Redhill Station, which is just
@@ -90,7 +103,6 @@ Road.&nbsp;<strong>All entrances are accessible by wheelchair.</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/May 2025/EV_Map2.jpg">
 </div>
-<h3><strong><a href="https://forms.gle/dC5hRwcdfZWeaoyJA" rel="noopener nofollow" target="_blank">Sign Up Now!</a></strong></h3>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training

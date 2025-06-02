@@ -48,3 +48,24 @@ To access the recording, please complete the following steps:</p>
 <br>7. <a href="/files/JPREP   MOE TRF 2025/TRF_grant_writing_webinar__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE Grant writing webinar</a>
 </p>
 <p></p>
+<h4>Webinar: Bridging Educational Research and Practice: Insights from Polytechnic Researchers</h4>
+<p></p>
+<p>Join us in this insightful lunchtime webinar where seasoned researchers
+from all the polytechnics in Singapore share their experiences and tips
+on carrying out educational research.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Education_Research.jpg">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 30 April 2025</p>
+</li>
+<li>
+<p>Time: 12-1.30pm</p>
+</li>
+<li>
+<p>Mode: Online via Zoom</p>
+</li>
+</ul>
+<p>If you missed this, check out the recording of this session <a href="https://lms.polite.edu.sg/d2l/le/enhancedSequenceViewer/451417?url=https%3A%2F%2F4493420a-e37c-4d7e-bc33-55d49da1a74d.sequences.api.brightspace.com%2F451417%2Factivity%2F11116836%3FfilterOnDatesAndDepth%3D1" rel="noopener nofollow" target="_blank">here</a>!</p>
+<p>&nbsp;</p>
