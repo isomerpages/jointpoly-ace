@@ -57,44 +57,51 @@ and data powered teaching pedagogies in education.</p>
 <p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
-<p></p>
+<h4>17 July 2025 - From Questions to Conversations - How GenAI Supports Self- Directed Learning</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide5.jpg">
 </div>
-<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://forms.office.com/r/9VFwy1Qe7r" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
+<p></p>
+<h4>18 July 2025 - Adaptive Learning for Self-Regulated Learners</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide6.jpg">
 </div>
-<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://forms.office.com/r/A9Qtx78tb2" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
+<h4>21 July 2025 - Beyond the Flip: Transforming Engagement with Asynchronous Learning</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide7.jpg">
 </div>
-<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://forms.office.com/r/0ZVqQwJh7P" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
+<h3>22 July 2025 - AI Chatbots for Personalised Learning</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide8.jpg">
 </div>
-<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://forms.office.com/r/0ZVqQwJh7P" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
-<p></p>
+<h4>22 July 2025 - Shaping Tomorrow’s Assessments with GenAI: Empowering Both Educators and Learners</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide9.jpg">
 </div>
-<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://nyp-sg.zoom.us/meeting/register/SOnL84haQJ-RKP6uCEpkPg" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
-<p></p>
+<h4>23 July 2025 - Redesigning your assessment with GenAI in mind</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide10.jpg">
 </div>
-<p>Click here to sign up: <a href="https://forms.office.com/r/9VFwy1Qe7r" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+<p>Click here to sign up: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=FeGpyxYwYkShq6Vly6DN8Wz8fRX4BntDhEPHj-jAkyhUQTRMMUFHWDVSNEc0RkNDRkczUzRJWU82NC4u" rel="noopener nofollow" target="_blank">Sign up for Workshop</a>
 </p>
+<p></p>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
