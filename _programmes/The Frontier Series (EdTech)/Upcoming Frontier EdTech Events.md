@@ -44,46 +44,48 @@ and data powered teaching pedagogies in education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide2.jpg">
 </div>
 <h4>15 July 2025 - Leveraging data for personalised learning through the use of Self-Directed Learning (SDL) Coach</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Date</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Sign Up Link</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>15 July 2025</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide3.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.office.com/r/jeqGguFifV" rel="noopener nofollow" target="_blank">Link</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/MoekwkODRh6ifujhBiasqw" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide5.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide6.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide7.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide8.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide9.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide10.jpg">
+</div>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
