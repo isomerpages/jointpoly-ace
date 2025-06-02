@@ -121,7 +121,12 @@ and data powered teaching pedagogies in education.</p>
 <p>Click here to sign up: <a href="https://for.edu.sg/rp-session-1" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
 </p>
 <p></p>
-<p></p>
+<h4>25 July 2025 - GenAI in Education: Transforming Learning with Ethics in Mind</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide14.jpg">
+</div>
+<p>Click here to sign up: <a href="https://for.edu.sg/rp-session-2" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
