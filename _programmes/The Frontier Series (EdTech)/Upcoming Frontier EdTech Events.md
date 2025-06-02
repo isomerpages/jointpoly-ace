@@ -100,6 +100,27 @@ and data powered teaching pedagogies in education.</p>
 <p>Click here to sign up: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=FeGpyxYwYkShq6Vly6DN8Wz8fRX4BntDhEPHj-jAkyhUQTRMMUFHWDVSNEc0RkNDRkczUzRJWU82NC4u" rel="noopener nofollow" target="_blank">Sign up for Workshop</a>
 </p>
 <p></p>
+<h4>24 July 2025 - AI-Enabled Learning Companions: Reimagining Student Engagement and Self-Directed Learning Through Educational Chatbots</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide11.jpg">
+</div>
+<p>Click here to sign up: <a href="https://nyp-sg.zoom.us/meeting/register/t03HkeTAQ9uytORCWoXJ0w" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
+<p></p>
+<h4>24 July 2025 - Empowering Student Voice: A GenAI-Supported Journey from Script to Speech</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide12.jpg">
+</div>
+<p>Click here to sign up: <a href="https://np-edu-sg.zoom.us/meeting/register/tlvSUyW3SCuBIOVjsVDlog" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
+<p></p>
+<h4>25 July 2025 - Classroom Innovation in Practice: Teaching with EduBlocks and Minecraft</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide13.jpg">
+</div>
+<p>Click here to sign up: <a href="https://for.edu.sg/rp-session-1" rel="noopener nofollow" target="_blank">Sign up for Webinar</a>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
