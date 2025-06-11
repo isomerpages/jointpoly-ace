@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - News.md
+      - Academy Events/Academy Events 2025.md
       - Academy Events/.keep
       - Academy Events/Academy Events 2024.md
       - Academy Events/Academy Events 2023.md
