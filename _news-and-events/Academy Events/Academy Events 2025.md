@@ -12,6 +12,9 @@ third_nav_title: Academy Events
 <p></p>
 <p><strong>Opening address: Mr Soh Wai Wah, PCEO, Singapore Polytechnic</strong>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02128.jpg">
+</div>
 <p>Mr Soh Wai Wah, PCEO of Singapore Polytechnic welcomed everyone to the
 Graduation Ceremony that encompassed the Joint Polytechnic Move-in Programmes:&nbsp;&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -31,6 +34,10 @@ Intakes 10 and 11.&nbsp;</p>
 </ul>
 <p></p>
 <p><strong>Plenary Talk #1: From Learning to Impact - OCBC’s Blueprint for Talent Development</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02157.jpg">
+</div>
 <p>Ms Yap Aye Wee, Head of Learning and Transformation, Group Human Resources
 at OCBC Bank spoke on the topic of “From Learning to Impact: OCBC’s Blueprint
 for Talent Development. She shared about OCBC Learning Philosophy, modified
@@ -43,6 +50,10 @@ the employees, managers, and organisation in developing their people.&nbsp;&nbsp
 <p>All these together foster a culture of continuous learning and growth.&nbsp;&nbsp;</p>
 <p></p>
 <p><strong>Plenary Talk #2: Shaping the Future of Learning in a Rapidly Changing World: Timely Changes, Timeless Constants</strong>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02251.jpg">
+</div>
 <p>Associate Professor Ng Pak Tee from the National Institute of Education,
 NTU shared his thoughts on the role of educators in a rapidly changing
 world, particularly with the disruptions caused by Gen AI.&nbsp;&nbsp;</p>
@@ -59,7 +70,11 @@ trees… and no one knows who planted those trees in the first place.”&nbsp;</
 </blockquote>
 <p></p>
 <p><strong>Closing Address: Dr Rajnish Gupta, Head, JP-AcE</strong>&nbsp;</p>
-<p>&nbsp;Dr Gupta congratulated the graduates on their commitment, perseverance,
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02391.jpg">
+</div>
+<p>Dr Gupta congratulated the graduates on their commitment, perseverance,
 and purpose. He reflected that the programmes were transformative experiences
 that enabled them to build capacity, spark innovation and strengthen collaboration.
 In addition to new knowledge and skills, participants also built meaningful
