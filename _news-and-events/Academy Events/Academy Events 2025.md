@@ -70,4 +70,25 @@ the polytechnic sector.&nbsp;&nbsp;</p>
 <p>Dr Gupta also thanked all who worked together to make the programmes as
 well as the final graduation ceremony a success.&nbsp;</p>
 <p>&nbsp;</p>
+<p><strong>Congratulations to all graduates! May you go on to plant many trees!</strong>&nbsp;</p>
+<p>Watch the highlights of the CTLPE programme for Intakes 11 and 12 here:&nbsp;</p>
+<p>&lt;Insert CTLPE video from Sandric’s email&gt;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Watch the highlights of the SLMP, TLMP and CLMP move-in programmes here:&nbsp;</p>
+<p>&lt;Insert move-in programmes video from Sandric’s email&gt;&nbsp;</p>
+<p>&nbsp;</p>
+<p>Can you spot yourself or your colleagues in these photos?&nbsp;</p>
+<p>&lt;Insert photos for the graduates and workgroups – example shown for
+last photo&gt;&nbsp;</p>
+<p>SLMP (JOK02231)&nbsp;</p>
+<p>CLMP (JOK02237)&nbsp;</p>
+<p>TLMP (JOK02241)&nbsp;</p>
+<p>SLMP, CLMP and TLMP workgroups and mentors (JOK02244)&nbsp;</p>
+<p>CTLPE Intake 10 (JOK02359, JOK02361, JOK2373)&nbsp;&nbsp;</p>
+<p>CTLPE Intake 11 (JOK02377, JOK02374, JOK02384)&nbsp;</p>
+<p>CTLPE Workgroup and trainers (JOK02389)&nbsp;</p>
 <p></p>
+<p>Click on the links below to view and download the event photos and photobooth
+photos.&nbsp;</p>
+<p>Event Photos &lt;Insert link to event photos&gt;&nbsp;</p>
+<p>Photobooth &lt;Insert link to photobooth photos&gt;&nbsp;</p>
