@@ -87,23 +87,63 @@ well as the final graduation ceremony a success.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Congratulations to all graduates! May you go on to plant many trees!</strong>&nbsp;</p>
 <p>Watch the highlights of the CTLPE programme for Intakes 11 and 12 here:&nbsp;</p>
-<p>&lt;Insert CTLPE video from Sandric’s email&gt;&nbsp;</p>
-<p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/E5mROYeqX1k"></iframe>
+</div>
 <p>Watch the highlights of the SLMP, TLMP and CLMP move-in programmes here:&nbsp;</p>
-<p>&lt;Insert move-in programmes video from Sandric’s email&gt;&nbsp;</p>
-<p>&nbsp;</p>
+<div class="iframe-wrapper">
+<iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0INB84Dgrbg"></iframe>
+</div>
 <p>Can you spot yourself or your colleagues in these photos?&nbsp;</p>
-<p>&lt;Insert photos for the graduates and workgroups – example shown for
-last photo&gt;&nbsp;</p>
-<p>SLMP (JOK02231)&nbsp;</p>
-<p>CLMP (JOK02237)&nbsp;</p>
-<p>TLMP (JOK02241)&nbsp;</p>
-<p>SLMP, CLMP and TLMP workgroups and mentors (JOK02244)&nbsp;</p>
-<p>CTLPE Intake 10 (JOK02359, JOK02361, JOK2373)&nbsp;&nbsp;</p>
-<p>CTLPE Intake 11 (JOK02377, JOK02374, JOK02384)&nbsp;</p>
-<p>CTLPE Workgroup and trainers (JOK02389)&nbsp;</p>
+<h4>SLMP </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02231__1_.jpg">
+</div>
+<h4>CLMP</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02237.jpg">
+</div>
+<h4>TLMP </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02241.jpg">
+</div>
+<h4>SLMP, CLMP and TLMP Workgroups and Mentors </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02244.jpg">
+</div>
+<h4>CTLPE Intake 10 </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02359.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02361.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02373.jpg">
+</div>
+<h4>CTLPE Intake 11</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02374.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02377.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02384.jpg">
+</div>
+<h4>CTLPE Workgroup and Trainers </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02389.jpg">
+</div>
 <p></p>
-<p>Click on the links below to view and download the event photos and photobooth
-photos.&nbsp;</p>
-<p>Event Photos &lt;Insert link to event photos&gt;&nbsp;</p>
-<p>Photobooth &lt;Insert link to photobooth photos&gt;&nbsp;</p>
+<h3>Click on the links below to view and download the event photos and photobooth photos.&nbsp;</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://photos.app.goo.gl/FTbMGb1v9jk7RdYN6" rel="noopener nofollow" target="_blank">Event Photos</a>
+</p>
+</li>
+<li>
+<p><a href="https://photos.app.goo.gl/cmzA91xho1dkk8vAA" rel="noopener nofollow" target="_blank">Photobooth Photos</a>&nbsp;</p>
+</li>
+</ul>
+<p></p>
