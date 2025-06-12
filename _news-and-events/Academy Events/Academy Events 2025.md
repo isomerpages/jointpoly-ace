@@ -95,7 +95,7 @@ well as the final graduation ceremony a success.&nbsp;</p>
 <iframe height="397" width="706" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/0INB84Dgrbg"></iframe>
 </div>
 <p>Can you spot yourself or your colleagues in these photos?&nbsp;</p>
-<h4>SLMP </h4>
+<h4>SLMP</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02231__1_.jpg">
 </div>
@@ -103,15 +103,15 @@ well as the final graduation ceremony a success.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02237.jpg">
 </div>
-<h4>TLMP </h4>
+<h4>TLMP</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02241.jpg">
 </div>
-<h4>SLMP, CLMP and TLMP Workgroups and Mentors </h4>
+<h4>SLMP, CLMP and TLMP Workgroups and Mentors</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02244.jpg">
 </div>
-<h4>CTLPE Intake 10 </h4>
+<h4>CTLPE Intake 10</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02359.jpg">
 </div>
@@ -131,7 +131,7 @@ well as the final graduation ceremony a success.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02384.jpg">
 </div>
-<h4>CTLPE Workgroup and Trainers </h4>
+<h4>CTLPE Workgroup and Trainers</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Graduation 2025/JOK02389.jpg">
 </div>
