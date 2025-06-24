@@ -252,7 +252,7 @@ Technology (ICT), Ngee Ann Polytechnic</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Apr 2024/IALDA01____1.png">
 </div>
 <h4></h4>
-<h3><u>July 2024</u></h3>
+<h3><u>June 2024</u></h3>
 <h4>Adult Education Community of Practice (COP) Run 3</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_Navy_and_Dark_Red_Creative_Illustrated_Business_Marketing_Plant_Presentation__1_.jpg">
@@ -319,6 +319,7 @@ basis.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jul 2024/Screenshot_2024_07_10_102256.png">
 </div>
 <p></p>
+<h3><u>July 2024</u></h3>
 <h4>Adult Education Community of Practice (COP) Run 4</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -473,6 +474,7 @@ Level 7 Multipurpose Rooms MPR705/MPR706</p>
 </li>
 </ul>
 <p></p>
+<h3><u>November 2024</u></h3>
 <h4>Workshop: Coaching for Educators: Transforming Mindset to enhance Learner Engagement and Success</h4>
 <p></p>
 <p>How often do you, as lecturers or adult educators, feel overwhelmed by

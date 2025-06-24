@@ -40,8 +40,9 @@ the Polytechnic Sector. This year’s series explores the transformative
 role of Generative AI in education, adaptive technologies, and technology
 and data powered teaching pedagogies in education.</p>
 <p></p>
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/2025_Frontier_Series_EdTech_corrected_TOC.png">
 </div>
 <h4>15 July 2025 - Leveraging data for personalised learning through the use of Self-Directed Learning (SDL) Coach</h4>
 <div class="isomer-image-wrapper">
@@ -100,7 +101,7 @@ and data powered teaching pedagogies in education.</p>
 <p><strong>Sign Up Now!: <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=FeGpyxYwYkShq6Vly6DN8Wz8fRX4BntDhEPHj-jAkyhUQTRMMUFHWDVSNEc0RkNDRkczUzRJWU82NC4u" rel="noopener nofollow" target="_blank">Sign up for Workshop</a></strong>
 </p>
 <p></p>
-<h4>24 July 2025 - AI-Enabled Learning Companions: Reimagining Student Engagement and Self-Directed Learning Through Educational Chatbots</h4>
+<h4>24 July 2025 - Exploring the Role of Chatbots in Education</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide11.jpg">
 </div>
