@@ -39,10 +39,12 @@ to spark innovation and conversation around <strong>Transforming Teaching and Le
 the Polytechnic Sector. This year’s series explores the transformative
 role of Generative AI in education, adaptive technologies, and technology
 and data powered teaching pedagogies in education.</p>
-<p></p>
-<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/2025_Frontier_Series_EdTech_corrected_TOC.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/3.jpg">
 </div>
 <h4>15 July 2025 - Leveraging data for personalised learning through the use of Self-Directed Learning (SDL) Coach</h4>
 <div class="isomer-image-wrapper">
@@ -129,6 +131,12 @@ and data powered teaching pedagogies in education.</p>
 <p><strong>Sign Up Now!: <a href="https://for.edu.sg/rp-session-2" rel="noopener nofollow" target="_blank">Sign up for Webinar</a></strong>
 </p>
 <p></p>
+<h4>25 July 2025 - IAL AES session: From Intuition to Insight: Making Sense of Data to Empower Thriving Learning Environments</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/16.jpg">
+</div>
+<p><strong>Sign Up Now!: <a href="https://forms.gle/PxNiTGCvxrR4SQq26" rel="noopener nofollow" target="_blank">Sign up for Workshop</a></strong>
+</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
