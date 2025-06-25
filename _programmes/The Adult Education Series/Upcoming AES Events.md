@@ -123,7 +123,7 @@ data can assist us in supporting our learners better.</p>
 <p>To participate in the hands-on exercise, you will need to have MS Excel
 and PowerBI Desktop installed on your device. This exercise is optional,
 and a demonstration will be provided.</p>
-<p>PowerBI Desktop can be downloaded for free from the following url: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494&amp;msockid=07a9dfdc779f66132448c9c976da6763" rel="noopener noreferrer nofollow" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=58494&amp;msockid=07a9dfdc779f66132448c9c976da6763</a> 
+<p>PowerBI Desktop can be downloaded for free from the following url: <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494&amp;msockid=07a9dfdc779f66132448c9c976da6763" rel="noopener noreferrer nofollow" target="_blank">https://www.microsoft.com/en-us/download/details.aspx?id=58494&amp;msockid=07a9dfdc779f66132448c9c976da6763</a>
 </p>
 <ul data-tight="true" class="tight">
 <li>
