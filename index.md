@@ -18,8 +18,9 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators  JP-AcE
       background: /images/background black.jpg
-      button: Check out new Joint poly educational research repository!
-      url: https://jpace.polytechnic.edu.sg/jperrepository/
+      button: The Frontier Series Returns! — Courses on Transforming Teaching and
+        Learning with Data and Technology
+      url: https://jpace.polytechnic.edu.sg/upcomingfsedtechevents/
       key_highlights:
         - title: About Us
           description: ""
