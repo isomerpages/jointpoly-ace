@@ -102,7 +102,7 @@ to commemorate the special occasion. Well done indeed, one and all!</p>
 </div>
 <p>CTLPE Graduation Ceremony 2023 - Intake 7 Graduation Video</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u0NJlXxxEwE"></iframe>
+<iframe height="315" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=u0NJlXxxEwE"></iframe>
 </div>
 <p><a href="https://drive.google.com/drive/folders/1w3c2t_hogkZxIVFGI0hQ3XL8kkQb-VFo" rel="noopener noreferrer nofollow" target="_blank">Click here to check out more Graduation Ceremony photos!</a>
 </p>
