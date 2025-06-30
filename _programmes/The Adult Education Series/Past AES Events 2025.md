@@ -182,3 +182,38 @@ workshop.</p>
 </li>
 </ul>
 <p></p>
+<h3><u>June 2025</u></h3>
+<h4>Workshop: Explore Diverse Needs and Inclusive Learning Spaces (Run 1)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/May 2025/Explore_Diverse_needs.jpg">
+</div>
+<p>Join our 3.5-hour session to explore a few key inclusive teaching strategies,
+practical classroom tips, and how to support diverse adult learners. Experience
+a focused, interactive overview that provides valuable insights to enhance
+your facilitation skills and foster an inclusive learning environment.
+You will have an opportunity to engage in experiential activities to empathise
+the challenges faced by persons with diverse needs. Don't miss this opportunity
+to enhance your teaching approach and make a meaningful impact.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Date:</strong> 27 June 2025 Friday</p>
+</li>
+<li>
+<p><strong>Time:</strong> 2.00pm – 5.30 pm</p>
+</li>
+<li>
+<p><strong>Venue:</strong> Hall @ UOB Ability Hub, 20 Lengkok Bahru, Singapore
+159053</p>
+</li>
+<li>
+<p><strong>Workshop Facilitator:</strong> Ms Kris Loy</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="facil description" src="/images/Adult Education Uploads/May 2025/Simple_Minimalist_Christmas_Card_with_Photo.png">
+</div>
+<p></p>
+<p></p>
