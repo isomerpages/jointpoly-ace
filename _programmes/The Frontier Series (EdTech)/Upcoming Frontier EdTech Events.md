@@ -95,7 +95,10 @@ and data powered teaching pedagogies in education.</p>
 </div>
 <p><strong>Sign Up Now!: <a href="https://nyp-sg.zoom.us/meeting/register/SOnL84haQJ-RKP6uCEpkPg" rel="noopener nofollow" target="_blank">Sign up for Webinar</a></strong>
 </p>
-<p></p>
+<p>Registration for NYP webinars requires an email with an authenticated
+Zoom account. If you do not have a Zoom account associated with your email,
+you may register for a free Zoom account at this link: <a href="https://zoom.us/signin#/login" rel="noopener noreferrer nofollow" target="_blank">Sign In | Zoom</a>
+</p>
 <h4>23 July 2025 - Redesigning your assessment with GenAI in mind</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide10.jpg">
@@ -108,6 +111,10 @@ and data powered teaching pedagogies in education.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/Slide11.jpg">
 </div>
 <p><strong>Sign Up Now!: <a href="https://nyp-sg.zoom.us/meeting/register/t03HkeTAQ9uytORCWoXJ0w" rel="noopener nofollow" target="_blank">Sign up for Webinar</a></strong>
+</p>
+<p>Registration for NYP webinars requires an email with an authenticated
+Zoom account. If you do not have a Zoom account associated with your email,
+you may register for a free Zoom account at this link: <a href="https://zoom.us/signin#/login" rel="noopener noreferrer nofollow" target="_blank">Sign In | Zoom</a>
 </p>
 <p></p>
 <h4>24 July 2025 - Empowering Student Voice: A GenAI-Supported Journey from Script to Speech</h4>
