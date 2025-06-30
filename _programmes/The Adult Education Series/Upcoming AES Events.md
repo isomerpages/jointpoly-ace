@@ -95,11 +95,14 @@ Adult Learning, 11 Eunos Road 8, Lifelong Learning Institute, Singapore
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/location.png">
 </div>
-<h4><a href="https://forms.gle/PxNiTGCvxrR4SQq26" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h4>
+<h3><a href="https://forms.gle/PxNiTGCvxrR4SQq26" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
 <p></p>
 <h4><strong>2. Webinar: Beyond the Hype: Agentic AI and the Future of Human-Centred Learning</strong></h4>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/Jun 2025/1__31July_innovLogue_20250623__Email_v2_compressed.jpg">
+</div>
+<h3><a href="https://ialsg.zoom.us/webinar/register/WN_a7bXzNTbTW6Z-gpSJsPu9g#/registration" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
