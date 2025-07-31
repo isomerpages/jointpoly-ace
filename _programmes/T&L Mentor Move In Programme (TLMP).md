@@ -18,47 +18,30 @@ The T&amp;L Mentor Move-In Programme (TLMP) provides the T&amp;L mentors across 
 
 The TLMP is organised by representatives from all polytechnics.
 
-![](/images/tlmporganisers.jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_4315_2_11zon.png)
 
 #### How is the programme conducted?
 
-TLMP is conducted mainly face-to-face and provision for hybrid mode. The programme includes workshop, learning journey, panel discussion, fireside chat and forum. 
+TLMP is conducted in blended mode. Programme includes online learning, face-to-face workshops, talks, learning journey, poster exhibition.
 
-![](/images/tlmp%20intake%201%20discussion.jpg)
+![](/images/TLMP%20Intake%202%20Update/IMG_9727_3_11zon.jpg)
 
-![](/images/tlmp1%20(5).jpeg)
+![](/images/TLMP%20Intake%202%20Update/Day_2_Group_5_Photo_1.png)
 
-![](/images/tlmp1%20(2).jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_9787_1_11zon.png)
 
-![](/images/tlmp1%20(3).jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_4279_1_11zon.png)
 
 #### When is the programme conducted?
 
-The programme started in October 2022 and April 2024 which is 13 months and 160 hours for Intake 1 and 2.
+TLMP Intake 3 is a 120-hour programme over a duration of 9 months. 
 
-Moving for Intake 3, it will be streamlined to be 9 months and 120 hours WEF for September 2025.
+##### Intake 3 Key Dates:
+* Onboarding Programme: 15-18 Sep 2025
+* Mid-Point Retreat: 13 Mar 2026
+* Final T&amp;L Festival: 22 May 2026
 
-![](/images/tlmp%20nm2.jpg)
-
-
-### [Click here to find out more about TLMP!](/files/TLMP_intake_2_website_approved_by_RJ_16_Jan_24.pdf)
-
-##### Mid-Point Retreat on 20th March 2023
-![](/images/TLMP%20Intake%202%20Update/MPR_Ideation2_min.png)
-
-![](/images/TLMP%20Intake%202%20Update/MPR_Friends.png)
-
-![](/images/TLMP%20Intake%202%20Update/EM_Huddle.png)
-
-![](/images/TLMP%20Intake%202%20Update/EM_Huddle_image.JPG)
-
-##### T&amp;L Learning Festival on 9th October 2023
-
-![](/images/TLMP%20Intake%202%20Update/Identity.png)
-
-![](/images/TLMP%20Intake%202%20Update/Impact.png)
-
-![](/images/TLMP%20Intake%202%20Update/Inspiration.png)
+### [Click here to find out more about TLMP!](/files/TLMP_website_intro_July_2025.pdf)
 
 ##### Brown Bag Series
 ![](/images/TLMP%20Intake%202%20Update/BB.png)
@@ -75,6 +58,8 @@ Watch Now:
 *  [Harnessing the Power of Generative AI Tools for Teaching and Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/E1P8aX80JGG7awA9)
 *  [Innovative Approaches in Curriculum Design](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/wKmOZ5J2MVXVWzMA)
 *  [Competency Based Learning in NYP](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/NvylWE15AozeW0OX)
+*  [Self-Directed Learning](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/j40PQDXN8jBlQvXB)
+*  [Impacting Communities Service-learning in NP](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/1xkVaqBNO8NgQl0e)
 
 2023
 * [Fostering Student Motivation &amp; Engagement: The Relevant, Appealing and Personal (RAP) Pedagogical Framework](https://nyp.padlet.org/joeytong/polytechnic-events-open-to-all-poly-staff-pyh8eoctf1vj4q2y/wish/2373188500)
@@ -88,4 +73,4 @@ You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg
 
 #### Have a question related to TLMP?
 
-Please contact our Programme Leads from JP-AcE: <a href="mailto:tina_soo@np.edu.sg">Ms. Tina Soo</a> , <a href="mailto:Joey_tong@nyp.edu.sg">Ms. Joey Tong</a>
+Please contact our Programme Leads from JP-AcE:  <a href="mailto:Joey_tong@nyp.edu.sg">Ms. Joey Tong</a>, <a href="mailto:Lim_Gaik_Bee@np.edu.sg">Dr. Lim Gaik Bee</a>
