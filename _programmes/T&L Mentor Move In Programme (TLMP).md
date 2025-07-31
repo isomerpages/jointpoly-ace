@@ -18,25 +18,29 @@ The T&amp;L Mentor Move-In Programme (TLMP) provides the T&amp;L mentors across 
 
 The TLMP is organised by representatives from all polytechnics.
 
-![](/images/tlmporganisers.jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_4315_2_11zon.png)
 
 #### How is the programme conducted?
 
-TLMP is conducted mainly face-to-face and provision for hybrid mode. The programme includes workshop, learning journey, panel discussion, fireside chat and forum. 
+TLMP is conducted in blended mode. Programme includes online learning, face-to-face workshops, talks, learning journey, poster exhibition.
 
-![](/images/tlmp%20intake%201%20discussion.jpg)
+![](/images/TLMP%20Intake%202%20Update/IMG_9727_3_11zon.jpg)
 
-![](/images/tlmp1%20(5).jpeg)
+![](/images/TLMP%20Intake%202%20Update/Day_2_Group_5_Photo_1.png)
 
-![](/images/tlmp1%20(2).jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_9787_1_11zon.png)
 
-![](/images/tlmp1%20(3).jpeg)
+![](/images/TLMP%20Intake%202%20Update/IMG_4279_1_11zon.png)
 
 #### When is the programme conducted?
 
-The programme started in October 2022 and April 2024 which is 13 months and 160 hours for Intake 1 and 2.
+TLMP Intake 3 is a 120-hour programme over a duration of 9 months. 
 
-Moving for Intake 3, it will be streamlined to be 9 months and 120 hours WEF for September 2025.
+Intake 3 Key Dates:
+* Onboarding Programme: 15-18 Sep 2025
+* Mid-Point Retreat: 13 Mar 2026
+* Final T&amp;L Festival: 22 May 2026
+
 
 ![](/images/tlmp%20nm2.jpg)
 
