@@ -38,7 +38,8 @@ to time, subject to the discussion and agreement of both Parties.</p>
 to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
-<h4></h4>
+<h3><strong>Upcoming Professional Development Events</strong></h3>
+<p>Watch this space for more!</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
