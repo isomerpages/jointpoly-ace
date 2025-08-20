@@ -97,7 +97,8 @@ and data powered teaching pedagogies in education.</p>
 </div>
 <p><strong>Watch the recorded session here: </strong><a href="https://zoom.us/rec/share/xobyPmMBrc6DdfxFSF5VoJZekvTsuaRKYHb7TlvZc7xZWF9p_nkFdE1MONN6rMk.EWUSpyi6YEgDF51q?startTime=1753416820000" rel="noopener nofollow" target="_blank">Link</a>
 </p>
-<p>Please note that there is a passcode to watch this video.
+<p>Please note that Zoom requires a passcode to be entered to watch this
+video. The passcode is given below.
 <br>Passcode: 1*=cC11?</p>
 <h4>25 July 2025 - GenAI in Education: Transforming Learning with Ethics in Mind</h4>
 <div class="isomer-image-wrapper">
@@ -105,11 +106,11 @@ and data powered teaching pedagogies in education.</p>
 </div>
 <p><strong>Watch the recorded session here: </strong><a href="https://zoom.us/rec/share/loi6Gc4-T7ofW3PGzcNYkXav0OJP-BEg7K6XQlEl8YFJwVPqFeEG14nArcCm1yxS.1YbRngnyh3Y6vYI0?startTime=1753419635000" rel="noopener nofollow" target="_blank">Link</a>
 </p>
-<p>Please note that there is a passcode to watch this video.
+<p>Please note that Zoom requires a passcode to be entered to watch this
+video. The passcode is given below.
 <br>Passcode: TP3Y@#%H</p>
 <h4>25 July 2025 - IAL AES session: From Intuition to Insight: Making Sense of Data to Empower Thriving Learning Environments</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/FSTTT02/16.jpg">
 </div>
-<p><strong>Sign Up Now!: <a href="https://forms.gle/PxNiTGCvxrR4SQq26" rel="noopener nofollow" target="_blank">Sign up for Workshop</a></strong>
-</p>
+<p></p>
