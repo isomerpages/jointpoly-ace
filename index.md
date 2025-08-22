@@ -82,6 +82,7 @@ sections:
       url: https://jpace.polytechnic.edu.sg/ctlal/
       image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
       alt: Image on CTLAL
+      subtitle: For Adjunct Lecturers
   - infopic:
       title: News
       description: Institutions join forces to uplift the training and adult education
