@@ -236,7 +236,7 @@ the following Polytechnic Representatives for assistance.</p>
 <p>RP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zek_hazley@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zek Hazley</a>
+<p><a href="mailto:abdul_kahlid@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Abdul Kahlid</a>
 </p>
 </td>
 </tr>
