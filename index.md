@@ -18,7 +18,7 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators JP-AcE
       background: /images/background black.jpg
-      button: CTLPE Intake 14 is about to begin - Click here to find out more.
+      button: CTLPE Intake 14 is about to begin - Click here to find out more!
       url: https://jpace.polytechnic.edu.sg/ctlpe/
       key_highlights:
         - title: About Us
