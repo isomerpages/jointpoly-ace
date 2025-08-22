@@ -1,7 +1,7 @@
 ---
 title: Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL)
 permalink: /ctlal/
-variant: markdown
+variant: tiptap
 description: The Certificate in Teaching and Learning for Adjunct Lecturers
   (CTLAL) is a comprehensive 16-hour programme collaboratively created and led
   by all five polytechnics and the Joint Polytechnic Academy for Educators.
