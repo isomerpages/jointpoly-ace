@@ -16,11 +16,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Joint Polytechnic Academy for Educators  JP-AcE
+      title: Joint Polytechnic Academy for Educators JP-AcE
       background: /images/background black.jpg
-      button: The Frontier Series Returns! — Courses on Transforming Teaching and
-        Learning with Data and Technology
-      url: https://jpace.polytechnic.edu.sg/upcomingfsedtechevents/
+      button: CTLPE Intake 14 is about to begin - Click here to find out more.
+      url: https://jpace.polytechnic.edu.sg/ctlpe/
       key_highlights:
         - title: About Us
           description: ""
