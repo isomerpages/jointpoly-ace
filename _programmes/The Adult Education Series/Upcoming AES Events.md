@@ -39,7 +39,43 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<p>Watch this space for more!</p>
+<h4><strong>1. Workshop: Engaging Learners through Classroom Learning Activities</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/May 2025/AES_7__Nov_Workshop.png">
+</div>
+<p>Classroom learning activities designed for use in a lesson are intended
+to engage learners, activate interest in content, promote retention and
+make learning fun. By adding an element of fun and anticipation, these
+activities could help learners stay motivated and improve retention of
+learning.</p>
+<p>However, the perceived obstacle could be that such activities are time-consuming
+and tedious to conduct and implement. In this workshop, participants are
+introduced to the play of a variety of activities ranging from ice-breakers,
+energisers, trigger activities and experiential games. These activities
+aim to address different learning needs, such as building rapport, uplift
+energy levels and engagement, spark curiosity in new content and reinforce
+key concepts through active learning. All activities introduced can be
+conducted in 5 to 15 minutes and require no prop or minimum props, making
+them easy to integrate into any lesson. Participants may look forward to
+build a repertoire of quick, practical classroom games and activities to
+engage learners and enhance learning, and modify learning activities to
+cater to specific learning objectives and desired lesson outcomes.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 7 Nov 2025</p>
+</li>
+<li>
+<p>Time: 2 pm-5.30 pm</p>
+</li>
+<li>
+<p>Venue: Republic Polytechnic Block E1 Level 4, Room E14K</p>
+</li>
+<li>
+<p>Facilitator: Mr Allan Lee / Republic Polytechnic</p>
+</li>
+</ul>
+<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXdSJQEITTi83mQEkB5wyoErOFkiK2prwHmQINUp0F6mUo1w/viewform?usp=header" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
