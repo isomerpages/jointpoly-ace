@@ -39,7 +39,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Workshop: Engaging Learners through Classroom Learning Activities </strong></h4>
+<h4><strong>1. Workshop: Engaging Learners through Classroom Learning Activities</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/May 2025/AES_7__Nov_Workshop.png">
 </div>
