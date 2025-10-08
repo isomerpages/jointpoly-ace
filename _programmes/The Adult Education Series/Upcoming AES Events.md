@@ -75,6 +75,56 @@ cater to specific learning objectives and desired lesson outcomes.</p>
 </li>
 </ul>
 <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSeXdSJQEITTi83mQEkB5wyoErOFkiK2prwHmQINUp0F6mUo1w/viewform?usp=header" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
+<h4><strong>2. IAL x JP-AcE Community of Practice (CoP) Sharing Session</strong></h4>
+<p><strong>AI and the Future of Adult Education: Trends, Tension and Tomorrow</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/IAL_x_JPAcE_COP.png">
+</div>
+<p>How can educators navigate the rapid rise of Artificial Intelligence (AI)
+while preparing for an uncertain future in the Training and Adult Education
+(TAE) sector? Many are already adopting AI tools in their practice, but
+questions remain about how to use them effectively, ethically, and with
+adequate institutional support. At the same time, educators must anticipate
+longer-term shifts that may reshape their roles and responsibilities.</p>
+<p>This session brings together these twin challenges. It begins with a sharing
+on key findings from the International Survey led by IAL on Artificial
+Intelligence in Higher Education, Training and Adult Learning, which captured
+perspectives from nearly 2,000 educators across 37 countries. The results
+highlight adoption trends, gaps in strategy, and the continuing demand
+for professional development. The session will then move into a hands-on
+futures thinking workshop that will guide participants to anticipate emerging
+disruptions, imagine alternative futures, and reflect on the implications
+for the TAE sector. Educators will have the opportunity to co-create perspectives
+and solutions on how the sector can adapt and remain future-ready.</p>
+<p>Jointly organized by IAL and JP-AcE, this CoP is open to adult educators
+in Singapore and also to polytechnic educators.</p>
+<p></p>
+<p>Date: Fri 21 Nov 2025
+<br>Time: 2 -5 pm
+<br>Venue: Institute of Adult Learning, Level 5 Inlab open space &amp; breakout
+rooms</p>
+<p>IAL Facilitators:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Principal Investigator: A/P CHEN Zan</p>
+</li>
+<li>
+<p>Co-Principal Investigator: TAN Bao Zhen (Senior Researcher)</p>
+</li>
+<li>
+<p>Aggie CHOO (Senior Researcher)</p>
+</li>
+<li>
+<p>Bryan ANG (Researcher)</p>
+</li>
+<li>
+<p>Betty WANG (Researcher)</p>
+</li>
+</ul>
+<p></p>
+<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfV1Y9eMmaEWPAONCBsGSvJH3DmpCVetuJCnkIliUm_L4E6VQ/viewform" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
