@@ -163,14 +163,6 @@ part of the advisory committee for the Asian Culinary Institute.</p>
 <h4></h4>
 <p></p>
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 125.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe allow="fullscreen" allowfullscreen="allowfullscreen" src="https://www.canva.com/design/DAG2fuD1zEQ/bHVPh_7YtDeMxmyiBXlUcA/view?embed" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;" loading="lazy">
-  </iframe>
-</div>
-
-
 
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
