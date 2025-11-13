@@ -1,7 +1,7 @@
 ---
 title: Past AES Events 2023
 permalink: /pastaesevents2023/
-variant: tiptap
+variant: markdown
 description: ""
 third_nav_title: The Adult Education Series
 ---
@@ -162,6 +162,8 @@ part of the advisory committee for the Asian Culinary Institute.</p>
 <p>Check out the recorded session <a href="https://www.youtube.com/watch?v=8-LVtwpbDuQ" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h4></h4>
 <p></p>
+
+
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
 <p>Please contact Programme Leads: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and/or <a href="mailto: keng_wan_ling@tp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Keng Wan Ling</a>
 </p>
