@@ -17,7 +17,7 @@ For Newly Hired Polytechnic Lecturers Joining from :
 | 6 April 2024 - 4 October 2024 (Intake 12) | [Link](https://lms.polite.edu.sg/d2l/home/475114) | 24YL-P-JP-CTLPE012
 | 5 October 2024 - 4 April 2025 (Intake 13) |[Link](https://lms.polite.edu.sg/d2l/home/559222) |24YL-P-JP-CTLPE013
 | 4 April 2025 - 3 October 2025 (Intake 14) | [Link](https://lms.polite.edu.sg/d2l/home/650419) | 25YL-P-JP-CTLPE014
-|4 October 2025 - 4 April 2026 | |
+|4 October 2025 - 4 April 2026 | [Link](https://lms.polite.edu.sg/d2l/home/800668)| 25YL-P-JP-CTLPE015
 
 **You may only access the link if your Polytechnic has enrolled you in the course site*.
 
