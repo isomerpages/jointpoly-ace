@@ -75,4 +75,4 @@ _Learning Journey to Experiential Learning Centre (XLC)@RP_
 #### Have a question related to CLMP?
 
 
-Please contact the Programme Leads from  JP-AcE: [Dr Lim Gaik Bee](mailto:lim_gaik_bee@np.edu.sg) , <a href="mailto:loke_han_ying@rp.edu.sg">Dr Loke Han Ying</a>
+Please contact the Programme Leads from  JP-AcE: [Ms Lau Poh Nguk](mailto:lau_poh_nguk@tp.edu.sg) , <a href="mailto:chris_pang@nyp.edu.sg">Mr Chris Pang</a>
