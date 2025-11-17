@@ -72,6 +72,18 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>25YL-P-JP-CTLAL003</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 March to 26 September 2025 (Intake 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lms.polite.edu.sg/d2l/home/725810" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25YL-P-JP-CTLAL004</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*You may only access the link if your Polytechnic has enrolled you in
@@ -199,7 +211,7 @@ to reflect on and improve teaching and learning practices.</p>
 <p>New Associate/Adjunct Lecturers (ALs) may be expected to attend other
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
-<h3>CTLAL Exemption List </h3>
+<h3>CTLAL Exemption List</h3>
 <p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
 determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
