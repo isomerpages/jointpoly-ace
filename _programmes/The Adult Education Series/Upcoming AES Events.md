@@ -98,7 +98,7 @@ records for short courses under JP-AcE, you can refer to this Workday guide:
 <p>Training Provider: JP-AcE</p>
 <p></p>
 <h4>Have a question related to collaborative programmes between five polytechnics and the IAL?</h4>
-<p>Please contact Programme Leads: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> and <a href="mailto:lau_poh_nguk@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Lau Poh Nguk</a>
+<p>Please contact Programme Leads: <a href="mailto:Loke_han_ying@rp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Loke Han Ying</a> and <a href="mailto:lau_poh_nguk@tp.edu.sg" rel="noopener nofollow" target="_blank">Ms Lau Poh Nguk</a>
 </p>
 <p></p>
 <p></p>

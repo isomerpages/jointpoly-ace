@@ -72,6 +72,18 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>25YL-P-JP-CTLAL003</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 March to 26 September 2025 (Intake 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lms.polite.edu.sg/d2l/home/725810" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>25YL-P-JP-CTLAL004</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*You may only access the link if your Polytechnic has enrolled you in
@@ -203,8 +215,8 @@ poly-specific staff development trainings beyond CTLAL.</p>
 <p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
 determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
-<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Dr Lim Gaik Bee</a> or
-the following Polytechnic Representatives for assistance.</p>
+<p>Please contact the Programme Lead: <a href="mailto: lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Lim Gaik Bee</a>, <a href="mailto: patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a>,
+<a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener nofollow" target="_blank">Dr Loke Han Ying</a>or the following Polytechnic Representatives for assistance.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
