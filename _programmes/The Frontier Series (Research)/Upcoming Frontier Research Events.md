@@ -41,7 +41,7 @@ records for short courses under JP-AcE, you can refer to this Workday guide:
 <p>Training Provider: JP-AcE</p>
 <p></p>
 <h4>Have a question related to The Frontier Series for Educators?</h4>
-<p>Please contact Programme Lead: <a href="mailto:joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Ms. Joey Tong</u></a>
+<p>Please contact Programme Leads: <a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Dr Lim Gaik Bee</u></a> and <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chris Pang</a>
 </p>
 <p></p>
 <p></p>
