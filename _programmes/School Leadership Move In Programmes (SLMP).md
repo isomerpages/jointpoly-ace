@@ -101,4 +101,4 @@ The Forum is also intended for networking and provides an opportunity for partic
 
 #### Have a question related to SLMP?
 
-Please contact Programme Leads: [Ms Lim Bee Hwee](mailto:lim_bee_hwee@rp.edu.sg) , <a href="mailto:lim_gaik_bee@np.edu.sg">Ms. Lim Gaik Bee</a>
+Please contact Programme Leads: [Dr Lim Gaik Bee](mailto:lim_gaik_bee@np.edu.sg) , <a href="mailto:Loke_han_ying@rp.edu.sg">Dr Loke Han Ying</a>
