@@ -199,12 +199,12 @@ to reflect on and improve teaching and learning practices.</p>
 <p>New Associate/Adjunct Lecturers (ALs) may be expected to attend other
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
-<h3>CTLAL Exemption List</h3>
+<h3>CTLAL Exemption List </h3>
 <p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
 determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
-<p>Please contact the Programme Lead: <a href="mailto: joey_tong@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Joey Tong</a> , <a href="mailto:lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Dr Lim Gaik Bee</a> or
-the following Polytechnic Representatives for assistance.</p>
+<p>Please contact the Programme Lead: <a href="mailto: lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Lim Gaik Bee</a>, <a href="mailto: patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a>,
+<a href="mailto:loke_han_ying@rp.edu.sg" rel="noopener nofollow" target="_blank">Dr Loke Han Ying</a>or the following Polytechnic Representatives for assistance.</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
