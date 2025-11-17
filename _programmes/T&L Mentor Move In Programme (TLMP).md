@@ -73,4 +73,4 @@ You can also visit the [Polytechnic Event page](https://jpace.polytechnic.edu.sg
 
 #### Have a question related to TLMP?
 
-Please contact our Programme Leads from JP-AcE:  <a href="mailto:Joey_tong@nyp.edu.sg">Ms. Joey Tong</a>, <a href="mailto:Lim_Gaik_Bee@np.edu.sg">Dr. Lim Gaik Bee</a>
+Please contact our Programme Leads from JP-AcE:  <a href="mailto:lim_gaik_bee@np.edu.sg">Dr Lim Gaik Bee</a>, <a href="mailto:Loke_han_ying@rp.edu.sg">Dr Loke Han Ying</a>
