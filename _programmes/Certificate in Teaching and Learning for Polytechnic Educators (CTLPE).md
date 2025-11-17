@@ -58,4 +58,4 @@ There are 2 runs per year. One commences in April and another in October. The du
 
 #### Have a question related to CTLPE?
 
-Please contact Programme Leads:  <a href="mailto:joey_tong@nyp.edu.sg">Ms. Joey Tong</a>, <a href="mailto:lau_poh_nguk@tp.edu.sg"> Ms Lau Poh Nguk </a>
+Please contact Programme Leads: <a href="mailto:lau_poh_nguk@tp.edu.sg"> Ms. Lau Poh Nguk </a>,  <a href="mailto:chris_pang@nyp.edu.sg">Mr. Chris Pang</a>, 
