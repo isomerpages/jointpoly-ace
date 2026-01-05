@@ -15,18 +15,16 @@ colors:
       color: "#04a8b7"
     - title: media-color-five
       color: "#07306b"
-description: >-
-  The Joint Polytechnic Academy for Educators (JP-AcE) is a centralised academy
-  for T&L capability development of educators in polytechnics and industry.
-
-
-  It offers joint polytechnic suite of T&L baseline capability development programmes and certifications, such as the Certificate in T&L for Polytechnic Educators (CTLPE), School Leadership Move-In Programme (SLMP), T&L Mentor Move-In  Programme (TLMP), Course Leadership Move-In Programme (CLMP) and other programmes which strengthens the T&L capabilities of polytechnic educators. 
-
-
-  In addition, it collaborates with Institute of Adult Learning (IAL) and partners to create and deliver programmes in area of adult education. 
-
-
-  This is an Isomer site of the Singapore Government.
+description: The Joint Polytechnic Academy for Educators (JP-AcE) is a
+  centralised academy for T&L capability development of educators in
+  polytechnics and industry.  It offers joint polytechnic suite of T&L baseline
+  capability development programmes and certifications, such as the Certificate
+  in T&L for Polytechnic Educators (CTLPE), School Leadership Move-In Programme
+  (SLMP), T&L Mentor Move-In  Programme (TLMP), Course Leadership Move-In
+  Programme (CLMP) and other programmes which strengthens the T&L capabilities
+  of polytechnic educators.   In addition, it collaborates with Institute of
+  Adult Learning (IAL) and partners to create and deliver programmes in area of
+  adult education.   This is an Isomer site of the Singapore Government.
 permalink: none
 baseurl: ""
 exclude:
@@ -63,8 +61,9 @@ plugins:
 staging: https://staging.d3r64eq67610w8.amplifyapp.com/
 prod: https://master.d3r64eq67610w8.amplifyapp.com/
 shareicon: /images/web version updated on 7 sep 2022.png
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: jp-ace-resource
+google_analytics_ga4: ""
