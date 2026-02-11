@@ -51,9 +51,18 @@ honors for teaching excellence and innovation, her recent work focuses
 on using AI to preserve and revitalize heritage languages like Baba Malay,
 ensuring digital outcomes are both linguistically authentic and culturally
 grounded.</p>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Date: 29 April 2026</p>
+</li>
+<li>
 <p>Time: 12pm - 1pm</p>
+</li>
+<li>
 <p>Mode: Online</p>
+</li>
+</ul>
 <p><a href="" rel="noopener nofollow" target="_blank">Register for the event now!</a>
 </p>
 <p></p>
@@ -75,10 +84,19 @@ with the pedagogical foundations, practical techniques, and ethical consideratio
 needed to integrate AI meaningfully into CBL. It also addresses GenAI’s
 inherent probabilistic behaviour and demonstrates how to apply constraints
 to produce consistent, reliable, and learning‑aligned case materials.</p>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Date: 15 May 2026</p>
+</li>
+<li>
 <p>Time: 2PM - 5PM</p>
+</li>
+<li>
 <p>Venue: Nanyang Polytechnic, Block A, Level 3, Room A321 (Located at CTLD
 department)</p>
+</li>
+</ul>
 <h4><a href="https://events.teams.microsoft.com/event/4cd3d911-77c8-433c-8773-b589d8487b9f@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h4>
 <h4></h4>
 <h4>Update Training Record via Workday</h4>
