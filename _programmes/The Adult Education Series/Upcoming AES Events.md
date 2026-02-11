@@ -39,7 +39,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. How to Facilitate Transformative Learning: Moving from Delivering Content to Deep Learning (Community of Practice)</strong></h4>
+<h4><strong>1. Workshop: How to Facilitate Transformative Learning: Moving from Delivering Content to Deep Learning (Community of Practice)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="This is an AI generated image of a lecturer in a classroom setting" src="/images/Adult Education Uploads/Facilitate_Transformative_Learning.png">
@@ -68,6 +68,18 @@ CET students</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>David Chin (Lead Specialist, Inclusive Pedagogy from Republic Polytechnic)</p>
+</li>
+</ul>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 16 Mar 2026</p>
+</li>
+<li>
+<p>Time: 10AM - 12PM</p>
+</li>
+<li>
+<p>Venue: Republic Polytechnic, Block E1, Level 4, Room E14K</p>
 </li>
 </ul>
 <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSdM-mTNYIheRigE7irhD89qc0hQBH7O04RMbbLxlkJQsDqoPg/viewform?usp=dialog" rel="noopener nofollow" target="_blank">Register for the event now!</a></h3>
