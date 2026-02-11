@@ -84,8 +84,7 @@ purpose, design, learning outcomes, and student engagement.&nbsp;
 <p>Showcase 1 - NYP: Jayden Ang, Annie Ng, Low Siow Ching</p>
 </li>
 <li>
-<p>Showcase 2 - NP: Chua Su Sien
-<br>&nbsp;</p>
+<p>Showcase 2 - NP: Chua Su Sien</p>
 </li>
 </ul>
 <h3><a href="https://events.teams.microsoft.com/event/563b6679-9f24-4422-91aa-599ace4deedf@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h3>
