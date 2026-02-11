@@ -63,8 +63,7 @@ grounded.</p>
 <p>Mode: Online</p>
 </li>
 </ul>
-<p><a href="" rel="noopener nofollow" target="_blank">Register for the event now!</a>
-</p>
+<h3><a href="https://events.teams.microsoft.com/event/a74a1d2a-292f-4b48-bfd9-7472cc3b8f91@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for the event now!</a></h3>
 <p></p>
 <h4><strong>2. Workshop: Enhancing Case-Based Learning with Generative AI: Effective Practical &amp; Pedagogical Strategies</strong></h4>
 <p></p>
