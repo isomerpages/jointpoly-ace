@@ -32,6 +32,10 @@ and innovative ways of teaching and learning.</p>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
 <h3><strong>1. Webinar: Embedding and Facilitating Student Mental Wellbeing in Curriculum</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AI generated header image of a plant growing from a head." src="/images/Frontier Series/mental_wellness_in_curri_Nero_AI_Image_Upscaler_Photo.jpg">
+</div>
 <p>The webinar will introduce staff to ways in which they can engage with
 the Universal Design Framework (<a href="https://udlguidelines.cast.org/" rel="noopener noreferrer nofollow" target="_blank">https://udlguidelines.cast.org/</a>)
 and will provide authentic and practical strategies for embedding mental
@@ -56,6 +60,10 @@ Curtin University&nbsp;</p>
 <h3><a href="https://events.teams.microsoft.com/event/17538893-7720-4c23-b66c-376ef65f1b2a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h3>
 <p></p>
 <h3><strong>2. Webinar: Escaping to Learn: Escape Rooms as Applied Learning Adventures</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ai generated image for the escape room. this is a decorative image." src="/images/Frontier Series/escape_room_poly_Nero_AI_Image_Upscaler_Photo__1_.png">
+</div>
 <p>Join us for an immersive and interactive webinar where the webinar itself
 becomes an escape room! The webinar is designed to showcase the pedagogical
 power of escape rooms in polytechnic education.
