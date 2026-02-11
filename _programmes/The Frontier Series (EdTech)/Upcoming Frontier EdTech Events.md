@@ -41,8 +41,8 @@ an information crisis. This one-hour sharing session moves away from the
 by using tools to understand how AI constructs "truth" online. Then, we
 shift inward using a simple scorecard, let us rethink our classroom tasks
 to ensure they prioritize lived experience, critical process, and personal
-voice, elements a machine cannot replicate.</p>
-<p>
+voice, elements a machine cannot replicate.
+<br>
 <br>Dr. Zhang Huiyu is a Senior Academic Mentor at Temasek Polytechnic’s School
 of Informatics &amp; IT. Leveraging a wealth of experience in Artificial
 Intelligence and Data Science, she specializes in using technology to drive
@@ -75,6 +75,10 @@ with the pedagogical foundations, practical techniques, and ethical consideratio
 needed to integrate AI meaningfully into CBL. It also addresses GenAI’s
 inherent probabilistic behaviour and demonstrates how to apply constraints
 to produce consistent, reliable, and learning‑aligned case materials.</p>
+<p>Date: 15 May 2026</p>
+<p>Time: 2PM - 5PM</p>
+<p>Venue: Nanyang Polytechnic, Block A, Level 3, Room A321 (Located at CTLD
+department)</p>
 <h4><a href="https://events.teams.microsoft.com/event/4cd3d911-77c8-433c-8773-b589d8487b9f@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h4>
 <h4></h4>
 <h4>Update Training Record via Workday</h4>
