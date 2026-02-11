@@ -31,7 +31,7 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h3><strong>1. Webinar: Embedding and Facilitating Student Mental Wellbeing in Curriculum</strong></h3>
+<h3>1. Webinar: Embedding and Facilitating Student Mental Wellbeing in Curriculum</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AI generated header image of a plant growing from a head." src="/images/Frontier Series/mental_wellness_in_curri_Nero_AI_Image_Upscaler_Photo.jpg">
@@ -55,6 +55,18 @@ Curtin University&nbsp;</p>
 </li>
 <li>
 <p>Prof Natalie Gasson, Registered Psychologist, Curtin University</p>
+</li>
+</ul>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 27 Feb 2026</p>
+</li>
+<li>
+<p>Time: 2PM - 4PM</p>
+</li>
+<li>
+<p>Mode: Online</p>
 </li>
 </ul>
 <h3><a href="https://events.teams.microsoft.com/event/17538893-7720-4c23-b66c-376ef65f1b2a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h3>
@@ -85,6 +97,18 @@ purpose, design, learning outcomes, and student engagement.&nbsp;
 </li>
 <li>
 <p>Showcase 2 - NP: Chua Su Sien</p>
+</li>
+</ul>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 12 Mar 2026</p>
+</li>
+<li>
+<p>Time: 2PM - 4PM</p>
+</li>
+<li>
+<p>Mode: Online</p>
 </li>
 </ul>
 <h3><a href="https://events.teams.microsoft.com/event/563b6679-9f24-4422-91aa-599ace4deedf@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h3>
