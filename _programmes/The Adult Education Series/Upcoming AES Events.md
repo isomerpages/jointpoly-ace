@@ -10,7 +10,7 @@ third_nav_title: The Adult Education Series
 <p>The JP-AcE represents the five polytechnics to collaborate with the Institute
 of Adult Learning (IAL).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/54123485_ml.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="This is an image of many hands joining together in a business setting. It is decorative." src="/images/54123485_ml.jpg">
 </div>
 <p>Adult educators (AEs) can look forward to learning from the following
 initiatives:</p>
@@ -32,63 +32,57 @@ to time, subject to the discussion and agreement of both Parties.</p>
 <h3><strong>The Adult Education Series (AES)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/AES_Banner__as_of_16_Jul_24_.png">
+<img style="width: 100%" height="auto" width="100%" alt="This is a decorative header image about the collaboration between IAL and JP-AcE." src="/images/Adult Education Uploads/AES_Banner__as_of_16_Jul_24_.png">
 </div>
 <p>The Adult Education Series (AES) aims to support existing Adult Educators
 to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. IAL x JP-AcE Community of Practice (CoP) Sharing Session</strong></h4>
-<p><strong>AI and the Future of Adult Education: Trends, Tension and Tomorrow</strong>
-</p>
+<h4><strong>1. Workshop: How to Facilitate Transformative Learning: Moving from Delivering Content to Deep Learning (Community of Practice)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adult Education Uploads/IAL_x_JPAcE_COP.png">
+<img style="width: 100%" height="auto" width="100%" alt="This is an AI generated image of a lecturer in a classroom setting" src="/images/Adult Education Uploads/Facilitate_Transformative_Learning.png">
 </div>
-<p>How can educators navigate the rapid rise of Artificial Intelligence (AI)
-while preparing for an uncertain future in the Training and Adult Education
-(TAE) sector? Many are already adopting AI tools in their practice, but
-questions remain about how to use them effectively, ethically, and with
-adequate institutional support. At the same time, educators must anticipate
-longer-term shifts that may reshape their roles and responsibilities.</p>
-<p>This session brings together these twin challenges. It begins with a sharing
-on key findings from the International Survey led by IAL on Artificial
-Intelligence in Higher Education, Training and Adult Learning, which captured
-perspectives from nearly 2,000 educators across 37 countries. The results
-highlight adoption trends, gaps in strategy, and the continuing demand
-for professional development. The session will then move into a hands-on
-futures thinking workshop that will guide participants to anticipate emerging
-disruptions, imagine alternative futures, and reflect on the implications
-for the TAE sector. Educators will have the opportunity to co-create perspectives
-and solutions on how the sector can adapt and remain future-ready.</p>
-<p>Jointly organized by IAL and JP-AcE, this CoP is open to adult educators
-in Singapore and also to polytechnic educators.</p>
-<p></p>
-<p>Date: Fri 21 Nov 2025
-<br>Time: 2 -5 pm
-<br>Venue: Institute of Adult Learning, Level 5 Inlab open space &amp; breakout
-rooms</p>
-<p>IAL Facilitators:</p>
+<p>This Community of Practice (CoP) session covers Mediated Learning Experience
+(MLE) as a method for facilitating adult learning that focuses on the learning
+process, thinking skills and the learning experience to train metacognition
+and higher-order thinking.</p>
+<p><strong>Learning Outcomes:</strong>
+</p>
+<p>By the end of this workshop, participants would be able to:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Recognise how learning experiences can be transformational</p>
+</li>
+<li>
+<p>Explore how&nbsp;learning can be mediated to focus on the process</p>
+</li>
+<li>
+<p>Develop&nbsp;lifelong cognitive skills and learning potential in your
+CET students</p>
+</li>
+</ol>
+<p>
+<br>Facilitators:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Principal Investigator: A/P CHEN Zan</p>
-</li>
-<li>
-<p>Co-Principal Investigator: TAN Bao Zhen (Senior Researcher)</p>
-</li>
-<li>
-<p>Aggie CHOO (Senior Researcher)</p>
-</li>
-<li>
-<p>Bryan ANG (Researcher)</p>
-</li>
-<li>
-<p>Betty WANG (Researcher)</p>
+<p>David Chin (Lead Specialist, Inclusive Pedagogy from Republic Polytechnic)</p>
 </li>
 </ul>
-<p></p>
-<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSfV1Y9eMmaEWPAONCBsGSvJH3DmpCVetuJCnkIliUm_L4E6VQ/viewform" rel="noopener nofollow" target="_blank">Sign Up Now!</a></h3>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 16 Mar 2026</p>
+</li>
+<li>
+<p>Time: 10AM - 12PM</p>
+</li>
+<li>
+<p>Venue: Republic Polytechnic, Block E1, Level 4, Room E14K</p>
+</li>
+</ul>
+<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSdM-mTNYIheRigE7irhD89qc0hQBH7O04RMbbLxlkJQsDqoPg/viewform?usp=dialog" rel="noopener nofollow" target="_blank">Register for the event now!</a></h3>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training

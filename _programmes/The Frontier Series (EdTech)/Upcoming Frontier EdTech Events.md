@@ -8,7 +8,7 @@ third_nav_title: The Frontier Series (EdTech)
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AdobeStock_349104260__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Human and robot hands touching a glowing digital globe with tech icons. This is AI generated and decorative." src="/images/AdobeStock_349104260__2_.jpg">
 </div>
 <p>The Frontier Series for Educators is a repertoire of professional development
 sessions organised by the Joint Polytechnic Academy for Educators (JP-AcE)
@@ -29,110 +29,75 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Workshop: Minecraft for Teaching: From Play to Pedagogy</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://pinecone.academy/blog/exploring-mods-for-minecraft-education-edition-enhancing-learning-through-creativity"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/Minecraft1.jpg"></a>
-<p>Are you wondering how you can design a virtual world for more immersive,
-interactive, online learning experiences? Did you know that you have access
-to Minecraft Education through your poly’s Microsoft O365 subscription?
-(Note: SP does not have an institutional subscription, but colleagues can
-access trial accounts.)</p>
-<p>You may have heard about or played Minecraft. Now, experience Minecraft
-from a teacher’s lens in this hands‑on workshop. We’ll explore how to design
-interactive learning using sandbox worlds that drive creativity, collaboration,
-and problem‑solving.</p>
-<p>You’ll try classroom‑tested activities and adapt ready‑made templates
-to your subject. Leave with a mini‑lesson plan, assessment ideas, and practical
-rollout tips for your own classes. No prior Minecraft or coding experience
-required!</p>
-<p>Find out more about Minecraft Education at <a rel="noopener noreferrer nofollow" target="_blank">https://education.minecraft.net/en-us</a>
-</p>
+<h4><strong>1.Webinar: The Truth in the Classroom: Beyond Checking, Rethinking Design</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ai generated banner for the title of the programme" src="/images/Frontier Series/The_Truth_in_the_classroom__1_.png">
+</div>
+<p>The line between human-made and machine-generated is thinner than ever.
+From deepfake breaking news to "perfect" student essays, educators face
+an information crisis. This one-hour sharing session moves away from the
+"detect and punish" cycle to focus on pedagogical resilience. We will start
+by using tools to understand how AI constructs "truth" online. Then, we
+shift inward using a simple scorecard, let us rethink our classroom tasks
+to ensure they prioritize lived experience, critical process, and personal
+voice, elements a machine cannot replicate.
+<br>
+<br>Dr. Zhang Huiyu is a Senior Academic Mentor at Temasek Polytechnic’s School
+of Informatics &amp; IT. Leveraging a wealth of experience in Artificial
+Intelligence and Data Science, she specializes in using technology to drive
+educational inclusivity. A recipient of several institutional and national
+honors for teaching excellence and innovation, her recent work focuses
+on using AI to preserve and revitalize heritage languages like Baba Malay,
+ensuring digital outcomes are both linguistically authentic and culturally
+grounded.</p>
+<p>Details:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: Friday, 12 December 2025</p>
+<p>Date: 29 April 2026</p>
 </li>
 <li>
-<p>Time: 1:00PM - 5:00PM</p>
+<p>Time: 12pm - 1pm</p>
 </li>
 <li>
-<p>Venue: Ngee Ann Polytechnic, Blk 56, Level 6, Room 56-06-0003</p>
-</li>
-<li>
-<p>Facilitator: Mr Tomo Farid/ Republic Polytechnic</p>
+<p>Mode: Online</p>
 </li>
 </ul>
-<p><strong>About the Facilitator</strong>
-</p>
-<p>Mr. Tomo Farid is a Lecturer at the School of Business, Republic Polytechnic.
-He holds a Master of Education and has over 8 years of experience in adult
-training and development. He specialises in Human Resource Management,
-Learning and Development, Data Analytics &amp; Visualisation, Entrepreneurship,
-and Design Thinking.With a strong passion for teaching and learner engagement,
-Tomo has been actively involved in curriculum design and EdTech innovation.
-His approach focuses on integrating real-world relevance with practical
-skills, creating dynamic, learner-centered environments that inspire critical
-thinking, adaptability, and continuous growth.</p>
+<h3><a href="https://events.teams.microsoft.com/event/a74a1d2a-292f-4b48-bfd9-7472cc3b8f91@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for the event now!</a></h3>
 <p></p>
-<p><strong>TLCF Competency Mapping</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Design Outcomes-based Curriculum</p>
-</li>
-<li>
-<p>Create Effective Learning Environments</p>
-</li>
-<li>
-<p>Integrate EdTech in T&amp;L</p>
-</li>
-</ul>
+<h4><strong>2. Workshop: Enhancing Case-Based Learning with Generative AI: Effective Practical &amp; Pedagogical Strategies</strong></h4>
 <p></p>
-<p>&nbsp;<strong>Learning Outcomes:</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="ai generated banner on title of the workshop." src="/images/Frontier Series/Enhancing_CBL.png">
+</div>
+<p>This hybrid workshop will involve customising AI assistants.
+<br>Participants can attend in-person or online.<strong>&nbsp;</strong>
 </p>
+<p><strong>If you are new to using GenAI assistants, it is recommended to attend in person in NYP, Blk A, Level 3, Room 321.</strong>
+</p>
+<p>Case‑Based Learning (CBL) strengthens critical thinking, real‑world application,
+and reflective judgment. Generative AI enhances these outcomes by supporting
+rapid scenario creation, multimodal resources, personalised scaffolding,
+and efficient iteration of case variations. This workshop provides educators
+with the pedagogical foundations, practical techniques, and ethical considerations
+needed to integrate AI meaningfully into CBL. It also addresses GenAI’s
+inherent probabilistic behaviour and demonstrates how to apply constraints
+to produce consistent, reliable, and learning‑aligned case materials.</p>
+<p>Details:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Describe the core features and pedagogical value of Minecraft Education
-for classroom use, using examples of how it can support engagement and
-basic learning goals.</p>
+<p>Date: 15 May 2026</p>
 </li>
 <li>
-<p>Configure a simple, classroom-ready world and manage a basic session (e.g.,
-joining, guiding, saving) using built-in classroom tools.</p>
+<p>Time: 2PM - 5PM</p>
+</li>
+<li>
+<p>Venue: Nanyang Polytechnic, Block A, Level 3, Room A321 (Located at CTLD
+department)</p>
 </li>
 </ul>
-<p><strong>What You’ll Do</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Get a feel for hosting/joining a shared world and how simple Classroom
-Settings can make sessions smooth and safe.</p>
-</li>
-<li>
-<p>Embed instructions and resources with non-playable characters (NPCs),
-chalkboards, and boards.</p>
-</li>
-<li>
-<p>Experiment with easy evidence capture: snap photos, collect a Portfolio,
-and add short reflections with Book &amp; Quill.</p>
-</li>
-<li>
-<p>Adapt curated templates from the Lesson Library to your discipline.</p>
-</li>
-</ul>
-<p><strong>What You’ll Leave With</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>A classroom‑ready mini‑lesson plan (with objectives, tasks, and timing).</p>
-</li>
-<li>
-<p>A facilitator checklist for setup, safety, and session flow.</p>
-</li>
-<li>
-<p>Links to curated templates and exemplars for quick adaptation.</p>
-</li>
-</ul>
-<h3>Click <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=FeGpyxYwYkShq6Vly6DN8Wz8fRX4BntDhEPHj-jAkyhUQzAzUFoyWTdQNVIyV0YyQ0c2TUo0Q0tDRi4u" rel="noopener noreferrer nofollow" target="_blank">here</a> to register!</h3>
+<h4><a href="https://events.teams.microsoft.com/event/4cd3d911-77c8-433c-8773-b589d8487b9f@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register for this event now!</a></h4>
+<h4></h4>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
@@ -141,7 +106,7 @@ records for short courses under JP-AcE, you can refer to this Workday guide:
 <p>Training Provider: JP-AcE</p>
 <p></p>
 <h4>Have a question related to The Frontier Series for Educators?</h4>
-<p>Please contact Programme Leads: <a href="mailto:Lim_gaik_bee@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Lim Gaik Bee</a> and <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chris Pang</a>
+<p>Please contact Programme Leads: <a href="mailto:patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a> and <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chris Pang</a>
 </p>
 <p></p>
 <p></p>
