@@ -6,16 +6,16 @@ variant: markdown
 ---
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
-![](/images/127315465_ml2.jpg)
+
 
 
 For Newly Hired Polytechnic Lecturers Joining from : 
 
 | Period of Joining  | Politemall Link | Course Code |
 | -------- | -------- | ------- |
-| 5 October 2024 - 4 April 2025 (Intake 13) |[Link](https://lms.polite.edu.sg/d2l/home/559222) |24YL-P-JP-CTLPE013
-| 4 April 2025 - 3 October 2025 (Intake 14) | [Link](https://lms.polite.edu.sg/d2l/home/650419) | 25YL-P-JP-CTLPE014
-|4 October 2025 - 4 April 2026 | [Link](https://lms.polite.edu.sg/d2l/home/800668)| 25YL-P-JP-CTLPE015
+| 1 April 2025 - 26 September 2025 (Intake 13) |[Link](https://lms.polite.edu.sg/d2l/home/559222) |24YL-P-JP-CTLPE013
+| 29 September 2025 - 26 March 2026 (Intake 14) | [Link](https://lms.polite.edu.sg/d2l/home/650419) | 25YL-P-JP-CTLPE014
+|30 Mar 2026 - 25 September 2026 | [Link](https://lms.polite.edu.sg/d2l/home/800668)| 25YL-P-JP-CTLPE015
 
 **You may only access the link if your Polytechnic has enrolled you in the course site*.
 
