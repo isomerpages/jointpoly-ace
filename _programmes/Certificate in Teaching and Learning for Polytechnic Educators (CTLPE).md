@@ -6,8 +6,7 @@ variant: markdown
 ---
 # Certificate in Teaching and Learning for Polytechnic Educators (CTLPE)
 
-
-
+![Illustration of people using giant pencils and icons to build digital content on an open book screen](/images/24MarLatency%20CTLPE/127315465_ml2_NEW.jpg)
 
 For Newly Hired Polytechnic Lecturers Joining from : 
 
@@ -31,23 +30,21 @@ It focuses on the following areas:
 * Formative and Summative Assessment
 * Reflective Professional Practice for Effective Learning and Teaching
 
-![](/images/ctlpe%20intake%207%20pic%201.png)
+![Group in a workshop with laptops, masked, listening to a presenter in a modern office.](/images/24MarLatency%20CTLPE/ctlpe_intake_7_pic_1_NEW.png)
 
-![](/images/ctlpe%20intake%207%20pic%205.png)
+![Participants in a hybrid workshop watching a presentation on a large screen and monitors.](/images/24MarLatency%20CTLPE/ctlpe_intake_7_pic_5___NEW.png)
 
 #### How is the programme conducted?
 
 CTLPE is conducted in hybrid manner. There are online sessions conducted via MS Teams, Zoom synchronous &amp; asynchronous and face-to-face lessons.
 
-![](/images/ctlpe%20intake%207%20pic%203.jpg)
+![Group selfie of masked CTLPE Intake 7 participants smiling and posing for a photo.](/images/24MarLatency%20CTLPE/ctlpe_intake_7_pic_3_NEW.jpg)
 
 #### When is the programme conducted?
 
 There are 2 runs per year. One commences in April and another in October. The duration of the programme is 100 hours, which is conducted over a span of 1 year.
 
-![](/images/Welcome%20Message%20%20%2022%20Jan%2025/Black_and_Beige_Simple_Collage_Christmas_Family_Photo_Card__1_.png)
-
-![](/images/ctlpe%20intake%208%20collage.jpg)
+![Photo collage of CTLPE Intake 12 Segment 1 showing workshop sessions and group photos.](/images/24MarLatency%20CTLPE/Black_and_Beige_Simple_Collage_Christmas_Family_Photo_Card__1__NEW.png)
 
 ### [Click here to find out more about CTLPE!](/files/ctlpe%20prog%20information%20for%20jpace%20website_updated%20on%207%20sep%202022%20v2.pdf)
 (Right click to open the above link in a new tab.)
