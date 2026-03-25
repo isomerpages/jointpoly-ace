@@ -8,7 +8,7 @@ third_nav_title: The Frontier Series (EdTech)
 <p>Welcome to the <strong>Frontier Series for Educators</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Human and robot hands touching a glowing digital globe with tech icons. This is AI generated and decorative." src="/images/AdobeStock_349104260__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Human and robotic hands reaching toward a glowing digital globe with tech icons." src="/images/24Mar26Latency UpFrontier/AdobeStock_349104260__2__NEW.jpg">
 </div>
 <p>The Frontier Series for Educators is a repertoire of professional development
 sessions organised by the Joint Polytechnic Academy for Educators (JP-AcE)
@@ -32,7 +32,7 @@ and innovative ways of teaching and learning.</p>
 <h4><strong>1.Webinar: The Truth in the Classroom: Beyond Checking, Rethinking Design</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ai generated banner for the title of the programme" src="/images/Frontier Series/The_Truth_in_the_classroom__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="&quot;The Truth in the Classroom&quot; webinar banner featuring a teacher at a glowing bulb chalkboard." src="/images/24Mar26Latency UpFrontier/The_Truth_in_the_classroom__1__NEW.png">
 </div>
 <p>The line between human-made and machine-generated is thinner than ever.
 From deepfake breaking news to "perfect" student essays, educators face
@@ -68,7 +68,7 @@ grounded.</p>
 <h4><strong>2. Workshop: Enhancing Case-Based Learning with Generative AI: Effective Practical &amp; Pedagogical Strategies</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ai generated banner on title of the workshop." src="/images/Frontier Series/Enhancing_CBL.png">
+<img style="width: 100%" height="auto" width="100%" alt="Banner for &quot;Enhancing Case-Based Learning with Generative AI&quot; workshop on 15 May 2026." src="/images/24Mar26Latency UpFrontier/Enhancing_CBL_NEW.png">
 </div>
 <p>This hybrid workshop will involve customising AI assistants.
 <br>Participants can attend in-person or online.<strong>&nbsp;</strong>
