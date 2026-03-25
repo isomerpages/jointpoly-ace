@@ -9,8 +9,9 @@ third_nav_title: The Adult Education Series
 ---
 <p>The JP-AcE represents the five polytechnics to collaborate with the Institute
 of Adult Learning (IAL).</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="This is an image of many hands joining together in a business setting. It is decorative." src="/images/54123485_ml.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="image of 4 professionally dressed hands placed together atop a wooden table." src="/images/24Mar26Latency UpAES/54123485_ml_NEW.jpg">
 </div>
 <p>Adult educators (AEs) can look forward to learning from the following
 initiatives:</p>
@@ -32,7 +33,7 @@ to time, subject to the discussion and agreement of both Parties.</p>
 <h3><strong>The Adult Education Series (AES)</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="This is a decorative header image about the collaboration between IAL and JP-AcE." src="/images/Adult Education Uploads/AES_Banner__as_of_16_Jul_24_.png">
+<img style="width: 100%" height="auto" width="100%" alt="Adult Education Series banner featuring diverse educators and the JP-AcE logo." src="/images/24Mar26Latency UpAES/AES_Banner__as_of_16_Jul_24__NEW.png">
 </div>
 <p>The Adult Education Series (AES) aims to support existing Adult Educators
 to advance T&amp;L capabilities, expand skill sets necessary for adult
@@ -41,8 +42,9 @@ opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
 <h4><strong>1. Workshop: How to Facilitate Transformative Learning: Moving from Delivering Content to Deep Learning (Community of Practice)</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="This is an AI generated image of a lecturer in a classroom setting" src="/images/Adult Education Uploads/Facilitate_Transformative_Learning.png">
+<img style="width: 100%" height="auto" width="100%" alt="Banner for &quot;Facilitate Transformative Learning&quot; session on 20 May 2026, 2pm to 5pm." src="/images/24Mar26Latency UpAES/Facilitate_Transformative_Learning_NEW.png">
 </div>
 <p>This Community of Practice (CoP) session covers Mediated Learning Experience
 (MLE) as a method for facilitating adult learning that focuses on the learning
