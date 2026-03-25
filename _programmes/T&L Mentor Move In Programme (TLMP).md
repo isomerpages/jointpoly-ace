@@ -7,7 +7,7 @@ variant: markdown
 ---
 # T&amp;L Mentor Move-In Programme (TLMP)
 
-![](/images/70290420_mlsuccess.jpg)
+![Mentoring mind map with keywords like coaching, support, and success, surrounded by office supplies.](/images/24MarLatency%20TLMP/70290420_mlsuccess_NEW.jpg)
 
 #### What is the programme about?
 
@@ -18,15 +18,15 @@ The T&amp;L Mentor Move-In Programme (TLMP) provides the T&amp;L mentors across 
 
 The TLMP is organised by representatives from all polytechnics.
 
-![](/images/TLMP%20Intake%202%20Update/IMG_4315_2_11zon.png)
+![ Gemini said Large group photo of TLMP In2 participants posing in front of a presentation screen.](/images/24MarLatency%20TLMP/IMG_4315_2_11zon_NEW.png)
 
 #### How is the programme conducted?
 
 TLMP is conducted in blended mode. Programme includes online learning, face-to-face workshops, talks, learning journey, poster exhibition.
 
-![](/images/TLMP%20Intake%202%20Update/IMG_9727_3_11zon.jpg)
+![Gemini said A small group of participants collaborating on a large paper sketch during a workshop.](/images/24MarLatency%20TLMP/IMG_9727_3_11zon_NEW.jpg)
 
-![](/images/TLMP%20Intake%202%20Update/Day_2_Group_5_Photo_1.png)
+![Workshop group posing with a "Professional Identity" poster featuring a tree diagram.](/images/24MarLatency%20TLMP/Day_2_Group_5_Photo_1_NEW.png)
 
 ![](/images/TLMP%20Intake%202%20Update/IMG_9787_1_11zon.png)
 
