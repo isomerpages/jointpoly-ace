@@ -10,8 +10,9 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <h1>Certificate in Teaching and Learning for Adjunct Lecturers (CTLAL)</h1>
 <p></p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Blue banner for CTLAL Certificate in Teaching and Learning for Adjunct Lecturers." src="/images/24MarLatency CTLAL/Blue_Gradient_Modern_Blogger_Youtube_Banner1_NEW.png">
 </div>
 <p>For Newly Hired Polytechnic Associate/Adjunct Lecturers Joining from :</p>
 <p></p>

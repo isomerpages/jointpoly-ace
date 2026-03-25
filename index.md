@@ -43,7 +43,7 @@ sections:
         Educators</strong>.
       button: Find out more
       url: /ctlpe/
-      image: /images/127315465_ml2.jpg
+      image: /images/24MarLatency CTLPE/127315465_ml2_NEW.jpg
       alt: ctlpe
   - infopic:
       title: SLMP
@@ -61,7 +61,7 @@ sections:
         Mentor Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
-      image: /images/70290420_mlsuccess.jpg
+      image: /images/24MarLatency TLMP/70290420_mlsuccess_NEW.jpg
       alt: TLMP
   - infopic:
       title: CLMP
@@ -80,7 +80,8 @@ sections:
         Lecturers</strong>.
       button: Find out More
       url: https://jpace.polytechnic.edu.sg/ctlal/
-      image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
+      image: /images/24MarLatency
+        CTLAL/Blue_Gradient_Modern_Blogger_Youtube_Banner1_NEW.png
       alt: Image on CTLAL
       subtitle: For Adjunct Lecturers
   - infopic:
