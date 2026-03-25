@@ -44,7 +44,7 @@ TLMP Intake 3 is a 120-hour programme over a duration of 9 months.
 ### [Click here to find out more about TLMP!](/files/TLMP_website_intro_July_2025.pdf)
 
 ##### Brown Bag Series
-![](/images/TLMP%20Intake%202%20Update/BB.png)
+![Banner for TLMP Brown Bag Sessions organized by T&amp;L mentors across five polytechnics.](/images/24MarLatency%20TLMP/BB_NEW.png)
 
 The new mentors across polytechnics have come together to organise lunch time talks to support more educators in enhancing their T&amp;L capabilities.
 
