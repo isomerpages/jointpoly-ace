@@ -61,7 +61,7 @@ sections:
         Mentor Move-In Programme</strong>.
       button: Find out more
       url: /tlmp/
-      image: /images/70290420_mlsuccess.jpg
+      image: /images/24MarLatency TLMP/70290420_mlsuccess_NEW.jpg
       alt: TLMP
   - infopic:
       title: CLMP
