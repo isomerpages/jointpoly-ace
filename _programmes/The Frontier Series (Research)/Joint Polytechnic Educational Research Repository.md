@@ -7,10 +7,10 @@ third_nav_title: The Frontier Series (Research)
 ---
 <h1>Joint Polytechnic Educational Research Repository</h1>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/frontierRepository.png">
+<img style="width: 100%" height="auto" width="100%" alt="Joint Polytechnic Educational Research Repository banner with iridescent fluid shapes." src="/images/24MarLatency JPRepository/frontierRepository_NEW.png">
 </div>
+<p></p>
 <h3><strong>About the Repository</strong></h3>
 <p>The Joint Polytechnic Educational Research Repository is a collaborative
 initiative among all five polytechnics. It consolidates and showcases the
@@ -65,7 +65,7 @@ conferences or published in international journals.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frontier Series/AdobeStock_429286112.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Illustration of people managing digital files and folders on a computer screen and binders." src="/images/24MarLatency JPRepository/AdobeStock_429286112_New.jpg">
 </div>
 <h4><strong>How to contribute?</strong></h4>
 <p>For polytechnic educators who are interested to contribute to the repository,
