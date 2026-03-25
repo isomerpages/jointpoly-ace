@@ -28,9 +28,9 @@ TLMP is conducted in blended mode. Programme includes online learning, face-to-f
 
 ![Workshop group posing with a "Professional Identity" poster featuring a tree diagram.](/images/24MarLatency%20TLMP/Day_2_Group_5_Photo_1_NEW.png)
 
-![](/images/TLMP%20Intake%202%20Update/IMG_9787_1_11zon.png)
+![A group of workshop participants gathered around a whiteboard, listening to a presentation.](/images/24MarLatency%20TLMP/IMG_9787_1_11zon_NEW.png)
 
-![](/images/TLMP%20Intake%202%20Update/IMG_4279_1_11zon.png)
+![Participants at a poster presentation session engaging in discussions in a carpeted hall.](/images/24MarLatency%20TLMP/IMG_4279_1_11zon_NEW.png)
 
 #### When is the programme conducted?
 
