@@ -61,7 +61,7 @@ partners to design authentic learning experiences, integrate real‑world
 practices, and develop future‑ready T&amp;L solutions.</p>
 </li>
 </ol>
-<p>Programme:</p>
+<h4>Programme:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 1" src="/images/Frontier Series 2026/7.jpg">
@@ -74,6 +74,54 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 3" src="/images/Frontier Series 2026/9.jpg">
 </div>
+<h4><strong><u>20 July 2026 - No Teacher Left Behind</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Programme synopsis for No Teacher Left Behind - Read more on registration page." src="/images/Frontier Series 2026/2026_Frontier_Series_EdTech__1_.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 20 July 2026</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Keynote Speaker: <strong>Lim Cheng Pier (Samsung Asia)</strong>
+</p>
+</li>
+</ul>
+<p></p>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<h4><strong><u>21 July 2026 - AI-Powered Personalised Learning in Engineering Education</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of AI-Powered Personalised Learning in Engineering Education. Register via link below." src="/images/Frontier Series 2026/11.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 21 July 2026</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Keynote Speaker: <strong>Fong Fook Meng (TP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
