@@ -220,7 +220,30 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>23 July 2026 - From Insight to Impact: Data-Driven Learning Interventions in Action</u></strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/16.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 23 July 2026, Thursday</p>
+</li>
+<li>
+<p>Time: 1pm - 2pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speaker: <strong>Richard Ching (NYP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
