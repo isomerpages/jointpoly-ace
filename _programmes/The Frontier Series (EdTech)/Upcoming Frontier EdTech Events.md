@@ -292,6 +292,35 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>24 July 2026 - Mastering Hybrid AI Workflows for Modern Education</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/19.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 24 July 2026, Friday</p>
+</li>
+<li>
+<p>Time: 2pm - 4pm</p>
+</li>
+<li>
+<p>Mode: F2F Workshop</p>
+</li>
+<li>
+<p>Venue: <strong>Blk 31-02-01, CLTE, Ngee Ann Polytechnic</strong>
+</p>
+</li>
+<li>
+<p>Speakers: <strong>Yoong Hor Meng (NP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Workshop:</p>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
@@ -302,10 +331,5 @@ records for short courses under JP-AcE, you can refer to this Workday guide:
 <h4>Have a question related to The Frontier Series for Educators?</h4>
 <p>Please contact Programme Leads: <a href="mailto:patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a> and <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chris Pang</a>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
