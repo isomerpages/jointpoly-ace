@@ -122,6 +122,31 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<p></p>
+<h4><strong><u>21 July 2026 - Generative Agents for Pre-Assessment Question Evaluation</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of Generative Agents for Pre-Assessment Question Evaluation. Register via link below." src="/images/Frontier Series 2026/12.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 21 July 2026, Tuesday</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Keynote Speaker: <strong>A/P Lo Siaw Ling (SMU)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
