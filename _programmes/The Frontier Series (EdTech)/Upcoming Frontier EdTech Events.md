@@ -116,7 +116,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Mode: Webinar</p>
 </li>
 <li>
-<p>Keynote Speaker: <strong>Fong Fook Meng (TP)</strong>
+<p>Speaker: <strong>Fong Fook Meng (TP)</strong>
 </p>
 </li>
 </ul>
