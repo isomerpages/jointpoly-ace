@@ -467,7 +467,32 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>31 July 2026 - Smarter Learning Design in POLITEMall (Brightspace LMS) Masterclass</u></strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of Workshop. More details in registration link." src="/images/Frontier Series 2026/26.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 31 July 2026, Friday</p>
+</li>
+<li>
+<p>Time: 2pm - 5pm</p>
+</li>
+<li>
+<p>Mode: F2F Workshop</p>
+</li>
+<li>
+<p>Venue: TBA</p>
+</li>
+<li>
+<p>Speakers: <strong> Preeti Varadarajan (D2L)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Workshop:</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
