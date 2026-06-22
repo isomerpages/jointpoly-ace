@@ -427,7 +427,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 31 July 2026, Monday</p>
+<p>Date: 31 July 2026, Friday</p>
 </li>
 <li>
 <p>Time: 12pm - 1pm</p>
@@ -441,6 +441,31 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </li>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<p></p>
+<h4><strong><u>31 July 2026 - Artificial Intelligence and Vibe Coding Power PET_CET Content from Design to Delivery</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/25.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 31 July 2026, Friday</p>
+</li>
+<li>
+<p>Time: 1pm - 2pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speakers: <strong>Joe Yang (SP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
