@@ -244,6 +244,31 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>24 July 2026 - Scaffolding Learning with AI for In-Company Projects</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/17.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 24 July 2026, Friday</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speakers: <strong>Shalyn Tan, Faiz Mustaqim and Azroy Saiyadi (ITE)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
@@ -255,6 +280,7 @@ records for short courses under JP-AcE, you can refer to this Workday guide:
 <h4>Have a question related to The Frontier Series for Educators?</h4>
 <p>Please contact Programme Leads: <a href="mailto:patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a> and <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener nofollow" target="_blank">Mr Chris Pang</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
