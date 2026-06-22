@@ -196,6 +196,31 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
 <p></p>
+<h4><strong><u>23 July 2026 - AI-Integrated Teaching: Using AI as a Project Coach for Process-Driven Learning</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/15.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 23 July 2026, Thursday</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speaker: <strong>Soo-Ng Geok Ling (SP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
