@@ -488,7 +488,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Venue: TBA</p>
 </li>
 <li>
-<p>Speakers: <strong> Preeti Varadarajan (D2L)</strong>
+<p>Speakers: <strong>Preeti Varadarajan (D2L)</strong>
 </p>
 </li>
 </ul>
