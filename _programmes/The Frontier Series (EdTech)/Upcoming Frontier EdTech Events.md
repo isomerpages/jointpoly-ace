@@ -147,7 +147,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
-<h4><strong><u>21 July 2026 - Generative Agents for Pre-Assessment Question Evaluation</u></strong></h4>
+<h4><strong><u>22 July 2026 - Building a Smart Simulation Environment: AI-Powered Virtual Patients in Healthcare Education</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/13.jpg">
@@ -165,12 +165,38 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Mode: Webinar</p>
 </li>
 <li>
-<p>Speaker: <strong>A/P Lo Siaw Ling (SMU)</strong>
+<p>Speaker: <strong>Huang Fang (NYP)</strong>
 </p>
 </li>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>22 July 2026 - Humanising Science and Technology Learning with Literary Fiction and Films</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/14.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 22 July 2026, Wednesday</p>
+</li>
+<li>
+<p>Time: 1pm - 2pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speaker: <strong>Dr Chew Joon Lin (NP)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<p></p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
