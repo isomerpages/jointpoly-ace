@@ -11,16 +11,18 @@ variant: markdown
 
 #### What is the programme about?
 
-The Course Leadership Move-In Programme (CLMP) advances polytechnic participants' T&amp;L knowledge and skills in course leadership so that they can effectively navigate the challenges and opportunities of course management.
+The Course Leadership Move-In Programme (CLMP) is a comprehensive programme that advances the T&amp;L (Teaching and Learning) knowledge and skills for course leaders, focussing on 3 key aspects of course management:
 
-The programme provides participants with varied, authentic and practice-oriented learning experiences that offer unique insights in course management through a multi-campus and multi-faceted approach.
+* Leading Educational Change
+* Leading Course Quality
+* Managing Course Stakeholders
 
-The 3 key aspects of CLMP are:
-* Leading educational change
-* Leading course quality
-* Managing course stakeholders
+![image of the 3 key aspects of course management.](/images/Picture1.png)
+&gt;
 
-![](/images/microsoftteams-image%20(6).png)
+Delivered through interactive workshops, learning journeys, panel discussions, and a hands-on change challenge, the practice-oriented programme is designed to build both capability and confidence in navigating the challenges and opportunities in an evolving educational landscape.
+
+CLMP strongly emphasises cross-poly learning, networking with colleagues from other polytechnics, and forming a supportive community of course leaders who can continue learning from one another beyond the programme. Participants will also gain an opportunity to appreciate innovations by other polytechnics through learning journeys, broadening their perspectives on what effective teaching and curriculum design can look like. In addition, the programme provides a platform for sharing common challenges and discussing them deeply to uncover root causes, exchange diverse viewpoints, and co-create practical solutions that can be applied back in their respective polytechnics.
 
 #### How is the programme conducted?
 
