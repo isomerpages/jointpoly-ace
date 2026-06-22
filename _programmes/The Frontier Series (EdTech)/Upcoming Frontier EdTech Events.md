@@ -418,6 +418,30 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </li>
 </ul>
 <p>Registration for Workshop:</p>
+<h4><strong><u>31 July 2026 - Impactful Personalised Learning. It's about Time.</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/24.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 31 July 2026, Monday</p>
+</li>
+<li>
+<p>Time: 12pm - 1pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speakers: <strong>Dr Tirath Ramdas (Chamomile AI)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
