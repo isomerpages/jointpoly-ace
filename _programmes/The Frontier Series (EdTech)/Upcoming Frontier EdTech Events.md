@@ -328,7 +328,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 27 July 2026, Friday</p>
+<p>Date: 27 July 2026, Monday</p>
 </li>
 <li>
 <p>Time: 1pm - 2pm</p>
@@ -343,6 +343,31 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>28 July 2026 - Enhancing Feedback Practices with AI</u></strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of webinar. See more details in link below." src="/images/Frontier Series 2026/20.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 28 July 2026, Tuesday</p>
+</li>
+<li>
+<p>Time: 1pm - 2pm</p>
+</li>
+<li>
+<p>Mode: Webinar</p>
+</li>
+<li>
+<p>Speakers: <strong>Moses Lim and Preeti Varadarajan (D2L)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9</a>
+</p>
+<p></p>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
