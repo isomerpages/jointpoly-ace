@@ -29,7 +29,17 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4></h4>
+<p>The Frontier Series – Techno-gogy: Co‑innovating the Future of Teaching
+and Learning, 20-31 July 26 - is a 2‑week hybrid learning festival with
+webinars and workshops brought to you by the Joint Polytechnic Academy
+for Educators (JP-AcE), the five Polytechnics and the Institute of Technical
+Education for educators across POLITE (polytechnics and ITEs). Over the
+two weeks, the Frontier Series will spotlight the practical and pedagogical
+use of AI, learning analytics and emerging edtech tools. It will also showcase
+innovative teaching practices, and foster co‑innovation with industry partners
+to better prepare educators and learners for the future of teaching and
+learning as well as work. The Frontier Series has three key focus areas.</p>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
