@@ -82,7 +82,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 20 July 2026</p>
+<p>Date: 20 July 2026, Monday</p>
 </li>
 <li>
 <p>Time: 12pm - 1pm</p>
@@ -107,7 +107,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Date: 21 July 2026</p>
+<p>Date: 21 July 2026, Tuesday</p>
 </li>
 <li>
 <p>Time: 12pm - 1pm</p>
