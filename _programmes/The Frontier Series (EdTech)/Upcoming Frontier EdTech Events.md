@@ -29,6 +29,7 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
+<h3><strong>The Frontier Series 2026</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="banner page for frontier series 2026" src="/images/Frontier Series 2026/2026_Frontier_Series_EdTech.jpg">
 </div>
@@ -318,7 +319,8 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 </li>
 </ul>
-<p>Registration for Workshop:</p>
+<p>Registration for Workshop: <a href="https://forms.office.com/r/rU6nVskkqi" rel="noopener noreferrer nofollow" target="_blank">Registration for&nbsp;24 Jul 26 - Mastering Hybrid AI Workflows for Modern Education Workshop – Fill in form</a>
+</p>
 <h4><strong><u>27 July 2026 - Enhancing Feedback Practices with AI</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -417,7 +419,8 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </p>
 </li>
 </ul>
-<p>Registration for Workshop:</p>
+<p>Registration for Workshop: <a href="https://forms.office.com/r/xGuGLxNJ6V" rel="noopener noreferrer nofollow" target="_blank">Registration for&nbsp;29 Jul 26 - NotebookLM in Practice-A Health Sciences Educators' Approach – Fill in form</a>
+</p>
 <h4><strong><u>31 July 2026 - Impactful Personalised Learning. It's about Time.</u></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -467,7 +470,33 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 </ul>
 <p>Registration for Webinar: <a href="https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener noreferrer nofollow" target="_blank">https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9</a>
 </p>
+<h4><strong><u>31 July 2026 - Smarter Learning Design in POLITEMall (Brightspace LMS) Masterclass</u></strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Synopsis of Workshop. More details in registration link." src="/images/Frontier Series 2026/26.jpg">
+</div>
+<p><u>Details:</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 31 July 2026, Friday</p>
+</li>
+<li>
+<p>Time: 2pm - 5pm</p>
+</li>
+<li>
+<p>Mode: F2F Workshop</p>
+</li>
+<li>
+<p>Venue: ITE HQ (Blk A, Level 4, Room 4.1 (iConnect))</p>
+</li>
+<li>
+<p>Speakers: <strong>Preeti Varadarajan (D2L)</strong>
+</p>
+</li>
+</ul>
+<p>Registration for Workshop: <a href="https://forms.office.com/r/Bd3MZn3PhT" rel="noopener noreferrer nofollow" target="_blank">Registration for&nbsp;31 Jul 26 - Smarter Learning Design in POLITEMall (Brightspace LMS) – Fill in form</a>
+</p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
