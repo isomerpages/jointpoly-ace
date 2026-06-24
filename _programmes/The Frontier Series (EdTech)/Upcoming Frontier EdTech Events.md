@@ -62,11 +62,9 @@ partners to design authentic learning experiences, integrate real‑world
 practices, and develop future‑ready T&amp;L solutions.</p>
 </li>
 </ol>
-<p><a href="https://jpace.polytechnic.edu.sg/test/" rel="noopener nofollow" target="_blank">Test Page</a>
-</p>
+<p></p>
 <h4>Programme:</h4>
-<p><a href="https://frontierseries2026.my.canva.site/" rel="noopener nofollow" target="_blank">Microsite</a>
-</p>
+<h3><strong><a href="https://frontierseries2026.my.canva.site/" rel="noopener nofollow" target="_blank">Click here to learn more and register</a></strong></h3>
 <p></p><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44#9"><img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 1" src="/images/Frontier Series 2026/7.jpg"></a>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -76,6 +74,404 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 3" src="/images/Frontier Series 2026/9.jpg">
 </div>
+<p></p>
+<h4><strong>Quick Registration Links</strong></h4>
+<table style="minWidth: 150px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mode</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Organisation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Registration Link</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20 July, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keynote Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No Teacher Left Behind</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Samsung Asia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 July, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI-Powered Personalised Learning in Engineering Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21 July, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keynote Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Generative Agents for Pre-Assessment Question Evaluation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 July, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Building a Smart Simulation Environment: AI-Powered Virtual Patients in
+Healthcare Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 July, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Humanising Science and Technology Learning with Literary Fiction and Films</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 July, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI-Integrated Teaching: Using AI as a Project Coach for Process-Driven
+Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 July, Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>From Insight to Impact: Data-Driven Learning Interventions in Action</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NYP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Scaffolding Learning with AI for In-Company Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ITE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AI as Co-Facilitator of Reflection and Practice</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-4pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F2F Workshop</p>
+<p>@ NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mastering Hybrid AI Workflows for Modern Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.office.com/r/rU6nVskkqi" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 July, Mon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enhancing Feedback Practices with AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 July, Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Designing Purposeful Learning with AI: Practical Strategies with D2L Lumi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D2L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 July, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Enhancing Echocardiography Training through Online Simulation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/1119ae63-242e-4b0c-b0a8-731e610272dd@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 July, Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3-5pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F2F Workshop @ NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NotebookLM in Practice: A Health Sciences Educator's Approach to Accessible,
+Multimedia-Rich Content</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.office.com/r/xGuGLxNJ6V" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12-1pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Impactful Personalised Learning. It's about time.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chamomile AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1-2pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Webinar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Artificial Intelligence and Vibe Coding Power PET_CET Content from Design
+to Delivery</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 July, Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2-5 pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>F2F Workshop @ ITE HQ</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Smarter Learning Design in POLITEMall (Brightspace LMS) Masterclass</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D2L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://forms.office.com/r/Bd3MZn3PhT" rel="noopener nofollow" target="_blank">Register Here</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong><u>20 July 2026 - No Teacher Left Behind</u></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme synopsis for No Teacher Left Behind - Read more on registration page." src="/images/Frontier Series 2026/2026_Frontier_Series_EdTech__1_.jpg">
