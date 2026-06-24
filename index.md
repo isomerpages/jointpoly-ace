@@ -18,7 +18,7 @@ sections:
   - hero:
       title: Joint Polytechnic Academy for Educators JP-AcE
       background: /images/background black.jpg
-      button: Don’t Miss the New Frontier Series Workshop! Click Here!
+      button: Click here to Register for The Frontier Series 2026!
       url: https://jpace.polytechnic.edu.sg/upcomingfsedtechevents/
       key_highlights:
         - title: About Us
