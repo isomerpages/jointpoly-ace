@@ -62,6 +62,8 @@ partners to design authentic learning experiences, integrate real‑world
 practices, and develop future‑ready T&amp;L solutions.</p>
 </li>
 </ol>
+<p><a href="https://jpace.polytechnic.edu.sg/test/" rel="noopener nofollow" target="_blank">Test Page</a>
+</p>
 <h4>Programme:</h4>
 <p></p>
 <div class="isomer-image-wrapper">
