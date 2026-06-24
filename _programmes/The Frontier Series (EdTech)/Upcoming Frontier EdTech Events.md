@@ -65,7 +65,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p></p>
 <p></p>
 <h4>Programme:</h4>
-<h3><strong><a href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44" rel="noopener nofollow" target="_blank">View Frontier Series 2026 Course Synopses &amp; Register Now!</a></strong></h3>
+<h3><strong><a href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44" rel="noopener nofollow" target="_blank">Discover Synopses, Speaker Profiles &amp; Register Now!</a></strong></h3>
 <p></p>
 <h3></h3>
 <p></p>
@@ -288,7 +288,7 @@ Learning</p>
 <p>RP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
+<p><a href="https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
 </p>
 </td>
 </tr>
