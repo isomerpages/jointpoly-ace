@@ -67,8 +67,15 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <h4>Programme:</h4>
 <h3><strong><a href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44" rel="noopener nofollow" target="_blank">Discover Synopses, Speaker Profiles &amp; Register Now!</a></strong></h3>
 <p></p>
-<h3></h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/12.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/13.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/14.png">
+</div>
 <p></p>
 <h4><strong>Quick Registration Links</strong></h4>
 <table style="minWidth: 150px">
