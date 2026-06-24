@@ -65,10 +65,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p><a href="https://jpace.polytechnic.edu.sg/test/" rel="noopener nofollow" target="_blank">Test Page</a>
 </p>
 <h4>Programme:</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 1" src="/images/Frontier Series 2026/7.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44#9"><img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 1" src="/images/Frontier Series 2026/7.jpg"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Programme for Frontier Series 2" src="/images/Frontier Series 2026/8.jpg">
