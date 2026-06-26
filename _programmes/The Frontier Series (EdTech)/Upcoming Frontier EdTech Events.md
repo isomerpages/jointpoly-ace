@@ -66,17 +66,17 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p></p>
 <h4>Programme Schedule and Registration:</h4>
 <h3><strong><a href="https://www.canva.com/design/DAHKjonTTnI/BxQ4RoFFY8Odhyed7V_CWQ/view?utm_content=DAHKjonTTnI&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h5f359f5a44" rel="noopener nofollow" target="_blank">Click Here to Discover Synopses, Speaker Profiles &amp; Register Now!</a></strong></h3>
-<p></p>
+<h4>Presented by Industry/University Speakers:</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/12.png">
+<img style="width: 100%" height="auto" width="100%" alt="programme schedule image, click above for more info." src="/images/Frontier Series 2026/12_programme.jpg">
+</div>
+<h4>Presented by Polytechnic Speakers:</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="programme schedule image, click above for more info." src="/images/Frontier Series 2026/13_programme.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/13.png">
+<img style="width: 100%" height="auto" width="100%" alt="programme schedule image, click above for more info." src="/images/Frontier Series 2026/14_programme.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="programme page. click link above to access course synopses and registration." src="/images/Frontier Series 2026/14.png">
-</div>
-<p></p>
 <h4><strong>Quick Registration Links</strong></h4>
 <table style="minWidth: 150px">
 <colgroup>
@@ -102,7 +102,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Title</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Organisation</p>
+<p>Org</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Registration Link</p>
@@ -122,7 +122,8 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>No Teacher Left Behind</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Samsung Asia</p>
+<p><strong>Samsung Asia</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
@@ -164,7 +165,8 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <p>Generative Agents for Pre-Assessment Question Evaluation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SMU</p>
+<p><strong>SMU</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
@@ -356,7 +358,8 @@ Learning</p>
 <p>Designing Purposeful Learning with AI: Practical Strategies with D2L Lumi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D2L</p>
+<p><strong>D2L</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
@@ -420,7 +423,8 @@ Multimedia-Rich Content</p>
 <p>Impactful Personalised Learning. It's about time.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chamomile AI</p>
+<p><strong>Chamomile AI</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
@@ -464,7 +468,8 @@ to Delivery</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>D2L</p>
+<p><strong>D2L</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://forms.office.com/r/Bd3MZn3PhT" rel="noopener nofollow" target="_blank">Register Here</a>
