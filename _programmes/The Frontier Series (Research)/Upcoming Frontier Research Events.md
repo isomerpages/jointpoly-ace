@@ -31,7 +31,38 @@ and innovative ways of teaching and learning.</p>
 </ul>
 <p></p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<p>Watch this space for more upcoming professional development events.</p>
+<h4><strong>Webinar: Developing a Global Mindset in TP Students (MOE TRF)</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Image of man watering a mind with a bulb" src="/images/Frontier Series/Developing_a_Global_mindset_in_TP_students.png">
+</div>
+<p>Through this study, Temasek Polytechnic examined the impact of a semester-long
+Global Studies (GS) module, offered to all full-time students, to foster
+global awareness and cross-cultural competence. The module provides two
+experiential learning options: Global Studies Overseas Study Trip (GSOST)
+and Glocal Experiences (GLX). Using a quasi-experimental pretest-posttest
+design with over 2,000 participants, the study assessed changes in students’
+Global Mindset, focusing on its three dimensions (intellectual, social,
+and psychological capitals) as well as related Skills and Attributes. The
+research found that the GS module effectively enhances students’ global
+competence, particularly cognitive and social dimensions, supporting curriculum
+design and institutional strategies for experiential learning.</p>
+<p><strong>Speakers</strong>: Cedric Depardon and Lee Hoon Ting (Temasek
+Polytechnic)</p>
+<p><strong>Moderator</strong>: Rachna Johri (Temasek Polytechnic)</p>
+<p>Details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Date: 24 Aug 2026</p>
+</li>
+<li>
+<p>Time: 12PM - 1PM</p>
+</li>
+<li>
+<p>Mode: Online</p>
+</li>
+</ul>
+<p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
