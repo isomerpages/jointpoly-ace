@@ -83,7 +83,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 	
 | Date | Time | Mode | Title | Org | Link |
 | -------- | -------- | ------- | ------- | ------- | ------- |
-| 20 July, Mon | 12-1pm | Webinar |No Teacher Left Behind|Samsung Asia|[Register Here](https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 20 July, Mon | 12 - 1pm| Webinar |No Teacher Left Behind|Samsung Asia|[Register Here](https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 21 July, Tue | 12-1pm | Webinar |AI-Powered Personalised Learning in Engineering Education|TP|[Register Here](https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 21 July, Tue | 1-2pm | Webinar |Generative Agents for Pre-Assessment Question Evaluation|SMU|[Register Here](https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 22 July, Wed | 12-1pm | Webinar |Building a Smart Simulation Environment: AI-Powered Virtual Patients in Healthcare Education|NYP|[Register Here](https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9)|
@@ -91,7 +91,7 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 | 23 July, Thu | 12-1pm | Webinar |AI-Integrated Teaching: Using AI as a Project Coach for Process-Driven Learning|SP|[Register Here](https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 23 July, Thu | 1-2pm | Webinar |From Insight to Impact: Data-Driven Learning Interventions in Action|NYP|[Register Here](https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 24 July, Fri | 12-1pm | Webinar |Scaffolding Learning with AI for In-Company Projects|ITE|[Register Here](https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 24 July, Fri | 1-2pm | Webinar |AI as Co-Facilitator of Reflection and Practice|ITE|[Register Here](https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 24 July, Fri | 1-2pm | Webinar |AI as Co-Facilitator of Reflection and Practice|RP|[Register Here](https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 24 July, Fri | 2-4pm | Workshop@ NP |Mastering Hybrid AI Workflows for Modern Education|NP|[Register Here](https://forms.office.com/r/rU6nVskkqi)|
 | 27 July, Mon | 1-2pm | Webinar |Enhancing Feedback Practices with AI|RP|[Register Here](https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9)|
 | 28 July, Tue | 1-2pm | Webinar |Designing Purposeful Learning with AI: Practical Strategies with D2L Lumi|D2L|[Register Here](https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9)|
