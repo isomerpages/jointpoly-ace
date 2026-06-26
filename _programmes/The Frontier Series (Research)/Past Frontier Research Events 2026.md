@@ -5,3 +5,4 @@ variant: tiptap
 description: Past Frontier Series Research Events 2026
 third_nav_title: The Frontier Series (Research)
 ---
+<p></p>
