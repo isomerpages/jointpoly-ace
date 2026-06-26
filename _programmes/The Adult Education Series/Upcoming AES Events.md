@@ -40,52 +40,7 @@ to advance T&amp;L capabilities, expand skill sets necessary for adult
 education, and empower reflective practices. Check out upcoming learning
 opportunities below.</p>
 <h3><strong>Upcoming Professional Development Events</strong></h3>
-<h4><strong>1. Workshop: How to Facilitate Transformative Learning: Moving from Delivering Content to Deep Learning (Community of Practice)</strong></h4>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Banner for &quot;Facilitate Transformative Learning&quot; session on 20 May 2026, 2pm to 5pm." src="/images/24Mar26Latency UpAES/Facilitate_Transformative_Learning_NEW.png">
-</div>
-<p>This Community of Practice (CoP) session covers Mediated Learning Experience
-(MLE) as a method for facilitating adult learning that focuses on the learning
-process, thinking skills and the learning experience to train metacognition
-and higher-order thinking.</p>
-<p><strong>Learning Outcomes:</strong>
-</p>
-<p>By the end of this workshop, participants would be able to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Recognise how learning experiences can be transformational</p>
-</li>
-<li>
-<p>Explore how&nbsp;learning can be mediated to focus on the process</p>
-</li>
-<li>
-<p>Develop&nbsp;lifelong cognitive skills and learning potential in your
-CET students</p>
-</li>
-</ol>
-<p>
-<br>Facilitators:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>David Chin (Lead Specialist, Inclusive Pedagogy from Republic Polytechnic)</p>
-</li>
-</ul>
-<p>Details:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Date: 16 Mar 2026</p>
-</li>
-<li>
-<p>Time: 10AM - 12PM</p>
-</li>
-<li>
-<p>Venue: Republic Polytechnic, Block E1, Level 4, Room E14K</p>
-</li>
-</ul>
-<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSdM-mTNYIheRigE7irhD89qc0hQBH7O04RMbbLxlkJQsDqoPg/viewform?usp=dialog" rel="noopener nofollow" target="_blank">Register for the event now!</a></h3>
-<p></p>
+<h4></h4>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
 records for short courses under JP-AcE, you can refer to this Workday guide:
