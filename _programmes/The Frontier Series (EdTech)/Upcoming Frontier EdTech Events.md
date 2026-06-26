@@ -81,95 +81,27 @@ practices, and develop future‑ready T&amp;L solutions.</p>
 <h4><strong>Quick Registration Links</strong></h4>
 
 	
-| Date | Time | Mode | Title | Org | Registration Link |
+| Date | Time | Mode | Title | Org | Link |
 | -------- | -------- | ------- | ------- | ------- | ------- |
-| 20 July, Mon | 12-1pm | Webinar |No Teacher Left Behind|Samsung Asia|[Register Link](https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 21 July, Tue | 12-1pm | Webinar |AI-Powered Personalised Learning in Engineering Education|TP|[Register Link](https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 21 July, Tue | 1-2pm | Webinar |Generative Agents for Pre-Assessment Question Evaluation|SMU|[Register Link](https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 22 July, Wed | 12-1pm | Webinar |Building a Smart Simulation Environment: AI-Powered Virtual Patients in Healthcare Education|NYP|[Register Link](https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 22 July, Wed | 1-2pm | Webinar |Humanising Science and Technology Learning with Literary Fiction and Films|NYP|[Register Link](https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 23 July, Thu | 12-1pm | Webinar |AI-Integrated Teaching: Using AI as a Project Coach for Process-Driven Learning|SP|[Register Link](https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 23 July, Thu | 1-2pm | Webinar |From Insight to Impact: Data-Driven Learning Interventions in Action|NYP|[Register Link](https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 24 July, Fri | 12-1pm | Webinar |Scaffolding Learning with AI for In-Company Projects|ITE|[Register Link](https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 24 July, Fri | 1-2pm | Webinar |AI as Co-Facilitator of Reflection and Practice|ITE|[Register Link](https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 24 July, Fri | 2-4pm | Workshop@ NP |Mastering Hybrid AI Workflows for Modern Education|NP|[Register Link](https://forms.office.com/r/rU6nVskkqi)|
-| 27 July, Mon | 1-2pm | Webinar |Enhancing Feedback Practices with AI|RP|[Register Link](https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9)|
-| 28 July, Tue | 1-2pm | Webinar |Designing Purposeful Learning with AI: Practical Strategies with D2L Lumi|D2L|[Register Link](https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9)|
-|29 July, Wed| 1-2pm | Webinar |Enhancing Echocardiography Training through Online Simulation|TP|[Register Link](https://events.teams.microsoft.com/event/1119ae63-242e-4b0c-b0a8-731e610272dd@7604ff02-abd8-45db-8cac-550054323fc9)|
-|29 July, Wed| 3-5pm | Workshop@NP |NotebookLM in Practice: A Health Sciences Educator's Approach to Accessible,Multimedia-Rich Content|NP|[Register Link](https://forms.office.com/r/xGuGLxNJ6V)|
+| 20 July, Mon | 12-1pm | Webinar |No Teacher Left Behind|Samsung Asia|[Register Here](https://events.teams.microsoft.com/event/e1e00fa2-5381-4b5c-9747-bc29bcfc2765@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 21 July, Tue | 12-1pm | Webinar |AI-Powered Personalised Learning in Engineering Education|TP|[Register Here](https://events.teams.microsoft.com/event/4fd27024-729f-4517-aa58-7f63e57764b8@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 21 July, Tue | 1-2pm | Webinar |Generative Agents for Pre-Assessment Question Evaluation|SMU|[Register Here](https://events.teams.microsoft.com/event/84ef5d2b-688d-4903-ba55-ebf9b87b4834@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 22 July, Wed | 12-1pm | Webinar |Building a Smart Simulation Environment: AI-Powered Virtual Patients in Healthcare Education|NYP|[Register Here](https://events.teams.microsoft.com/event/4dd9cc8b-3815-4b90-9a9c-c4fb41565ca8@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 22 July, Wed | 1-2pm | Webinar |Humanising Science and Technology Learning with Literary Fiction and Films|NYP|[Register Here](https://events.teams.microsoft.com/event/57829513-fe9e-4450-a7ea-9249c106c5cb@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 23 July, Thu | 12-1pm | Webinar |AI-Integrated Teaching: Using AI as a Project Coach for Process-Driven Learning|SP|[Register Here](https://events.teams.microsoft.com/event/bf17547a-e457-4ce0-bd94-cf7d5a18e79a@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 23 July, Thu | 1-2pm | Webinar |From Insight to Impact: Data-Driven Learning Interventions in Action|NYP|[Register Here](https://events.teams.microsoft.com/event/e6416326-267a-4c6e-b7bf-fea89abd8d33@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 24 July, Fri | 12-1pm | Webinar |Scaffolding Learning with AI for In-Company Projects|ITE|[Register Here](https://events.teams.microsoft.com/event/f414698d-1523-4191-b127-50425edef595@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 24 July, Fri | 1-2pm | Webinar |AI as Co-Facilitator of Reflection and Practice|ITE|[Register Here](https://events.teams.microsoft.com/event/c8c7d324-cf9c-481c-9f84-ca4765d9f737@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 24 July, Fri | 2-4pm | Workshop@ NP |Mastering Hybrid AI Workflows for Modern Education|NP|[Register Here](https://forms.office.com/r/rU6nVskkqi)|
+| 27 July, Mon | 1-2pm | Webinar |Enhancing Feedback Practices with AI|RP|[Register Here](https://events.teams.microsoft.com/event/7a45937d-bd7d-4608-9127-bc7e9470953a@7604ff02-abd8-45db-8cac-550054323fc9)|
+| 28 July, Tue | 1-2pm | Webinar |Designing Purposeful Learning with AI: Practical Strategies with D2L Lumi|D2L|[Register Here](https://events.teams.microsoft.com/event/c672e5bd-b554-4bdb-9c40-26f9bc3cd17e@7604ff02-abd8-45db-8cac-550054323fc9)|
+|29 July, Wed| 1-2pm | Webinar |Enhancing Echocardiography Training through Online Simulation|TP|[Register Here](https://events.teams.microsoft.com/event/1119ae63-242e-4b0c-b0a8-731e610272dd@7604ff02-abd8-45db-8cac-550054323fc9)|
+|29 July, Wed| 3-5pm | Workshop@NP |NotebookLM in Practice: A Health Sciences Educator's Approach to Accessible,Multimedia-Rich Content|NP|[Register Here](https://forms.office.com/r/xGuGLxNJ6V)|
+|31 July, Fri| 12-1pm | Webinar |Impactful Personalised Learning. It's about time.|Chamomile AI|[Register Here](https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9)|
+|31 July, Fri| 1-2pm | Webinar |Artificial Intelligence and Vibe Coding Power PET_CET Content from Design to Delivery|SP|[Register Here](https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9)|
+|31 July, Fri| 2-5 pm | Workshop@ITE HQ |Smarter Learning Design in POLITEMall (Brightspace LMS) Masterclass|D2L|[Register Here](https://forms.office.com/r/Bd3MZn3PhT)|
 
 
-
-
-<table style="minWidth: 150px"><tbody><tr>
-<td rowspan="1" colspan="1">
-<p>31 July, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>12-1pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Webinar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Impactful Personalised Learning. It's about time.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Chamomile AI</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://events.teams.microsoft.com/event/9e81fc4d-c9f8-416b-a2e1-cea765acaa98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 July, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1-2pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Webinar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Artificial Intelligence and Vibe Coding Power PET_CET Content from Design
-to Delivery</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://events.teams.microsoft.com/event/1a1558ca-8468-4b31-a076-a7e397ed2b98@7604ff02-abd8-45db-8cac-550054323fc9" rel="noopener nofollow" target="_blank">Register Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>31 July, Fri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2-5 pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>F2F Workshop @ ITE HQ</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Smarter Learning Design in POLITEMall (Brightspace LMS) Masterclass</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>D2L</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://forms.office.com/r/Bd3MZn3PhT" rel="noopener nofollow" target="_blank">Register Here</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <h4>Update Training Record via Workday</h4>
 <p>For polytechnic educators who are keen to update your Workday training
