@@ -85,6 +85,18 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 <p>25YL-P-JP-CTLAL004</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Apr to 28 September 2026 (Intake 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://lms.polite.edu.sg/d2l/home/903111" rel="noopener nofollow" target="_blank">Link</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26YL-P-JP-CTLAL005</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>*You may only access the link if your Polytechnic has enrolled you in
@@ -213,7 +225,7 @@ to reflect on and improve teaching and learning practices.</p>
 poly-specific staff development trainings beyond CTLAL.</p>
 <p></p>
 <h3>CTLAL Exemption List</h3>
-<p>New Associate/Adjunct Lecturers may refer to the <a href="/files/CTLAL_Exemption_List___For_JPACE_Website.pdf" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
+<p>New Associate/Adjunct Lecturers may refer to the <a href="https://docs.google.com/spreadsheets/d/1tfreCifHPFuMwlXKmff-A2VyF6HEeD7b/edit?gid=812607900#gid=812607900" rel="noopener nofollow" target="_blank">CTLAL Exemption List</a> to
 determine if they qualify for an exemption from this course.</p>
 <h3>Have a question related to CTLAL?</h3>
 <p>Please contact the Programme Lead: <a href="mailto: chris_pang@nyp.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Chris Pang</a>, <a href="mailto: patricia_kong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Patricia Kong</a>,
