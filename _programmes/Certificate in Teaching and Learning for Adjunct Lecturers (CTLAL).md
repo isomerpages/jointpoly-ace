@@ -87,7 +87,7 @@ image: /images/Blue_Gradient_Modern_Blogger_Youtube_Banner1.png
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>28 March to 28 September 2026 (Intake 5)</p>
+<p>6 Apr to 28 September 2026 (Intake 5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://lms.polite.edu.sg/d2l/home/903111" rel="noopener nofollow" target="_blank">Link</a>
