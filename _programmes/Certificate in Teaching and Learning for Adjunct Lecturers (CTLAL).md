@@ -286,4 +286,4 @@ determine if they qualify for an exemption from this course.</p>
 </tr>
 </tbody>
 </table>
-<p>De</p>
+<p></p>
