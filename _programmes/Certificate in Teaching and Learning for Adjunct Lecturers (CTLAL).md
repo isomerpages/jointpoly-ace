@@ -252,7 +252,7 @@ determine if they qualify for an exemption from this course.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:peggy_leong@np.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Peggy Leong, </a>
-<a href="mailto:Lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Ms Lim Gaik Bee</a>
+<a href="mailto:Lim_gaik_bee@np.edu.sg" rel="noopener nofollow" target="_blank">Dr Lim Gaik Bee</a>
 </p>
 </td>
 </tr>
@@ -286,4 +286,4 @@ determine if they qualify for an exemption from this course.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>De</p>
